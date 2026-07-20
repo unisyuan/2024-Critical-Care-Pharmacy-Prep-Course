@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html lang="zh-TW" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Critical Care Pharmacy 測驗題庫 - 互動式專業藥學測驗應用程式">
+  <title>Critical Care Pharmacy 測驗題庫</title>
+  <!-- Google Fonts: Outfit (headings) & Inter (body) -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Outfit:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app-background"></div>
+  
+  <div class="app-container">
+    <!-- Header -->
+    <header class="app-header">
+      <div class="header-main">
+        <h1 class="app-title">Critical Care Pharmacy <span>測驗題庫</span></h1>
+        
+        <!-- Controls: Mode Selector & Theme Toggle -->
+        <div class="header-controls">
+          <select id="chapter-select" class="chapter-select" aria-label="選擇章節">
+            <option value="1">第一章：Practice Standards</option>
+            <option value="2">第二章：Research & Biostatistics</option>
+            <option value="3">第三章：Protocol Development & Quality Improvement</option>
+            <option value="4">第四章：Pharmacoeconomics & Safe Medication Use</option>
+            <option value="5">第五章：Fluids, Electrolytes, Acid-Base Disorders & Nutrition Support</option>
+            <option value="6">第六章：Infectious Diseases I</option>
+            <option value="7">第七章：Infectious Diseases II</option>
+            <option value="8">第八章：Pharmacokinetics & Pharmacodynamics</option>
+            <option value="9">第九章：Acute Kidney Injury and Kidney Replacement Therapy</option>
+            <option value="10">第十章：Neurocritical Care</option>
+            <option value="11">第十一章：Cardiovascular Critical Care I</option>
+            <option value="12">第十二章：Cardiovascular Critical Care II</option>
+            <option value="13">第十三章：Hepatic Failure/GI/Endocrine Emergencies</option>
+            <option value="14">第十四章：Supportive and Preventive Medicine</option>
+            <option value="15">第十五章：Shock Syndromes I</option>
+            <option value="16">第十六章：Shock Syndromes II</option>
+            <option value="17">第十七章：Pain, Agitation/Sedation, Delirium, Immobility, Sleep Disruption, and Neuromuscular Blockade</option>
+            <option value="18">第十八章：Pulmonary Disorders I</option>
+            <option value="19">第十九章：Pulmonary Disorders II</option>
+            <option value="20">第二十章：Toxicology</option>
+          </select>
+          <div class="mode-selector">
+            <button id="btn-practice" class="mode-tab active" data-mode="practice">
+              <span class="icon">📖</span><span class="tab-text">練習模式</span>
+            </button>
+            <button id="btn-exam" class="mode-tab" data-mode="exam">
+              <span class="icon">⏱️</span><span class="tab-text">測驗模式</span>
+            </button>
+            <button id="btn-highlights" class="mode-tab" data-mode="highlights">
+              <span class="icon">📝</span><span class="tab-text">重點整理</span>
+            </button>
+          </div>
+          
+          <button id="theme-toggle" class="theme-toggle-btn" aria-label="切換深淺色主題">
+            <span class="theme-icon light-icon">☀️</span>
+            <span class="theme-icon dark-icon">🌙</span>
+          </button>
+        </div>
+      </div>
+      
+      <!-- Progress Bar (Sticky / Header integrated) -->
+      <div class="progress-container">
+        <div class="progress-meta">
+          <span id="progress-text">問題 1 / 14</span>
+          <span id="progress-percentage">0%</span>
+        </div>
+        <div class="progress-bar-bg">
+          <div id="progress-bar-fill" style="width: 0%"></div>
+        </div>
+      </div>
+    </header>
+
+    <!-- Main Content Area -->
+    <main class="app-main">
+      <!-- Question Card Container -->
+      <div id="quiz-screen" class="screen active">
+        <div id="question-card" class="question-card">
+          <!-- Card Header (Question Metadata) -->
+          <div class="card-header">
+            <span class="question-badge" id="question-badge">Q1</span>
+            <span class="category-badge">Evolution & Validation</span>
+          </div>
+
+          <!-- Question Content -->
+          <h2 id="question-text" class="question-text">載入中...</h2>
+
+          <!-- Options List -->
+          <div id="options-container" class="options-container">
+            <!-- Options dynamically generated here -->
+          </div>
+
+          <!-- Explanation Panel (For Practice Mode or Exam Review) -->
+          <div id="explanation-panel" class="explanation-panel">
+            <div class="explanation-content">
+              <h3 class="explanation-title">
+                <span class="explanation-status-icon"></span>
+                <span class="explanation-status-text">正確答案: A</span>
+              </h3>
+              <p id="explanation-text" class="explanation-text-content">載入中...</p>
+            </div>
+          </div>
+        </div>
+
+        <!-- Navigation Buttons -->
+        <div class="navigation-controls">
+          <button id="btn-prev" class="nav-btn btn-secondary" disabled>
+            <span class="arrow">←</span> 上一題
+          </button>
+          
+          <div class="center-controls">
+            <button id="btn-submit-exam" class="nav-btn btn-accent hidden">
+              提交測驗 <span class="arrow">✓</span>
+            </button>
+          </div>
+
+          <button id="btn-next" class="nav-btn btn-primary">
+            下一題 <span class="arrow">→</span>
+          </button>
+        </div>
+      </div>
+
+      <!-- Score Screen (Results Dashboard) -->
+      <div id="score-screen" class="screen">
+        <div class="score-card">
+          <h2 class="score-title">測驗結果</h2>
+          
+          <div class="score-visual-container">
+            <!-- Radial score ring -->
+            <div class="radial-score">
+              <svg viewBox="0 0 100 100" class="radial-svg">
+                <circle cx="50" cy="50" r="45" class="radial-bg"></circle>
+                <circle cx="50" cy="50" r="45" class="radial-fill" id="score-circle-fill"></circle>
+              </svg>
+              <div class="radial-label">
+                <span class="score-big" id="result-score">0/14</span>
+                <span class="score-sub">答對題數</span>
+              </div>
+            </div>
+          </div>
+
+          <!-- Score Stats Grid -->
+          <div class="stats-grid">
+            <div class="stat-box">
+              <span class="stat-val" id="stat-accuracy">0%</span>
+              <span class="stat-lbl">正確率</span>
+            </div>
+            <div class="stat-box">
+              <span class="stat-val" id="stat-time">0:00</span>
+              <span class="stat-lbl">答題時間</span>
+            </div>
+            <div class="stat-box">
+              <span class="stat-val" id="stat-grade">尚可</span>
+              <span class="stat-lbl">評價</span>
+            </div>
+          </div>
+
+          <!-- Actions -->
+          <div class="score-actions">
+            <button id="btn-restart" class="nav-btn btn-primary">
+              重新測驗
+            </button>
+            <button id="btn-review" class="nav-btn btn-secondary">
+              檢視作答解析
+            </button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Review Screen (Review All mode in Exam) -->
+      <div id="review-screen" class="screen">
+        <div class="review-header">
+          <h2>考卷檢討與解析</h2>
+          <button id="btn-exit-review" class="nav-btn btn-secondary">返回結果</button>
+        </div>
+        <div id="review-list" class="review-list">
+          <!-- All exam questions with user answers & explanations rendered here -->
+        </div>
+      </div>
+
+      <!-- Highlights Screen -->
+      <div id="highlights-screen" class="screen"></div>
+    </main>
+    
+    <!-- Footer -->
+    <footer class="app-footer">
+      <p>ACCP/ASHP 2024 Critical Care Pharmacy Preparatory Review Course</p>
+    </footer>
+  </div>
+
+  <!-- Scripts -->
+  <script src="questions.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
