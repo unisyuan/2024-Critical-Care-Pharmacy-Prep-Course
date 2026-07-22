@@ -1,4 +1,4 @@
-const allChapters = {
+﻿const allChapters = {
   "1": [
     {
       id: 1,
@@ -17,9 +17,9 @@ const allChapters = {
       question: "2001 年，加強監護病房 (ICU) 的 pharmacy practice 範圍由兩個 task forces 概述，重點關注 critical care delivery 模式、intensivist 的 definition，以及在三種不同提議模式下的 critical care medicine 實踐。下列哪一個最能代表成立這兩個 task forces 的專業組織？",
       options: [
         "A. National Academy of Medicine（前身為 Institute of Medicine）",
-        "B. American College of Clinical Pharmacy (ACCP)",
-        "C. American College of Critical Care Medicine (ACCM)",
-        "D. Clinical Pharmacy and Pharmacology Section of the Society of Critical Care Medicine (SCCM)"
+        "B. 美國臨床藥學會 (ACCP)",
+        "C. 美國重症醫學會 (ACCM)",
+        "D. 美國重症醫學會 (SCCM) 臨床藥學與藥理學組"
       ],
       answer: "C",
       explanation: "在 2001 年，存在於 SCCM 組織架構內的 ACCM 成立了這兩個 task forces，專注於 critical care delivery 模式、intensivist 的定義，以及三種不同提議模式下的 critical care medicine 實踐（答案 C）。Neither Institute of Medicine（答案 A）nor ACCP（答案 B）參與制定 critical care delivery 的級別。雖然 SCCM 的 Clinical Pharmacy and Pharmacology Section（答案 D）可能對此文件有所貢獻，但文獻中並未提及。"
@@ -28,10 +28,10 @@ const allChapters = {
       id: 3,
       question: "下列哪一項醫療事件已被證實，與沒有 clinical pharmacists 的 ICU 相比，在有 clinical pharmacists 的 ICU 中與較低的 mortality 相關？",
       options: [
-        "A. Corrected QT (QTc)-interval prolongation",
-        "B. Preventable adverse drug interactions",
-        "C. Drug-drug interactions",
-        "D. Thromboembolic/infarction-related events"
+        "A. 校正後 QT (QTc) 間期延長",
+        "B. 可預防的藥物不良交互作用",
+        "C. 藥物與藥物交互作用",
+        "D. 血栓栓塞/梗塞相關事件"
       ],
       answer: "D",
       explanation: "在 MacClaren 和 Bond 於 2009 年進行的一項研究中，與有 clinical pharmacy services 的 ICU 患者相比，沒有 clinical pharmacy services 的 ICU 患者在 thromboembolic 和 infarction-related events 中的 mortality 增加了 37%, p<0.0001（答案 D）。雖然 clinical pharmacists 在影響 QTc-interval prolongation（答案 A）、preventable adverse drug interactions（答案 B）和 drug-drug interactions（答案 C）方面的影響已進行過評估，但並未證實與 mortality 的差異有關。因此，這些選項是錯誤的。"
@@ -40,10 +40,10 @@ const allChapters = {
       id: 4,
       question: "下列何者最符合照顧 critically ill patients 的 pharmacists 被視為 core knowledge base area 的領域？",
       options: [
-        "A. Nephrology",
-        "B. Dermatology",
-        "C. Rheumatology",
-        "D. Obstetrics"
+        "A. 腎臟學",
+        "B. 皮膚學",
+        "C. 風濕病學",
+        "D. 產科學"
       ],
       answer: "A",
       explanation: "照顧 critically ill patients 的 pharmacists 的 core knowledge areas 包括 pulmonary, cardiology, psychiatry, oncology, neuroscience, nephrology, hepatology, nutrition, gastroenterology, surgery, trauma, burn, pharmacology, transplantation, supportive care, medical emergencies, immunology, endocrinology, hematology, nephrology, toxicology, 和 surgery。因此，nephrology（答案 A）是正確的。Dermatology（答案 B）、rheumatology（答案 C）和 obstetrics（答案 D）不被視為 core knowledge areas，因此是錯誤的。"
@@ -88,10 +88,10 @@ const allChapters = {
       id: 8,
       question: "當考慮 Institute of Medicine（現為 National Academy of Medicine）討論文件中描繪的 team-based health care 五項原則時，effective communication 與其他四項原則中的哪一項關聯最為緊密？",
       options: [
-        "A. Shared goals",
-        "B. Clear roles",
-        "C. Mutual trust",
-        "D. Measurable processes and outcomes"
+        "A. 共同目標",
+        "B. 明確角色",
+        "C. 相互信任",
+        "D. 可衡量的過程與結果"
       ],
       answer: "C",
       explanation: "儘管 team-based health care 的各項原則都是相互依存的，管 effective communication 與 mutual trust 的關聯最為緊密。坦誠直率的溝通以及表達自身信念並挑戰團隊成員想法的意願，都需要高度的 mutual trust 才能維持專業而非個人化的關係與對話。缺乏 mutual trust，溝通可能會變得更加防備、低效且流於政治化。選項 A、B 和 D 雖然也是 team-based healthcare 的相關原則，但與 effective communication 的關聯沒有那麼緊密，因此是錯誤的。"
@@ -136,10 +136,10 @@ const allChapters = {
       id: 12,
       question: "下列何者是最典型的對象，代表傳統上並非 critical care pharmacists 的教育和教學工作的重要焦點？",
       options: [
-        "A. Patients and families",
-        "B. Pharmacy students",
-        "C. Critical care physicians",
-        "D. Critical care nurses"
+        "A. 患者與家屬",
+        "B. 藥學生",
+        "C. 重症醫師",
+        "D. 重症護理師"
       ],
       answer: "A",
       explanation: "在 ICU 執業的 clinical pharmacists 長期以來承擔著廣泛的教育受眾，其目標受眾包括自身專業的 students 和 residents、其他專業的 residents 和 students、以及 critical care team 的夥伴 and 藥學部門的同仁。Clinical pharmacists 使用了許多不同的策略和技術來在不同的學習環境中教育這些多元的受眾。雖然也有例外，但經常或定期將 patients and families 納入其教育活動中是較為近期的發展。許多因素推動了這一變化，包括更加關注 patient- 和 family-centered care、更廣泛地將 patients and families 納入團隊成員、患者和家屬對參與的需求增加、患者滿意度評分與支付績效指標（pay-for-performance metrics）掛鉤（包括疼痛控制 and 藥物理解），以及 ICU 中對患者意識和鎮靜目標（sedation goals）變化的更高關注。預期 ICU 的 clinical pharmacists 將越來越多地直接參與患者 and 家屬的討論與教育。選項 B, C 和 D 都代表了 clinical pharmacist 教育工作的傳統受眾，因此是錯誤的。"
@@ -174,10 +174,10 @@ const allChapters = {
       id: 1,
       question: "一項 clinical trial 正在計劃中，以確定 trauma patients 的最佳 resuscitation fluid。本研究旨在確定在 trauma 現場給予 crystalloid fluid（如 lactated Ringer solution）或涉及 packed red blood cells 的 transfusion 策略是否能提高出院存活率。研究團隊已諮詢了多位倫理學者，以確定試驗設計中需要解決的相關問題。下列哪一個問題與本研究的倫理操守最為相關？",
       options: [
-        "A. Treatment blinding",
-        "B. Uninformative study population",
-        "C. Consent obtained from injured subjects",
-        "D. Design as a noninferiority trial"
+        "A. 治療雙盲",
+        "B. 無代表性的研究群體",
+        "C. 取得受傷受試者的同意書",
+        "D. 設計為非劣效性試驗"
       ],
       answer: "C",
       explanation: "本研究旨在比較 trauma patients 中 hypovolemic shock 的兩種可行治療方法。由於受試者識別將是來自社區的 trauma patients，且治療將在現場啟動，因此每種治療都存在潛在危害，且預期許多潛在患者在進行 informed consent 時會缺乏 decisional capacity。雖然 treatment blinding 是限制研究者和臨床醫生偏見的 trial design 關鍵要素，但它並不是倫理考量（選項 A 錯誤）。審視一般人群中 trauma 的發生率及其對社會的負擔，旨在改善 trauma patients 預後的治療研究是必要且有啟發性的（選項 B 錯誤）。考慮到血製品的有限供應，進行 superiority trial 對於幫助管理有限資源的使用至關重要（選項 D 錯誤）。本研究中 informed consent 的問題具有挑戰性，但為了本研究的倫理操守，必須解決此問題（選項 C 正確）。此類試驗有先例根據 FDA 法規獲得 exception for informed consent。"
@@ -282,10 +282,10 @@ const allChapters = {
       id: 10,
       question: "（病案分析）您是內科 ICU 的一名專科藥師，希望回顧性地研究 four-factor prothrombin complex concentrate (4F-PCC) 對終末期肝病（end-stage liver disease）患者糾正凝血功能障礙（coagulopathy）的安全性和療效。您決定以住院死亡率（in-hospital mortality）為 primary outcome，並以 INR 糾正、黏彈性測試糾正和血栓事件為 secondary outcomes。下列何者最可能是本研究最合適的 trial design？",
       options: [
-        "A. Case-control",
-        "B. Cohort",
-        "C. Case series",
-        "D. Pharmacokinetic trial"
+        "A. 病例對照研究",
+        "B. 世代研究 (Cohort)",
+        "C. 病例系列報告",
+        "D. 藥代動力學試驗 (PK trial)"
       ],
       answer: "B",
       explanation: "該研究的目標是確定暴露於 4F-PCC 是否會導致死亡或感興趣的預後。這是在所有患有終末期肝病的患者隊列（cohort）中進行的（選項 B 正確）。Case-control 研究涉及按是否具有感興趣預後的人群來構建研究組，以確定導致該預後的相關風險因素（選項 A 錯誤）。Case study（個案研究）更適用於沒有對照組的單一組別，通常用於描述新型介入措施或預後（選項 C 錯誤）。Pharmacokinetic 試驗通常涉及樣本收集和藥物濃度評估，以描述藥物的動力學，而不是臨床預後（選項 D 錯誤）。"
@@ -306,8 +306,8 @@ const allChapters = {
       id: 12,
       question: "（病案分析）您機構的神經外科醫師團隊希望您在評估降鈣素原（procalcitonin）區分神經源性發熱（neurogenic fevers）與真實感染性發熱病因的實用性方面提供意見。研究的另一個目標是評估降鈣素原正值和負值的風險因素 and 可能的混雜因素。您決定採用 0.5 ng/mL 的預測截斷值（0.5 ng/mL 或更高為陽性；小於 0.5 ng/mL 為陰性）。哪種統計檢定（statistical test）最適合評估降鈣素原陽性和陰性患者之間肌酸酐清除率（creatinine clearance, 毫升/分鐘）的任何差異？",
       options: [
-        "A. Chi-square",
-        "B. Wilcoxon signed rank",
+        "A. 卡方檢定 (Chi-square)",
+        "B. Wilcoxon 符號 rank 檢定",
         "C. 適用於 parametric data 的 Student t-test",
         "D. 適用於 parametric data 的 Mann Whitney U"
       ],
@@ -318,10 +318,10 @@ const allChapters = {
       id: 13,
       question: "（病案分析）在 procalcitonin 用於區分發熱病因的研究中，哪種統計檢定最適合用來確定降鈣素原陽性與真實感染之間的獨立相關性（independent association）？",
       options: [
-        "A. Linear regression",
-        "B. Logistic regression",
-        "C. Cox proportional hazards model",
-        "D. Correlation analysis"
+        "A. 線性迴歸",
+        "B. 邏輯斯迴歸",
+        "C. Cox 比例風險模型",
+        "D. 相關性分析"
       ],
       answer: "B",
       explanation: "在存在其他預後風險因素的情況下，可以使用 regression 分析來確定獨立相關性。當感興趣的預後（即：降鈣素原為陽性或陰性的患者）在性質上是 categorical 時，使用 logistic regression（選項 B 正確）。Linear regression 類似於針對 continuous 依變數的 logistic regression（選項 A 錯誤）。Cox proportional hazards 模型用作 survival 分析或 time-to-event 分析，這不適用於此案例中的預後或問題（選項 C 錯誤）。雖然相關性分析可以確定降鈣素原陽性與感染之間的關聯強度，但它不會考慮可能混雜結果的其他風險因素（選項 D 錯誤）。"
@@ -488,10 +488,10 @@ const allChapters = {
       id: 11,
       question: "（病案分析）您正在審查圍手術期符合國家患者安全目標 (NPSG) 中關於適當藥物標籤的規範。通過觀察，您發現異丙酚 (Propofol) 在針筒中的抽取和標示存在不一致，甚至完全沒有標籤。在大多數情況下，標籤上僅寫有藥物名稱。針筒標籤上還應包含哪些其他資訊？",
       options: [
-        "A. Patients name, drug name, dose, and expiration date/time.",
-        "B. Drug name, concentration, diluent if applicable, and expiration date/time.",
-        "C. Patients name, drug name, drug dose, and concentration.",
-        "D. Drug name, drug dose, concentration, and diluent if applicable."
+        "A. 患者姓名、藥名、劑量及過期日期/時間。",
+        "B. 藥名、濃度、稀釋液（若適用）及過期日期/時間。",
+        "C. 患者姓名、藥名、藥物劑量及濃度。",
+        "D. 藥名、藥物劑量、濃度及稀釋液（若適用）。"
       ],
       answer: "B",
       explanation: "根據 NPSG 規範，圍手術期準備的針筒標籤必須包含藥物名稱、強度/濃度、稀釋液及稀釋液容量（如適用）、失效日期與時間（答案 B 正確）。患者姓名和藥物劑量（答案 A、C）在此類標籤中並非必須，因為這不是個人專屬配製。藥物劑量（答案 D）不需要寫在針筒標籤上，標註濃度即可。"
@@ -500,10 +500,10 @@ const allChapters = {
       id: 12,
       question: "（病案分析）作為重症監護藥師，您參與了一項品質改善 (QI) 計畫。下列哪項聯合委員會 (TJC) 的核心指標最著名會受到臨床藥師的顯著影響？",
       options: [
-        "A. ED median time from ED arrival to ED departure for admitted ED patients.",
-        "B. Procoagulant reversal agent initiation for intracerebral hemorrhage (ICH).",
-        "C. Hemorrhagic transformation for patients receiving intravenous alteplase therapy or mechanical endovascular reperfusion therapy.",
-        "D. Severe sepsis and septic shock management bundle."
+        "A. 急診收治患者從到達急診到離開急診的中位時間。",
+        "B. 腦出血 (ICH) 啟動促凝逆轉劑治療。",
+        "C. 接受靜脈 Alteplase 治療或機械血管內再通治療患者的出血性轉化。",
+        "D. 嚴重敗血症與敗血性休克管理組合。"
       ],
       answer: "B",
       explanation: "根據 TJC 目前的核心指標，臨床藥師最能顯著影響的是腦內出血患者促凝血逆轉劑的啟動時間（答案 B 正確）。ED 中位停留時間（答案 A）主要受急診運作和病房床位影響，非藥師主導。出血性轉化率（答案 C）主要與患者病生理狀態和再灌注成功率相關。雖然藥師對敗血症管理有重大貢獻，但目前該管理組合並不是 TJC 要求回報的強制核心計量指標（答案 D 錯誤）。"
@@ -524,10 +524,10 @@ const allChapters = {
       id: 14,
       question: "（病案分析）下列哪種藥物使用流程最適合進行藥物使用評估 (MUE)？",
       options: [
-        "A. Review of pharmacist notes in the electronic health record (EHR).",
-        "B. Review of accuracy of expiration dates placed on intravenous admixture products.",
-        "C. Review of vancomycin dosing and ordering of vancomycin blood concentrations.",
-        "D. Review of frequency of drug interaction warnings on the CPOE system."
+        "A. 審查電子病歷 (EHR) 中的藥師紀錄。",
+        "B. 審查靜脈調配產品上標記之過期日期的準確性。",
+        "C. 審查 Vancomycin 劑量及 Vancomycin 血中濃度檢測醫囑。",
+        "D. 審查 CPOE 系統上藥物交互作用警示的頻率。"
       ],
       answer: "C",
       explanation: "MUE 是針對特定藥物或疾病的。Vancomycin的給藥劑量及血中濃度監測（答案 C 正確）是特定的藥物使用過程，最適合進行 MUE。藥師病歷記錄審查（答案 A）、靜脈產品效期標籤準確性（答案 B）以及交互作用警告頻率（答案 D）屬於更廣泛的系統流程，不針對特定藥物，更適合透過 QA 調查或流程評估進行監測。"
@@ -536,10 +536,10 @@ const allChapters = {
       id: 15,
       question: "（病案分析）您 ROUND DAILY 在 ICU 參與多學科團隊查房。您的主管請您協助提供臨床藥學服務的佐證指標，以向醫院高層申請增加其他 ICU 的藥師員額 (FTEs)。下列哪項指標最適合包含在呈報給醫院領導層的報告中？",
       options: [
-        "A. Antibiotic stewardship and cost savings.",
-        "B. Provider education and in-services provided.",
-        "C. Time spent rounding and on other activities.",
-        "D. Renal dose adjustments and intravenous to oral conversion."
+        "A. 抗生素管理與成本節省。",
+        "B. 醫療提供者教育與在職培訓。",
+        "C. 用於查房及其他活動的時間。",
+        "D. 腎功能劑量調整與靜脈轉口服治療。"
       ],
       answer: "A",
       explanation: "呈報給醫院領導層的編制論證報告，必須同時展示財務效益以及患者預後與安全的改善。抗生素管理成效與藥費避免/節省（答案 A 正確）能同時量化這兩點，是說服高層最有效的指標。提供教育（答案 B）雖然有益，但難以直接與財務節省或預後改善掛鉤。查房時間（答案 C）屬於投入指標，若無臨床產出和成本規避支持，無法單獨證明價值。腎劑量調整與 IV to PO 轉換（答案 D）是常見的介入，但除非將其轉化為具體的藥費節省和安全避免成本，否則單純件數難以引起高層重視。"
@@ -548,10 +548,10 @@ const allChapters = {
       id: 16,
       question: "（病案分析）在 ICU 查房期間，團隊建議對一名敗血性休克患者使用一種價格昂貴、非藥品集且療效存疑的最後一線血管收縮劑。您審查了病歷，認為在嘗試此新療法前，有更安全且在藥品集內的藥物可供選擇。您被要求在患者病歷中記錄您的介入以供追蹤。下列哪種措辭最為合適？",
       options: [
-        "A. Because of the significant cost of this drug, the team should resort to other formulary options.",
-        "B. This drug was associated with significant adverse effects in clinical trials and will likely cause harm if used in this patient.",
-        "C. The team should consider optimizing the patient’s pharmacological therapy with agents that are on formulary and have a proven benefit in patients with septic shock.",
-        "D. The use of this non-formulary drug would be a poor choice and likely lead to patient harm if used."
+        "A. 由於該藥物成本昂貴，團隊應改用藥品集中的其他選擇。",
+        "B. 該藥在臨床試驗中與顯著不良反應相關，若用於此患者可能造成傷害。",
+        "C. 團隊應考慮使用藥品集中已證實對敗血性休克患者有益的藥物，來優化患者的藥物治療。",
+        "D. 使用此非藥品集藥物將是一個糟糕的選擇，且很可能對患者造成傷害。"
       ],
       answer: "C",
       explanation: "臨床藥師的記錄應具備專業性、客觀性，並提供建設性建議。非主動要求的介入應以溫和的措辭記錄，給予主治醫療團隊決策空間而不帶來不必要的法律責任。建議團隊「考慮優化……」（答案 C 正確）措辭專業客觀，說明了臨床依據。僅強調成本（答案 A）缺乏臨床依據。使用過於絕對或指責性的措辭（如「造成傷害」、「糟糕的選擇」，答案 B、D）不僅不專業，還會為團隊帶來潛在醫療糾紛責任，且不便於團隊接受建議。"
@@ -562,10 +562,10 @@ const allChapters = {
       id: 1,
       question: "當評估將 coagulation factor Xa (recombinant) 納入藥品集以逆轉直接口服抗凝血劑 (DOACs) 時，下列哪項最能描述此藥物所帶來的成本類型？",
       options: [
-        "A. Fixed medical.",
-        "B. Variable medical.",
-        "C. Indirect.",
-        "D. Incremental."
+        "A. 固定醫療成本。",
+        "B. 變動醫療成本。",
+        "C. 間接成本。",
+        "D. 增量成本。"
       ],
       answer: "B",
       explanation: "藥物費用（如 coagulation factor Xa）會隨著使用量和患者數量的改變而增減，因此屬於變動醫療成本（答案 B 正確）。固定醫療成本（答案 A）在一定範圍內保持不變（如無菌室的電費、 salaried 員工薪資）。間接成本（答案 C）與因病無法工作導致的生產力損失相關。增量成本（答案 D）是購買額外療效或好處所需的追加成本（例如為控制 ICU 中發生的心房顫動而增加的藥費）。"
@@ -574,10 +574,10 @@ const allChapters = {
       id: 2,
       question: "醫院想要評估此藥物對神經學殘疾（預後）的影響及其與凝血酶原複合物濃縮物 (PCC) 相比的成本。在文獻中最適合尋找哪種類型的藥物經濟學分析？",
       options: [
-        "A. Cost-benefit.",
-        "B. Cost-effectiveness.",
-        "C. Cost-minimization.",
-        "D. Cost-utility."
+        "A. 成本效益分析 (Cost-benefit)。",
+        "B. 成本效果分析 (Cost-effectiveness)。",
+        "C. 成本極小化分析 (Cost-minimization)。",
+        "D. 成本效用分析 (Cost-utility)。"
       ],
       answer: "B",
       explanation: "當需要同時評估成本與臨床效果（如神經學殘疾的改善）時，應使用成本效果分析（CEA，答案 B 正確）。成本效益分析（答案 A）的效果和成本都必須以貨幣單位衡量。成本極小化分析（答案 C）前提是兩組藥物的臨床效果已證實完全相同，僅比較成本。成本效用分析（答案 D）將預後轉化為生活品質指標（如 QALYs），本題關注的是特定臨床指標（神經學殘疾），非 QALYs。"
@@ -586,10 +586,10 @@ const allChapters = {
       id: 3,
       question: "一名 60 歲患者因手術入院 ICU，病歷記錄有 cefuroxime 過敏史（症狀為呼吸急促）。患者隨後被給予 ceftriaxone，並發生了危及生命的過敏性休克。下列哪項最適合描述患者對 ceftriaxone 的反應？",
       options: [
-        "A. Adverse drug reaction (ADR).",
-        "B. Side effect.",
-        "C. Adverse drug event (ADE).",
-        "D. Preventable ADE."
+        "A. 藥物不良反應 (ADR)。",
+        "B. 副作用。",
+        "C. 藥物不良事件 (ADE)。",
+        "D. 可預防的 ADE。"
       ],
       answer: "D",
       explanation: "可預防的 ADE 定義為因為違反標準執業或未能採取必要預防措施而導致患者受傷的事件。患者已知對 cefuroxime 過敏，而cephalosporin類之間存在已知的交叉過敏風險，在明知過敏史的情況下仍給予同類藥物 ceftriaxone 屬於用藥錯誤，該錯誤達到了患者並導致傷害（過敏性休克），因此最準確的描述是可預防的 ADE（答案 D 正確）。雖然這也是 ADR（答案 A） and ADE（答案 C），但可預防的 ADE 是最特異且準確的描述。副作用（答案 B）通常是藥物在正常治療劑量下的已知藥理作用，過敏反應不屬於副作用。"
@@ -610,10 +610,10 @@ const allChapters = {
       id: 5,
       question: "根據臨床安全指引的推薦強度與分級系統，下列哪項是改善 ICU 用藥安全的最首要推薦（具有最強推薦強度）？",
       options: [
-        "A. Fully integrating the institution’s electronic health record (EHR) systems to improve communication.",
-        "B. Integrating interruptive clinical decision support (CDS) into the EHR.",
-        "C. Creating a policy requiring that intravenous medications can only be prepared by pharmacists.",
-        "D. Investing in smart intravenous infusion pumps to reduce medication errors."
+        "A. 完整整合機構的電子病歷 (EHR) 系統以改善溝通。",
+        "B. 將中斷式臨床決策支援 (CDS) 整合至 EHR。",
+        "C. 制定一項規定，要求靜脈注射藥物只能由藥師準備。",
+        "D. 投資智慧型靜脈輸注幫浦以減少用藥錯誤。"
       ],
       answer: "C",
       explanation: "根據 2017 年重症醫學會 (SCCM) 安全指引，唯一獲得強力推薦 (Strong recommendation, 1B) 的措施是實施符合安全藥物濃度規範的「靜脈藥物由藥局/藥師統一調配與準備」（答案 C 正確）。其他選項如 EHR 系統整合（答案 A）、中斷式 CDS 警示（答案 B，弱推薦 2C）和智慧型幫浦（答案 D，弱推薦 2C）雖然都是很好的用藥安全防護手段，但其指引推薦強度皆為弱推薦。"
@@ -622,10 +622,10 @@ const allChapters = {
       id: 6,
       question: "在您的機構將上述強力推薦整合入常規醫療後，一名出院患者建議在減少用藥錯誤的流程中應納入患者及家屬的參與。根據現有文獻，下列哪項敘述最能支持此建議？",
       options: [
-        "A. The 2017 SCCM guidelines provide a strong recommendation for this integration into routine care.",
-        "B. Areas in the hospital outside the ICU provide data supporting this integration.",
-        "C. Data analyses on direct observations of interactions between the medical team and patients have shown a reduction in medical errors in the ICU.",
-        "D. Data analyses on chart reviews of ICU patients have shown that these reported outcomes are not routinely accounted for."
+        "A. 2017 年 SCCM 指引對將此整合納入常規照護給予強力推薦。",
+        "B. 加護病房外的醫院區域提供了支持此整合的數據。",
+        "C. 對醫療團隊與患者互動之直接觀察進行的數據分析顯示，ICU 中的醫療錯誤有所減少。",
+        "D. 對 ICU 患者病歷審查的數據分析顯示，這些通報的結果並未被常規納入考量。"
       ],
       answer: "B",
       explanation: "指引中「建議」在出院時或出院後引入患者和家屬的通報以協助檢測用藥錯誤 (弱推薦, 2C)。目前支持患者與家屬參與以減少用藥錯誤的實證數據主要來自非 ICU 的普通病房或門診環境（答案 B 正確）。SCCM 指引給予的是弱推薦而非強推薦（答案 A 錯誤）。直接觀察多學科與患者互動在 ICU 中減少錯誤的數據非常有限（答案 C 錯誤）。病歷審查主要用於回顧性評估，而非證明患者參與的成效（答案 D 錯誤）。"
@@ -634,10 +634,10 @@ const allChapters = {
       id: 7,
       question: "一名 50 歲患者因懷疑肺炎接受Meropenem (Meropenem) 治療，隨後因躁動加用丙戊酸 (Valproic acid)；然而，丙戊酸未能有效控制躁動，導致患者自行拔管並需重新插管。在調查此不良事件時，下列哪種方法最適合評估該事件發生的因果關係可能性？",
       options: [
-        "A. Drug interaction database.",
-        "B. Drug interaction probability scale.",
-        "C. Naranjo nomogram.",
-        "D. Roussel Uclaf Causality Assessment Method (RUCAM)."
+        "A. 藥物交互作用資料庫。",
+        "B. 藥物交互作用機率量表。",
+        "C. Naranjo 評估表。",
+        "D. Roussel Uclaf 因果關係評估法 (RUCAM)。"
       ],
       answer: "B",
       explanation: "Meropenem會顯著降低丙戊酸的血中濃度，導致丙戊酸失效並引發躁動，這是一個典型的藥物交互作用事件。評估特定患者身上藥物交互作用因果關係的最佳工具是 DIPS 評估表（答案 B 正確）。藥物交互作用資料庫（答案 A）僅提供一般性資訊，無法進行針對個別患者的特異性因果關係評估。Naranjo 評估表（答案 C）設計用於評估單一藥物不良反應 (ADR) 的可能性，不適用於藥物交互作用。RUCAM（答案 D）是專門用於評估藥物引起肝損傷 (DILI) 的工具。"
@@ -646,10 +646,10 @@ const allChapters = {
       id: 8,
       question: "您的醫院想要將 meropenem/vaborbactam（一種針對高度resistant bacteria、FDA 核准用於複雜性尿路感染的新型抗菌藥物）納入藥品集。下列哪項是限制其合理使用的最合適做法？",
       options: [
-        "A. Restriction to intensivist use.",
-        "B. Restriction to patients with hospital-acquired pneumonia.",
-        "C. Restriction to infectious diseases clinicians’ approval.",
-        "D. Restriction to patients with appropriate cardiac monitoring."
+        "A. 限制重症專科醫師使用。",
+        "B. 限制用於醫院獲得性肺炎患者。",
+        "C. 限制需經感染科醫師核准。",
+        "D. 限制用於有適當心臟監測的患者。"
       ],
       answer: "C",
       explanation: "對於新型且針對高度resistant bacteria的廣效抗生素，最適當的限制是將其限於感染科醫師的會簽與核准（答案 C 正確），以維持抗生素管理並避免耐藥性擴散。限制僅限重症醫師使用（答案 A）是不合適的，因為 ICU 以外的耐藥感染患者也可能需要此藥。雖然該藥在臨床上可能被超適應症使用於肺炎，但由於其官方適應症為尿路感染，限制僅用於肺炎是不合適的（答案 B 錯誤）。該藥物不需要特殊的心臟監測（答案 D 錯誤）。"
@@ -658,10 +658,10 @@ const allChapters = {
       id: 9,
       question: "（病案分析）一名 30 歲患者因車禍入住外傷 ICU。從患者的視角來看，下列哪項最能代表「間接成本」？",
       options: [
-        "A. Loss of wages from occupation as an engineer.",
-        "B. Effects of posttraumatic stress disorder from the accident.",
-        "C. Fentanyl administered to manage pain.",
-        "D. Cost of the ambulance that transported them to the hospital."
+        "A. 擔任工程師的工資損失。",
+        "B. 事故導致的創傷後壓力症候群影響。",
+        "C. 用於控制疼痛的 Fentanyl (保留英文藥名)。",
+        "D. 將患者送往醫院的救護車費用。"
       ],
       answer: "A",
       explanation: "間接成本是指由於疾病或受傷導致的生產力損失、無法工作所造成的薪資損失（答案 A 正確）。心理痛苦和 PTSD 屬於無形成本 (Intangible costs)（答案 B 錯誤）。Fentanyl藥費（答案 C）和救護車運送費用（答案 D）屬於直接醫療成本。"
@@ -670,10 +670,10 @@ const allChapters = {
       id: 10,
       question: "（病案分析）下列哪項評估等級最能代表 enalapril 引起的無症狀高鉀血症且無心電圖變化 (K 5.7 mEq/L) 在給予一劑口服環矽酸鈉鋯 (SZC) 後恢復的不良事件嚴重程度分類？",
       options: [
-        "A. Mild.",
-        "B. Moderate.",
-        "C. Severe.",
-        "D. Life threatening."
+        "A. 輕度。",
+        "B. 中度。",
+        "C. 重度。",
+        "D. 危及生命。"
       ],
       answer: "A",
       explanation: "輕度 ADE/ADR 的定義是：需要加強監測或檢驗監測，但未對患者造成最終傷害，且不需要積極的解毒劑或臨床干預。高鉀血症在給予一劑 SZC 並增加檢驗監測後緩解，沒有引起臨床傷害或延長住院時間，因此屬於輕度事件（答案 A 正確）。中度事件（答案 B）需要積極干預（如多劑解毒劑、血液透析）或導致住院時間延長。重度事件（答案 C）會導致器官永久損傷、殘疾或需要轉入更高階護理。此患者無心電圖異常且症狀輕微，非危及生命（答案 D 錯誤）。"
@@ -682,10 +682,10 @@ const allChapters = {
       id: 11,
       question: "（病案分析）一名在老年精神科病房的患者因為靜脈注射Haloperidol (Haloperidol) 引起了尖端扭轉型室速 (Torsades de Pointes)。經靜脈注射硫酸鎂成功救治後，患者被轉入心臟監護病房 (CCU) 進行遙測監測。這起不良事件的嚴重程度應如何分類？",
       options: [
-        "A. Mild.",
-        "B. Moderate.",
-        "C. Severe.",
-        "D. No classification."
+        "A. 輕度。",
+        "B. 中度。",
+        "C. 重度。",
+        "D. 無分類。"
       ],
       answer: "C",
       explanation: "重度 ADE 的定義是導致患者傷害、需要延長住院、轉入更高階治療病房（如從精神科病房轉入心臟重症 CCU）或引發器官受損與死亡。尖端扭轉型室速是危及生命的心律不整，且患者因此需要積極搶救並轉入 CCU 監護，這完全符合重度 ADE 的標準（答案 C 正確）。這超出了輕度（答案 A）和中度（答案 B）的範圍。"
@@ -694,10 +694,10 @@ const allChapters = {
       id: 12,
       question: "（病案分析）一名住在護理之家的 77 歲患者已規律服用 lisinopril 10 mg 達 3 個月。患者因 lisinopril 引起的血管性水腫（嚴重舌頭腫脹、喘鳴與呼吸急促）入住 ICU，並緊急接受了氣切手術。患者無藥物過敏史，且未曾漏服藥物。下列哪項最適合描述患者對 lisinopril 的反應？",
       options: [
-        "A. ADE.",
-        "B. Preventable ADE.",
-        "C. Medication error.",
-        "D. Preventable ADR."
+        "A. 藥物不良事件 (ADE)。",
+        "B. 可預防的 ADE。",
+        "C. 用藥錯誤。",
+        "D. 可預防的 ADR。"
       ],
       answer: "A",
       explanation: "患者在正常使用 lisinopril 的情況下發生了非預期的嚴重血管性水腫，這屬於與藥物使用相關的傷害，因此屬於藥物不良事件（ADE，答案 A 正確）。由於患者完全遵醫囑服藥，且醫療人員開藥過程無失誤，這不涉及任何用藥錯誤（答案 C 錯誤），因此不屬於可預防的 ADE（答案 B 錯誤）。此外，ADR 發生在正常劑量下，本質上是非預期且不可預防的，不存在所謂的「可預防的 ADR」（答案 D 錯誤）。"
@@ -706,10 +706,10 @@ const allChapters = {
       id: 13,
       question: "（病案分析）承上題，該名 77 歲患者因 lisinopril 引起的血管性水腫接受氣切並入住 ICU，這起不良事件的嚴重程度應如何分類？",
       options: [
-        "A. Mild.",
-        "B. Moderate.",
-        "C. Severe.",
-        "D. No classification."
+        "A. 輕度。",
+        "B. 中度。",
+        "C. 重度。",
+        "D. 無分類。"
       ],
       answer: "C",
       explanation: "這起事件導致了嚴重的身體傷害（需要進行緊急氣切手術以維持氣道安全）、延長了住院天數並需要轉入 ICU 進行高階監護，這符合重度 ADE 的定義（答案 C 正確）。輕度（答案 A）和中度（答案 B）不足以描述需要緊急氣切且入住 ICU 的危急狀況。"
@@ -718,10 +718,10 @@ const allChapters = {
       id: 14,
       question: "（病案分析）您的機構正考慮將血管收縮劑血管張力素 II (Angiotensin II, ATII) 納入藥品集。該藥獲准用於感染性休克患者，但其臨床試驗 (ATHOS-3) 僅將其與安慰劑進行比較，並顯示其能提高達到血壓目標的機率，但在死亡率上與安慰劑無異。醫院非常擔心 ATII 的高昂費用。在為該藥撰寫新藥評估單行本 (Monograph) 時，下列哪項建議最為合適？",
       options: [
-        "A. Remove vasopressin from the hospital formulary to make room for ATII.",
-        "B. Addition of statement that ATII decreases mortality in patients with distributive shock.",
-        "C. Addition of both the intravenous and oral formulations of ATII to the formulary.",
-        "D. Restrict use to patients who received the same dose of vasopressors as those included in the ATHOS-3 trial."
+        "A. 將 Vasopressin 從醫院藥品集中移除，以騰出空間給 ATII。",
+        "B. 增加關於 ATII 可降低分布性休克患者死亡率的說明。",
+        "C. 將 ATII 的靜脈和口服劑型均納入藥品集。",
+        "D. 限制僅用於所接受血管活性藥物劑量與 ATHOS-3 試驗受試者相同的患者。"
       ],
       answer: "D",
       explanation: "鑑於 ATII 費用極高且僅在特定血管收縮劑劑量基線的患者中展現出血流動力學益處，為控制成本並確保合理使用，在 Monograph 中建議將其限制於符合臨床試驗納入標準的患者是最合適的（答案 D 正確）。移除血管加壓素（答案 A）是不合理的，因為血管加壓素是目前臨床指引推薦的二線首選藥物，且 ATII 不能取代它。ATHOS-3 未證實 ATII 能降低死亡率，註明降低死亡率是不實陳述（答案 B 錯誤）。ATII 僅有靜脈注射劑型，無口服劑型（答案 C 錯誤）。"
@@ -730,10 +730,10 @@ const allChapters = {
       id: 15,
       question: "（病案分析）在評估是否將 ATII 納入藥品集時，下列哪項機構特徵是藥事委員會最需要優先考慮的？",
       options: [
-        "A. Data from ATHOS-3 suggesting its clinical superiority to other FDA-approved medications.",
-        "B. How often you encounter patients who require several vasopressors for management of distributive shock.",
-        "C. The increased risk of ADEs associated with the use of ATII.",
-        "D. Data analyses suggesting the cost-saving benefits of ATII compared with other FDA-approved medications."
+        "A. 來自 ATHOS-3 的數據提示其相較於其他 FDA 核准藥物具有臨床優越性。",
+        "B. 您遇到需要多種血管活性藥物來管理分布性休克患者的頻率。",
+        "C. 與使用 ATII 相關之 ADE 風險增加。",
+        "D. 數據分析提示與其他 FDA 核准藥物相比，ATII 具有節省成本的效益。"
       ],
       answer: "B",
       explanation: "在評估是否納入此類高成本且屬於最後一線的藥物時，機構必須先了解自己的需求量——即臨床上遇到需要多種血管收縮劑仍無法維持血壓的難治型休克患者的頻率（答案 B 正確），以評估引進該藥的臨床必要性與預算衝擊。ATHOS-3 試驗僅與安慰劑對照，並未與其他活性藥物進行直接比較，因此機構無此類對照數據（答案 A 錯誤）。引進前機構尚無使用 ATII 的不良事件數據（答案 C 錯誤）。現有文獻並未顯示 ATII 具有成本節省的效益，因此機構無法得出此分析（答案 D 錯誤）。"
@@ -742,10 +742,10 @@ const allChapters = {
       id: 16,
       question: "（病案分析）ATII 於去年 12 月獲得藥事委員會核准納入藥品集。這是一個高昂成本的新引進藥物。下列哪個月分最符合進行該藥物首次藥物使用評估 (MUE) 的推薦完成時間？",
       options: [
-        "A. March of this year.",
-        "B. June of this year.",
-        "C. October of this year.",
-        "D. December of this year."
+        "A. 今年三月。",
+        "B. 今年六月。",
+        "C. 今年十月。",
+        "D. 今年十二月。"
       ],
       answer: "A",
       explanation: "新藥核准後，通常建議在 3 至 6 個月內進行首次 MUE。對於高成本、高警訊或限制使用標準的新引進藥物，為了儘早評估臨床合規性與安全性，應傾向於在較早的時限（即 3 個月，答案 A 正確）進行評估。等到 6 個月（今年 6 月，答案 B）或更晚（10月、12月，答案 C、D）可能會延誤發現不當使用或預算超支的問題。"
@@ -756,10 +756,10 @@ const allChapters = {
       id: 1,
       question: "下列哪一項最適合用作腸外營養 (PN) 的臨床指引適應症？",
       options: [
-        "A. Severe anorexia.",
-        "B. Lack of bowel sounds.",
-        "C. Ileus.",
-        "D. Gastric residual volume (GRV) of 300 mL."
+        "A. 嚴重食慾不振。",
+        "B. 腸音消失。",
+        "C. 腸阻塞。",
+        "D. 胃殘留量 (GRV) 300 mL。"
       ],
       answer: "C",
       explanation: "腸麻痺（通常在腹部放射線檢查中表現為腸道擴張）表示腸道缺乏動力與擴張，此時患者無法安全或有效率地接受腸內營養，因此是 PN 的適應症（答案 C 正確）。對於嚴重厭食症患者，可以置放鼻胃/鼻腸管進行腸內營養，並非 PN 的適應症（答案 A 錯誤）。腸鳴音的有或無並非評估腸道功能的可靠指標，缺乏腸鳴音不應直接成為 PN 的指引（答案 B 錯誤）。胃殘留量 (GRV) 達 300 mL 且無其他不耐受症狀時，指引不建議中斷腸內營養，更不需啟動 PN（答案 D 錯誤）。"
@@ -768,10 +768,10 @@ const allChapters = {
       id: 2,
       question: "哪種靜脈補液的電解質組成，最能接近並匹配鼻胃管 (NG) 流失液的組成？",
       options: [
-        "A. 0.9% sodium chloride and potassium chloride 20 mEq/L.",
-        "B. 0.45% sodium chloride and potassium chloride 20 mEq/L.",
-        "C. 5% dextrose in 0.225% sodium chloride and potassium chloride 20 mEq/L.",
-        "D. Lactated Ringer solution."
+        "A. 0.9% 氯化鈉與氯化鉀 20 mEq/L。",
+        "B. 0.45% 氯化鈉與氯化鉀 20 mEq/L。",
+        "C. 5% 葡萄糖與 0.225% 氯化鈉及氯化鉀 20 mEq/L。",
+        "D. 乳酸林格氏液 (Lactated Ringer solution)。"
       ],
       answer: "B",
       explanation: "胃液流失液的平均電解質含量約為鈉 60-90 mEq/L、鉀 10-15 mEq/L、氯 100-130 mEq/L。0.45% 氯化鈉（半生理食鹽水，含鈉 77 mEq/L、氯 77 mEq/L）加上 20 mEq/L 氯化鉀的電解質成分（Na 77, K 20, Cl 97）最接近此胃液流失組成（答案 B 正確）。0.9% 氯化鈉的鈉和氯離子濃度過高 (154 mEq/L)，會引發高氯性代酸（答案 A 錯誤）。0.225% 氯化鈉（四分之一生理食鹽水）的鈉含量過低（答案 C 錯誤）。乳酸林格氏液的鈉含量為 130 mEq/L，且僅含 4 mEq/L 的鉀，無法有效補鉀（答案 D 錯誤）。"
@@ -780,10 +780,10 @@ const allChapters = {
       id: 3,
       question: "一名患有長期、難治型腹瀉的患者最有可能大量流失下列哪種微量礦物質？",
       options: [
-        "A. Zinc.",
-        "B. Copper.",
-        "C. Iodine.",
-        "D. Manganese."
+        "A. 鋅 (Zinc)。",
+        "B. 銅 (Copper)。",
+      "C. 碘 (Iodine)。",
+        "D. 錳 (Manganese)。"
       ],
       answer: "A",
       explanation: "重症患者因嚴重腹瀉或腸道瘻管，胃腸液中的鋅流失會顯著增加（正常需求為每日 3-5 mg，但嚴重腹瀉時每天流失可高達 10 mg 以上，因此每日需額外補充以達到 13 mg 左右，答案 A 正確）。銅（答案 B）和錳（答案 D）主要通過膽汁排泄，且在腸外營養中若有膽汁淤積應減少補充，其在腹瀉中的流失不如鋅顯著。碘（答案 C）不是胃腸道流失的關鍵微量元素。"
@@ -792,10 +792,10 @@ const allChapters = {
       id: 4,
       question: "一名 70 歲男性因敗血症入院 ICU，隨後被診斷為抗利尿激素分泌不當症候群 (SIADH)。他的血清鈉在過去 3 天內從 130 mEq/L 降至 115 mEq/L，並隨後併發了抽搐。下列哪項是最合適的治療選擇？",
       options: [
-        "A. Intravenous 0.9% sodium chloride.",
-        "B. Intravenous desmopressin acetate (DDAVP).",
-        "C. Intravenous 3% sodium chloride.",
-        "D. Intravenous conivaptan."
+        "A. 靜脈注射 0.9% 氯化鈉。",
+        "B. 靜脈注射 Desmopressin (DDAVP) (保留英文藥名)。",
+        "C. 靜脈注射 3% 氯化鈉。",
+        "D. 靜脈注射 Conivaptan (保留英文藥名)。"
       ],
       answer: "C",
       explanation: "患者因急性重度低血鈉（115 mEq/L）並伴有神經學症狀（抽搐），這是危及生命的緊急狀況，必須立即通過靜脈輸注超張 3% 氯化鈉（超張鹽水）來快速提升血鈉（通常目標是首小時內提升 5 mEq/L），以緩解腦水腫和抽搐（答案 C 正確）。輸注 0.9% 氯化鈉（等張鹽水）由於 SIADH 患者尿液濃縮，可能會使低血鈉惡化（答案 A 錯誤）。DDAVP 是抗利尿激素類似物，會保留水分並加重低血鈉，其適用於尿崩症（答案 B 錯誤）。Conivaptan 是 V2 受體拮抗劑，適用於非緊急狀況下的等張/高張低血鈉，但在伴有抽搐的超急重症低血鈉中，起效太慢，不適合作為首選搶救治療（答案 D 錯誤）。"
@@ -804,10 +804,10 @@ const allChapters = {
       id: 5,
       question: "除了吸收/輸注速率之外，下列哪項最能解釋為什麼經腸道（口服或管灌）補鉀比靜脈注射補鉀更為安全？",
       options: [
-        "A. Bioavailability of potassium is significantly lower with enteral versus parenteral administration.",
-        "B. Feed-forward sensing of changes in mesenteric potassium concentration increases urinary potassium excretion.",
-        "C. Potassium chloride elixir is likely to cause diarrhea and reduce potassium absorption.",
-        "D. Wax matrix tablets sequester potassium release throughout the gastrointestinal (GI) tract."
+        "A. 與靜脈給藥相比，腸道給藥的鉀生物利用度顯著降低。",
+        "B. 腸繫膜鉀濃度變化的前饋感知會增加尿鉀排泄。",
+        "C. 氯化鉀酏劑容易引起腹瀉並減少鉀吸收。",
+        "D. 蠟質基質錠劑會在整個胃腸道 (GI) 中隔離鉀釋放。"
       ],
       answer: "B",
       explanation: "研究證實，腸道中存在鉀感測器（Splanchnic sensors）。當經腸道內給予鉀時，會觸發前饋調節系統（Feed-forward regulation），在血鉀上升前即刺激腎臟排鉀，從而避免血鉀過高，這在靜脈補鉀時是不存在的（答案 B 正確）。在無胃腸道動力異常時，口服鉀的生物可用率極高（約 95%-100%），並非因為吸收差才安全（答案 A 錯誤）。藥液給予常因高張而導致腹瀉，這是一個副作用而非安全機制（答案 C 錯誤）。蠟質錠劑（答案 D）緩釋釋放能減少局部刺激，但非腸道補鉀具備整體系統性安全優勢的主因。"
@@ -816,10 +816,10 @@ const allChapters = {
       id: 6,
       question: "一名 40 歲男性（體重 60 kg）因車禍入住外傷 ICU。其血清鎂為 1.2 mg/dL，家屬表示他有長期酗酒史（每日 12-18 罐啤酒）。醫療團隊給予靜脈注射硫酸鎂 6 g 輸注 6 小時。隔日複查血清鎂為 1.8 mg/dL（已達正常低限）。下列哪項是該患者接下來最合適的治療措施？",
       options: [
-        "A. No treatment is necessary because his serum magnesium concentration is normal.",
-        "B. If a repeat serum magnesium concentration is 2 mg/dL or greater, no additional magnesium therapy is indicated.",
-        "C. Supplemental calcium therapy should be given concurrently with the magnesium therapy.",
-        "D. Additional magnesium therapy should be given daily for the next 4–5 days."
+        "A. 由於其血清鎂濃度正常，因此不需要任何治療。",
+        "B. 若複查血清鎂濃度為 2 mg/dL 或以上，則無須追加鎂治療。",
+        "C. 應在補鎂的同時給予補充鈣治療。",
+        "D. 在接下來的 4-5 天內應每日追加鎂治療。"
       ],
       answer: "D",
       explanation: "硫酸鎂輸注後需要約 48 小時才能完全重新分佈到細胞內骨骼等儲存庫，因此輸注翌日的血清鎂會呈現假性上升。由於患者有長期酗酒和嚴重缺鎂，體內鎂庫存在嚴重虧空。補足細胞內鎂虧空通常需要 4 至 5 天的持續補充，因此應繼續每日補鎂（答案 D 正確；答案 A、B 錯誤）。除非患者同時存在嚴重的臨床低血鈣，否則不需要常規合併補鈣（答案 C 錯誤）。"
@@ -828,10 +828,10 @@ const allChapters = {
       id: 7,
       question: "一名 45 歲男性（體重 78 kg）因壞死性胰臟炎接受手術治療後入住 ICU。患者接受腸外營養 (PN) 支持，配方包含葡萄糖 650 g、氨基酸 120 g 及脂肪乳劑 55 g。過去 24 小時的血糖監測值為 180-325 mg/dL（嚴重高血糖）。此時對患者 PN 配方的調整，下列哪項最為合適？",
       options: [
-        "A. Initiate a sliding-scale insulin regimen with insulin aspart every 4 hours.",
-        "B. Temporarily decrease the dextrose dose in the PN to 200 g and advance to dextrose 650 g once blood glucose is less than 180 mg/dL.",
-        "C. Decrease dextrose to 500 g and make up with remaining kilocalories by increasing protein to 160 g.",
-        "D. Decrease dextrose to 315 g and reassess glycemic control over the next 24 hours."
+        "A. 啟動每 4 小時一次 Insulin aspart 的滑動刻度胰島素方案。",
+        "B. 暫時將 PN 中的葡萄糖劑量降至 200 g，待血糖小於 180 mg/dL 後再增至 650 g。",
+        "C. 將葡萄糖降至 500 g，並藉由增加蛋白質至 160 g 來補足剩餘的千卡。",
+        "D. 將葡萄糖降至 315 g，並在接下來的 24 小時內重新評估血糖控制。"
       ],
       answer: "D",
       explanation: "患者當前的 PN 配方提供了極高的葡萄糖負荷 (650 g/day)，換算後高達 61 kcal/kg/day，葡萄糖輸入速率達 5.8 mg/kg/minute，這屬於嚴重的過度餵養 (Overfeeding)，完全能解釋其高血糖和潛在的高碳酸血症。調整的第一步是消除過度餵養，將葡萄糖負荷降至安全合理的水平（315 g/day 相當於 27 kcal/kg/day，輸入速率 2.8 mg/kg/minute），並在 24 小時內重新評估（答案 D 正確）。單純使用滑動刻度胰島素而不降低超額葡萄糖負荷無法從根本上解決過度餵養（答案 A 錯誤）。將葡萄糖驟降至 200 g（低於重症的基本碳水化合物生理需求）也是不合適的（答案 B 錯誤）。增加蛋白質至 160 g（約 2.05 g/kg/day）超出了患者無重度燒傷時的常規需求，且氨基酸的糖質新生亦會加重血糖負擔（答案 C 錯誤）。"
@@ -840,10 +840,10 @@ const allChapters = {
       id: 8,
       question: "一名 48 歲男性因車禍入住外傷 ICU。診斷有蛛網膜下腔出血、右側氣胸、多處肋骨骨折、肝臟 5 級裂傷、右側骶骨骨折。病程併發呼吸衰竭、急性腎損傷 (AKI) 與高血糖。今日檢驗：鈉 141 mEq/L、氯 102 mEq/L、二氧化碳 20 mEq/L、乳酸 2.6 mmol/L。動脈血氣 (ABG)：pH 7.46、Pco2 31 mmHg、HCO3 22 mEq/L。下列哪項對其酸鹼狀態的評估是正確的？",
       options: [
-        "A. Primary respiratory alkalosis only.",
-        "B. Primary respiratory alkalosis with underlying metabolic acidosis.",
-        "C. Primary metabolic alkalosis with underlying respiratory alkalosis.",
-        "D. Primary metabolic acidosis only."
+        "A. 僅原發性呼吸性鹼中毒。",
+        "B. 原發性呼吸性鹼中毒合併潛在代謝性酸中毒。",
+        "C. 原發性代謝性鹼中毒合併潛在呼吸性鹼中毒。",
+        "D. 僅原發性代謝性酸中毒。"
       ],
       answer: "B",
       explanation: "患者 pH 7.46（大於 7.40），提示原發性鹼中毒。Pco2 31 mmHg 偏低，而 HCO3 22 mEq/L 處於正常低限或偏低，表明原發病因為呼吸性鹼中毒。然而，計算其陰離子間隙 (Anion Gap, AG) = 鈉 141 - (氯 102 + 二氧化碳 20) = 19 mEq/L。AG 超出了正常上限 (14 mEq/L)，說明體內存在 unmeasured anions（如乳酸 2.6 mmol/L 等），不論 pH 或是 HCO3 數值如何，高 AG 代謝性酸中毒絕對存在。此外其 Delta Ratio = (19 - 14) / (24 - 20) = 5 / 4 = 1.25，這落在 1-2 之間，證實為高 AG 代謝性酸中毒，沒有合併其他隱藏的代謝流程。因此患者的酸鹼診斷為原發性呼吸性鹼中毒合併高 AG 代謝性酸中毒（答案 B 正確；答案 A、C、D 錯誤）。"
@@ -852,9 +852,9 @@ const allChapters = {
       id: 9,
       question: "（病案分析）一名 55 歲女性（體重 70 kg）因肺炎和呼吸衰竭入住 ICU，住院第 5 天血清鈉降至 125 mEq/L。其他數值：外周鉀 4.6 mEq/L、氯 100 mEq/L、二氧化碳 24 mEq/L、BUN 20 mg/dL、肌酸酐 1.1 mg/dL、血糖 167 mg/dL。目前接受 1-kcal/mL（含蛋白質 62 g/L）的腸內營養配方以 60 mL/hr 輸注，並有 D5W 0.45% NaCl 以 25 mL/hr 靜脈輸注。過去 3 天每日液體正平衡為 +300 至 +600 mL，無水腫。實測血清滲透壓 265 mOsm/kg，尿液滲透壓 490 mOsm/kg，尿鈉 67 mEq/L。下列哪項最可能是該患者低血鈉的病因？",
       options: [
-        "A. Factitious hyponatremia",
-        "B. Adrenal insufficiency",
-        "C. Cerebral salt wasting",
+        "A. 假性低血鈉",
+        "B. 腎上腺功能不全",
+        "C. 腦性耗鹽症候群",
         "D. SIAD"
       ],
       answer: "D",
@@ -864,10 +864,10 @@ const allChapters = {
       id: 10,
       question: "（病案分析）承上題，對於這名因 SIAD 導致中度低血鈉（125 mEq/L）且無神經學症狀的 55 歲女性患者，下列哪項是最合適的治療措施？",
       options: [
-        "A. Give sodium chloride tablets 1 g three times daily.",
-        "B. Limit fluids.",
-        "C. Change the intravenous fluid to 0.9% sodium chloride.",
-        "D. Provide a short-term intravenous infusion of 3% sodium chloride."
+        "A. 給予氯化鈉錠劑 1 g 每日三次。",
+        "B. 限制水分。",
+        "C. 將靜脈液體改為 0.9% 氯化鈉。",
+        "D. 提供短期靜脈輸注 3% 氯化鈉。"
       ],
       answer: "B",
       explanation: "對於無症狀且病情穩定的等容積性 SIAD 低血鈉，首選且最主要的基礎治療是限制水分輸入（通常限制在每日 800-1000 mL 以內，答案 B 正確）。口服鹽錠（答案 A）在等容積性 SIAD 中會被迅速從尿液中排出，且可能加重液體過載與水腫。更改為 0.9% 氯化鈉（等張鹽水，答案 C）由於 SIADH 患者尿液高度濃縮，輸入的等張鹽水中的水分會被保留，而鈉會被排出，反而會使低血鈉惡化。患者無抽搐或重度意識障礙等超急重症表現，不需要靜脈超張 3% 氯化鈉搶救（答案 D 錯誤），以避免血鈉上升過快引發 ODS 的風險。"
@@ -876,10 +876,10 @@ const allChapters = {
       id: 11,
       question: "（病案分析）承上題，為了配合上述限水治療，對於這名接受腸內營養 (EN) 支持的患者，其 EN 配方進行下列哪項調整最為合適？",
       options: [
-        "A. Add sodium chloride 100 mEq/L to the current formula.",
-        "B. Change the formula to a fish oil–enriched product.",
-        "C. Change the formula to a low-carbohydrate, high-fat product.",
-        "D. Change the formula to a 2-kcal/mL formula, and decrease the rate."
+        "A. 在當前配方中加入氯化鈉 100 mEq/L。",
+        "B. 將配方改為富含魚油的產品。",
+        "C. 將配方改為低碳水化合物、高脂肪產品。",
+        "D. 將配方改為 2-kcal/mL 配方並降低流速。"
       ],
       answer: "D",
       explanation: "對於需要限制液體的管灌患者，最有效的手段是改用高能量密度配方（如 2-kcal/mL 配方），這能在提供相同卡路里和蛋白質的前提下，將隨管灌輸入的水分體積減半（例如將 60 mL/hr 降至 30 mL/hr，答案 D 正確）。添加高濃度鈉鹽（答案 A）易引發高滲透性腹瀉，且在 SIAD 中效果不佳。魚油配方（答案 B）和低碳水化合物配方（答案 C）主要用於免疫調節或呼吸衰竭患者，與限水無關。"
@@ -888,10 +888,10 @@ const allChapters = {
       id: 12,
       question: "（病案分析）一名 65 歲男性（體重 87 kg）因重度急性胰臟炎入院，CT 證實有胰臟假性囊腫。患者因進食引發劇烈腹痛且腸內營養嘗試失敗，決定給予 PN 支持，患者目前 NPO。他有重度吸菸史與酗酒史。檢驗值：鈉 139 mEq/L、鉀 3.3 mEq/L、氯 102 mEq/L、二氧化碳 25 mEq/L、BUN 14 mg/dL、肌酸酐 0.8 mg/dL、鈣 7.6 mg/dL、填補磷 2.2 mg/dL、鎂 1.5 mg/dL、白蛋白 2.5 g/dL。下列哪項補鉀與補磷的劑量組合對該患者最為合適？",
       options: [
-        "A. Potassium phosphate 30 mmol intravenously x 1 dose, followed by potassium chloride 40 mEq via NG tube x 2 doses.",
-        "B. Potassium phosphate 30 mmol intravenously x 1 dose, followed by potassium chloride 40 mEq intravenously x 1 dose.",
-        "C. Potassium phosphate 60 mmol intravenously x 1 dose.",
-        "D. Potassium chloride 40 mEq via NG tube x 2 doses, followed by Neutra-Phos 250 mg via NG tube x 2 doses."
+        "A. 靜脈注射 Potassium phosphate 30 mmol x 1 劑，隨後經鼻胃管給予 Potassium chloride 40 mEq x 2 劑。",
+        "B. 靜脈注射 Potassium phosphate 30 mmol x 1 劑，隨後靜脈注射 Potassium chloride 40 mEq x 1 劑。",
+        "C. 靜脈注射 Potassium phosphate 60 mmol x 1 劑。",
+        "D. 經鼻胃管給予 Potassium chloride 40 mEq x 2 劑，隨後經鼻胃管給予 Neutra-Phos 250 mg x 2 劑。"
       ],
       answer: "B",
       explanation: "患者因重度胰臟炎且進食疼痛而必須維持 NPO（禁食），因此任何口服或經管灌 (NG) 給藥的途徑（如選項 A 和 D）在臨床上都是不切實際且不被接受的。患者血清磷偏低 (2.2 mg/dL)，需要靜脈補充磷，給予靜脈磷酸鉀 30 mmol 1 次是符合指引的推薦劑量。30 mmol 的磷酸鉀同時會提供約 44 mEq 的鉀。患者血鉀低 (3.3 mEq/L)，體內缺鉀約 100-200 mEq，除了磷酸鉀提供的 44 mEq 之外，仍需要額外補鉀，因此隨後靜脈給予氯化鉀 40 mEq 1 次（總補鉀約 84 mEq）是合適的劑量組合（答案 B 正確）。單次靜脈給予 60 mmol 磷酸鉀會提供過量的磷，且單次補磷上限通常為 30-45 mmol，一次給予 60 mmol 易引發高血磷和低血鈣風險（答案 C 錯誤）。"
@@ -900,10 +900,10 @@ const allChapters = {
       id: 13,
       question: "（病案分析）承上題，在上述補鉀與補磷的同時，醫療團隊給予該患者靜脈注射硫酸鎂 6 g 輸注 6 小時。翌日複查其血清鎂為 2.0 mg/dL（已達正常範圍）。此時對患者補鎂的調整，下列哪項治療選擇最為合適？",
       options: [
-        "A. Give magnesium oxide 500 mg twice daily for the next few days.",
-        "B. Give magnesium sulfate 2–4 g intravenously daily for the next few days.",
-        "C. Give an additional dose of 8 g of magnesium sulfate intravenously.",
-        "D. No additional treatment is necessary."
+        "A. 接下來幾天每日兩次給予氧化鎂 500 mg。",
+        "B. 接下來幾天每日靜脈注射硫酸鎂 2-4 g。",
+        "C. 追加靜脈注射一劑 8 g 的硫酸鎂。",
+        "D. 不需要額外治療。"
       ],
       answer: "B",
       explanation: "硫酸鎂靜脈輸注後翌日檢測的血清鎂 (2.0 mg/dL) 由於尚未完全重新分佈到細胞內，會呈現假性上升。患者有長期酗酒史且胰臟炎會造成腹膜內鈣鎂皂化流失，其體內鎂庫存在嚴重虧空。完全補足細胞內鎂虧空通常需要連續 4 至 5 天的靜脈補充（硫酸鎂 2-4 g/day），因此應繼續靜脈補鎂（答案 B 正確；答案 D 錯誤）。患者 NPO，口服氧化鎂是不合適的（答案 A 錯誤）。追加 8 g 硫酸鎂過於積極，易引發高鎂血症及相關的神經肌肉阻斷風險（答案 C 錯誤）。"
@@ -912,10 +912,10 @@ const allChapters = {
       id: 14,
       question: "（病案分析）一名 24 歲男性（體重 90 kg）因多處腹部槍傷接受了十二指腸/空腸/迴腸/結腸修補術、肝臟縫合術及脾臟切除術。術後入住外傷 ICU。患者在手術期間共接受了 10 單位紅血球輸血。檢驗值：血清游離鈣（Ionized calcium） 0.86 mmol/L、鉀 4.6 mEq/L、鎂 1.8 mg/dL、肌酸酐 0.8 mg/dL，尿量 0.5 mL/kg/hour。下列哪項最可能是其低血鈣的病因？",
       options: [
-        "A. Hypomagnesemia.",
-        "B. Excessive urinary diuresis.",
-        "C. Blood transfusion.",
-        "D. Critical illness."
+        "A. 低鎂血症。",
+        "B. 過度尿液排泄。",
+        "C. 輸血。",
+        "D. 重症。"
       ],
       answer: "C",
       explanation: "雖然重症本身（答案 D）可能導致輕度低血鈣，但此患者低血鈣的最主要且最直接的病因是接受了大量輸血（10 單位紅血球）。輸注的血液製品中含有高濃度的檸檬酸鹽（Citrate，作為抗凝劑），檸檬酸鹽會強烈螯合血中的游離鈣，導致游離鈣急劇下降（答案 C 正確）。患者血清鎂為 1.8 mg/dL，處於正常低限，尚未達到會引起 end-organ 抵抗甲狀旁腺素的嚴重缺鎂程度（一般小於 1.5 mg/dL 才會引發低血鈣，答案 A 錯誤）。患者尿量為 0.5 mL/kg/hr，屬於正常低限的偏少尿，並無尿量過多流失鈣的問題（答案 B 錯誤）。"
@@ -924,10 +924,10 @@ const allChapters = {
       id: 15,
       question: "（病案分析）承上題，對於這名游離鈣顯著降低（0.86 mmol/L < 0.99 mmol/L）且術後有出血風險的 24 歲男性患者，下列哪項治療方案最為合適？",
       options: [
-        "A. Calcium gluconate 2 g intravenously for 2 hours.",
-        "B. Calcium gluconate 4 g intravenously for 4 hours.",
-        "C. Calcium chloride 1 g intravenous push for 5–10 minutes.",
-        "D. No calcium therapy necessary."
+        "A. 靜脈注射 Calcium gluconate 2 g 輸注 2 小時。",
+        "B. 靜脈注射 Calcium gluconate 4 g 輸注 4 小時。",
+        "C. 靜脈注射 Calcium chloride 1 g 緩慢推注 5-10 分鐘。",
+        "D. 不需要鈣治療。"
       ],
       answer: "B",
       explanation: "根據指引，當重症患者的游離鈣小於或等於 0.99 mmol/L 時，推薦的靜脈補鈣劑量是靜脈注射葡萄糖酸鈣 4 g 輸注 4 小時（答案 B 正確）。給予 2 g（答案 A）對於游離鈣低至 0.86 mmol/L 的患者而言劑量不足。靜脈推注氯化鈣 1 g（答案 C）由於其游離鈣釋放極快且外滲會導致嚴重組織壞死，通常僅保留於心跳驟停等心肺復甦急救情境，不適用於此常規補充。患者游離鈣顯著降低，會影響凝血功能並增加術後出血風險，必須予以糾正，密切觀察而不治療是不合適的（答案 D 錯誤）。"
@@ -936,10 +936,10 @@ const allChapters = {
       id: 16,
       question: "（病案分析）一名 60 歲女性（體重 80 kg）因嚴重腹瀉 1 週入院。患者呈現脫水表現（低血壓、心跳過速、尿量減少）且極度虛弱。檢驗值：鈉 145 mEq/L、鉀 3.0 mEq/L、氯 118 mEq/L、二氧化碳 18 mEq/L、BUN 29 mg/dL、肌酸酐 0.9 mg/dL、血糖 122 mg/dL、鈣 9.1 mg/dL、磷 3.7 mg/dL、鎂 1.4 mg/dL、白蛋白 3.9 g/dL、乳酸 1.6 mmol/L。動脈血氣 (ABG)：pH 7.29、Pco2 34 mmHg、HCO3 17 mEq/L、Base excess -5 mEq/L。她有 30 包/年吸菸史。下列哪項最符合對該患者酸鹼平衡障礙的描述？",
       options: [
-        "A. Hyperchloremic, normal AG acidosis.",
-        "B. AG acidosis.",
-        "C. AG acidosis with hyperchloremia.",
-        "D. Respiratory alkalosis with concurrent metabolic alkalosis."
+        "A. 高氯性、正常陰離子間隙 (AG) 酸中毒。",
+        "B. 陰離子間隙 (AG) 酸中毒。",
+        "C. 陰離子間隙 (AG) 酸中毒合併高氯血症。",
+        "D. 呼吸性鹼中毒合併代謝性鹼中毒。"
       ],
       answer: "A",
       explanation: "患者 pH 7.29（小於 7.35）為酸血症。Pco2 34 mmHg 偏低，而 HCO3 17 mEq/L 顯著降低，原發病因為代謝性酸中毒。計算其陰離子間隙 (AG) = 鈉 145 - (氯 118 + 二氧化碳 18) = 9 mEq/L。這落在正常 AG 範圍 (3–14 mEq/L) 內，表明其屬於正常 AG 代謝性酸中毒。結合其血清氯顯著升高（118 mEq/L，正常為 104 mEq/L），診斷為高氯性正常 AG 代謝性酸中毒（答案 A 正確；答案 B 錯誤）。這通常是由於嚴重腹瀉導致的大量重碳酸鹽從糞便中流失，進而引起腎臟保留氯離子以維持電荷平衡所致。臨床上「代謝性酸中毒合併高氯血症」雖然描述了現象，但非標準的醫學酸鹼平衡診斷術語，且未明示 AG 狀態（答案 C 錯誤）。Pco2 的降低 (34 mmHg) 是對代謝性酸中毒的正常呼吸性代償，而非原發性呼吸性鹼中毒（答案 D 錯誤）。"
@@ -948,10 +948,10 @@ const allChapters = {
       id: 17,
       question: "（病案分析）承上題，對於這名因嚴重腹瀉導致脫水、低鉀、低鎂及輕度高氯性代酸的 60 歲女性患者，下列哪項是最合適的初始靜脈補液治療？",
       options: [
-        "A. 0.45% sodium chloride with potassium chloride 20 mEq/L.",
-        "B. 0.9% sodium chloride with potassium chloride 20 mEq/L.",
-        "C. Lactated Ringer solution.",
-        "D. 5% dextrose."
+        "A. 0.45% 氯化鈉與氯化鉀 20 mEq/L。",
+        "B. 0.9% 氯化鈉與氯化鉀 20 mEq/L。",
+        "C. 乳酸林格氏液 (Lactated Ringer solution)。",
+        "D. 5% 葡萄糖。"
       ],
       answer: "C",
       explanation: "初始治療的首要目標是恢復血管內血容量以改善腎臟灌流，同時糾正酸中毒。乳酸林格氏液 (LR) 含有乳酸鹽，會在肝臟代謝為重碳酸鹽，有助於緩解高氯性代謝性酸中毒，且其氯離子濃度 (109 mEq/L) 接近生理，是此類患者的最佳初始補液（答案 C 正確）。給予 0.9% 氯化鈉（等張鹽水，答案 B）因其氯離子濃度高達 154 mEq/L，會進一步惡化患者已存在的高氯血症與酸中毒。0.45% 氯化鈉（半生理食鹽水，答案 A）是低張溶液，無法有效且快速地復甦血管內血容量，不適合作為初始復甦補液。D5W（答案 D）不含鈉和氯，會迅速分佈到細胞內，無法恢復血管內血容量，且會引發急性稀釋性低血鈉。"
@@ -960,10 +960,10 @@ const allChapters = {
       id: 18,
       question: "（病案分析）一名體重 40 kg 的女性患者因外傷入住 ICU，目前接受 PN 支持，PN 配方每日提供葡萄糖 350 g、氨基酸 160 g 及脂肪乳劑 60 g。患者目前腎功能與肝功能正常。今日晨間動脈血氣顯示：pH 7.30、Pco2 55 mmHg、Po2 96 mmHg、HCO3 31 mEq/L。過去 24 小時的指尖血糖為 180–200 mg/dL。下列哪項是目前對其 PN 調整的最佳建議？",
       options: [
-        "A. Decrease dextrose to 175 g/day, and increase lipid to 120 g/day.",
-        "B. Add 20 units of regular human insulin per day to the PN solution.",
-        "C. Decrease all the macronutrients by about one-half.",
-        "D. Increase the acetate content of the PN solution."
+        "A. 將葡萄糖降至 175 g/天，並將脂肪乳增至 120 g/天。",
+        "B. 每日在 PN 溶液中加入 20 單位常規人胰島素。",
+        "C. 將所有大分子營養素減少約一半。",
+        "D. 增加 PN 溶液中的醋酸鹽含量。"
       ],
       answer: "C",
       explanation: "該體重 40 kg 的女性患者目前的 PN 總熱量高達 2520 kcal/day (63 kcal/kg/day)，其中葡萄糖輸入速率達 6.1 mg/kg/minute，蛋白質供給量達 4.0 g/kg/day。這屬於極度嚴重的過度餵養 (Overfeeding)，導致了高血糖以及高碳酸血症（Pco2 55 mmHg 提示呼吸性酸中毒，這是由於過量熱量特別是葡萄糖代謝產生了大量二氧化碳所致）。解決此問題的唯一正確方法是消除過度餵養，將所有營養素減半（調整後約 31 kcal/kg/day，葡萄糖 3 mg/kg/minute，蛋白質 2 g/kg/day，這完全符合重症外傷患者的合理能量與蛋白質目標，答案 C 正確）。單純增加脂肪（答案 A）或加入胰島素（答案 B）無法解決超額總熱量引起的二氧化碳過度產生。增加醋酸鹽（答案 D）雖然有助於糾正代謝性酸中毒，但此患者的酸中毒是高碳酸血症引起的呼吸性酸中毒，增加醋酸鹽無法解決病因。"
@@ -972,10 +972,10 @@ const allChapters = {
       id: 19,
       question: "（病案分析）一名 60 歲男性（體重 65 kg，約為標準體重的 90%）因急性胰臟炎入院，後續併發腸麻痺與腹腔內膿瘍，給予 PN 支持。其 PN 配方每日包含葡萄糖 300 g、氨基酸 70 g 及 20% 脂肪乳劑 40 g。下列哪項最準確地計算了該配方每日所提供的總熱量與蛋白質劑量？",
       options: [
-        "A. 26 kcal/kg/day and 1.1 g/kg/day.",
-        "B. 26 kcal/kg/day and 1.5 g/kg/day.",
-        "C. 28 kcal/kg/day and 1.5 g/kg/day.",
-        "D. 30 kcal/kg/day and 1.5 g/kg/day."
+        "A. 26 kcal/kg/天 及 1.1 g/kg/天。",
+        "B. 26 kcal/kg/天 及 1.5 g/kg/天。",
+        "C. 28 kcal/kg/天 及 1.5 g/kg/天。",
+        "D. 30 kcal/kg/天 及 1.5 g/kg/天。"
       ],
       answer: "A",
       explanation: "總熱量計算：葡萄糖 300 g × 3.4 kcal/g = 1020 kcal；氨基酸 70 g × 4 kcal/g = 280 kcal；20% 脂肪乳劑 40 g 靜脈注射會提供 10 kcal/g（靜脈脂肪乳劑因含有卵磷脂和甘油，每克提供 10 kcal，而非食物脂肪的 9 kcal），即 40 g × 10 kcal/g = 400 kcal。每日總熱量 = 1020 + 280 + 400 = 1700 kcal。除以體重 65 kg = 26.15 kcal/kg/day（約 26 kcal/kg/day）。每日蛋白質劑量 = 70 g / 65 kg = 1.07 g/kg/day（約 1.1 g/kg/day）。因此，26 kcal/kg/day 與 1.1 g/kg/day 是正確的計算結果（答案 A 正確；答案 B、C、D 錯誤）。"
@@ -984,10 +984,10 @@ const allChapters = {
       id: 20,
       question: "（病案分析）承上題，該名 65 歲急性胰臟炎患者體重 65 kg，目前處於中度代謝應激狀態，且無腎功能不全。對於其每日總熱量 1700 kcal (26 kcal/kg/day) 和蛋白質 70 g (1.1 g/kg/day) 的 PN 配方，下列哪項調整建議最為合適？",
       options: [
-        "A. Increase dextrose to 400 g/day.",
-        "B. Decrease dextrose to 200 g/day.",
-        "C. Increase protein to 100 g/day.",
-        "D. Increase lipids to 70 g/day."
+        "A. 將葡萄糖增至 400 g/天。",
+        "B. 將葡萄糖降至 200 g/天。",
+        "C. 將蛋白質增至 100 g/天。",
+        "D. 將脂肪乳增至 70 g/天。"
       ],
       answer: "C",
       explanation: "中度代謝應激的重症患者，適當的能量需求為 25-30 kcal/kg/day (此患者為 1625-1950 kcal/day)，而蛋白質需求會顯著增加至 1.2-2.0 g/kg/day (此患者為 78-130 g/day)。患者目前的能量供給 (26 kcal/kg/day) 處於合理範圍，但蛋白質供給僅 1.1 g/kg/day (70 g/day)，低於推薦目標。因此，將蛋白質增加至 100 g/day（相當於 1.5 g/kg/day，這落在 1.2-2.0 範圍內，調整後總熱量為 1820 kcal，合 28 kcal/kg/day，仍處於 25-30 的安全範圍）是最適當的調整（答案 C 正確）。將葡萄糖增加至 400 g（答案 A）或將脂肪增加至 70 g（答案 D）都會使總能量供給超出 30 kcal/kg/day，引發過度餵養與高血糖風險。將葡萄糖減至 200 g（答案 B）會使總熱量降至 21 kcal/kg/day，低於能量需求下限。"
@@ -996,10 +996,10 @@ const allChapters = {
       id: 21,
       question: "（病案分析）一名 55 歲女性（體重 75 kg，無糖尿病史）在接受重大胃腸道切除術後接受 PN 支持，目前已成功脫離呼吸器並準備轉回普通病房。其 PN 配方每日包含葡萄糖 200 g、氨基酸 110 g、脂肪乳劑 80 g 及常規人胰島素 20 units，總熱量合 26 kcal/kg/day。過去 24 小時的指尖血糖為 170-210 mg/dL，血清糖為 182 mg/dL，在此期間她共接受了 14 units 的追加滑動刻度胰島素。為了達到最佳的血糖控制，下列哪項建議最為合適？",
       options: [
-        "A. Increase regular insulin to 30 units/day.",
-        "B. Decrease dextrose to 100 g/day.",
-        "C. Increase regular insulin to 50 units/day.",
-        "D. Do not change the current regimen."
+        "A. 將常規胰島素增至 30 單位/天。",
+        "B. 將葡萄糖降至 100 g/天。",
+        "C. 將常規胰島素增至 50 單位/天。",
+        "D. 不改變當前方案。"
       ],
       answer: "A",
       explanation: "轉回普通病房的患者，血糖控制目標應維持在 140-180 mg/dL 之間。患者血糖持續偏高（170-210 mg/dL），且需要追加 14 units 的皮下胰島素，表明目前的 PN 胰島素劑量（20 units）不足，維持不變是不合適的（答案 D 錯誤）。為了達到血糖控制並提供所需的熱量，最適當且最安全的方法是將前日追加劑量的約一半（即 14 × 0.7 = 10 units 左右）加入到 PN 配方中，將常規胰島素從 20 units 增加至 30 units/day（答案 A 正確）。直接增加到 50 units（答案 C）增幅過大（增加了 30 units，高於前日實際追加的 14 units），在普通病房缺乏高頻率監測的情況下，會顯著增加低血糖風險。將葡萄糖減至 100 g/day（答案 B）會使其低於人體大腦與紅血球的每日生理基本糖需求（約 130 g），會導致身體被迫分解氨基酸進行糖質新生，不符合營養支持原則。"
@@ -1010,10 +1010,10 @@ const allChapters = {
       id: 1,
       question: "K.P.，一名 38 歲先前健康的女性，因車禍導致創傷性腦損傷 (TBI) 及嚴重胸部外傷，接受了氣管插管和機械通氣。在創傷加護病房 (ICU) 待了 96 小時後，胸部 X 光片發現了新的浸潤影，且體溫升至 101.9°F (38.8°C)，白血球計數 (WBC) 為 15 x 10³ cells/mm³，並伴有肉眼可見的膿性痰。K.P. 的血液動力學穩定。因此，醫療團隊決定對受影響的肺野進行支氣管鏡下支氣管肺泡灌洗 (BAL)，以評尋呼吸器相關肺炎 (VAP)。當地的 ICU 中，MRSA 的盛行率小於 10%。下列何者是 K.P. 疑似發生 VAP 最可能的致病菌？",
       options: [
-        "A. Acinetobacter spp.",
-        "B. MRSA",
-        "C. MDR Pseudomonas aeruginosa",
-        "D. Streptococcus pneumoniae"
+        "A. 不動桿菌屬 (Acinetobacter spp.)",
+        "B. 耐甲氧西林金黃色葡萄球菌 (MRSA)",
+        "C. 多重耐藥性綠膿桿菌 (MDR Pseudomonas aeruginosa)",
+        "D. 肺炎鏈球菌 (Streptococcus pneumoniae)"
       ],
       answer: "D",
       explanation: "該患者表現為早期發生的 VAP（入院小於 5 天），且無明顯的MDRO (MDRO) 風險因子。在無其他 MDRO 風險因子的情況下，早期發生的 VAP致病菌通常為社區感染常見菌，包括S. pneumoniae、MSSA、H. influenzae 等（答案 D 正確；答案 A、B、C 錯誤）。然而，指引更新建議對所有疑似 VAP 的患者皆應考慮覆蓋Pseudomonas aeruginosa，這進一步強調了在評估 MDR 風險因子與入院時間時，了解在地 VAP 致病菌趨勢的重要性。非典型細菌很少與早期 VAP 相關。"
@@ -1358,8 +1358,8 @@ const allChapters = {
       id: 30,
       question: "[患者病例 19] T.Y. 是一名 32 歲的女性，過去 72 小時內有流感樣症狀，因嚴重疲勞、呼吸困難和發冷就診於 ED。體徵包括：心搏 120 次/分、MAP 70 mm Hg、呼吸 24 次/分、體溫 102.7°F (39.3°C)，且在室溫空氣下的血氧飽和度 (SaO₂) 為 85%。此時正值流感季節（流感 A 型和 B 型盛行率高），進行了鼻拭子快速診斷檢測以評估疑似流感感染。此後不久，T.Y. 因嚴重呼吸衰竭接受了氣管插管並收治於 MICU。除了針對 CAP 的抗生素治療外，下一步何者最值得考慮？",
       options: [
-        "A. None; the patient is outside the time window to effectively treat influenza.",
-        "B. Await rapid diagnostic test results before initiating influenza-specific therapy.",
+        "A. 無；患者已超出有效治療流感的時間窗口。",
+        "B. 在啟動流感特異性治療前，先等待快速診斷檢測結果。",
         "C. Give amantadine.",
         "D. Give oseltamivir."
       ],
@@ -1382,9 +1382,9 @@ const allChapters = {
       id: 32,
       question: "[患者病例 21] S.B. 是一名 48 歲患有重度肥胖和心臟病的女性，因頑固性低氧血症性呼吸衰竭在外院接受了緊急插管，儘管給予最大呼吸器支持。S.B. 正在接受靜脈-靜脈 ECMO 評估，並被迅速轉入 MICU。S.B. 啟動了Dexamethasone 6 mg 靜脈注射每日一次，並調整鎮痛鎮靜方案以維持深切鎮靜，預期啟動持續性神經肌肉阻斷。S.B. 正在接受去甲腎上腺素 10 mcg/minute 輸注，並持續下調以維持平均動脈壓大於 65 mm Hg。團隊正在考慮為她加用Remdesivir（該藥在貴院供應充足）。下列何者最準確地描述了目前指引對需要機械通氣的 COVID-19 患者使用Remdesivir的推薦？",
       options: [
-        "A. Shown to decrease in-hospital mortality.",
-        "B. Not recommended because of safety concerns.",
-        "C. Recommended to shorten time to clinical recovery.",
+        "A. 證實可降低院內死亡率。",
+        "B. 由於安全疑慮而不推薦。",
+        "C. 推薦用於縮短臨床康復時間。",
         "D. 對於臨床康復和死亡率的獲益尚不明確。"
       ],
       answer: "D",
@@ -1798,9 +1798,9 @@ const allChapters = {
       id: 2,
       question: "哪一個 KDIGO 分期最能準確評估 E.R. 的急性腎損傷 (AKI) 程度？",
       options: [
-        "A. Stage 1。",
-        "B. Stage 2。",
-        "C. Stage 3。",
+        "A. 第一期。",
+        "B. 第二期。",
+        "C. 第三期。",
         "D. 無法確定，因為未提供每小時尿量 (UOP)。"
       ],
       answer: "C",
@@ -1846,8 +1846,8 @@ const allChapters = {
       id: 6,
       question: "[患者病例 1] F.B. 是一名 68 歲男性（體重 70 kg），因發燒、白血球升高及急性呼吸衰竭入住 ICU，正使用去甲腎上腺素維持血壓。入院前實驗室檢查：SCr 0.9 mg/dL。今天 SCr 為 3.2 mg/dL，且自 24 小時前入院以來總尿量為 325 mL。下列哪項最能精確定義 F.B. 的急性腎損傷 (AKI) 分級？",
       options: [
-        "A. RIFLE class R。",
-        "B. AKIN stage 1。",
+        "A. RIFLE 分級 R。",
+        "B. AKIN 分期 1。",
         "C. RIFLE class F 或 AKIN stage 3。",
         "D. RIFLE class E 或 AKIN stage 3。"
       ],
@@ -2598,10 +2598,10 @@ const allChapters = {
       id: 9,
       question: "[患者病例 1] 一名 25 歲女性因過量服用Acetaminophen被送至急診。目前服藥確切時間未知，其血清Acetaminophen濃度低於檢測下限，但 ALT/AST 顯著升至 3500/2500 IU/L，且患者表現出明顯的胡言亂語與意識混亂。其他指標包括：總膽紅素 3.0 mg/dL，血小板 90,000 /mm³，INR 2.6。下列哪項最符合將該患者診斷為Acetaminophen誘導性「ALF」的必備要件？",
       options: [
-        "A. Jaundice Encephalopathy。",
-        "B. Thrombocytopenia Encephalopathy。",
-        "C. Coagulopathy Encephalopathy。",
-        "D. Leukocytosis Encephalopathy。"
+        "A. 黃疸性腦病變。",
+        "B. 血小板低下性腦病變。",
+        "C. 凝血功能障礙性腦病變。",
+        "D. 白血球增多性腦病變。"
       ],
       answer: "C",
       explanation: "根據指引，ALF 的核心診斷條件為：1. 存在Coagulopathy（定義為 INR &gt;= 1.5）；2. 伴隨任何程度的意識狀態改變（腦病變）；3. 無先前存在的慢性肝病。雖然Jaundice、Thrombocytopenia與Leukocytosis在 ALF 中很常見，但它們不是診斷的必要特徵（答案 C 正確；答案 A、B、D 錯誤）。"
@@ -2904,9 +2904,9 @@ const allChapters = {
       id: 2,
       question: "承上題，下列哪一個變數最可能是導致患者終端器官Do2 受損的主因？",
       options: [
-        "A. Serum lactate",
-        "B. Atrial fibrillation",
-        "C. AKI (Acute kidney injury)",
+        "A. 血清乳酸",
+        "B. 心房顫動",
+        "C. AKI (急性腎損傷)",
         "D. 發燒"
       ],
       answer: "B",
@@ -2916,10 +2916,10 @@ const allChapters = {
       id: 3,
       question: "一位62歲女性（體重 119 kg）在主動脈瓣置換手術後因長期插管併發 ventilator-associated pneumonia，隨後惡化為 septic shock。她已接受 2 L 的 0.9% sodium chloride 和 1 L 的 5% albumin 進行輸液復甦，並開始輸注 Norepinephrine. 其實驗室數值如下：鈉 144 mEq/L，氯 110 mEq/L，鉀 3.8 mEq/L，碳酸氫根 18 mEq/L，SCr 1.8 mg/dL，動脈 pH 7.28，白蛋白 3.2 g/dL。評估後確認患者仍具有輸液反應性 (fluid responsive)，若您想再給予一次靜脈輸液，下列哪種液體最適合？",
       options: [
-        "A. 0.9% sodium chloride",
-        "B. 5% albumin",
-        "C. 6% hydroxyethyl starch",
-        "D. Lactated Ringer's solution"
+        "A. 0.9% 生理食鹽水",
+        "B. 5% 白蛋白",
+        "C. 6% 羥乙基澱粉",
+        "D. 乳酸林格氏液 (Lactated Ringer's solution)"
       ],
       answer: "D",
       explanation: "患者的實驗室數值顯示存在高氯血症（氯 110 mEq/L）與代謝性Hydrogen ion（碳酸氫根 18 mEq/L，pH 7.28），這很可能是先前輸入大量高氯液體（0.9% sodium chloride）所引起。在此情況下，應避免繼續使用高氯的 0.9% sodium chloride（答案 A），首選等張且氯含量較低的平衡晶體溶液，例如 Lactated Ringer's solution（答案 D 正確），以防止Hydrogen ion進一步惡化並減少AKI風險。5% albumin（答案 B）在此時並非首選，因為患者尚未接受足夠量的晶體液，且 Albumin 成本高、並未證實比晶體液有更好的療效；6% hydroxyethyl starch（答案 C）在重症患者中因會顯著增加腎臟替代治療需求與死亡率，已被指引列為禁用。"
@@ -2941,7 +2941,7 @@ const allChapters = {
       question: "一位82歲男性因小腸梗阻併發糞便性腹膜炎與低血壓，在接受剖腹探查術與小腸切除術後入住外科 ICU。他在手術室中已接受 2 L 的 Lactated Ringer's solution、500 mL 的 5% albumin 和 500 mL 的 6% hydroxyethyl starch 復甦，但未開始使用血管活性藥物。患者目前仍氣管插管並使用呼吸器（Fio2 90%），生命徵象如下：心率 131 次/分，動脈導管測得 MAP 為 62 mm Hg，呼吸速率 22 次/分，體溫 100.8°F (38.2°C)。動脈血氣分析顯示Lactate為 5.2 mmol/L。PPV 監測顯示為 18%。患者置有右股靜脈中央靜脈導管。下列哪項後續處置最為適當？",
       options: [
         "A. 給予 1 L 的 Lactated Ringer's solution",
-        "B. PLR test",
+        "B. PLR 試驗",
         "C. CVP",
         "D. 抽取中央靜脈血氣分析以評估 Scvo2"
       ],
@@ -3158,10 +3158,10 @@ const allChapters = {
       id: 6,
       question: "【背景案列】78歲男性有酒精性肝硬化和門脈高壓病史，在接受靜脈曲張出血治療（現已穩定）和呼吸衰竭後入住 ICU。入院五天後，他出現低氧血症（Pao2 78%），需要調高呼吸器的 Fio2。胸部電腦斷層血管造影 (CTA) 顯示主肺動脈分叉處有多個充盈缺損，提示為「鞍狀」Thrombosis, pulmonary (Saddle PE)。他的心率為 142 次/分（竇性心搏過速），血壓為 97/62 mm Hg，體重為 87 kg。ECHO (TTE) 顯示右心室 (RV) 運動減弱和三尖瓣反流。其心肌鈣蛋白 I (0.6 ng/mL) 和鈣蛋白 T (0.2 ng/mL) 均為陽性。根據臨床評估，該患者的Thrombosis, pulmonary (PE) 應屬於哪一種類別？",
       options: [
-        "A. High risk",
-        "B. Intermediate-high risk",
-        "C. Intermediate-low risk",
-        "D. Low risk"
+        "A. 高風險",
+        "B. 中高風險",
+        "C. 中低風險",
+        "D. 低風險"
       ],
       answer: "B",
       explanation: "該患者雖然有鞍狀 PE 且伴有明顯右心 strain（心室運動減弱、心率 142 次/分），但他目前的血壓仍能維持（97/62 mm Hg，SBP > 90 mm Hg），無持續性低血壓或休克，因此排除了High risk PE (High risk / massive PE，答案 A)。然而，他同時具備了右心室功能障礙（TTE 顯示 RV 運動減弱）以及心肌壞死生化指標陽性（Troponin 陽性）這兩個關鍵指標。根據指引，同時具備右心功能障礙與心肌損傷指標的血流動力學穩定 PE 患者，被歸類為Intermediate-high risk PE (Intermediate-high risk PE，答案 B 正確)。"
@@ -3267,10 +3267,10 @@ const allChapters = {
       id: 15,
       question: "B.P. 是一位76歲男性（體重 120 kg），有心房顫動且長期服用 Warfarin 治療。他因弱和吐血被送往急診。生命徵象如下：血壓 79/52 mm Hg，心率 136 次/分，呼吸速率 26 次/分。鼻胃管洗胃見鮮紅色血液，患者意識混亂、四肢冰冷。實驗室數值為：Hgb 6.3 g/dL，INR 9.2，血小板 300,000/mm³。除了給予靜脈 Phytonadione 外，下列何者最適合用來逆轉該患者的 Warfarin 效應？",
       options: [
-        "A. 4F-PCC 1000 units",
-        "B. 4F-PCC 5000 units",
+        "A. 4F-PCC 1000 單位",
+        "B. 4F-PCC 5000 單位",
         "C. rFVIIa 1-mg 靜脈推注",
-        "D. 4F-PCC 6000 units"
+        "D. 4F-PCC 6000 單位"
       ],
       answer: "B",
       explanation: "B.P. 呈現 Warfarin 引起的 Supratherapeutic INR (9.2) 大出血與不穩定血流動力學 (79/52 mm Hg)，需要立即逆轉。根據指引，逆轉 Warfarin 的首選血品/藥物是 4F-PCC (Kcentra)。其劑量取決於患者體重與初始 INR。當 INR > 6 且患者體重 > 100 kg 時，推薦劑量為 50 units/kg。對此體重 120 kg 的患者，計算劑量為 50 × 120 = 6000 units。然而，指引與說明書明確規定了單次給藥的最大上限值為 5000 units（答案 B 正確，答案 D 錯誤）。固定低劑量 1000 units（答案 A）在此類高 INR、High risk 大出血患者中無法達到迅速且完全的逆轉效果；rFVIIa（答案 C）不推薦用於 Warfarin 的常規逆轉。"
