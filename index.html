@@ -52,6 +52,9 @@
             <button id="btn-exam" class="mode-tab" data-mode="exam">
               <span class="icon">⏱️</span><span class="tab-text">測驗模式</span>
             </button>
+            <button id="btn-wrong" class="mode-tab" data-mode="wrong">
+              <span class="icon">❌</span><span class="tab-text">錯題本</span><span id="wrong-badge-count" class="badge-count hidden">0</span>
+            </button>
             <button id="btn-highlights" class="mode-tab" data-mode="highlights">
               <span class="icon">📝</span><span class="tab-text">重點整理</span>
             </button>
@@ -180,6 +183,34 @@
         </div>
         <div id="review-list" class="review-list">
           <!-- All exam questions with user answers & explanations rendered here -->
+        </div>
+      </div>
+
+      <!-- Wrong Questions Screen -->
+      <div id="wrong-screen" class="screen">
+        <div class="wrong-header-card">
+          <div class="wrong-header-info">
+            <h2>個人錯題本</h2>
+            <p class="wrong-subtitle">自動記錄練習與測驗中答錯的題目，方便集中複習。</p>
+          </div>
+          <div class="wrong-actions">
+            <button id="btn-start-wrong-quiz" class="nav-btn btn-primary">
+              <span class="icon">🎯</span> 專項重測錯題
+            </button>
+            <button id="btn-clear-wrong" class="nav-btn btn-secondary btn-danger">
+              <span class="icon">🗑️</span> 清空錯題本
+            </button>
+          </div>
+        </div>
+        
+        <div id="wrong-empty-state" class="wrong-empty-state hidden">
+          <div class="empty-icon">🎉</div>
+          <h3>太棒了！目前沒有累積的錯題</h3>
+          <p>繼續保持！在練習或測驗中答錯的題目會自動出現在這裡。</p>
+        </div>
+
+        <div id="wrong-list" class="wrong-list">
+          <!-- Wrong question cards rendered here -->
         </div>
       </div>
 
