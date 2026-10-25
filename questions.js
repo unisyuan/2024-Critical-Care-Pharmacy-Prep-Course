@@ -443,7 +443,7 @@ const allChapters = {
     },
     {
       "id": 10,
-      "question": "【臨床案例】您是內科加護病房（medical ICU）的重症藥師，希望回溯性研究四因子凝血酶原複合濃縮物（four-factor prothrombin complex concentrate, 4F-PCC）用於末期肝病（end-stage liver disease）病人矯正凝血病變的安全性與療效。您決定的主要結果（primary outcome）為院內死亡率（in-hospital mortality），次要結果為 國際標準化比值（international normalized ratio, INR）矯正、黏彈性檢測（viscoelastic test）矯正以及血栓事件（thrombotic events）。\n\n下列何者最可能是適合本研究的試驗設計？",
+      "question": "您是內科加護病房（medical ICU）的重症藥師，希望回溯性研究四因子凝血酶原複合濃縮物（four-factor prothrombin complex concentrate, 4F-PCC）用於末期肝病（end-stage liver disease）病人矯正凝血病變的安全性與療效。您決定的主要結果（primary outcome）為院內死亡率（in-hospital mortality），次要結果為 國際標準化比值（international normalized ratio, INR）矯正、黏彈性檢測（viscoelastic test）矯正以及血栓事件（thrombotic events）。\n\n下列何者最可能是適合本研究的試驗設計？",
       "options": [
         "A. 病例對照研究（Case-control）。",
         "B. 世代研究（Cohort）。",
@@ -462,7 +462,7 @@ const allChapters = {
     },
     {
       "id": 11,
-      "question": "【臨床案例】您是內科加護病房（medical ICU）的重症藥師，希望回溯性研究四因子凝血酶原複合濃縮物（four-factor prothrombin complex concentrate, 4F-PCC）用於末期肝病（end-stage liver disease）病人矯正凝血病變的安全性與療效。您決定的主要結果（primary outcome）為院內死亡率（in-hospital mortality），次要結果為 國際標準化比值（international normalized ratio, INR）矯正、黏彈性檢測（viscoelastic test）矯正以及血栓事件（thrombotic events）。\n\n下列哪一項因素會在本研究中造成最高的偏差風險（highest risk of bias）？",
+      "question": "您是內科加護病房（medical ICU）的重症藥師，希望回溯性研究四因子凝血酶原複合濃縮物（four-factor prothrombin complex concentrate, 4F-PCC）用於末期肝病（end-stage liver disease）病人矯正凝血病變的安全性與療效。您決定的主要結果（primary outcome）為院內死亡率（in-hospital mortality），次要結果為 國際標準化比值（international normalized ratio, INR）矯正、黏彈性檢測（viscoelastic test）矯正以及血栓事件（thrombotic events）。\n\n下列哪一項因素會在本研究中造成最高的偏差風險（highest risk of bias）？",
       "options": [
         "A. 選擇偏差（Selection bias） — 在您的機構中，通常只有正在出血的病人才會接受 4F-PCC。",
         "B. 測量偏差（Measurement bias） — 由多名學生與一名藥學住院醫師為本研究收集數據。",
@@ -481,7 +481,7 @@ const allChapters = {
     },
     {
       "id": 12,
-      "question": "【臨床案例】貴機構的神經外科醫師團隊希望您協助評估前降鈣素（procalcitonin）在區分神經源性發燒（neurogenic fevers）與真正感染性發燒病因上的實用性。該研究的另一個目標是評估前降鈣素陽性與陰性數值的危險因子與可能的干擾因子（confounders）。您決定將預測切點（predictive cutoff）設為 0.5 ng/mL （陽性為 0.5 ng/mL 或更高；陰性為小於 0.5 ng/mL）。\n\n若要評估前降鈣素陽性與陰性病人之間的肌酸酐清除率（creatinine clearance, mL/min）是否有任何差異，下列哪一種統計檢定最為適當？",
+      "question": "貴機構的神經外科醫師團隊希望您協助評估前降鈣素（procalcitonin）在區分神經源性發燒（neurogenic fevers）與真正感染性發燒病因上的實用性。該研究的另一個目標是評估前降鈣素陽性與陰性數值的危險因子與可能的干擾因子（confounders）。您決定將預測切點（predictive cutoff）設為 0.5 ng/mL （陽性為 0.5 ng/mL 或更高；陰性為小於 0.5 ng/mL）。\n\n若要評估前降鈣素陽性與陰性病人之間的肌酸酐清除率（creatinine clearance, mL/min）是否有任何差異，下列哪一種統計檢定最為適當？",
       "options": [
         "A. 卡方檢定（Chi-square）。",
         "B. Wilcoxon 符號等級檢定（Wilcoxon signed rank）。",
@@ -500,7 +500,7 @@ const allChapters = {
     },
     {
       "id": 13,
-      "question": "【臨床案例】貴機構的神經外科醫師團隊希望您協助評估前降鈣素（procalcitonin）在區分神經源性發燒（neurogenic fevers）與真正感染性發燒病因上的實用性。該研究的另一個目標是評估前降鈣素陽性與陰性數值的危險因子與可能的干擾因子（confounders）。您決定將預測切點（predictive cutoff）設為 0.5 ng/mL （陽性為 0.5 ng/mL 或更高；陰性為小於 0.5 ng/mL）。\n\n在存在可能干擾因子（confounders）的情況下，若要確定前降鈣素陽性與真正感染之間的獨立關聯性（independent association），下列哪一種統計檢定最為適當？",
+      "question": "貴機構的神經外科醫師團隊希望您協助評估前降鈣素（procalcitonin）在區分神經源性發燒（neurogenic fevers）與真正感染性發燒病因上的實用性。該研究的另一個目標是評估前降鈣素陽性與陰性數值的危險因子與可能的干擾因子（confounders）。您決定將預測切點（predictive cutoff）設為 0.5 ng/mL （陽性為 0.5 ng/mL 或更高；陰性為小於 0.5 ng/mL）。\n\n在存在可能干擾因子（confounders）的情況下，若要確定前降鈣素陽性與真正感染之間的獨立關聯性（independent association），下列哪一種統計檢定最為適當？",
       "options": [
         "A. 線性迴歸（Linear regression）。",
         "B. 邏輯斯迴歸（Logistic regression）。",
@@ -519,7 +519,7 @@ const allChapters = {
     },
     {
       "id": 14,
-      "question": "【臨床案例】貴機構的神經外科醫師團隊希望您協助評估前降鈣素（procalcitonin）在區分神經源性發燒（neurogenic fevers）與真正感染性發燒病因上的實用性。該研究的另一個目標是評估前降鈣素陽性與陰性數值的危險因子與可能的干擾因子（confounders）。您決定將預測切點（predictive cutoff）設為 0.5 ng/mL （陽性為 0.5 ng/mL 或更高；陰性為小於 0.5 ng/mL）。\n\n您納入了 201 名真正有感染的病人與 200 名未感染的病人。在 201 名有感染的病人中， 189 名前降鈣素呈陽性， 12 名呈陰性。在 200 名無感染的病人中， 100 名前降鈣素呈陽性， 100 名呈陰性。下列何者最能準確描述前降鈣素在此族群中的敏感度（sensitivity）與特異度（specificity）？",
+      "question": "貴機構的神經外科醫師團隊希望您協助評估前降鈣素（procalcitonin）在區分神經源性發燒（neurogenic fevers）與真正感染性發燒病因上的實用性。該研究的另一個目標是評估前降鈣素陽性與陰性數值的危險因子與可能的干擾因子（confounders）。您決定將預測切點（predictive cutoff）設為 0.5 ng/mL （陽性為 0.5 ng/mL 或更高；陰性為小於 0.5 ng/mL）。\n\n您納入了 201 名真正有感染的病人與 200 名未感染的病人。在 201 名有感染的病人中， 189 名前降鈣素呈陽性， 12 名呈陰性。在 200 名無感染的病人中， 100 名前降鈣素呈陽性， 100 名呈陰性。下列何者最能準確描述前降鈣素在此族群中的敏感度（sensitivity）與特異度（specificity）？",
       "options": [
         "A. 94% 敏感度與 89% 特異度。",
         "B. 65% 敏感度與 89% 特異度。",
@@ -538,7 +538,7 @@ const allChapters = {
     },
     {
       "id": 15,
-      "question": "【臨床案例】您正在閱讀一項評估使用 hydrocortisone 對比安慰劑，於收案 3 天後降低 急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）病人 C- 反應蛋白（C- reactive protein, CRP）的研究。作者推論，假設基準濃度為 35 mg/L 且 α 水準為 0.05，他們需要納入 100 名病人才能達到 90% 的檢定力（power）以發現 CRP 下降 10 mg/L。他們最終在 hydrocortisone 組納入了 50 名病人，在安慰劑組納入了 51 名病人。介入組與安慰劑組的 CRP 濃度中位數 [ 四分位距 ] 分別為 23 [19–31] 與 29 [20–40] （p<0.05）。介入組與安慰劑組達到 CRP 下降至少 10 mg/L 的病人百分比分別為 15% 與 18% （p>0.05）。\n\n在判讀此研究的效度（validity）時，您最大的疑慮為何？",
+      "question": "您正在閱讀一項評估使用 hydrocortisone 對比安慰劑，於收案 3 天後降低 急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）病人 C- 反應蛋白（C- reactive protein, CRP）的研究。作者推論，假設基準濃度為 35 mg/L 且 α 水準為 0.05，他們需要納入 100 名病人才能達到 90% 的檢定力（power）以發現 CRP 下降 10 mg/L。他們最終在 hydrocortisone 組納入了 50 名病人，在安慰劑組納入了 51 名病人。介入組與安慰劑組的 CRP 濃度中位數 [ 四分位距 ] 分別為 23 [19–31] 與 29 [20–40] （p<0.05）。介入組與安慰劑組達到 CRP 下降至少 10 mg/L 的病人百分比分別為 15% 與 18% （p>0.05）。\n\n在判讀此研究的效度（validity）時，您最大的疑慮為何？",
       "options": [
         "A. 該研究未達到統計檢定力（statistical power）。",
         "B. 樣本數太小，無法提供代表該疾病狀態的族群。",
@@ -557,7 +557,7 @@ const allChapters = {
     },
     {
       "id": 16,
-      "question": "【臨床案例】您正在閱讀一項評估使用 hydrocortisone 對比安慰劑，於收案 3 天後降低 急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）病人 C- 反應蛋白（C- reactive protein, CRP）的研究。作者推論，假設基準濃度為 35 mg/L 且 α 水準為 0.05，他們需要納入 100 名病人才能達到 90% 的檢定力（power）以發現 CRP 下降 10 mg/L。他們最終在 hydrocortisone 組納入了 50 名病人，在安慰劑組納入了 51 名病人。介入組與安慰劑組的 CRP 濃度中位數 [ 四分位距 ] 分別為 23 [19–31] 與 29 [20–40] （p<0.05）。介入組與安慰劑組達到 CRP 下降至少 10 mg/L 的病人百分比分別為 15% 與 18% （p>0.05）。\n\n在此研究中，達到 CRP 下降至少 10 mg/L 的益一需治人數（number needed to treat, NNT）最接近下列何者？",
+      "question": "您正在閱讀一項評估使用 hydrocortisone 對比安慰劑，於收案 3 天後降低 急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）病人 C- 反應蛋白（C- reactive protein, CRP）的研究。作者推論，假設基準濃度為 35 mg/L 且 α 水準為 0.05，他們需要納入 100 名病人才能達到 90% 的檢定力（power）以發現 CRP 下降 10 mg/L。他們最終在 hydrocortisone 組納入了 50 名病人，在安慰劑組納入了 51 名病人。介入組與安慰劑組的 CRP 濃度中位數 [ 四分位距 ] 分別為 23 [19–31] 與 29 [20–40] （p<0.05）。介入組與安慰劑組達到 CRP 下降至少 10 mg/L 的病人百分比分別為 15% 與 18% （p>0.05）。\n\n在此研究中，達到 CRP 下降至少 10 mg/L 的益一需治人數（number needed to treat, NNT）最接近下列何者？",
       "options": [
         "A. 34。",
         "B. 17。",
@@ -884,7 +884,7 @@ const allChapters = {
   "4": [
     {
       "id": 1,
-      "question": "【臨床案例】貴機構希望評估將 coagulation factor Xa （recombinant）, inactivated-zhzo （andexanet alfa）納入處方集，用於逆轉直接口服抗凝血劑（direct oral anticoagulants, DOACs）。\n\n下列何者最能描述此藥物所屬的成本類型？",
+      "question": "貴機構希望評估將 coagulation factor Xa （recombinant）, inactivated-zhzo （andexanet alfa）納入處方集，用於逆轉直接口服抗凝血劑（direct oral anticoagulants, DOACs）。\n\n下列何者最能描述此藥物所屬的成本類型？",
       "options": [
         "A. 固定醫療成本（Fixed medical）。",
         "B. 變動醫療成本（Variable medical）。",
@@ -903,7 +903,7 @@ const allChapters = {
     },
     {
       "id": 2,
-      "question": "【臨床案例】貴機構希望評估將 coagulation factor Xa （recombinant）, inactivated-zhzo （andexanet alfa）納入處方集，用於逆轉直接口服抗凝血劑（direct oral anticoagulants, DOACs）。\n\n貴機構希望運用藥物經濟學數據，評估此藥物相較於凝血酶原複合濃縮物（prothrombin complex concentrate, PCC）在神經學失能（neurologic disability）與成本上的影響。在文獻中尋找下列哪一種分析最佳？",
+      "question": "貴機構希望評估將 coagulation factor Xa （recombinant）, inactivated-zhzo （andexanet alfa）納入處方集，用於逆轉直接口服抗凝血劑（direct oral anticoagulants, DOACs）。\n\n貴機構希望運用藥物經濟學數據，評估此藥物相較於凝血酶原複合濃縮物（prothrombin complex concentrate, PCC）在神經學失能（neurologic disability）與成本上的影響。在文獻中尋找下列哪一種分析最佳？",
       "options": [
         "A. 成本利益分析（Cost-benefit）。",
         "B. 成本效益分析（Cost-effectiveness）。",
@@ -960,7 +960,7 @@ const allChapters = {
     },
     {
       "id": 5,
-      "question": "【臨床案例】身為貴機構內科 加護病房（intensive care unit, ICU）的新任藥師，您受命改善 ICU 內的用藥安全。您已研讀了 2017 年美國重症醫學會（Society of Critical Care Medicine, SCCM）的《 ICU 安全用藥指引》 （Guidelines for Safe Medication Use in the ICU），並準備向跨領域重症照護委員會提出您的改善建議。\n\n根據該指引建議的證據分級系統，考量建議強度（strength of recommendation），下列何者是改善用藥安全最佳的初步建議？",
+      "question": "身為貴機構內科 加護病房（intensive care unit, ICU）的新任藥師，您受命改善 ICU 內的用藥安全。您已研讀了 2017 年美國重症醫學會（Society of Critical Care Medicine, SCCM）的《 ICU 安全用藥指引》 （Guidelines for Safe Medication Use in the ICU），並準備向跨領域重症照護委員會提出您的改善建議。\n\n根據該指引建議的證據分級系統，考量建議強度（strength of recommendation），下列何者是改善用藥安全最佳的初步建議？",
       "options": [
         "A. 完全整合機構的電子病歷（EHR）系統以改善溝通。",
         "B. 將中斷式臨床決策支持（interruptive clinical decision support, CDS）整合至 EHR 中。",
@@ -979,7 +979,7 @@ const allChapters = {
     },
     {
       "id": 6,
-      "question": "【臨床案例】身為貴機構內科 加護病房（intensive care unit, ICU）的新任藥師，您受命改善 ICU 內的用藥安全。您已研讀了 2017 年美國重症醫學會（Society of Critical Care Medicine, SCCM）的《 ICU 安全用藥指引》 （Guidelines for Safe Medication Use in the ICU），並準備向跨領域重症照護委員會提出您的改善建議。\n\n在貴機構將您的建議整合至常規醫療照護後，一位曾住院的病人建議應讓病人及其他照護者參與減少用藥疏失的過程。根據現有文獻，下列何者最能支持這項建議？",
+      "question": "身為貴機構內科 加護病房（intensive care unit, ICU）的新任藥師，您受命改善 ICU 內的用藥安全。您已研讀了 2017 年美國重症醫學會（Society of Critical Care Medicine, SCCM）的《 ICU 安全用藥指引》 （Guidelines for Safe Medication Use in the ICU），並準備向跨領域重症照護委員會提出您的改善建議。\n\n在貴機構將您的建議整合至常規醫療照護後，一位曾住院的病人建議應讓病人及其他照護者參與減少用藥疏失的過程。根據現有文獻，下列何者最能支持這項建議？",
       "options": [
         "A. 2017 年 美國重症醫學會（Society of Critical Care Medicine, SCCM）指引強烈建議將此做法整合至常規照護中。",
         "B. 醫院內 加護病房（intensive care unit, ICU）以外的其他區域提供了支持此項整合的數據。",
@@ -1093,7 +1093,7 @@ const allChapters = {
     },
     {
       "id": 12,
-      "question": "【臨床案例】M.S. 是一名居住在護理之家的 77 歲病人，過去 3 個月每天服用 lisinopril 10 mg。他因 lisinopril 引起的血管性水腫（angioedema）入住 加護病房（intensive care unit, ICU），就診時表現出嚴重的舌頭腫脹、喘鳴（stridor）與呼吸急促，需要緊急進行氣管切開術（tracheotomy）。他過去無任何過敏史，且未曾漏服任何一劑 lisinopril。\n\n下列何者最能準確描述此病人對 lisinopril 的反應？",
+      "question": "M.S. 是一名居住在護理之家的 77 歲病人，過去 3 個月每天服用 lisinopril 10 mg。他因 lisinopril 引起的血管性水腫（angioedema）入住 加護病房（intensive care unit, ICU），就診時表現出嚴重的舌頭腫脹、喘鳴（stridor）與呼吸急促，需要緊急進行氣管切開術（tracheotomy）。他過去無任何過敏史，且未曾漏服任何一劑 lisinopril。\n\n下列何者最能準確描述此病人對 lisinopril 的反應？",
       "options": [
         "A. 藥物不良事件（adverse drug event, ADE）。",
         "B. 可預防的藥物不良事件（Preventable ADE）。",
@@ -1112,7 +1112,7 @@ const allChapters = {
     },
     {
       "id": 13,
-      "question": "【臨床案例】M.S. 是一名居住在護理之家的 77 歲病人，過去 3 個月每天服用 lisinopril 10 mg。他因 lisinopril 引起的血管性水腫（angioedema）入住 加護病房（intensive care unit, ICU），就診時表現出嚴重的舌頭腫脹、喘鳴（stridor）與呼吸急促，需要緊急進行氣管切開術（tracheotomy）。他過去無任何過敏史，且未曾漏服任何一劑 lisinopril。\n\n下列何者最能準確分類此病人對 lisinopril 之 藥物不良事件（adverse drug event, ADE）的嚴重度？",
+      "question": "M.S. 是一名居住在護理之家的 77 歲病人，過去 3 個月每天服用 lisinopril 10 mg。他因 lisinopril 引起的血管性水腫（angioedema）入住 加護病房（intensive care unit, ICU），就診時表現出嚴重的舌頭腫脹、喘鳴（stridor）與呼吸急促，需要緊急進行氣管切開術（tracheotomy）。他過去無任何過敏史，且未曾漏服任何一劑 lisinopril。\n\n下列何者最能準確分類此病人對 lisinopril 之 藥物不良事件（adverse drug event, ADE）的嚴重度？",
       "options": [
         "A. 輕度（Mild）。",
         "B. 中度（Moderate）。",
@@ -1131,7 +1131,7 @@ const allChapters = {
     },
     {
       "id": 14,
-      "question": "【臨床案例】貴機構正在考慮將 angiotensin II （ATII）納入醫院處方集。 Angiotensin II 是一種非兒茶酚胺類升壓劑（non- catecholamine vasopressor），在 ATHOS-3 試驗發表後獲 美國食品藥物管理局（Food and Drug Administration, FDA）核准用於提升分佈性休克（distributive shock）病人的血壓。該試驗在病人已接受特定高劑量升壓劑後，比較靜脈輸注 ATII 與安慰劑，結果顯示接受 ATII 的病人比安慰劑組更常達到血行動力學目標，但在死亡率或安全性結果上並無差異。貴院目前的處方集包含兒茶酚胺類升壓劑與 vasopressin。貴機構特別關注的是 ATII 治療的高昂成本以及對處方集使用限制的遵循度。\n\n在為新增 ATII 撰寫藥物評估專論（drug evaluation monograph）時，納入下列哪一項建議最為適當？",
+      "question": "貴機構正在考慮將 angiotensin II （ATII）納入醫院處方集。 Angiotensin II 是一種非兒茶酚胺類升壓劑（non- catecholamine vasopressor），在 ATHOS-3 試驗發表後獲 美國食品藥物管理局（Food and Drug Administration, FDA）核准用於提升分佈性休克（distributive shock）病人的血壓。該試驗在病人已接受特定高劑量升壓劑後，比較靜脈輸注 ATII 與安慰劑，結果顯示接受 ATII 的病人比安慰劑組更常達到血行動力學目標，但在死亡率或安全性結果上並無差異。貴院目前的處方集包含兒茶酚胺類升壓劑與 vasopressin。貴機構特別關注的是 ATII 治療的高昂成本以及對處方集使用限制的遵循度。\n\n在為新增 ATII 撰寫藥物評估專論（drug evaluation monograph）時，納入下列哪一項建議最為適當？",
       "options": [
         "A. 將 vasopressin 從醫院處方集中移除，以為 ATII 騰出空間。",
         "B. 加入「 ATII 可降低分佈性休克病人死亡率」的聲明。",
@@ -1150,7 +1150,7 @@ const allChapters = {
     },
     {
       "id": 15,
-      "question": "【臨床案例】貴機構正在考慮將 angiotensin II （ATII）納入醫院處方集。 Angiotensin II 是一種非兒茶酚胺類升壓劑（non- catecholamine vasopressor），在 ATHOS-3 試驗發表後獲 美國食品藥物管理局（Food and Drug Administration, FDA）核准用於提升分佈性休克（distributive shock）病人的血壓。該試驗在病人已接受特定高劑量升壓劑後，比較靜脈輸注 ATII 與安慰劑，結果顯示接受 ATII 的病人比安慰劑組更常達到血行動力學目標，但在死亡率或安全性結果上並無差異。貴院目前的處方集包含兒茶酚胺類升壓劑與 vasopressin。貴機構特別關注的是 ATII 治療的高昂成本以及對處方集使用限制的遵循度。\n\n在考慮將 ATII 納入處方集時，考量貴機構的下列哪一項特徵最為重要？",
+      "question": "貴機構正在考慮將 angiotensin II （ATII）納入醫院處方集。 Angiotensin II 是一種非兒茶酚胺類升壓劑（non- catecholamine vasopressor），在 ATHOS-3 試驗發表後獲 美國食品藥物管理局（Food and Drug Administration, FDA）核准用於提升分佈性休克（distributive shock）病人的血壓。該試驗在病人已接受特定高劑量升壓劑後，比較靜脈輸注 ATII 與安慰劑，結果顯示接受 ATII 的病人比安慰劑組更常達到血行動力學目標，但在死亡率或安全性結果上並無差異。貴院目前的處方集包含兒茶酚胺類升壓劑與 vasopressin。貴機構特別關注的是 ATII 治療的高昂成本以及對處方集使用限制的遵循度。\n\n在考慮將 ATII 納入處方集時，考量貴機構的下列哪一項特徵最為重要？",
       "options": [
         "A. 來自 ATHOS-3 試驗顯示其臨床療效優於其他 美國食品藥物管理局（Food and Drug Administration, FDA）核准藥物的數據。",
         "B. 貴院遇到需要使用多種升壓劑來處置分佈性休克病人的頻率（How often you encounter patients who require several vasopressors for management of distributive shock）。",
@@ -1169,7 +1169,7 @@ const allChapters = {
     },
     {
       "id": 16,
-      "question": "【臨床案例】貴機構正在考慮將 angiotensin II （ATII）納入醫院處方集。 Angiotensin II 是一種非兒茶酚胺類升壓劑（non- catecholamine vasopressor），在 ATHOS-3 試驗發表後獲 美國食品藥物管理局（Food and Drug Administration, FDA）核准用於提升分佈性休克（distributive shock）病人的血壓。該試驗在病人已接受特定高劑量升壓劑後，比較靜脈輸注 ATII 與安慰劑，結果顯示接受 ATII 的病人比安慰劑組更常達到血行動力學目標，但在死亡率或安全性結果上並無差異。貴院目前的處方集包含兒茶酚胺類升壓劑與 vasopressin。貴機構特別關注的是 ATII 治療的高昂成本以及對處方集使用限制的遵循度。\n\n在向 P&T 委員會報告後， Angiotensin II 於去年 12 月獲得貴機構核准納入處方集。下列哪一個月份最適合完成第一次的藥物使用評估（medication-use evaluation, MUE）？",
+      "question": "貴機構正在考慮將 angiotensin II （ATII）納入醫院處方集。 Angiotensin II 是一種非兒茶酚胺類升壓劑（non- catecholamine vasopressor），在 ATHOS-3 試驗發表後獲 美國食品藥物管理局（Food and Drug Administration, FDA）核准用於提升分佈性休克（distributive shock）病人的血壓。該試驗在病人已接受特定高劑量升壓劑後，比較靜脈輸注 ATII 與安慰劑，結果顯示接受 ATII 的病人比安慰劑組更常達到血行動力學目標，但在死亡率或安全性結果上並無差異。貴院目前的處方集包含兒茶酚胺類升壓劑與 vasopressin。貴機構特別關注的是 ATII 治療的高昂成本以及對處方集使用限制的遵循度。\n\n在向 P&T 委員會報告後， Angiotensin II 於去年 12 月獲得貴機構核准納入處方集。下列哪一個月份最適合完成第一次的藥物使用評估（medication-use evaluation, MUE）？",
       "options": [
         "A. 今年 3 月（March of this year）。",
         "B. 今年 6 月（June of this year）。",
@@ -1342,7 +1342,7 @@ const allChapters = {
     },
     {
       "id": 9,
-      "question": "【臨床案例】一名因肺炎與呼吸衰竭入住 加護病房（intensive care unit, ICU）的 55 歲女性（體重 70 kg），在住院第 5 天出現血清鈉 125 mEq/L。其他實驗室數值包括：血清鉀 4.6 mEq/L、氯（Cl） 100 mEq/L、總二氧化碳（CO₂） 24 mEq/L、 血中尿素氮（blood urea nitrogen, BUN） 20 mg/dL、血清肌酸酐（serum creatinine, SCr） 1.1 mg/dL、血糖 167 mg/dL。她目前以 60 mL/hour 接受 1 kcal/mL、蛋白質 62 g/L 的腸道灌食配方，並以 25 mL/hour 輸注 5% dextrose in 0.45% sodium chloride。過去 3 天她的液體平衡介於 +300 至 +600 mL/day，無明顯水腫證據。實測血清滲透壓為 265 mOsm/kg，尿液滲透壓為 490 mOsm/kg，尿鈉為 67 mEq/L。\n\n此病人發生低血鈉症最可能的病因為何？",
+      "question": "一名因肺炎與呼吸衰竭入住 加護病房（intensive care unit, ICU）的 55 歲女性（體重 70 kg），在住院第 5 天出現血清鈉 125 mEq/L。其他實驗室數值包括：血清鉀 4.6 mEq/L、氯（Cl） 100 mEq/L、總二氧化碳（CO₂） 24 mEq/L、 血中尿素氮（blood urea nitrogen, BUN） 20 mg/dL、血清肌酸酐（serum creatinine, SCr） 1.1 mg/dL、血糖 167 mg/dL。她目前以 60 mL/hour 接受 1 kcal/mL、蛋白質 62 g/L 的腸道灌食配方，並以 25 mL/hour 輸注 5% dextrose in 0.45% sodium chloride。過去 3 天她的液體平衡介於 +300 至 +600 mL/day，無明顯水腫證據。實測血清滲透壓為 265 mOsm/kg，尿液滲透壓為 490 mOsm/kg，尿鈉為 67 mEq/L。\n\n此病人發生低血鈉症最可能的病因為何？",
       "options": [
         "A. 假性低血鈉症（Factitious hyponatremia）。",
         "B. 腎上腺功能不全（Adrenal insufficiency）。",
@@ -1361,7 +1361,7 @@ const allChapters = {
     },
     {
       "id": 10,
-      "question": "【臨床案例】一名因肺炎與呼吸衰竭入住 加護病房（intensive care unit, ICU）的 55 歲女性（體重 70 kg），在住院第 5 天出現血清鈉 125 mEq/L。其他實驗室數值包括：血清鉀 4.6 mEq/L、氯（Cl） 100 mEq/L、總二氧化碳（CO₂） 24 mEq/L、 血中尿素氮（blood urea nitrogen, BUN） 20 mg/dL、血清肌酸酐（serum creatinine, SCr） 1.1 mg/dL、血糖 167 mg/dL。她目前以 60 mL/hour 接受 1 kcal/mL、蛋白質 62 g/L 的腸道灌食配方，並以 25 mL/hour 輸注 5% dextrose in 0.45% sodium chloride。過去 3 天她的液體平衡介於 +300 至 +600 mL/day，無明顯水腫證據。實測血清滲透壓為 265 mOsm/kg，尿液滲透壓為 490 mOsm/kg，尿鈉為 67 mEq/L。\n\n對此名女性而言，下列何者為最恰當的治療？",
+      "question": "一名因肺炎與呼吸衰竭入住 加護病房（intensive care unit, ICU）的 55 歲女性（體重 70 kg），在住院第 5 天出現血清鈉 125 mEq/L。其他實驗室數值包括：血清鉀 4.6 mEq/L、氯（Cl） 100 mEq/L、總二氧化碳（CO₂） 24 mEq/L、 血中尿素氮（blood urea nitrogen, BUN） 20 mg/dL、血清肌酸酐（serum creatinine, SCr） 1.1 mg/dL、血糖 167 mg/dL。她目前以 60 mL/hour 接受 1 kcal/mL、蛋白質 62 g/L 的腸道灌食配方，並以 25 mL/hour 輸注 5% dextrose in 0.45% sodium chloride。過去 3 天她的液體平衡介於 +300 至 +600 mL/day，無明顯水腫證據。實測血清滲透壓為 265 mOsm/kg，尿液滲透壓為 490 mOsm/kg，尿鈉為 67 mEq/L。\n\n對此名女性而言，下列何者為最恰當的治療？",
       "options": [
         "A. 給予口服 sodium chloride 錠劑（sodium chloride tablets） 1 g 每日三次。",
         "B. 限制水分攝取（Limit fluids）。",
@@ -1380,7 +1380,7 @@ const allChapters = {
     },
     {
       "id": 11,
-      "question": "【臨床案例】一名因肺炎與呼吸衰竭入住 加護病房（intensive care unit, ICU）的 55 歲女性（體重 70 kg），在住院第 5 天出現血清鈉 125 mEq/L。其他實驗室數值包括：血清鉀 4.6 mEq/L、氯（Cl） 100 mEq/L、總二氧化碳（CO₂） 24 mEq/L、 血中尿素氮（blood urea nitrogen, BUN） 20 mg/dL、血清肌酸酐（serum creatinine, SCr） 1.1 mg/dL、血糖 167 mg/dL。她目前以 60 mL/hour 接受 1 kcal/mL、蛋白質 62 g/L 的腸道灌食配方，並以 25 mL/hour 輸注 5% dextrose in 0.45% sodium chloride。過去 3 天她的液體平衡介於 +300 至 +600 mL/day，無明顯水腫證據。實測血清滲透壓為 265 mOsm/kg，尿液滲透壓為 490 mOsm/kg，尿鈉為 67 mEq/L。\n\n對此病人而言，腸道灌食配方進行下列哪一項調整最佳？",
+      "question": "一名因肺炎與呼吸衰竭入住 加護病房（intensive care unit, ICU）的 55 歲女性（體重 70 kg），在住院第 5 天出現血清鈉 125 mEq/L。其他實驗室數值包括：血清鉀 4.6 mEq/L、氯（Cl） 100 mEq/L、總二氧化碳（CO₂） 24 mEq/L、 血中尿素氮（blood urea nitrogen, BUN） 20 mg/dL、血清肌酸酐（serum creatinine, SCr） 1.1 mg/dL、血糖 167 mg/dL。她目前以 60 mL/hour 接受 1 kcal/mL、蛋白質 62 g/L 的腸道灌食配方，並以 25 mL/hour 輸注 5% dextrose in 0.45% sodium chloride。過去 3 天她的液體平衡介於 +300 至 +600 mL/day，無明顯水腫證據。實測血清滲透壓為 265 mOsm/kg，尿液滲透壓為 490 mOsm/kg，尿鈉為 67 mEq/L。\n\n對此病人而言，腸道灌食配方進行下列哪一項調整最佳？",
       "options": [
         "A. 在目前的配方中加入 sodium chloride 100 mEq/L。",
         "B. 將配方改為富含魚油（fish oil–enriched）的產品。",
@@ -1399,7 +1399,7 @@ const allChapters = {
     },
     {
       "id": 12,
-      "question": "【臨床案例】一名 65 歲男性（體重 87 kg）因嚴重急性胰臟炎住院。腹部電腦斷層（CT）顯示有胰臟假性囊腫（pancreatic pseudocyst）。由於他在進食低脂飲食及嘗試腸道營養（enteral nutrition, EN）期間皆出現明顯腹痛，因此維持禁食（NPO）並給予靜脈營養（parenteral nutrition, PN）。他每日抽 2 包菸，且有頻繁飲酒史。血清實驗室數值如下：鈉（Na） 139 mEq/L、鉀（K） 3.3 mEq/L、氯（Cl） 102 mEq/L、總二氧化碳（CO₂） 25 mEq/L、 血中尿素氮（blood urea nitrogen, BUN） 14 mg/dL、 血清肌酸酐（serum creatinine, SCr） 0.8 mg/dL、鈣 7.6 mg/dL、磷 2.2 mg/dL、鎂 1.5 mg/dL，以及白蛋白 2.5 g/dL。\n\n對此病人而言，下列哪一項鉀與磷的補充處方最為適當？",
+      "question": "一名 65 歲男性（體重 87 kg）因嚴重急性胰臟炎住院。腹部電腦斷層（CT）顯示有胰臟假性囊腫（pancreatic pseudocyst）。由於他在進食低脂飲食及嘗試腸道營養（enteral nutrition, EN）期間皆出現明顯腹痛，因此維持禁食（NPO）並給予靜脈營養（parenteral nutrition, PN）。他每日抽 2 包菸，且有頻繁飲酒史。血清實驗室數值如下：鈉（Na） 139 mEq/L、鉀（K） 3.3 mEq/L、氯（Cl） 102 mEq/L、總二氧化碳（CO₂） 25 mEq/L、 血中尿素氮（blood urea nitrogen, BUN） 14 mg/dL、 血清肌酸酐（serum creatinine, SCr） 0.8 mg/dL、鈣 7.6 mg/dL、磷 2.2 mg/dL、鎂 1.5 mg/dL，以及白蛋白 2.5 g/dL。\n\n對此病人而言，下列哪一項鉀與磷的補充處方最為適當？",
       "options": [
         "A. potassium phosphate 30 mmol 靜脈注射 × 1 劑，接著給予 potassium chloride 40 mEq 經鼻胃管（NG tube） × 2 劑。",
         "B. potassium phosphate 30 mmol 靜脈注射 × 1 劑，接著給予 potassium chloride 40 mEq 靜脈注射 × 1 劑。",
@@ -1418,7 +1418,7 @@ const allChapters = {
     },
     {
       "id": 13,
-      "question": "【臨床案例】一名 65 歲男性（體重 87 kg）因嚴重急性胰臟炎住院。腹部電腦斷層（CT）顯示有胰臟假性囊腫（pancreatic pseudocyst）。由於他在進食低脂飲食及嘗試腸道營養（enteral nutrition, EN）期間皆出現明顯腹痛，因此維持禁食（NPO）並給予靜脈營養（parenteral nutrition, PN）。他每日抽 2 包菸，且有頻繁飲酒史。血清實驗室數值如下：鈉（Na） 139 mEq/L、鉀（K） 3.3 mEq/L、氯（Cl） 102 mEq/L、總二氧化碳（CO₂） 25 mEq/L、 血中尿素氮（blood urea nitrogen, BUN） 14 mg/dL、 血清肌酸酐（serum creatinine, SCr） 0.8 mg/dL、鈣 7.6 mg/dL、磷 2.2 mg/dL、鎂 1.5 mg/dL，以及白蛋白 2.5 g/dL。\n\n除了補充鉀與磷之外，病人也接受了 magnesium sulfate 6 g 靜脈輸注 6 小時。隔日複查其血清鎂為 2.0 mg/dL。對此病人而言，下列哪一項治療選項最佳？",
+      "question": "一名 65 歲男性（體重 87 kg）因嚴重急性胰臟炎住院。腹部電腦斷層（CT）顯示有胰臟假性囊腫（pancreatic pseudocyst）。由於他在進食低脂飲食及嘗試腸道營養（enteral nutrition, EN）期間皆出現明顯腹痛，因此維持禁食（NPO）並給予靜脈營養（parenteral nutrition, PN）。他每日抽 2 包菸，且有頻繁飲酒史。血清實驗室數值如下：鈉（Na） 139 mEq/L、鉀（K） 3.3 mEq/L、氯（Cl） 102 mEq/L、總二氧化碳（CO₂） 25 mEq/L、 血中尿素氮（blood urea nitrogen, BUN） 14 mg/dL、 血清肌酸酐（serum creatinine, SCr） 0.8 mg/dL、鈣 7.6 mg/dL、磷 2.2 mg/dL、鎂 1.5 mg/dL，以及白蛋白 2.5 g/dL。\n\n除了補充鉀與磷之外，病人也接受了 magnesium sulfate 6 g 靜脈輸注 6 小時。隔日複查其血清鎂為 2.0 mg/dL。對此病人而言，下列哪一項治療選項最佳？",
       "options": [
         "A. 在接下來幾天給予口服 magnesium oxide 500 mg 每日兩次。",
         "B. 在接下來幾天每日給予靜脈輸注 magnesium sulfate 2–4 g。",
@@ -1437,7 +1437,7 @@ const allChapters = {
     },
     {
       "id": 14,
-      "question": "【臨床案例】一名 24 歲男性（體重 90 kg）因腹部多處槍傷，在接受十二指腸、空腸、迴腸與結腸損傷修補術、肝臟縫合術（hepatorrhaphy）及脾臟切除術（splenectomy）後入住外傷 加護病房（intensive care unit, ICU）。他在術中也接受了 10 單位的濃縮紅血球（packed red blood cells）輸血。目前其血清游離鈣（ionized calcium）濃度為 0.86 mmol/L、鉀 4.6 mEq/L、鎂 1.8 mg/dL。 血清肌酸酐（serum creatinine, SCr）為 0.8 mg/dL，尿量為 0.5 mL/kg/hour。\n\n造成此病人低血鈣症最可能的病因為何？",
+      "question": "一名 24 歲男性（體重 90 kg）因腹部多處槍傷，在接受十二指腸、空腸、迴腸與結腸損傷修補術、肝臟縫合術（hepatorrhaphy）及脾臟切除術（splenectomy）後入住外傷 加護病房（intensive care unit, ICU）。他在術中也接受了 10 單位的濃縮紅血球（packed red blood cells）輸血。目前其血清游離鈣（ionized calcium）濃度為 0.86 mmol/L、鉀 4.6 mEq/L、鎂 1.8 mg/dL。 血清肌酸酐（serum creatinine, SCr）為 0.8 mg/dL，尿量為 0.5 mL/kg/hour。\n\n造成此病人低血鈣症最可能的病因為何？",
       "options": [
         "A. 低血鎂症（Hypomagnesemia）。",
         "B. 過度利尿（Excessive urinary diuresis）。",
@@ -1456,7 +1456,7 @@ const allChapters = {
     },
     {
       "id": 15,
-      "question": "【臨床案例】一名 24 歲男性（體重 90 kg）因腹部多處槍傷，在接受十二指腸、空腸、迴腸與結腸損傷修補術、肝臟縫合術（hepatorrhaphy）及脾臟切除術（splenectomy）後入住外傷 加護病房（intensive care unit, ICU）。他在術中也接受了 10 單位的濃縮紅血球（packed red blood cells）輸血。目前其血清游離鈣（ionized calcium）濃度為 0.86 mmol/L、鉀 4.6 mEq/L、鎂 1.8 mg/dL。 血清肌酸酐（serum creatinine, SCr）為 0.8 mg/dL，尿量為 0.5 mL/kg/hour。\n\n對此病人而言，下列哪一項治療處方最佳？",
+      "question": "一名 24 歲男性（體重 90 kg）因腹部多處槍傷，在接受十二指腸、空腸、迴腸與結腸損傷修補術、肝臟縫合術（hepatorrhaphy）及脾臟切除術（splenectomy）後入住外傷 加護病房（intensive care unit, ICU）。他在術中也接受了 10 單位的濃縮紅血球（packed red blood cells）輸血。目前其血清游離鈣（ionized calcium）濃度為 0.86 mmol/L、鉀 4.6 mEq/L、鎂 1.8 mg/dL。 血清肌酸酐（serum creatinine, SCr）為 0.8 mg/dL，尿量為 0.5 mL/kg/hour。\n\n對此病人而言，下列哪一項治療處方最佳？",
       "options": [
         "A. calcium gluconate 2 g 靜脈輸注 2 小時。",
         "B. calcium gluconate 4 g 靜脈輸注 4 小時。",
@@ -1475,7 +1475,7 @@ const allChapters = {
     },
     {
       "id": 16,
-      "question": "【臨床案例】一名 60 歲女性（體重 80 kg）在經歷 1 週的嚴重腹瀉後住院。她就診時有脫水的臨床證據（低血壓、心搏過速、尿量減少）且全身虛弱。血清實驗室數值如下： Na 145 mEq/L、 K 3.0 mEq/L、 Cl 118 mEq/L、總 CO₂ 18 mEq/L、 血中尿素氮（blood urea nitrogen, BUN） 29 mg/dL、 血清肌酸酐（serum creatinine, SCr） 0.9 mg/dL、血糖 122 mg/dL、鈣 9.1 mg/dL、磷 3.7 mg/dL、鎂 1.4 mg/dL、白蛋白 3.9 g/dL、乳酸 1.6 mmol/L。 動脈血液氣體分析（arterial blood gas, ABG）顯示： pH 7.29、 Po₂ 93 mm Hg、 Pco₂ 34 mm Hg、 HCO₃ 17 mEq/L，鹼超量（base excess）為 -5 mEq/L。她有 30 包 - 年（pack/year）的抽菸史。\n\n下列何者最能準確描述此病人的酸鹼異常類型？",
+      "question": "一名 60 歲女性（體重 80 kg）在經歷 1 週的嚴重腹瀉後住院。她就診時有脫水的臨床證據（低血壓、心搏過速、尿量減少）且全身虛弱。血清實驗室數值如下： Na 145 mEq/L、 K 3.0 mEq/L、 Cl 118 mEq/L、總 CO₂ 18 mEq/L、 血中尿素氮（blood urea nitrogen, BUN） 29 mg/dL、 血清肌酸酐（serum creatinine, SCr） 0.9 mg/dL、血糖 122 mg/dL、鈣 9.1 mg/dL、磷 3.7 mg/dL、鎂 1.4 mg/dL、白蛋白 3.9 g/dL、乳酸 1.6 mmol/L。 動脈血液氣體分析（arterial blood gas, ABG）顯示： pH 7.29、 Po₂ 93 mm Hg、 Pco₂ 34 mm Hg、 HCO₃ 17 mEq/L，鹼超量（base excess）為 -5 mEq/L。她有 30 包 - 年（pack/year）的抽菸史。\n\n下列何者最能準確描述此病人的酸鹼異常類型？",
       "options": [
         "A. 高氯血性、正常陰離子間隙酸中毒（Hyperchloremic, normal AG acidosis）。",
         "B. 陰離子間隙酸中毒（AG acidosis）。",
@@ -1494,7 +1494,7 @@ const allChapters = {
     },
     {
       "id": 17,
-      "question": "【臨床案例】一名 60 歲女性（體重 80 kg）在經歷 1 週的嚴重腹瀉後住院。她就診時有脫水的臨床證據（低血壓、心搏過速、尿量減少）且全身虛弱。血清實驗室數值如下： Na 145 mEq/L、 K 3.0 mEq/L、 Cl 118 mEq/L、總 CO₂ 18 mEq/L、 血中尿素氮（blood urea nitrogen, BUN） 29 mg/dL、 血清肌酸酐（serum creatinine, SCr） 0.9 mg/dL、血糖 122 mg/dL、鈣 9.1 mg/dL、磷 3.7 mg/dL、鎂 1.4 mg/dL、白蛋白 3.9 g/dL、乳酸 1.6 mmol/L。 動脈血液氣體分析（arterial blood gas, ABG）顯示： pH 7.29、 Po₂ 93 mm Hg、 Pco₂ 34 mm Hg、 HCO₃ 17 mEq/L，鹼超量（base excess）為 -5 mEq/L。她有 30 包 - 年（pack/year）的抽菸史。\n\n對此病人而言，下列何者為最恰當的初始輸液治療（initial fluid therapy）？",
+      "question": "一名 60 歲女性（體重 80 kg）在經歷 1 週的嚴重腹瀉後住院。她就診時有脫水的臨床證據（低血壓、心搏過速、尿量減少）且全身虛弱。血清實驗室數值如下： Na 145 mEq/L、 K 3.0 mEq/L、 Cl 118 mEq/L、總 CO₂ 18 mEq/L、 血中尿素氮（blood urea nitrogen, BUN） 29 mg/dL、 血清肌酸酐（serum creatinine, SCr） 0.9 mg/dL、血糖 122 mg/dL、鈣 9.1 mg/dL、磷 3.7 mg/dL、鎂 1.4 mg/dL、白蛋白 3.9 g/dL、乳酸 1.6 mmol/L。 動脈血液氣體分析（arterial blood gas, ABG）顯示： pH 7.29、 Po₂ 93 mm Hg、 Pco₂ 34 mm Hg、 HCO₃ 17 mEq/L，鹼超量（base excess）為 -5 mEq/L。她有 30 包 - 年（pack/year）的抽菸史。\n\n對此病人而言，下列何者為最恰當的初始輸液治療（initial fluid therapy）？",
       "options": [
         "A. 0.45% sodium chloride 加上 potassium chloride 20 mEq/L。",
         "B. 0.9% sodium chloride 加上 potassium chloride 20 mEq/L。",
@@ -1532,7 +1532,7 @@ const allChapters = {
     },
     {
       "id": 19,
-      "question": "【臨床案例】一名 60 歲男性（體重 65 kg；約為理想體重 [IBW] 的 90%）因急性胰臟炎住院。 4 天後，他仍有明顯腹痛與腹脹且未緩解。他出現發燒，並已採集血液與尿液培養。腹部 CT 顯示有麻痺性腸阻塞（ileus）與腹腔內膿瘍（intra-abdominal abscess）。他接受每日包含 dextrose 300 g、 amino acids 70 g 與 20% 脂肪乳劑（lipids） 40 g 的目標 靜脈營養（parenteral nutrition, PN）處方。\n\n下列何者最能準確描述此處方所提供的熱量與蛋白質？",
+      "question": "一名 60 歲男性（體重 65 kg；約為理想體重 [IBW] 的 90%）因急性胰臟炎住院。 4 天後，他仍有明顯腹痛與腹脹且未緩解。他出現發燒，並已採集血液與尿液培養。腹部 CT 顯示有麻痺性腸阻塞（ileus）與腹腔內膿瘍（intra-abdominal abscess）。他接受每日包含 dextrose 300 g、 amino acids 70 g 與 20% 脂肪乳劑（lipids） 40 g 的目標 靜脈營養（parenteral nutrition, PN）處方。\n\n下列何者最能準確描述此處方所提供的熱量與蛋白質？",
       "options": [
         "A. 26 kcal/kg/day 與 1.1 g/kg/day。",
         "B. 26 kcal/kg/day 與 1.5 g/kg/day。",
@@ -1551,7 +1551,7 @@ const allChapters = {
     },
     {
       "id": 20,
-      "question": "【臨床案例】一名 60 歲男性（體重 65 kg；約為理想體重 [IBW] 的 90%）因急性胰臟炎住院。 4 天後，他仍有明顯腹痛與腹脹且未緩解。他出現發燒，並已採集血液與尿液培養。腹部 CT 顯示有麻痺性腸阻塞（ileus）與腹腔內膿瘍（intra-abdominal abscess）。他接受每日包含 dextrose 300 g、 amino acids 70 g 與 20% 脂肪乳劑（lipids） 40 g 的目標 靜脈營養（parenteral nutrition, PN）處方。\n\n對此病人的 靜脈營養（parenteral nutrition, PN）處方進行下列哪一項調整最佳？",
+      "question": "一名 60 歲男性（體重 65 kg；約為理想體重 [IBW] 的 90%）因急性胰臟炎住院。 4 天後，他仍有明顯腹痛與腹脹且未緩解。他出現發燒，並已採集血液與尿液培養。腹部 CT 顯示有麻痺性腸阻塞（ileus）與腹腔內膿瘍（intra-abdominal abscess）。他接受每日包含 dextrose 300 g、 amino acids 70 g 與 20% 脂肪乳劑（lipids） 40 g 的目標 靜脈營養（parenteral nutrition, PN）處方。\n\n對此病人的 靜脈營養（parenteral nutrition, PN）處方進行下列哪一項調整最佳？",
       "options": [
         "A. 將 dextrose 增加至 400 g/day。",
         "B. 將 dextrose 減少至 200 g/day。",
@@ -1591,7 +1591,7 @@ const allChapters = {
   "6": [
     {
       "id": 1,
-      "question": "【臨床案例】K.P.，一名 38 歲平素健康的女性，因機動車車禍導致創傷性腦損傷（traumatic brain injury, TBI）及嚴重胸部外傷，需接受氣管內插管與機械通氣（mechanical ventilation）。在創傷加護病房（trauma ICU）住院 96 小時後，其胸部 X 光顯示出現新浸潤灶（new infiltrate），體溫 101.9°F （38.8°C），白血球（white blood cell count, WBC） 15 × 10³ cells/mm³，且痰液肉眼呈化膿性。 K.P. 血流動力學穩定。團隊決定對受影響肺葉進行支氣管鏡肺泡灌洗術（BAL）以評估呼吸器相關肺炎（ventilator-associated pneumonia, VAP）。當地 加護病房（intensive care unit, ICU）之 抗 methicillin 金黃色葡萄球菌（methicillin-resistant Staphylococcus aureus, MRSA）盛行率小於 10%。\n\n下列何者最可能是 K.P. 疑似 呼吸器相關肺炎（ventilator-associated pneumonia, VAP）的致病原？",
+      "question": "K.P.，一名 38 歲平素健康的女性，因機動車車禍導致創傷性腦損傷（traumatic brain injury, TBI）及嚴重胸部外傷，需接受氣管內插管與機械通氣（mechanical ventilation）。在創傷加護病房（trauma ICU）住院 96 小時後，其胸部 X 光顯示出現新浸潤灶（new infiltrate），體溫 101.9°F （38.8°C），白血球（white blood cell count, WBC） 15 × 10³ cells/mm³，且痰液肉眼呈化膿性。 K.P. 血流動力學穩定。團隊決定對受影響肺葉進行支氣管鏡肺泡灌洗術（BAL）以評估呼吸器相關肺炎（ventilator-associated pneumonia, VAP）。當地 加護病房（intensive care unit, ICU）之 抗 methicillin 金黃色葡萄球菌（methicillin-resistant Staphylococcus aureus, MRSA）盛行率小於 10%。\n\n下列何者最可能是 K.P. 疑似 呼吸器相關肺炎（ventilator-associated pneumonia, VAP）的致病原？",
       "options": [
         "A. 不動桿菌屬（Acinetobacter spp.）",
         "B. 抗甲氧苯青黴素金黃色葡萄球菌（Methicillin-resistant Staphylococcus aureus, MRSA）",
@@ -1610,7 +1610,7 @@ const allChapters = {
     },
     {
       "id": 2,
-      "question": "【臨床案例】K.P.，一名 38 歲平素健康的女性，因機動車車禍導致創傷性腦損傷（traumatic brain injury, TBI）及嚴重胸部外傷，需接受氣管內插管與機械通氣（mechanical ventilation）。在創傷加護病房（trauma ICU）住院 96 小時後，其胸部 X 光顯示出現新浸潤灶（new infiltrate），體溫 101.9°F （38.8°C），白血球（white blood cell count, WBC） 15 × 10³ cells/mm³，且痰液肉眼呈化膿性。 K.P. 血流動力學穩定。團隊決定對受影響肺葉進行支氣管鏡肺泡灌洗術（BAL）以評估呼吸器相關肺炎（ventilator-associated pneumonia, VAP）。當地 加護病房（intensive care unit, ICU）之 抗 methicillin 金黃色葡萄球菌（methicillin-resistant Staphylococcus aureus, MRSA）盛行率小於 10%。\n\n根據 2016 年 美國感染症醫學會（Infectious Diseases Society of America, IDSA）指引，針對 K.P. 疑似 呼吸器相關肺炎（ventilator-associated pneumonia, VAP）最可能的致病原，下列哪一種經驗性抗生素處方最佳？",
+      "question": "K.P.，一名 38 歲平素健康的女性，因機動車車禍導致創傷性腦損傷（traumatic brain injury, TBI）及嚴重胸部外傷，需接受氣管內插管與機械通氣（mechanical ventilation）。在創傷加護病房（trauma ICU）住院 96 小時後，其胸部 X 光顯示出現新浸潤灶（new infiltrate），體溫 101.9°F （38.8°C），白血球（white blood cell count, WBC） 15 × 10³ cells/mm³，且痰液肉眼呈化膿性。 K.P. 血流動力學穩定。團隊決定對受影響肺葉進行支氣管鏡肺泡灌洗術（BAL）以評估呼吸器相關肺炎（ventilator-associated pneumonia, VAP）。當地 加護病房（intensive care unit, ICU）之 抗 methicillin 金黃色葡萄球菌（methicillin-resistant Staphylococcus aureus, MRSA）盛行率小於 10%。\n\n根據 2016 年 美國感染症醫學會（Infectious Diseases Society of America, IDSA）指引，針對 K.P. 疑似 呼吸器相關肺炎（ventilator-associated pneumonia, VAP）最可能的致病原，下列哪一種經驗性抗生素處方最佳？",
       "options": [
         "A. azithromycin 加上 moxifloxacin。",
         "B. cefepime。",
@@ -1800,7 +1800,7 @@ const allChapters = {
     },
     {
       "id": 12,
-      "question": "【臨床案例】C.T. 是一名 48 歲男性，左側身體遭受 40% TBSA 燒傷合併疑似吸入性呼吸道損傷，需接受機械通氣。 C.T. 已入住 加護病房（intensive care unit, ICU） 7 天。昨晚， C.T. 體溫達 102.1°F （39°C）， 白血球計數（white blood cell count, WBC）為 18 × 10³ cells/mm³，且肉眼可見的化膿性痰量增加； C.T. 血流動力學穩定，無新發器官衰竭。胸部 X 光因吸入性損傷而難以判讀。住院總醫師請呼吸治療師執行導管導引 BAL，並送檢微生物實驗室。\n\n此時最佳的處置步驟為何？",
+      "question": "C.T. 是一名 48 歲男性，左側身體遭受 40% TBSA 燒傷合併疑似吸入性呼吸道損傷，需接受機械通氣。 C.T. 已入住 加護病房（intensive care unit, ICU） 7 天。昨晚， C.T. 體溫達 102.1°F （39°C）， 白血球計數（white blood cell count, WBC）為 18 × 10³ cells/mm³，且肉眼可見的化膿性痰量增加； C.T. 血流動力學穩定，無新發器官衰竭。胸部 X 光因吸入性損傷而難以判讀。住院總醫師請呼吸治療師執行導管導引 BAL，並送檢微生物實驗室。\n\n此時最佳的處置步驟為何？",
       "options": [
         "A. 針對疑似多重抗藥性 呼吸器相關肺炎（ventilator-associated pneumonia, VAP），啟動廣效性經驗性抗生素治療。",
         "B. 等待 1–2 天取得革蘭氏染色結果後，再決定經驗性抗生素處方。",
@@ -1819,7 +1819,7 @@ const allChapters = {
     },
     {
       "id": 13,
-      "question": "【臨床案例】C.P. 是一名 67 歲女性，有 慢性阻塞性肺病（chronic obstructive pulmonary disease, COPD）、第 2 型糖尿病與冠狀動脈疾病史。她因重度 COPD 急性惡化合併呼吸衰竭插管而再次入住 加護病房（intensive care unit, ICU）。她在 12 天前曾住院 10 天，期間曾接受靜脈注射 azithromycin。在此次再入院第 4 天，左下肺浸潤惡化、痰量增加，體溫 101.9°F （38.8°C），氧合狀態惡化。臨床診斷為 呼吸器相關肺炎（ventilator-associated pneumonia, VAP），已送檢半定量氣管抽吸物培養。當地 ICU 之 抗 methicillin 金黃色葡萄球菌（methicillin-resistant Staphylococcus aureus, MRSA）盛行率為 30%，抗生素感受性報告顯示對綠膿桿菌活性最高的 β- 內醯胺類抗生素感受性僅 80%。\n\n下列哪一種經驗性抗生素處方對此病人最佳？",
+      "question": "C.P. 是一名 67 歲女性，有 慢性阻塞性肺病（chronic obstructive pulmonary disease, COPD）、第 2 型糖尿病與冠狀動脈疾病史。她因重度 COPD 急性惡化合併呼吸衰竭插管而再次入住 加護病房（intensive care unit, ICU）。她在 12 天前曾住院 10 天，期間曾接受靜脈注射 azithromycin。在此次再入院第 4 天，左下肺浸潤惡化、痰量增加，體溫 101.9°F （38.8°C），氧合狀態惡化。臨床診斷為 呼吸器相關肺炎（ventilator-associated pneumonia, VAP），已送檢半定量氣管抽吸物培養。當地 ICU 之 抗 methicillin 金黃色葡萄球菌（methicillin-resistant Staphylococcus aureus, MRSA）盛行率為 30%，抗生素感受性報告顯示對綠膿桿菌活性最高的 β- 內醯胺類抗生素感受性僅 80%。\n\n下列哪一種經驗性抗生素處方對此病人最佳？",
       "options": [
         "A. azithromycin 加上 moxifloxacin。",
         "B. cefepime 加上 tobramycin，以及 vancomycin。",
@@ -1838,7 +1838,7 @@ const allChapters = {
     },
     {
       "id": 14,
-      "question": "【臨床案例】K.L. 是一名 37 歲男性，機車事故後造成多處骨科與胸部創傷，接受機械通氣已 8 天，期間確診為 Klebsiella pneumoniae 引起的 呼吸器相關肺炎（ventilator-associated pneumonia, VAP）。 K.L. 接受了適當的經驗性抗生素治療，氧合改善、 白血球計數（white blood cell count, WBC）與體溫曲線均已下降改善。\n\n針對 K.L. 的 呼吸器相關肺炎（ventilator-associated pneumonia, VAP），確定性抗生素治療的最佳療程天數為何？",
+      "question": "K.L. 是一名 37 歲男性，機車事故後造成多處骨科與胸部創傷，接受機械通氣已 8 天，期間確診為 Klebsiella pneumoniae 引起的 呼吸器相關肺炎（ventilator-associated pneumonia, VAP）。 K.L. 接受了適當的經驗性抗生素治療，氧合改善、 白血球計數（white blood cell count, WBC）與體溫曲線均已下降改善。\n\n針對 K.L. 的 呼吸器相關肺炎（ventilator-associated pneumonia, VAP），確定性抗生素治療的最佳療程天數為何？",
       "options": [
         "A. 臨床症狀與徵象緩解後 24 小時。",
         "B. 7 天（7 days）。",
@@ -1857,7 +1857,7 @@ const allChapters = {
     },
     {
       "id": 15,
-      "question": "【臨床案例】T.W. 是一名 47 歲女性，因重度 2009 H1N1 流感合併呼吸衰竭入住 內科加護病房（medical intensive care unit, MICU），需插管通氣，診斷為流感相關敗血性休克及繼發性 對 methicillin 具感受性金黃色葡萄球菌（methicillin-susceptible Staphylococcus aureus, MSSA）肺炎。急診復甦時放置了右內頸靜脈 CVC，目前仍需使用。雖然低血壓與發燒在入院 72 小時後緩解，但在第 5 天出現新發燒 101.7°F （38.7°C）且白血球增多惡化，胸部 X 光無新變化。\n\n下一步最恰當的處置為何？",
+      "question": "T.W. 是一名 47 歲女性，因重度 2009 H1N1 流感合併呼吸衰竭入住 內科加護病房（medical intensive care unit, MICU），需插管通氣，診斷為流感相關敗血性休克及繼發性 對 methicillin 具感受性金黃色葡萄球菌（methicillin-susceptible Staphylococcus aureus, MSSA）肺炎。急診復甦時放置了右內頸靜脈 CVC，目前仍需使用。雖然低血壓與發燒在入院 72 小時後緩解，但在第 5 天出現新發燒 101.7°F （38.7°C）且白血球增多惡化，胸部 X 光無新變化。\n\n下一步最恰當的處置為何？",
       "options": [
         "A. 針對新敗血症發作立即啟動廣效性抗生素治療。",
         "B. 進行支氣管鏡 BAL 評估疑似 呼吸器相關肺炎（ventilator-associated pneumonia, VAP）。",
@@ -1876,7 +1876,7 @@ const allChapters = {
     },
     {
       "id": 16,
-      "question": "【臨床案例】F.P. 是一名 29 歲男性，因重度酒精性無菌性急性胰臟炎由外院轉入 內科加護病房（medical intensive care unit, MICU）。在外院 5 天期間併發多重器官衰竭與呼吸衰竭並接受氣管切開術。入院時放置右內頸 CVC。在 MICU 第 3 天， F.P. 最高體溫達 102°F （38.9°C）。已取得兩套血液培養，右內頸導管已被拔除並送檢導管尖端培養。\n\n針對此疑似 中央導管相關血流感染（central line-associated bloodstream infection, CLABSI）病人，下列哪一種經驗性治療處方最佳？",
+      "question": "F.P. 是一名 29 歲男性，因重度酒精性無菌性急性胰臟炎由外院轉入 內科加護病房（medical intensive care unit, MICU）。在外院 5 天期間併發多重器官衰竭與呼吸衰竭並接受氣管切開術。入院時放置右內頸 CVC。在 MICU 第 3 天， F.P. 最高體溫達 102°F （38.9°C）。已取得兩套血液培養，右內頸導管已被拔除並送檢導管尖端培養。\n\n針對此疑似 中央導管相關血流感染（central line-associated bloodstream infection, CLABSI）病人，下列哪一種經驗性治療處方最佳？",
       "options": [
         "A. Daptomycin 與 ceftriaxone。",
         "B. fluconazole。",
@@ -1895,7 +1895,7 @@ const allChapters = {
     },
     {
       "id": 17,
-      "question": "【臨床案例】F.P. 是一名 29 歲男性，因重度酒精性無菌性急性胰臟炎由外院轉入 內科加護病房（medical intensive care unit, MICU）。在外院 5 天期間併發多重器官衰竭與呼吸衰竭並接受氣管切開術。入院時放置右內頸 CVC。在 MICU 第 3 天， F.P. 最高體溫達 102°F （38.9°C）。已取得兩套血液培養，右內頸導管已被拔除並送檢導管尖端培養。 F.P. 經確診為 Klebsiella pneumoniae 引起的 中央導管相關血流感染（central line-associated bloodstream infection, CLABSI），並接受適當經驗抗生素治療。病人臨床反應良好，且後續血液培養未持續長菌（無持續性菌血症）。\n\n針對 F.P. 的 中央導管相關血流感染（central line-associated bloodstream infection, CLABSI），最佳的確定性抗生素療程長度為何？",
+      "question": "F.P. 是一名 29 歲男性，因重度酒精性無菌性急性胰臟炎由外院轉入 內科加護病房（medical intensive care unit, MICU）。在外院 5 天期間併發多重器官衰竭與呼吸衰竭並接受氣管切開術。入院時放置右內頸 CVC。在 MICU 第 3 天， F.P. 最高體溫達 102°F （38.9°C）。已取得兩套血液培養，右內頸導管已被拔除並送檢導管尖端培養。 F.P. 經確診為 Klebsiella pneumoniae 引起的 中央導管相關血流感染（central line-associated bloodstream infection, CLABSI），並接受適當經驗抗生素治療。病人臨床反應良好，且後續血液培養未持續長菌（無持續性菌血症）。\n\n針對 F.P. 的 中央導管相關血流感染（central line-associated bloodstream infection, CLABSI），最佳的確定性抗生素療程長度為何？",
       "options": [
         "A. 5 天。",
         "B. 14 天（7–14 天）。",
@@ -1914,7 +1914,7 @@ const allChapters = {
     },
     {
       "id": 18,
-      "question": "【臨床案例】P.H. 是一名 67 歲女性，自長期照護機構轉入 內科加護病房（medical intensive care unit, MICU），診斷為嚴重肺炎引起的呼吸衰竭。她在急診留置導尿管並開始使用 vancomycin 與 levofloxacin。在 加護病房（intensive care unit, ICU）第 6 天，儘管肺炎一度改善，但出現新發燒 101.9°F （38.9°C）與 白血球計數（white blood cell count, WBC）升高至 18 × 10³ cells/mm³。送檢血液與尿液培養，尿液分析顯示多量細菌與白血球 > 10 cells/mm³。\n\n針對 P.H.，下列哪一項處置最為適當？",
+      "question": "P.H. 是一名 67 歲女性，自長期照護機構轉入 內科加護病房（medical intensive care unit, MICU），診斷為嚴重肺炎引起的呼吸衰竭。她在急診留置導尿管並開始使用 vancomycin 與 levofloxacin。在 加護病房（intensive care unit, ICU）第 6 天，儘管肺炎一度改善，但出現新發燒 101.9°F （38.9°C）與 白血球計數（white blood cell count, WBC）升高至 18 × 10³ cells/mm³。送檢血液與尿液培養，尿液分析顯示多量細菌與白血球 > 10 cells/mm³。\n\n針對 P.H.，下列哪一項處置最為適當？",
       "options": [
         "A. 在更改抗生素前等待最終培養結果。",
         "B. 延長原肺炎治療之療程。",
@@ -1933,7 +1933,7 @@ const allChapters = {
     },
     {
       "id": 19,
-      "question": "【臨床案例】P.H. 是一名 67 歲女性，自長期照護機構轉入 內科加護病房（medical intensive care unit, MICU），診斷為嚴重肺炎引起的呼吸衰竭。她在急診留置導尿管並開始使用 vancomycin 與 levofloxacin。在 加護病房（intensive care unit, ICU）第 6 天，儘管肺炎一度改善，但出現新發燒 101.9°F （38.9°C）與 白血球計數（white blood cell count, WBC）升高至 18 × 10³ cells/mm³。送檢血液與尿液培養，尿液分析顯示多量細菌與白血球 > 10 cells/mm³。\n\n考量 P.H. 具備多重抗藥菌（multidrug-resistant organism, MDRO）之危險因子，下列哪一組致病原清單最可能與其 CAUTI 相關？",
+      "question": "P.H. 是一名 67 歲女性，自長期照護機構轉入 內科加護病房（medical intensive care unit, MICU），診斷為嚴重肺炎引起的呼吸衰竭。她在急診留置導尿管並開始使用 vancomycin 與 levofloxacin。在 加護病房（intensive care unit, ICU）第 6 天，儘管肺炎一度改善，但出現新發燒 101.9°F （38.9°C）與 白血球計數（white blood cell count, WBC）升高至 18 × 10³ cells/mm³。送檢血液與尿液培養，尿液分析顯示多量細菌與白血球 > 10 cells/mm³。\n\n考量 P.H. 具備多重抗藥菌（multidrug-resistant organism, MDRO）之危險因子，下列哪一組致病原清單最可能與其 CAUTI 相關？",
       "options": [
         "A. 大腸桿菌（E. coli）、 綠膿桿菌（P. aeruginosa）、 Candida albicans。",
         "B. Enterococcus spp.、 C. albicans、 S. maltophilia。",
@@ -1952,7 +1952,7 @@ const allChapters = {
     },
     {
       "id": 20,
-      "question": "【臨床案例】D.L. 是一名 69 歲女性，自家中因左下腹劇烈急性疼痛入住 外科加護病房（surgical intensive care unit, SICU）。腹部 CT 顯示腹膜腔內有游離氣體及遠端缺血性結腸炎。 D.L. 緊急接受部分結腸切除術與腹腔灌洗，術中見遠端結腸穿孔造成廣泛污染與顯著腹膜炎。術後入住 SICU 繼續針對敗血性休克進行復甦。\n\n下列哪一種經驗性抗生素處方對 D.L. 最為適當？",
+      "question": "D.L. 是一名 69 歲女性，自家中因左下腹劇烈急性疼痛入住 外科加護病房（surgical intensive care unit, SICU）。腹部 CT 顯示腹膜腔內有游離氣體及遠端缺血性結腸炎。 D.L. 緊急接受部分結腸切除術與腹腔灌洗，術中見遠端結腸穿孔造成廣泛污染與顯著腹膜炎。術後入住 SICU 繼續針對敗血性休克進行復甦。\n\n下列哪一種經驗性抗生素處方對 D.L. 最為適當？",
       "options": [
         "A. ceftriaxone 加上 vancomycin。",
         "B. ciprofloxacin 加上 metronidazole。",
@@ -1971,7 +1971,7 @@ const allChapters = {
     },
     {
       "id": 21,
-      "question": "【臨床案例】K.D. 是一名 58 歲患有嚴重周邊血管疾病的男性，因左下腹急性腹痛自家中入住 外科加護病房（surgical intensive care unit, SICU）。急診 CT 顯示腹腔游離氣體與遠端小腸缺血。緊急剖腹探查術中發現小腸穿孔合併嚴重腹膜炎，已送檢術中培養。完成小腸修補與沖洗後，轉入 SICU 繼續進行敗血性休克復甦。\n\n下列哪一種經驗性抗生素處方對 K.D. 最為適當？",
+      "question": "K.D. 是一名 58 歲患有嚴重周邊血管疾病的男性，因左下腹急性腹痛自家中入住 外科加護病房（surgical intensive care unit, SICU）。急診 CT 顯示腹腔游離氣體與遠端小腸缺血。緊急剖腹探查術中發現小腸穿孔合併嚴重腹膜炎，已送檢術中培養。完成小腸修補與沖洗後，轉入 SICU 繼續進行敗血性休克復甦。\n\n下列哪一種經驗性抗生素處方對 K.D. 最為適當？",
       "options": [
         "A. piperacillin/tazobactam。",
         "B. Ertapenem。",
@@ -1990,7 +1990,7 @@ const allChapters = {
     },
     {
       "id": 22,
-      "question": "【臨床案例】R.P. 是一名 43 歲有慢性酗酒史的男性，自家中至急診室就診，主訴急性嚴重上腹痛；心率 142 次 / 分、 平均動脈壓（mean arterial pressure, MAP） 62 mm Hg、 白血球計數（white blood cell count, WBC） 24 × 10³ cells/mm³、血清解脂酶 1527 U/L。急診 1 小時內給予 3 L sodium chloride 溶液復甦。腹部 CT 顯示顯著胰臟水腫及大於 30% 的胰臟壞死，無急性液體積聚或膿瘍。\n\n下列哪一種抗微生物處方對 R.P. 最為適當？",
+      "question": "R.P. 是一名 43 歲有慢性酗酒史的男性，自家中至急診室就診，主訴急性嚴重上腹痛；心率 142 次 / 分、 平均動脈壓（mean arterial pressure, MAP） 62 mm Hg、 白血球計數（white blood cell count, WBC） 24 × 10³ cells/mm³、血清解脂酶 1527 U/L。急診 1 小時內給予 3 L sodium chloride 溶液復甦。腹部 CT 顯示顯著胰臟水腫及大於 30% 的胰臟壞死，無急性液體積聚或膿瘍。\n\n下列哪一種抗微生物處方對 R.P. 最為適當？",
       "options": [
         "A. ceftriaxone 加上 vancomycin。",
         "B. ciprofloxacin 加上 metronidazole。",
@@ -2009,7 +2009,7 @@ const allChapters = {
     },
     {
       "id": 23,
-      "question": "【臨床案例】T.J. 是一名 27 歲男性，因酒精性急性胰臟炎合併呼吸衰竭、 SIRS 及血壓 100/55 mm Hg 入住 內科加護病房（medical intensive care unit, MICU）。腹部 CT 顯示嚴重胰臟炎約 30% 壞死合併大型局部積液並接受穿刺引流。引流液革蘭氏染色顯示多量革蘭氏陰性桿菌及酵母菌（yeast）。\n\n針對 T.J.，最適宜啟動下列哪一種抗微生物處方？",
+      "question": "T.J. 是一名 27 歲男性，因酒精性急性胰臟炎合併呼吸衰竭、 SIRS 及血壓 100/55 mm Hg 入住 內科加護病房（medical intensive care unit, MICU）。腹部 CT 顯示嚴重胰臟炎約 30% 壞死合併大型局部積液並接受穿刺引流。引流液革蘭氏染色顯示多量革蘭氏陰性桿菌及酵母菌（yeast）。\n\n針對 T.J.，最適宜啟動下列哪一種抗微生物處方？",
       "options": [
         "A. 不使用 — 感染性胰臟炎懷疑度低。",
         "B. ciprofloxacin 加上 metronidazole。",
@@ -2028,7 +2028,7 @@ const allChapters = {
     },
     {
       "id": 24,
-      "question": "【臨床案例】K.L. 是一名 57 歲男性，因瀰漫性腹痛、體溫 101.9°F （38.8°C）、 白血球計數（white blood cell count, WBC） 27 × 10³ cells/mm³、心率 125 次 / 分及 平均動脈壓（mean arterial pressure, MAP） 57 mm Hg 入住 內科加護病房（medical intensive care unit, MICU）。腹部 CT 顯示大量腸道積氣提示腸阻塞（ileus）及中度結腸炎。病史顯示他近期剛完成 4 週骨髓炎廣效抗生素治療，高度懷疑 CDI。\n\n針對 K.L. 疑似之 CDI，哪一種經驗性處置處方最佳？",
+      "question": "K.L. 是一名 57 歲男性，因瀰漫性腹痛、體溫 101.9°F （38.8°C）、 白血球計數（white blood cell count, WBC） 27 × 10³ cells/mm³、心率 125 次 / 分及 平均動脈壓（mean arterial pressure, MAP） 57 mm Hg 入住 內科加護病房（medical intensive care unit, MICU）。腹部 CT 顯示大量腸道積氣提示腸阻塞（ileus）及中度結腸炎。病史顯示他近期剛完成 4 週骨髓炎廣效抗生素治療，高度懷疑 CDI。\n\n針對 K.L. 疑似之 CDI，哪一種經驗性處置處方最佳？",
       "options": [
         "A. metronidazole 500 mg 靜脈注射每 8 小時一次。",
         "B. vancomycin 500 mg 經口服 / 鼻胃管每 6 小時一次，加上 metronidazole 500 mg 靜脈注射每 8 小時一次，加上 vancomycin 500 mg 經直腸灌腸每 8 小時一次。",
@@ -2047,7 +2047,7 @@ const allChapters = {
     },
     {
       "id": 25,
-      "question": "【臨床案例】E.A. 是一名 79 歲男性，因重症肺炎入住 內科加護病房（medical intensive care unit, MICU）。在接受 5 天廣效抗生素治療後，出現多次水瀉（過去 24 小時糞便量約 1.6 L），低燒， 白血球計數（white blood cell count, WBC） 27 × 10³ cells/mm³，心率 124 次 / 分， 平均動脈壓（mean arterial pressure, MAP） 67 mm Hg，乳酸 1.6 mmol/L， 血清肌酸酐（serum creatinine, SCr） 1.5 mg/dL。已送檢糞便檢驗疑似 CDI。\n\n針對 E.A. 疑似之初發 CDI，最佳的經驗性處置處方為何？",
+      "question": "E.A. 是一名 79 歲男性，因重症肺炎入住 內科加護病房（medical intensive care unit, MICU）。在接受 5 天廣效抗生素治療後，出現多次水瀉（過去 24 小時糞便量約 1.6 L），低燒， 白血球計數（white blood cell count, WBC） 27 × 10³ cells/mm³，心率 124 次 / 分， 平均動脈壓（mean arterial pressure, MAP） 67 mm Hg，乳酸 1.6 mmol/L， 血清肌酸酐（serum creatinine, SCr） 1.5 mg/dL。已送檢糞便檢驗疑似 CDI。\n\n針對 E.A. 疑似之初發 CDI，最佳的經驗性處置處方為何？",
       "options": [
         "A. metronidazole 500 mg 靜脈注射每 8 小時一次加上直腸灌注 vancomycin 500 mg 每 8 小時一次。",
         "B. metronidazole 500 mg 靜脈注射每 8 小時一次。",
@@ -2066,7 +2066,7 @@ const allChapters = {
     },
     {
       "id": 26,
-      "question": "【臨床案例】R.J. 是一名 57 歲男性，因急性腸阻塞接受腸切除術後入住 外科加護病房（surgical intensive care unit, SICU）。術後第 3 天，出現心搏過速加重、尿量減少、體溫 102.9°F （39.4°C）、 白血球計數（white blood cell count, WBC） 18.2 × 10³ cells/mm³。腹部大型手術傷口劇烈疼痛但紅斑不明顯。拆開部分縫線擠出膿液，傷口周圍觸診有捻髮音（crepitus）。緊急送手術室探查，發現皮下壞死組織已侵犯筋膜需大量清創。\n\n針對 R.J.，下列哪一種經驗性抗微生物處方最為適當？",
+      "question": "R.J. 是一名 57 歲男性，因急性腸阻塞接受腸切除術後入住 外科加護病房（surgical intensive care unit, SICU）。術後第 3 天，出現心搏過速加重、尿量減少、體溫 102.9°F （39.4°C）、 白血球計數（white blood cell count, WBC） 18.2 × 10³ cells/mm³。腹部大型手術傷口劇烈疼痛但紅斑不明顯。拆開部分縫線擠出膿液，傷口周圍觸診有捻髮音（crepitus）。緊急送手術室探查，發現皮下壞死組織已侵犯筋膜需大量清創。\n\n針對 R.J.，下列哪一種經驗性抗微生物處方最為適當？",
       "options": [
         "A. Ceftaroline 加上 vancomycin。",
         "B. clindamycin、 penicillin G 加上 vancomycin。",
@@ -2085,7 +2085,7 @@ const allChapters = {
     },
     {
       "id": 27,
-      "question": "【臨床案例】R.J. 是一名 57 歲男性，因急性腸阻塞接受腸切除術後入住 外科加護病房（surgical intensive care unit, SICU）。術後第 3 天，出現心搏過速加重、尿量減少、體溫 102.9°F （39.4°C）、 白血球計數（white blood cell count, WBC） 18.2 × 10³ cells/mm³。腹部大型手術傷口劇烈疼痛但紅斑不明顯。拆開部分縫線擠出膿液，傷口周圍觸診有捻髮音（crepitus）。緊急送手術室探查，發現皮下壞死組織已侵犯筋膜需大量清創。 R.J. 第一次清創手術的術中組織培養革蘭氏染色顯示多量成鏈革蘭氏陽性球菌及中度非發酵革蘭氏陰性桿菌。\n\n考量革蘭氏染色高度懷疑 Streptococcus pyogenes，下列哪一項藥物處置對其壞死性筋膜炎最為適當？",
+      "question": "R.J. 是一名 57 歲男性，因急性腸阻塞接受腸切除術後入住 外科加護病房（surgical intensive care unit, SICU）。術後第 3 天，出現心搏過速加重、尿量減少、體溫 102.9°F （39.4°C）、 白血球計數（white blood cell count, WBC） 18.2 × 10³ cells/mm³。腹部大型手術傷口劇烈疼痛但紅斑不明顯。拆開部分縫線擠出膿液，傷口周圍觸診有捻髮音（crepitus）。緊急送手術室探查，發現皮下壞死組織已侵犯筋膜需大量清創。 R.J. 第一次清創手術的術中組織培養革蘭氏染色顯示多量成鏈革蘭氏陽性球菌及中度非發酵革蘭氏陰性桿菌。\n\n考量革蘭氏染色高度懷疑 Streptococcus pyogenes，下列哪一項藥物處置對其壞死性筋膜炎最為適當？",
       "options": [
         "A. 加上具協同作用的 gentamicin。",
         "B. 繼續或開始使用輔助性 clindamycin 以抑制毒素生成。",
@@ -2104,7 +2104,7 @@ const allChapters = {
     },
     {
       "id": 28,
-      "question": "【臨床案例】L.H. 是一名 23 歲女性，因單純性泌尿道感染服用 TMP/SMX 2 天後，因嚴重全身發炎反應與雙上臂及背部 30% TBSA 表皮脫落從外院轉入燒傷加護病房。入住燒傷加護病房後病灶進展至大腿與口腔， TBSA 達 40%，診斷為 TEN， SCORTEN 分數為 3 分。\n\n下列何者為最佳的初始藥物治療／介入措施？",
+      "question": "L.H. 是一名 23 歲女性，因單純性泌尿道感染服用 TMP/SMX 2 天後，因嚴重全身發炎反應與雙上臂及背部 30% TBSA 表皮脫落從外院轉入燒傷加護病房。入住燒傷加護病房後病灶進展至大腿與口腔， TBSA 達 40%，診斷為 TEN， SCORTEN 分數為 3 分。\n\n下列何者為最佳的初始藥物治療／介入措施？",
       "options": [
         "A. 晶體輸液復甦（Crystalloid resuscitation）。",
         "B. Cyclophosphamide。",
@@ -2123,7 +2123,7 @@ const allChapters = {
     },
     {
       "id": 29,
-      "question": "【臨床案例】L.H. 是一名 23 歲女性，因單純性泌尿道感染服用 TMP/SMX 2 天後，因嚴重全身發炎反應與雙上臂及背部 30% TBSA 表皮脫落從外院轉入燒傷加護病房。入住燒傷加護病房後病灶進展至大腿與口腔， TBSA 達 40%，診斷為 TEN， SCORTEN 分數為 3 分。 L.H. 病情持續惡化， TBSA 表皮脫落達 50%，口腔黏膜病變加重且急性腎損傷進行性惡化。醫療團隊考慮將 IVIG 作為下一個介入措施。\n\n下列何者最能描述 IVIG 在處置 TEN 中的實證角色？",
+      "question": "L.H. 是一名 23 歲女性，因單純性泌尿道感染服用 TMP/SMX 2 天後，因嚴重全身發炎反應與雙上臂及背部 30% TBSA 表皮脫落從外院轉入燒傷加護病房。入住燒傷加護病房後病灶進展至大腿與口腔， TBSA 達 40%，診斷為 TEN， SCORTEN 分數為 3 分。 L.H. 病情持續惡化， TBSA 表皮脫落達 50%，口腔黏膜病變加重且急性腎損傷進行性惡化。醫療團隊考慮將 IVIG 作為下一個介入措施。\n\n下列何者最能描述 IVIG 在處置 TEN 中的實證角色？",
       "options": [
         "A. IVIG 應在病人進展為 TEN 之前即給予。",
         "B. IVIG 應保留於有跨專業共識指引的專科燒傷中心謹慎引導使用。",
@@ -2142,7 +2142,7 @@ const allChapters = {
     },
     {
       "id": 30,
-      "question": "【臨床案例】T.Y. 是一名 32 歲女性，過去 72 小時出現類流感症狀，因嚴重疲倦、呼吸急促與寒顫就診急診。生命徵象：心率 120 次 / 分、 平均動脈壓（mean arterial pressure, MAP） 70 mm Hg、呼吸 24 次 / 分、體溫 102.7°F （39.3°C）、室內空氣 SaO₂ 85%。適逢流感季節高峰，急診已送檢流感快篩。隨後病人因嚴重呼吸衰竭插管並轉入 內科加護病房（medical intensive care unit, MICU）。\n\n除了針對 社區型肺炎（community-acquired pneumonia, CAP）的抗生素外，下一步最佳處置為何？",
+      "question": "T.Y. 是一名 32 歲女性，過去 72 小時出現類流感症狀，因嚴重疲倦、呼吸急促與寒顫就診急診。生命徵象：心率 120 次 / 分、 平均動脈壓（mean arterial pressure, MAP） 70 mm Hg、呼吸 24 次 / 分、體溫 102.7°F （39.3°C）、室內空氣 SaO₂ 85%。適逢流感季節高峰，急診已送檢流感快篩。隨後病人因嚴重呼吸衰竭插管並轉入 內科加護病房（medical intensive care unit, MICU）。\n\n除了針對 社區型肺炎（community-acquired pneumonia, CAP）的抗生素外，下一步最佳處置為何？",
       "options": [
         "A. 不使用；病人已超過有效治療流感的黃金時間窗。",
         "B. 在啟動流感特異性治療前，等待快速診斷測試結果。",
@@ -2161,7 +2161,7 @@ const allChapters = {
     },
     {
       "id": 31,
-      "question": "【臨床案例】G.L. 是一名 25 歲女性，於 2 月下旬因嚴重急性低血氧性呼吸衰竭插管入住 內科加護病房（medical intensive care unit, MICU）。 G.L. 呈現低血壓（輸液復甦後仍需 norepinephrine）並有急性腎損傷，正等待腎臟科評估 連續性腎臟替代治療（continuous renal replacement therapy, CRRT）。鼻咽沖洗液快篩提示 B 型流感。入住 加護病房（intensive care unit, ICU）時已放置鼻胃管。\n\n針對 G.L. 的嚴重流感，下列何者為最適當的治療？",
+      "question": "G.L. 是一名 25 歲女性，於 2 月下旬因嚴重急性低血氧性呼吸衰竭插管入住 內科加護病房（medical intensive care unit, MICU）。 G.L. 呈現低血壓（輸液復甦後仍需 norepinephrine）並有急性腎損傷，正等待腎臟科評估 連續性腎臟替代治療（continuous renal replacement therapy, CRRT）。鼻咽沖洗液快篩提示 B 型流感。入住 加護病房（intensive care unit, ICU）時已放置鼻胃管。\n\n針對 G.L. 的嚴重流感，下列何者為最適當的治療？",
       "options": [
         "A. 經腸道給予 amantadine。",
         "B. 經腸道給予 oseltamivir。",
@@ -2180,7 +2180,7 @@ const allChapters = {
     },
     {
       "id": 32,
-      "question": "【臨床案例】S.B. 是一名 48 歲重度肥胖合併心臟病女性，因急性難治性低血氧呼吸衰竭於外院緊急插管，轉入 內科加護病房（medical intensive care unit, MICU）評估靜脈 - 靜脈 體外膜氧合（extracorporeal membrane oxygenation, ECMO）。 S.B. 開始使用 dexamethasone 6 mg 靜脈給藥（intravenous, IV）每日一次（once daily, QD），並使用深層鎮靜與連續肌鬆劑，且需使用 norepinephrine 維持 平均動脈壓（mean arterial pressure, MAP） > 65 mm Hg。團隊考慮使用 remdesivir （院內存量充足）。\n\n下列何者最符合現行指引對需要機械通氣（MV）的 COVID-19 病人使用 remdesivir 的建議？",
+      "question": "S.B. 是一名 48 歲重度肥胖合併心臟病女性，因急性難治性低血氧呼吸衰竭於外院緊急插管，轉入 內科加護病房（medical intensive care unit, MICU）評估靜脈 - 靜脈 體外膜氧合（extracorporeal membrane oxygenation, ECMO）。 S.B. 開始使用 dexamethasone 6 mg 靜脈給藥（intravenous, IV）每日一次（once daily, QD），並使用深層鎮靜與連續肌鬆劑，且需使用 norepinephrine 維持 平均動脈壓（mean arterial pressure, MAP） > 65 mm Hg。團隊考慮使用 remdesivir （院內存量充足）。\n\n下列何者最符合現行指引對需要機械通氣（MV）的 COVID-19 病人使用 remdesivir 的建議？",
       "options": [
         "A. 已被證實能降低院內死亡率。",
         "B. 因安全疑慮而不推薦使用。",
@@ -2353,7 +2353,7 @@ const allChapters = {
     },
     {
       "id": 9,
-      "question": "【臨床案例】C.L 是一名 55 歲男性，因十二指腸穿孔與腹膜炎接受剖腹探查術後轉入 外科加護病房（surgical intensive care unit, SICU），術後留置導尿管。在 SICU 第 4 天病人拔管並拔除導尿管。在第 6 天，病人出現發燒、頻尿與尿急等 UTI 症狀。尿液分析未見亞硝酸鹽或白血球酯酶，但尿液培養長出 100,000 CFU/mL 的 大腸桿菌（E. coli）。品管人員請您確認此案例是否符合 CDC 的 CAUTI 定義。\n\n關於此病人 CAUTI 診斷的敘述，下列何者最為適當？",
+      "question": "C.L 是一名 55 歲男性，因十二指腸穿孔與腹膜炎接受剖腹探查術後轉入 外科加護病房（surgical intensive care unit, SICU），術後留置導尿管。在 SICU 第 4 天病人拔管並拔除導尿管。在第 6 天，病人出現發燒、頻尿與尿急等 UTI 症狀。尿液分析未見亞硝酸鹽或白血球酯酶，但尿液培養長出 100,000 CFU/mL 的 大腸桿菌（E. coli）。品管人員請您確認此案例是否符合 CDC 的 CAUTI 定義。\n\n關於此病人 CAUTI 診斷的敘述，下列何者最為適當？",
       "options": [
         "A. 符合 CAUTI 定義，因為病人有臨床症狀且培養呈陽性。",
         "B. 不符合 CAUTI 定義，因為病人的尿液常規分析為陰性。",
@@ -2372,7 +2372,7 @@ const allChapters = {
     },
     {
       "id": 10,
-      "question": "【臨床案例】H.K. 是一名 42 歲女性，因意識改變、嗜睡與體溫 102.9°F （39.4°C）由丈夫送至急診室。 24 小時前曾嚴重頭痛。臨床高度懷疑細菌性腦膜炎。執行腰椎穿刺時注意到初壓極高。\n\n針對 H.K.，初始最佳的介入措施為何？",
+      "question": "H.K. 是一名 42 歲女性，因意識改變、嗜睡與體溫 102.9°F （39.4°C）由丈夫送至急診室。 24 小時前曾嚴重頭痛。臨床高度懷疑細菌性腦膜炎。執行腰椎穿刺時注意到初壓極高。\n\n針對 H.K.，初始最佳的介入措施為何？",
       "options": [
         "A. 靜脈注射 dexamethasone 0.15 mg/kg。",
         "B. 等待實驗室與微生物分析結果。",
@@ -2391,7 +2391,7 @@ const allChapters = {
     },
     {
       "id": 11,
-      "question": "【臨床案例】一名 54 歲男性因急性壞死性胰臟炎入住 內科加護病房（medical intensive care unit, MICU），併發感染性胰臟膿瘍，接受 meropenem 與 vancomycin 治療 1 週。隨後出現發燒、白血球增多、血流動力學不穩定及寡尿。經驗性加上 caspofungin。血液培養初步呈酵母菌陽性。該院備有 PNA FISH 檢測技術，在治療第 2 天將酵母菌鑑定為 近平滑念珠菌（Candida parapsilosis）。病人仍血流動力學不穩定。\n\n針對此病人的抗黴菌治療，下列哪一項選擇最為適當？",
+      "question": "一名 54 歲男性因急性壞死性胰臟炎入住 內科加護病房（medical intensive care unit, MICU），併發感染性胰臟膿瘍，接受 meropenem 與 vancomycin 治療 1 週。隨後出現發燒、白血球增多、血流動力學不穩定及寡尿。經驗性加上 caspofungin。血液培養初步呈酵母菌陽性。該院備有 PNA FISH 檢測技術，在治療第 2 天將酵母菌鑑定為 近平滑念珠菌（Candida parapsilosis）。病人仍血流動力學不穩定。\n\n針對此病人的抗黴菌治療，下列哪一項選擇最為適當？",
       "options": [
         "A. 在黴菌藥敏報告確認前，繼續使用 caspofungin。",
         "B. 改為 voriconazole 6 mg/kg 每 12 小時一次。",
@@ -2410,7 +2410,7 @@ const allChapters = {
     },
     {
       "id": 12,
-      "question": "【臨床案例】一名 64 歲女性因疑似社區型肺炎入住 內科加護病房（medical intensive care unit, MICU），啟動 ceftriaxone 與 azithromycin 治療。胸部 X 光顯示局部浸潤。入院時呼吸急促（呼吸 33 次 / 分）、血壓 90/50 mm Hg、心率 101 次 / 分、 白血球計數（white blood cell count, WBC） 18 × 10³ cells/mm³、乳酸 4.2 mmol/L。入院抽取的降鈣素原（procalcitonin, PCT）於抗生素治療 12 小時後出爐，數值為 0.1 mcg/L。\n\n考量該 降鈣素原（procalcitonin, PCT）結果，下列哪一項處置最為適當？",
+      "question": "一名 64 歲女性因疑似社區型肺炎入住 內科加護病房（medical intensive care unit, MICU），啟動 ceftriaxone 與 azithromycin 治療。胸部 X 光顯示局部浸潤。入院時呼吸急促（呼吸 33 次 / 分）、血壓 90/50 mm Hg、心率 101 次 / 分、 白血球計數（white blood cell count, WBC） 18 × 10³ cells/mm³、乳酸 4.2 mmol/L。入院抽取的降鈣素原（procalcitonin, PCT）於抗生素治療 12 小時後出爐，數值為 0.1 mcg/L。\n\n考量該 降鈣素原（procalcitonin, PCT）結果，下列哪一項處置最為適當？",
       "options": [
         "A. 繼續使用目前所有的抗生素（Continue all current antibiotics）。",
         "B. 停用所有抗生素。",
@@ -2429,7 +2429,7 @@ const allChapters = {
     },
     {
       "id": 13,
-      "question": "【臨床案例】一名 74 歲男性在接受常規髖關節置換術後入住 外科加護病房（surgical intensive care unit, SICU），術後因 慢性阻塞性肺病（chronic obstructive pulmonary disease, COPD）無法拔管。隨後病人出現感染徵象（血壓 94/55 mm Hg、心率 114 次 / 分、體溫 38.8°C、 WBC 18 × 10³ cells/mm³、乳酸 3.2 mmol/L），經驗性給予 piperacillin/tazobactam 與 vancomycin。尿液培養長出 大腸桿菌（E. coli），拔除導尿管並停用 vancomycin。第 3 天藥敏報告顯示為 ESBL 大腸桿菌（E. coli），其數值為： piperacillin/tazobactam < 2 mcg/mL （S）、 cefepime 4 mcg/mL （SDD）、 imipenem 0.5 mcg/mL （S）、 ciprofloxacin 0.25 mcg/mL （S）。目前病人體溫正常、 白血球計數（white blood cell count, WBC） 9 × 10³ cells/mm³，生命徵象穩定改善。\n\n下列哪一種抗生素處置最為適當？",
+      "question": "一名 74 歲男性在接受常規髖關節置換術後入住 外科加護病房（surgical intensive care unit, SICU），術後因 慢性阻塞性肺病（chronic obstructive pulmonary disease, COPD）無法拔管。隨後病人出現感染徵象（血壓 94/55 mm Hg、心率 114 次 / 分、體溫 38.8°C、 WBC 18 × 10³ cells/mm³、乳酸 3.2 mmol/L），經驗性給予 piperacillin/tazobactam 與 vancomycin。尿液培養長出 大腸桿菌（E. coli），拔除導尿管並停用 vancomycin。第 3 天藥敏報告顯示為 ESBL 大腸桿菌（E. coli），其數值為： piperacillin/tazobactam < 2 mcg/mL （S）、 cefepime 4 mcg/mL （SDD）、 imipenem 0.5 mcg/mL （S）、 ciprofloxacin 0.25 mcg/mL （S）。目前病人體溫正常、 白血球計數（white blood cell count, WBC） 9 × 10³ cells/mm³，生命徵象穩定改善。\n\n下列哪一種抗生素處置最為適當？",
       "options": [
         "A. 將 piperacillin/tazobactam 改為 imipenem。",
         "B. 單獨繼續使用 piperacillin/tazobactam。",
@@ -2448,7 +2448,7 @@ const allChapters = {
     },
     {
       "id": 14,
-      "question": "【臨床案例】一名 72 歲末期腎病女性因敗血症入住 內科加護病房（medical intensive care unit, MICU），血液培養長出革蘭氏陽性球菌，開始使用 vancomycin 並拔除透析導管。第 4 天確認為 抗 methicillin 金黃色葡萄球菌（methicillin-resistant Staphylococcus aureus, MRSA），藥敏顯示： oxacillin > 4 mcg/mL （R）、 vancomycin 2 mcg/mL （S）、 daptomycin 0.5 mcg/mL （S）、 linezolid 1 mcg/mL （S）。心臟超音波發現僧帽瓣贅生物，診斷為心內膜炎，需抗生素治療 4–6 週。追蹤血液培養已無細菌生長，病人臨床症狀好轉、體溫正常、乳酸 1.1 mmol/L。\n\n下列何者為最恰當的治療處方？",
+      "question": "一名 72 歲末期腎病女性因敗血症入住 內科加護病房（medical intensive care unit, MICU），血液培養長出革蘭氏陽性球菌，開始使用 vancomycin 並拔除透析導管。第 4 天確認為 抗 methicillin 金黃色葡萄球菌（methicillin-resistant Staphylococcus aureus, MRSA），藥敏顯示： oxacillin > 4 mcg/mL （R）、 vancomycin 2 mcg/mL （S）、 daptomycin 0.5 mcg/mL （S）、 linezolid 1 mcg/mL （S）。心臟超音波發現僧帽瓣贅生物，診斷為心內膜炎，需抗生素治療 4–6 週。追蹤血液培養已無細菌生長，病人臨床症狀好轉、體溫正常、乳酸 1.1 mmol/L。\n\n下列何者為最恰當的治療處方？",
       "options": [
         "A. 將 vancomycin 改為 linezolid 600 mg 每 12 小時一次。",
         "B. 在 vancomycin 基礎上加上 gentamicin 與 rifampin。",
@@ -2467,7 +2467,7 @@ const allChapters = {
     },
     {
       "id": 15,
-      "question": "【臨床案例】一名 46 歲男性因糖尿病酮酸中毒（DKA）入住 內科加護病房（medical intensive care unit, MICU）。病人有第一型糖尿病、 HIV 陽性及隱球菌腦膜炎（cryptococcal meningitis）病史，規律服用 HAART。 CD4 計數為 85 cells/mm³。 DKA 控制良好準備轉出 加護病房（intensive care unit, ICU）。出院前注意到他目前未接受任何伺機性感染（OI）的預防投藥。\n\n下列哪一種預防性處方對此病人最為適當？",
+      "question": "一名 46 歲男性因糖尿病酮酸中毒（DKA）入住 內科加護病房（medical intensive care unit, MICU）。病人有第一型糖尿病、 HIV 陽性及隱球菌腦膜炎（cryptococcal meningitis）病史，規律服用 HAART。 CD4 計數為 85 cells/mm³。 DKA 控制良好準備轉出 加護病房（intensive care unit, ICU）。出院前注意到他目前未接受任何伺機性感染（OI）的預防投藥。\n\n下列哪一種預防性處方對此病人最為適當？",
       "options": [
         "A. azithromycin 1200 mg 每週一次加上 TMP/SMX 雙倍劑量（DS）錠每週三次。",
         "B. fluconazole 200 mg 每日一次加上 TMP/SMX 雙倍劑量（DS）錠每日一次。",
@@ -2486,7 +2486,7 @@ const allChapters = {
     },
     {
       "id": 16,
-      "question": "【臨床案例】一名 66 歲女性因脫水與急性腎損傷入住 內科加護病房（medical intensive care unit, MICU）。近期接受異體骨髓移植尚未植入成功，全血球低下已 12 天。在 加護病房（intensive care unit, ICU）第 5 天因急性呼吸窘迫插管， BAL 培養長出 Aspergillus fumigatus，診斷為侵襲性肺麴菌病（invasive pulmonary aspergillosis）。用藥包括 tacrolimus、類固醇與 fluconazole 預防。檢驗： 白血球計數（white blood cell count, WBC） 0.2 × 10³ cells/mm³， 血清肌酸酐（serum creatinine, SCr） 3.4 mg/dL， 肌酸酐清除率（creatinine clearance, CrCl） < 50 mL/min/1.73 m²。\n\n下列哪一種抗黴菌治療最為適當？",
+      "question": "一名 66 歲女性因脫水與急性腎損傷入住 內科加護病房（medical intensive care unit, MICU）。近期接受異體骨髓移植尚未植入成功，全血球低下已 12 天。在 加護病房（intensive care unit, ICU）第 5 天因急性呼吸窘迫插管， BAL 培養長出 Aspergillus fumigatus，診斷為侵襲性肺麴菌病（invasive pulmonary aspergillosis）。用藥包括 tacrolimus、類固醇與 fluconazole 預防。檢驗： 白血球計數（white blood cell count, WBC） 0.2 × 10³ cells/mm³， 血清肌酸酐（serum creatinine, SCr） 3.4 mg/dL， 肌酸酐清除率（creatinine clearance, CrCl） < 50 mL/min/1.73 m²。\n\n下列哪一種抗黴菌治療最為適當？",
       "options": [
         "A. amphotericin 50 mg 靜脈注射每日一次。",
         "B. Isavuconazole 負荷劑量，隨後 200 mg 靜脈注射每日一次。",
@@ -2507,7 +2507,7 @@ const allChapters = {
   "8": [
     {
       "id": 1,
-      "question": "【臨床案例】J.H. 是一名 30 歲男性，因敗血性休克入住 加護病房（intensive care unit, ICU）。他最初接受 30 mL/kg sodium chloride 溶液進行靜脈輸液復甦，隨後因脈壓變異度（pulse pressure variation）需要給予更多輸液。儘管使用 enoxaparin 30 mg 皮下注射每 12 小時一次進行預防， J.H. 仍發生了近端深部靜脈血栓（proximal DVT）。\n\n下列哪一種藥物動力學（pharmacokinetics, PK）改變最可能導致此治療失敗？",
+      "question": "J.H. 是一名 30 歲男性，因敗血性休克入住 加護病房（intensive care unit, ICU）。他最初接受 30 mL/kg sodium chloride 溶液進行靜脈輸液復甦，隨後因脈壓變異度（pulse pressure variation）需要給予更多輸液。儘管使用 enoxaparin 30 mg 皮下注射每 12 小時一次進行預防， J.H. 仍發生了近端深部靜脈血栓（proximal DVT）。\n\n下列哪一種藥物動力學（pharmacokinetics, PK）改變最可能導致此治療失敗？",
       "options": [
         "A. 因分佈體積（Vd）減少導致抗第十凝血因子（anti-Xa）活性降低。",
         "B. 因吸收減少（decreased absorption）導致抗第十凝血因子（anti-Xa）活性降低。",
@@ -2526,7 +2526,7 @@ const allChapters = {
     },
     {
       "id": 2,
-      "question": "【臨床案例】E.W. 是一名 48 歲男性（體重 85 kg），因機車車禍入住外傷 加護病房（intensive care unit, ICU）。診斷包括創傷性腦損傷（TBI；頭部 CT 顯示顱骨凹陷性骨折、額葉蜘蛛膜下腔出血及右腦實質出血）、右髖臼骨折、雙側肋骨骨折及腹部創傷。腹部 CT 顯示數處漿膜撕裂傷而接受剖腹探查術。術後 24 小時內接受 5 L sodium chloride 溶液復甦，並維持禁食（NPO）。肺動脈導管數值：心臟指數 4.2 L/min/m²、肺動脈楔壓 16 mm Hg。用藥包含 fentanyl 75 mcg/h、 propofol 15 mcg/kg/min、 pantoprazole 40 mg 靜脈給藥（intravenous, IV） Q24H、 enoxaparin 30 mg SC Q12H 及 phenytoin 150 mg 靜脈給藥（intravenous, IV） Q8H。\n\n下列哪一組因素最能準確評估經腸道給藥之藥物吸收減少的危險因子？",
+      "question": "E.W. 是一名 48 歲男性（體重 85 kg），因機車車禍入住外傷 加護病房（intensive care unit, ICU）。診斷包括創傷性腦損傷（TBI；頭部 CT 顯示顱骨凹陷性骨折、額葉蜘蛛膜下腔出血及右腦實質出血）、右髖臼骨折、雙側肋骨骨折及腹部創傷。腹部 CT 顯示數處漿膜撕裂傷而接受剖腹探查術。術後 24 小時內接受 5 L sodium chloride 溶液復甦，並維持禁食（NPO）。肺動脈導管數值：心臟指數 4.2 L/min/m²、肺動脈楔壓 16 mm Hg。用藥包含 fentanyl 75 mcg/h、 propofol 15 mcg/kg/min、 pantoprazole 40 mg 靜脈給藥（intravenous, IV） Q24H、 enoxaparin 30 mg SC Q12H 及 phenytoin 150 mg 靜脈給藥（intravenous, IV） Q8H。\n\n下列哪一組因素最能準確評估經腸道給藥之藥物吸收減少的危險因子？",
       "options": [
         "A. 腸道萎縮、 pantoprazole 治療、腹部手術。",
         "B. 創傷性腦損傷（traumatic brain injury, TBI）、 fentanyl 治療、心輸出量。",
@@ -2545,7 +2545,7 @@ const allChapters = {
     },
     {
       "id": 3,
-      "question": "【臨床案例】E.W. 是一名 48 歲男性（體重 85 kg），因機車車禍入住外傷 加護病房（intensive care unit, ICU）。診斷包括創傷性腦損傷（TBI；頭部 CT 顯示顱骨凹陷性骨折、額葉蜘蛛膜下腔出血及右腦實質出血）、右髖臼骨折、雙側肋骨骨折及腹部創傷。腹部 CT 顯示數處漿膜撕裂傷而接受剖腹探查術。術後 24 小時內接受 5 L sodium chloride 溶液復甦，並維持禁食（NPO）。肺動脈導管數值：心臟指數 4.2 L/min/m²、肺動脈楔壓 16 mm Hg。用藥包含 fentanyl 75 mcg/h、 propofol 15 mcg/kg/min、 pantoprazole 40 mg 靜脈給藥（intravenous, IV） Q24H、 enoxaparin 30 mg SC Q12H 及 phenytoin 150 mg 靜脈給藥（intravenous, IV） Q8H。\n\n在 E.W. 入住 加護病房（intensive care unit, ICU）前，其白蛋白濃度為 3.8 g/dL，但術後降至 2.1 g/dL。考量此白蛋白變化， propofol 的總濃度（total concentration）與未結合游離濃度（unbound concentration）最可能出現何種變化？",
+      "question": "E.W. 是一名 48 歲男性（體重 85 kg），因機車車禍入住外傷 加護病房（intensive care unit, ICU）。診斷包括創傷性腦損傷（TBI；頭部 CT 顯示顱骨凹陷性骨折、額葉蜘蛛膜下腔出血及右腦實質出血）、右髖臼骨折、雙側肋骨骨折及腹部創傷。腹部 CT 顯示數處漿膜撕裂傷而接受剖腹探查術。術後 24 小時內接受 5 L sodium chloride 溶液復甦，並維持禁食（NPO）。肺動脈導管數值：心臟指數 4.2 L/min/m²、肺動脈楔壓 16 mm Hg。用藥包含 fentanyl 75 mcg/h、 propofol 15 mcg/kg/min、 pantoprazole 40 mg 靜脈給藥（intravenous, IV） Q24H、 enoxaparin 30 mg SC Q12H 及 phenytoin 150 mg 靜脈給藥（intravenous, IV） Q8H。\n\n在 E.W. 入住 加護病房（intensive care unit, ICU）前，其白蛋白濃度為 3.8 g/dL，但術後降至 2.1 g/dL。考量此白蛋白變化， propofol 的總濃度（total concentration）與未結合游離濃度（unbound concentration）最可能出現何種變化？",
       "options": [
         "A. 總濃度增加，未結合濃度降低。",
         "B. 總濃度不變，未結合濃度增加（No change in total concentration, increased unbound concentration）。",
@@ -2564,7 +2564,7 @@ const allChapters = {
     },
     {
       "id": 4,
-      "question": "【臨床案例】E.W. 是一名 48 歲男性（體重 85 kg），因機車車禍入住外傷 加護病房（intensive care unit, ICU）。診斷包括創傷性腦損傷（TBI；頭部 CT 顯示顱骨凹陷性骨折、額葉蜘蛛膜下腔出血及右腦實質出血）、右髖臼骨折、雙側肋骨骨折及腹部創傷。腹部 CT 顯示數處漿膜撕裂傷而接受剖腹探查術。術後 24 小時內接受 5 L sodium chloride 溶液復甦，並維持禁食（NPO）。肺動脈導管數值：心臟指數 4.2 L/min/m²、肺動脈楔壓 16 mm Hg。用藥包含 fentanyl 75 mcg/h、 propofol 15 mcg/kg/min、 pantoprazole 40 mg 靜脈給藥（intravenous, IV） Q24H、 enoxaparin 30 mg SC Q12H 及 phenytoin 150 mg 靜脈給藥（intravenous, IV） Q8H。 在術後第 3 天， E.W. 的 血清肌酸酐（serum creatinine, SCr）上升至 3 mg/dL；術後第 4 天為 3.2 mg/dL。\n\n在評估腎功能以決定 E.W. 的藥物劑量調整時，下列哪一項變數最為重要？",
+      "question": "E.W. 是一名 48 歲男性（體重 85 kg），因機車車禍入住外傷 加護病房（intensive care unit, ICU）。診斷包括創傷性腦損傷（TBI；頭部 CT 顯示顱骨凹陷性骨折、額葉蜘蛛膜下腔出血及右腦實質出血）、右髖臼骨折、雙側肋骨骨折及腹部創傷。腹部 CT 顯示數處漿膜撕裂傷而接受剖腹探查術。術後 24 小時內接受 5 L sodium chloride 溶液復甦，並維持禁食（NPO）。肺動脈導管數值：心臟指數 4.2 L/min/m²、肺動脈楔壓 16 mm Hg。用藥包含 fentanyl 75 mcg/h、 propofol 15 mcg/kg/min、 pantoprazole 40 mg 靜脈給藥（intravenous, IV） Q24H、 enoxaparin 30 mg SC Q12H 及 phenytoin 150 mg 靜脈給藥（intravenous, IV） Q8H。 在術後第 3 天， E.W. 的 血清肌酸酐（serum creatinine, SCr）上升至 3 mg/dL；術後第 4 天為 3.2 mg/dL。\n\n在評估腎功能以決定 E.W. 的藥物劑量調整時，下列哪一項變數最為重要？",
       "options": [
         "A. 血中尿素氮（blood urea nitrogen, BUN）/血清肌酸酐（serum creatinine, SCr）比值。",
         "B. 每日總尿量（Total daily urinary output）。",
@@ -2583,7 +2583,7 @@ const allChapters = {
     },
     {
       "id": 5,
-      "question": "【臨床案例】S.H. 是一名 35 歲男性（體重 85 kg），因院內型肺炎繼發敗血症入住 內科加護病房（medical intensive care unit, MICU）。經驗性給予間歇性 vancomycin、 piperacillin/tazobactam 與 ciprofloxacin。檢驗： 血清肌酸酐（serum creatinine, SCr） 1 mg/dL、 血中尿素氮（blood urea nitrogen, BUN） 12 mg/dL、 白血球計數（white blood cell count, WBC） 18 × 10³ cells/mm³。\n\n根據 S.H. 預期的 藥物動力學（pharmacokinetics, PK）改變與指引建議，下列哪一個靜脈注射 vancomycin 負荷劑量（loading dose）最為適當？",
+      "question": "S.H. 是一名 35 歲男性（體重 85 kg），因院內型肺炎繼發敗血症入住 內科加護病房（medical intensive care unit, MICU）。經驗性給予間歇性 vancomycin、 piperacillin/tazobactam 與 ciprofloxacin。檢驗： 血清肌酸酐（serum creatinine, SCr） 1 mg/dL、 血中尿素氮（blood urea nitrogen, BUN） 12 mg/dL、 白血球計數（white blood cell count, WBC） 18 × 10³ cells/mm³。\n\n根據 S.H. 預期的 藥物動力學（pharmacokinetics, PK）改變與指引建議，下列哪一個靜脈注射 vancomycin 負荷劑量（loading dose）最為適當？",
       "options": [
         "A. 1000 mg。",
         "B. 1500 mg。",
@@ -2602,7 +2602,7 @@ const allChapters = {
     },
     {
       "id": 6,
-      "question": "【臨床案例】S.H. 是一名 35 歲男性（體重 85 kg），因院內型肺炎繼發敗血症入住 內科加護病房（medical intensive care unit, MICU）。經驗性給予間歇性 vancomycin、 piperacillin/tazobactam 與 ciprofloxacin。檢驗： 血清肌酸酐（serum creatinine, SCr） 1 mg/dL、 血中尿素氮（blood urea nitrogen, BUN） 12 mg/dL、 白血球計數（white blood cell count, WBC） 18 × 10³ cells/mm³。 S.H. 確診為 抗 methicillin 金黃色葡萄球菌（methicillin-resistant Staphylococcus aureus, MRSA）院內型肺炎。在 vancomycin 治療第 10 天，相同劑量下測得之 濃度時間曲線下面積（area under the concentration-time curve, AUC）升至 700 mg·h/L （先前 AUC 為 425 mg·h/L）。\n\n下列何者最可能解釋此血中暴露量升高的現象？",
+      "question": "S.H. 是一名 35 歲男性（體重 85 kg），因院內型肺炎繼發敗血症入住 內科加護病房（medical intensive care unit, MICU）。經驗性給予間歇性 vancomycin、 piperacillin/tazobactam 與 ciprofloxacin。檢驗： 血清肌酸酐（serum creatinine, SCr） 1 mg/dL、 血中尿素氮（blood urea nitrogen, BUN） 12 mg/dL、 白血球計數（white blood cell count, WBC） 18 × 10³ cells/mm³。 S.H. 確診為 抗 methicillin 金黃色葡萄球菌（methicillin-resistant Staphylococcus aureus, MRSA）院內型肺炎。在 vancomycin 治療第 10 天，相同劑量下測得之 濃度時間曲線下面積（area under the concentration-time curve, AUC）升至 700 mg·h/L （先前 AUC 為 425 mg·h/L）。\n\n下列何者最可能解釋此血中暴露量升高的現象？",
       "options": [
         "A. 擴增性腎清除率（ARC）恢復至正常（Augmented renal excretion returned to normal）。",
         "B. 分佈體積（Vd）增加至大於正常。",
@@ -2659,7 +2659,7 @@ const allChapters = {
     },
     {
       "id": 9,
-      "question": "【臨床案例】M.J. 是一名 70 歲男性，因動脈瘤性蜘蛛膜下腔出血入住神經外科 加護病房（intensive care unit, ICU），接受腦室外引流管（EVD）置放。隨後體溫 101.5°F， 白血球計數（white blood cell count, WBC） 15 × 10³ cells/mm³， CSF 培養長出 抗 methicillin 金黃色葡萄球菌（methicillin-resistant Staphylococcus aureus, MRSA）。給予腦室內注射 vancomycin 20 mg 治療。\n\n採取此種腦室內給藥途徑（intraventricular）的最佳理由為何？",
+      "question": "M.J. 是一名 70 歲男性，因動脈瘤性蜘蛛膜下腔出血入住神經外科 加護病房（intensive care unit, ICU），接受腦室外引流管（EVD）置放。隨後體溫 101.5°F， 白血球計數（white blood cell count, WBC） 15 × 10³ cells/mm³， CSF 培養長出 抗 methicillin 金黃色葡萄球菌（methicillin-resistant Staphylococcus aureus, MRSA）。給予腦室內注射 vancomycin 20 mg 治療。\n\n採取此種腦室內給藥途徑（intraventricular）的最佳理由為何？",
       "options": [
         "A. 已被證實臨床療效優於靜脈注射抗生素。",
         "B. 最大化局部的抗生素濃度（Maximizing localized antibiotic concentrations）。",
@@ -2678,7 +2678,7 @@ const allChapters = {
     },
     {
       "id": 10,
-      "question": "【臨床案例】I.L. 是一名 32 歲男性，每日接受 esomeprazole 40 mg 靜脈注射進行壓力性潰瘍預防。\n\n繼發於胃內 pH 值上升，下列哪一種藥物最可能出現吸收增加（increased absorption）？",
+      "question": "I.L. 是一名 32 歲男性，每日接受 esomeprazole 40 mg 靜脈注射進行壓力性潰瘍預防。\n\n繼發於胃內 pH 值上升，下列哪一種藥物最可能出現吸收增加（increased absorption）？",
       "options": [
         "A. Carvedilol。",
         "B. ciprofloxacin。",
@@ -2697,7 +2697,7 @@ const allChapters = {
     },
     {
       "id": 11,
-      "question": "【臨床案例】R.H. 是一名 20 歲男性，因噁心嘔吐至急診就診。心率 130 次 / 分、血壓 98/62 mm Hg、呼吸 28 次 / 分。 動脈血液氣體分析（arterial blood gas, ABG）顯示 pH 7.11、 Pco₂ 18 mm Hg、 HCO₃ 5.2 mEq/L。檢驗： K 5 mEq/L、 血中尿素氮（blood urea nitrogen, BUN） 22 mg/dL、 血清肌酸酐（serum creatinine, SCr） 1.4 mg/dL、血糖 400 mg/dL （嚴重 DKA 代謝性酸中毒）。\n\n在此病人體內，像 ciprofloxacin 這類弱酸性藥物（weak acid）的分佈體積（Vd）最可能發生何種變化？",
+      "question": "R.H. 是一名 20 歲男性，因噁心嘔吐至急診就診。心率 130 次 / 分、血壓 98/62 mm Hg、呼吸 28 次 / 分。 動脈血液氣體分析（arterial blood gas, ABG）顯示 pH 7.11、 Pco₂ 18 mm Hg、 HCO₃ 5.2 mEq/L。檢驗： K 5 mEq/L、 血中尿素氮（blood urea nitrogen, BUN） 22 mg/dL、 血清肌酸酐（serum creatinine, SCr） 1.4 mg/dL、血糖 400 mg/dL （嚴重 DKA 代謝性酸中毒）。\n\n在此病人體內，像 ciprofloxacin 這類弱酸性藥物（weak acid）的分佈體積（Vd）最可能發生何種變化？",
       "options": [
         "A. 因解離度降低（decreased ionization）而增加。",
         "B. 因解離度增加而降低。",
@@ -2716,7 +2716,7 @@ const allChapters = {
     },
     {
       "id": 12,
-      "question": "【臨床案例】B.B. 是一名 62 歲女性，因敗血性休克入住 加護病房（intensive care unit, ICU）。過去 24 小時內共接受了 6 L 晶體輸液復甦與維持液。\n\n下列哪一種抗生素的分佈體積（Vd）最「不容易」受到大量靜脈輸液的影響？",
+      "question": "B.B. 是一名 62 歲女性，因敗血性休克入住 加護病房（intensive care unit, ICU）。過去 24 小時內共接受了 6 L 晶體輸液復甦與維持液。\n\n下列哪一種抗生素的分佈體積（Vd）最「不容易」受到大量靜脈輸液的影響？",
       "options": [
         "A. tobramycin。",
         "B. Daptomycin。",
@@ -2735,7 +2735,7 @@ const allChapters = {
     },
     {
       "id": 13,
-      "question": "【臨床案例】A.P. 是一名 35 歲女性，因氣喘急性惡化插管使用呼吸器，使用 morphine 輸注止痛。\n\n下列何者最能準確描述機械通氣對 morphine 游離濃度（unbound concentration, Cssu）的影響？",
+      "question": "A.P. 是一名 35 歲女性，因氣喘急性惡化插管使用呼吸器，使用 morphine 輸注止痛。\n\n下列何者最能準確描述機械通氣對 morphine 游離濃度（unbound concentration, Cssu）的影響？",
       "options": [
         "A. 增加向肝臟的氧氣傳遞，並增加未結合濃度。",
         "B. 降低肝臟血流量並增加未結合濃度（Decreases hepatic blood flow and increases the unbound concentration）。",
@@ -2754,7 +2754,7 @@ const allChapters = {
     },
     {
       "id": 14,
-      "question": "【臨床案例】J.M. 是一名 34 歲女性，因新發敗血症入住 加護病房（intensive care unit, ICU），續用居家焦慮用藥 diazepam。經驗性使用 vancomycin、 piperacillin/tazobactam 及 fluconazole 400 mg 靜脈給藥（intravenous, IV） Q24H。\n\n您最預期在 J.M. 身上觀察到哪一種藥效學（pharmacodynamics, PD）反應？",
+      "question": "J.M. 是一名 34 歲女性，因新發敗血症入住 加護病房（intensive care unit, ICU），續用居家焦慮用藥 diazepam。經驗性使用 vancomycin、 piperacillin/tazobactam 及 fluconazole 400 mg 靜脈給藥（intravenous, IV） Q24H。\n\n您最預期在 J.M. 身上觀察到哪一種藥效學（pharmacodynamics, PD）反應？",
       "options": [
         "A. 因 diazepam 內生性清除率增加導致焦慮風險上升。",
         "B. 因 diazepam 內生性清除率下降導致鎮靜風險增加（Increased risk of sedation caused by a decreased intrinsic clearance）。",
@@ -2773,7 +2773,7 @@ const allChapters = {
     },
     {
       "id": 15,
-      "question": "【臨床案例】P.M. 因外傷後癲癇使用 phenytoin 治療。實測總濃度為 8 mcg/mL。考量其低白蛋白血症（albumin 2.5 g/dL），利用公式校正後的濃度約為 13 mcg/mL。\n\n下列哪一種動力學關係最能解釋為何必須計算校正後的 phenytoin 總濃度？",
+      "question": "P.M. 因外傷後癲癇使用 phenytoin 治療。實測總濃度為 8 mcg/mL。考量其低白蛋白血症（albumin 2.5 g/dL），利用公式校正後的濃度約為 13 mcg/mL。\n\n下列哪一種動力學關係最能解釋為何必須計算校正後的 phenytoin 總濃度？",
       "options": [
         "A. phenytoin 的 Cssu 因 fu 增加而增加。",
         "B. phenytoin 的 Css 因 fu 增加而增加。",
@@ -2792,7 +2792,7 @@ const allChapters = {
     },
     {
       "id": 16,
-      "question": "【臨床案例】C.P. 是一名 50 歲男性，因糖尿病酮酸中毒（DKA）入住 內科加護病房（medical intensive care unit, MICU）。嚴重低血容導致 急性腎損傷（acute kidney injury, AKI）， 血清肌酸酐（serum creatinine, SCr）達 2.8 mg/dL，血糖 350 mg/dL。病人開始接受連續靜脈 insulin 輸注以控制血糖。\n\n為 C.P. 調配 insulin 劑量時，下列哪一項因素最為重要？",
+      "question": "C.P. 是一名 50 歲男性，因糖尿病酮酸中毒（DKA）入住 內科加護病房（medical intensive care unit, MICU）。嚴重低血容導致 急性腎損傷（acute kidney injury, AKI）， 血清肌酸酐（serum creatinine, SCr）達 2.8 mg/dL，血糖 350 mg/dL。病人開始接受連續靜脈 insulin 輸注以控制血糖。\n\n為 C.P. 調配 insulin 劑量時，下列哪一項因素最為重要？",
       "options": [
         "A. insulin 的腎臟代謝減少（Decreased renal metabolism of insulin）。",
         "B. insulin 的分佈體積增加。",
@@ -2813,7 +2813,7 @@ const allChapters = {
   "9": [
     {
       "id": 1,
-      "question": "【臨床案例】E.R. 是一名 67 歲男性，數天前因急性呼吸衰竭入住 加護病房（intensive care unit, ICU），接受機械通氣並經驗性給予抗生素治療社區型肺炎。過去 5 天其腎功能持續惡化（入院時 SCr 0.6 mg/dL；今日為 2.4 mg/dL），目前需要連續性靜脈對靜脈血液過濾術（continuous venovenous hemofiltration, CVVH）進行腎臟替代治療（kidney replacement therapy, KRT）。他已拔管但仍不穩定。用藥包括 fentanyl、 norepinephrine、 ceftriaxone、 azithromycin 及 heparin 預防。\n\n在 E.R. 身上，哪一種藥物誘發性腎臟病（DIKD）表型與其抗生素處方最為相關？",
+      "question": "E.R. 是一名 67 歲男性，數天前因急性呼吸衰竭入住 加護病房（intensive care unit, ICU），接受機械通氣並經驗性給予抗生素治療社區型肺炎。過去 5 天其腎功能持續惡化（入院時 SCr 0.6 mg/dL；今日為 2.4 mg/dL），目前需要連續性靜脈對靜脈血液過濾術（continuous venovenous hemofiltration, CVVH）進行腎臟替代治療（kidney replacement therapy, KRT）。他已拔管但仍不穩定。用藥包括 fentanyl、 norepinephrine、 ceftriaxone、 azithromycin 及 heparin 預防。\n\n在 E.R. 身上，哪一種藥物誘發性腎臟病（DIKD）表型與其抗生素處方最為相關？",
       "options": [
         "A. 急性腎損傷（Acute kidney injury, AKI） （急性間質性腎炎 [AIN]）。",
         "B. 腎絲球疾病（Glomerular disease）。",
@@ -2832,7 +2832,7 @@ const allChapters = {
     },
     {
       "id": 2,
-      "question": "【臨床案例】E.R. 是一名 67 歲男性，數天前因急性呼吸衰竭入住 加護病房（intensive care unit, ICU），接受機械通氣並經驗性給予抗生素治療社區型肺炎。過去 5 天其腎功能持續惡化（入院時 SCr 0.6 mg/dL；今日為 2.4 mg/dL），目前需要連續性靜脈對靜脈血液過濾術（continuous venovenous hemofiltration, CVVH）進行腎臟替代治療（kidney replacement therapy, KRT）。他已拔管但仍不穩定。用藥包括 fentanyl、 norepinephrine、 ceftriaxone、 azithromycin 及 heparin 預防。\n\n哪一個 KDIGO 分期最能描述 E.R. 目前的 急性腎損傷（acute kidney injury, AKI）？",
+      "question": "E.R. 是一名 67 歲男性，數天前因急性呼吸衰竭入住 加護病房（intensive care unit, ICU），接受機械通氣並經驗性給予抗生素治療社區型肺炎。過去 5 天其腎功能持續惡化（入院時 SCr 0.6 mg/dL；今日為 2.4 mg/dL），目前需要連續性靜脈對靜脈血液過濾術（continuous venovenous hemofiltration, CVVH）進行腎臟替代治療（kidney replacement therapy, KRT）。他已拔管但仍不穩定。用藥包括 fentanyl、 norepinephrine、 ceftriaxone、 azithromycin 及 heparin 預防。\n\n哪一個 KDIGO 分期最能描述 E.R. 目前的 急性腎損傷（acute kidney injury, AKI）？",
       "options": [
         "A. 第 1 期（Stage 1）。",
         "B. 第 2 期（Stage 2）。",
@@ -2851,7 +2851,7 @@ const allChapters = {
     },
     {
       "id": 3,
-      "question": "【臨床案例】E.R. 是一名 67 歲男性，數天前因急性呼吸衰竭入住 加護病房（intensive care unit, ICU），接受機械通氣並經驗性給予抗生素治療社區型肺炎。過去 5 天其腎功能持續惡化（入院時 SCr 0.6 mg/dL；今日為 2.4 mg/dL），目前需要連續性靜脈對靜脈血液過濾術（continuous venovenous hemofiltration, CVVH）進行腎臟替代治療（kidney replacement therapy, KRT）。他已拔管但仍不穩定。用藥包括 fentanyl、 norepinephrine、 ceftriaxone、 azithromycin 及 heparin 預防。 E.R. 病情持續惡化，出現發燒與白血球升高。醫療團隊請您在其接受 連續性靜脈對靜脈血液過濾（continuous venovenous hemofiltration, CVVH）期間為其調整抗生素劑量。\n\n下列何者是開始尋找劑量建議的最佳出處？",
+      "question": "E.R. 是一名 67 歲男性，數天前因急性呼吸衰竭入住 加護病房（intensive care unit, ICU），接受機械通氣並經驗性給予抗生素治療社區型肺炎。過去 5 天其腎功能持續惡化（入院時 SCr 0.6 mg/dL；今日為 2.4 mg/dL），目前需要連續性靜脈對靜脈血液過濾術（continuous venovenous hemofiltration, CVVH）進行腎臟替代治療（kidney replacement therapy, KRT）。他已拔管但仍不穩定。用藥包括 fentanyl、 norepinephrine、 ceftriaxone、 azithromycin 及 heparin 預防。 E.R. 病情持續惡化，出現發燒與白血球升高。醫療團隊請您在其接受 連續性靜脈對靜脈血液過濾（continuous venovenous hemofiltration, CVVH）期間為其調整抗生素劑量。\n\n下列何者是開始尋找劑量建議的最佳出處？",
       "options": [
         "A. 間歇性血液透析（intermittent hemodialysis, IHD）指引。",
         "B. 藥品仿單（Package insert）。",
@@ -2908,7 +2908,7 @@ const allChapters = {
     },
     {
       "id": 6,
-      "question": "【臨床案例】F.B. 是一名 68 歲男性（體重 70 kg），因發燒、白血球升高、呼吸衰竭插管使用呼吸器並使用 norepinephrine 支持血壓入住 加護病房（intensive care unit, ICU）。病史包含慢性下背痛、糖尿病及高血壓，平時服用 enalapril、 glipizide 及 acetaminophen。 1 週前在門診血壓 140/80 mm Hg， HbA1c 5.2%，當時檢驗： 白血球計數（white blood cell count, WBC） 5.0 × 10³ cells/mm³、 血中尿素氮（blood urea nitrogen, BUN） 7 mg/dL、 血清肌酸酐（serum creatinine, SCr） 0.9 mg/dL。今日 WBC 24 × 10³ cells/mm³、 BUN 38 mg/dL、 SCr 3.2 mg/dL，過去 24 小時尿量僅 325 mL。\n\n下列何者最能準確描述 F.B. 目前的 急性腎損傷（acute kidney injury, AKI）？",
+      "question": "F.B. 是一名 68 歲男性（體重 70 kg），因發燒、白血球升高、呼吸衰竭插管使用呼吸器並使用 norepinephrine 支持血壓入住 加護病房（intensive care unit, ICU）。病史包含慢性下背痛、糖尿病及高血壓，平時服用 enalapril、 glipizide 及 acetaminophen。 1 週前在門診血壓 140/80 mm Hg， HbA1c 5.2%，當時檢驗： 白血球計數（white blood cell count, WBC） 5.0 × 10³ cells/mm³、 血中尿素氮（blood urea nitrogen, BUN） 7 mg/dL、 血清肌酸酐（serum creatinine, SCr） 0.9 mg/dL。今日 WBC 24 × 10³ cells/mm³、 BUN 38 mg/dL、 SCr 3.2 mg/dL，過去 24 小時尿量僅 325 mL。\n\n下列何者最能準確描述 F.B. 目前的 急性腎損傷（acute kidney injury, AKI）？",
       "options": [
         "A. RIFLE 分類 R 級。",
         "B. AKIN 分期第 1 期。",
@@ -2927,7 +2927,7 @@ const allChapters = {
     },
     {
       "id": 7,
-      "question": "【臨床案例】F.B. 是一名 68 歲男性（體重 70 kg），因發燒、白血球升高、呼吸衰竭插管使用呼吸器並使用 norepinephrine 支持血壓入住 加護病房（intensive care unit, ICU）。病史包含慢性下背痛、糖尿病及高血壓，平時服用 enalapril、 glipizide 及 acetaminophen。 1 週前在門診血壓 140/80 mm Hg， HbA1c 5.2%，當時檢驗： 白血球計數（white blood cell count, WBC） 5.0 × 10³ cells/mm³、 血中尿素氮（blood urea nitrogen, BUN） 7 mg/dL、 血清肌酸酐（serum creatinine, SCr） 0.9 mg/dL。今日 WBC 24 × 10³ cells/mm³、 BUN 38 mg/dL、 SCr 3.2 mg/dL，過去 24 小時尿量僅 325 mL。\n\n下列哪一種藥物最可能促成其 急性腎損傷（acute kidney injury, AKI）的發生？",
+      "question": "F.B. 是一名 68 歲男性（體重 70 kg），因發燒、白血球升高、呼吸衰竭插管使用呼吸器並使用 norepinephrine 支持血壓入住 加護病房（intensive care unit, ICU）。病史包含慢性下背痛、糖尿病及高血壓，平時服用 enalapril、 glipizide 及 acetaminophen。 1 週前在門診血壓 140/80 mm Hg， HbA1c 5.2%，當時檢驗： 白血球計數（white blood cell count, WBC） 5.0 × 10³ cells/mm³、 血中尿素氮（blood urea nitrogen, BUN） 7 mg/dL、 血清肌酸酐（serum creatinine, SCr） 0.9 mg/dL。今日 WBC 24 × 10³ cells/mm³、 BUN 38 mg/dL、 SCr 3.2 mg/dL，過去 24 小時尿量僅 325 mL。\n\n下列哪一種藥物最可能促成其 急性腎損傷（acute kidney injury, AKI）的發生？",
       "options": [
         "A. enalapril。",
         "B. glipizide。",
@@ -2946,7 +2946,7 @@ const allChapters = {
     },
     {
       "id": 8,
-      "question": "【臨床案例】F.B. 是一名 68 歲男性（體重 70 kg），因發燒、白血球升高、呼吸衰竭插管使用呼吸器並使用 norepinephrine 支持血壓入住 加護病房（intensive care unit, ICU）。病史包含慢性下背痛、糖尿病及高血壓，平時服用 enalapril、 glipizide 及 acetaminophen。 1 週前在門診血壓 140/80 mm Hg， HbA1c 5.2%，當時檢驗： 白血球計數（white blood cell count, WBC） 5.0 × 10³ cells/mm³、 血中尿素氮（blood urea nitrogen, BUN） 7 mg/dL、 血清肌酸酐（serum creatinine, SCr） 0.9 mg/dL。今日 WBC 24 × 10³ cells/mm³、 BUN 38 mg/dL、 SCr 3.2 mg/dL，過去 24 小時尿量僅 325 mL。\n\n在評估 F.B. 的 急性腎損傷（acute kidney injury, AKI）潛在病因時，考量或獲取下列哪一項額外資訊或檢驗最為重要？",
+      "question": "F.B. 是一名 68 歲男性（體重 70 kg），因發燒、白血球升高、呼吸衰竭插管使用呼吸器並使用 norepinephrine 支持血壓入住 加護病房（intensive care unit, ICU）。病史包含慢性下背痛、糖尿病及高血壓，平時服用 enalapril、 glipizide 及 acetaminophen。 1 週前在門診血壓 140/80 mm Hg， HbA1c 5.2%，當時檢驗： 白血球計數（white blood cell count, WBC） 5.0 × 10³ cells/mm³、 血中尿素氮（blood urea nitrogen, BUN） 7 mg/dL、 血清肌酸酐（serum creatinine, SCr） 0.9 mg/dL。今日 WBC 24 × 10³ cells/mm³、 BUN 38 mg/dL、 SCr 3.2 mg/dL，過去 24 小時尿量僅 325 mL。\n\n在評估 F.B. 的 急性腎損傷（acute kidney injury, AKI）潛在病因時，考量或獲取下列哪一項額外資訊或檢驗最為重要？",
       "options": [
         "A. 腎功能惡化速度、症狀，以及並存疾病與近期用藥清單。",
         "B. 腎臟超音波評估，因為超音波能確定多數病人的 急性腎損傷（acute kidney injury, AKI）病因。",
@@ -2965,7 +2965,7 @@ const allChapters = {
     },
     {
       "id": 9,
-      "question": "【臨床案例】F.B. 是一名 68 歲男性（體重 70 kg），因發燒、白血球升高、呼吸衰竭插管使用呼吸器並使用 norepinephrine 支持血壓入住 加護病房（intensive care unit, ICU）。病史包含慢性下背痛、糖尿病及高血壓，平時服用 enalapril、 glipizide 及 acetaminophen。 1 週前在門診血壓 140/80 mm Hg， HbA1c 5.2%，當時檢驗： 白血球計數（white blood cell count, WBC） 5.0 × 10³ cells/mm³、 血中尿素氮（blood urea nitrogen, BUN） 7 mg/dL、 血清肌酸酐（serum creatinine, SCr） 0.9 mg/dL。今日 WBC 24 × 10³ cells/mm³、 BUN 38 mg/dL、 SCr 3.2 mg/dL，過去 24 小時尿量僅 325 mL。 醫療團隊判定 F.B. 需要接受腎臟替代治療（kidney replacement therapy, KRT）以處置體液過負荷並控制代謝異常。他目前仍持續輸注 norepinephrine，平均動脈壓（mean arterial pressure, MAP）為 65 mm Hg。\n\n最可能為 F.B. 選擇下列哪一種腎臟替代模式？",
+      "question": "F.B. 是一名 68 歲男性（體重 70 kg），因發燒、白血球升高、呼吸衰竭插管使用呼吸器並使用 norepinephrine 支持血壓入住 加護病房（intensive care unit, ICU）。病史包含慢性下背痛、糖尿病及高血壓，平時服用 enalapril、 glipizide 及 acetaminophen。 1 週前在門診血壓 140/80 mm Hg， HbA1c 5.2%，當時檢驗： 白血球計數（white blood cell count, WBC） 5.0 × 10³ cells/mm³、 血中尿素氮（blood urea nitrogen, BUN） 7 mg/dL、 血清肌酸酐（serum creatinine, SCr） 0.9 mg/dL。今日 WBC 24 × 10³ cells/mm³、 BUN 38 mg/dL、 SCr 3.2 mg/dL，過去 24 小時尿量僅 325 mL。 醫療團隊判定 F.B. 需要接受腎臟替代治療（kidney replacement therapy, KRT）以處置體液過負荷並控制代謝異常。他目前仍持續輸注 norepinephrine，平均動脈壓（mean arterial pressure, MAP）為 65 mm Hg。\n\n最可能為 F.B. 選擇下列哪一種腎臟替代模式？",
       "options": [
         "A. 間歇性血液透析（intermittent hemodialysis, IHD）。",
         "B. 慢速低效每日透析（Slow-low EDD）。",
@@ -2984,7 +2984,7 @@ const allChapters = {
     },
     {
       "id": 10,
-      "question": "【臨床案例】F.B. 是一名 68 歲男性（體重 70 kg），因發燒、白血球升高、呼吸衰竭插管使用呼吸器並使用 norepinephrine 支持血壓入住 加護病房（intensive care unit, ICU）。病史包含慢性下背痛、糖尿病及高血壓，平時服用 enalapril、 glipizide 及 acetaminophen。 1 週前在門診血壓 140/80 mm Hg， HbA1c 5.2%，當時檢驗： 白血球計數（white blood cell count, WBC） 5.0 × 10³ cells/mm³、 血中尿素氮（blood urea nitrogen, BUN） 7 mg/dL、 血清肌酸酐（serum creatinine, SCr） 0.9 mg/dL。今日 WBC 24 × 10³ cells/mm³、 BUN 38 mg/dL、 SCr 3.2 mg/dL，過去 24 小時尿量僅 325 mL。 醫療團隊判定 F.B. 需要接受腎臟替代治療（kidney replacement therapy, KRT）以處置體液過負荷並控制代謝異常。他目前仍持續輸注 norepinephrine，平均動脈壓（mean arterial pressure, MAP）為 65 mm Hg。 F.B. 將開始使用一種新型超廣效頭孢菌素，該藥在連續性 腎臟替代治療（kidney replacement therapy, KRT）下的文獻資訊有限。已知參數如下：分子量 480 Da、帶正電荷、 Vd 1.9 L/kg、蛋白質結合率 12%。\n\n估算該藥物在此病人連續性 腎臟替代治療（kidney replacement therapy, KRT）濾膜上的篩過係數（sieving coefficient, SC）最接近下列何者？",
+      "question": "F.B. 是一名 68 歲男性（體重 70 kg），因發燒、白血球升高、呼吸衰竭插管使用呼吸器並使用 norepinephrine 支持血壓入住 加護病房（intensive care unit, ICU）。病史包含慢性下背痛、糖尿病及高血壓，平時服用 enalapril、 glipizide 及 acetaminophen。 1 週前在門診血壓 140/80 mm Hg， HbA1c 5.2%，當時檢驗： 白血球計數（white blood cell count, WBC） 5.0 × 10³ cells/mm³、 血中尿素氮（blood urea nitrogen, BUN） 7 mg/dL、 血清肌酸酐（serum creatinine, SCr） 0.9 mg/dL。今日 WBC 24 × 10³ cells/mm³、 BUN 38 mg/dL、 SCr 3.2 mg/dL，過去 24 小時尿量僅 325 mL。 醫療團隊判定 F.B. 需要接受腎臟替代治療（kidney replacement therapy, KRT）以處置體液過負荷並控制代謝異常。他目前仍持續輸注 norepinephrine，平均動脈壓（mean arterial pressure, MAP）為 65 mm Hg。 F.B. 將開始使用一種新型超廣效頭孢菌素，該藥在連續性 腎臟替代治療（kidney replacement therapy, KRT）下的文獻資訊有限。已知參數如下：分子量 480 Da、帶正電荷、 Vd 1.9 L/kg、蛋白質結合率 12%。\n\n估算該藥物在此病人連續性 腎臟替代治療（kidney replacement therapy, KRT）濾膜上的篩過係數（sieving coefficient, SC）最接近下列何者？",
       "options": [
         "A. 0。",
         "B. 0.52。",
@@ -3003,7 +3003,7 @@ const allChapters = {
     },
     {
       "id": 11,
-      "question": "【臨床案例】F.B. 是一名 68 歲男性（體重 70 kg），因發燒、白血球升高、呼吸衰竭插管使用呼吸器並使用 norepinephrine 支持血壓入住 加護病房（intensive care unit, ICU）。病史包含慢性下背痛、糖尿病及高血壓，平時服用 enalapril、 glipizide 及 acetaminophen。 1 週前在門診血壓 140/80 mm Hg， HbA1c 5.2%，當時檢驗： 白血球計數（white blood cell count, WBC） 5.0 × 10³ cells/mm³、 血中尿素氮（blood urea nitrogen, BUN） 7 mg/dL、 血清肌酸酐（serum creatinine, SCr） 0.9 mg/dL。今日 WBC 24 × 10³ cells/mm³、 BUN 38 mg/dL、 SCr 3.2 mg/dL，過去 24 小時尿量僅 325 mL。 醫療團隊判定 F.B. 需要接受腎臟替代治療（kidney replacement therapy, KRT）以處置體液過負荷並控制代謝異常。他目前仍持續輸注 norepinephrine，平均動脈壓（mean arterial pressure, MAP）為 65 mm Hg。 F.B. 將開始使用一種新型超廣效頭孢菌素，該藥在連續性 腎臟替代治療（kidney replacement therapy, KRT）下的文獻資訊有限。已知參數如下：分子量 480 Da、帶正電荷、 Vd 1.9 L/kg、蛋白質結合率 12%。 根據估算出的 SC （0.88），若處方設定為： 連續性靜脈對靜脈血液過濾（continuous venovenous hemofiltration, CVVH）模式、血流速度（Qb） 200 mL/min、超過濾速率（QUF） 2000 mL/h、 100% 稀釋前（pre-filter）補充液，並使用高通量高效率濾器。\n\n估算該新型頭孢菌素在連續性 腎臟替代治療（kidney replacement therapy, KRT）期間的清除率（clearance）最接近下列何者？",
+      "question": "F.B. 是一名 68 歲男性（體重 70 kg），因發燒、白血球升高、呼吸衰竭插管使用呼吸器並使用 norepinephrine 支持血壓入住 加護病房（intensive care unit, ICU）。病史包含慢性下背痛、糖尿病及高血壓，平時服用 enalapril、 glipizide 及 acetaminophen。 1 週前在門診血壓 140/80 mm Hg， HbA1c 5.2%，當時檢驗： 白血球計數（white blood cell count, WBC） 5.0 × 10³ cells/mm³、 血中尿素氮（blood urea nitrogen, BUN） 7 mg/dL、 血清肌酸酐（serum creatinine, SCr） 0.9 mg/dL。今日 WBC 24 × 10³ cells/mm³、 BUN 38 mg/dL、 SCr 3.2 mg/dL，過去 24 小時尿量僅 325 mL。 醫療團隊判定 F.B. 需要接受腎臟替代治療（kidney replacement therapy, KRT）以處置體液過負荷並控制代謝異常。他目前仍持續輸注 norepinephrine，平均動脈壓（mean arterial pressure, MAP）為 65 mm Hg。 F.B. 將開始使用一種新型超廣效頭孢菌素，該藥在連續性 腎臟替代治療（kidney replacement therapy, KRT）下的文獻資訊有限。已知參數如下：分子量 480 Da、帶正電荷、 Vd 1.9 L/kg、蛋白質結合率 12%。 根據估算出的 SC （0.88），若處方設定為： 連續性靜脈對靜脈血液過濾（continuous venovenous hemofiltration, CVVH）模式、血流速度（Qb） 200 mL/min、超過濾速率（QUF） 2000 mL/h、 100% 稀釋前（pre-filter）補充液，並使用高通量高效率濾器。\n\n估算該新型頭孢菌素在連續性 腎臟替代治療（kidney replacement therapy, KRT）期間的清除率（clearance）最接近下列何者？",
       "options": [
         "A. 0.9 L/h。",
         "B. 1.5 L/h。",
@@ -3176,7 +3176,7 @@ const allChapters = {
     },
     {
       "id": 9,
-      "question": "【臨床案例】一名 37 歲男性因腦膜炎入住急診室。 10 分鐘內其 格拉斯哥昏迷指數（Glasgow Coma Scale, GCS）由 E3-M6-V1T 惡化至 E1-M5-V1T，護理師注意到其面部抽搐，已安排腦電圖（EEG）。目前用藥包括 famotidine、 heparin 預防、 docusate 及潛在酒精戒斷之綜合維生素輸注。\n\n針對該病人疑似之癲癇發作，下列何者為最佳的急性期首選治療？",
+      "question": "一名 37 歲男性因腦膜炎入住急診室。 10 分鐘內其 格拉斯哥昏迷指數（Glasgow Coma Scale, GCS）由 E3-M6-V1T 惡化至 E1-M5-V1T，護理師注意到其面部抽搐，已安排腦電圖（EEG）。目前用藥包括 famotidine、 heparin 預防、 docusate 及潛在酒精戒斷之綜合維生素輸注。\n\n針對該病人疑似之癲癇發作，下列何者為最佳的急性期首選治療？",
       "options": [
         "A. 靜脈注射 fosphenytoin 1500 mg 肺栓塞（pulmonary embolism, PE） × 1。",
         "B. 靜脈注射 valproic acid 1500 mg × 1。",
@@ -3195,7 +3195,7 @@ const allChapters = {
     },
     {
       "id": 10,
-      "question": "【臨床案例】一名 25 歲男性（體重 80 kg）自梯子墜落後入住。頭部 CT 顯示右顳葉大型硬腦膜下血腫、顱骨骨折及左顳葉挫傷。復甦後 格拉斯哥昏迷指數（Glasgow Coma Scale, GCS）為 E1-M4-V1T。 顱內壓（intracranial pressure, ICP）監視器初壓為 32 mm Hg， 腦灌流壓（cerebral perfusion pressure, CPP）為 53 mm Hg。檢驗： Na 139 mEq/L、 K 3.6 mEq/L、 血中尿素氮（blood urea nitrogen, BUN） 42 mg/dL、 血清肌酸酐（serum creatinine, SCr） 2.4 mg/dL、血糖 178 mg/dL、 pH 7.46、 Pco₂ 34 mm Hg。\n\n針對此病人顱內壓（intracranial pressure, ICP）升高的情況，下列哪一項是最佳的初始治療？",
+      "question": "一名 25 歲男性（體重 80 kg）自梯子墜落後入住。頭部 CT 顯示右顳葉大型硬腦膜下血腫、顱骨骨折及左顳葉挫傷。復甦後 格拉斯哥昏迷指數（Glasgow Coma Scale, GCS）為 E1-M4-V1T。 顱內壓（intracranial pressure, ICP）監視器初壓為 32 mm Hg， 腦灌流壓（cerebral perfusion pressure, CPP）為 53 mm Hg。檢驗： Na 139 mEq/L、 K 3.6 mEq/L、 血中尿素氮（blood urea nitrogen, BUN） 42 mg/dL、 血清肌酸酐（serum creatinine, SCr） 2.4 mg/dL、血糖 178 mg/dL、 pH 7.46、 Pco₂ 34 mm Hg。\n\n針對此病人顱內壓（intracranial pressure, ICP）升高的情況，下列哪一項是最佳的初始治療？",
       "options": [
         "A. 靜脈輸注 20% mannitol 1 g/kg × 1。",
         "B. 靜脈輸注 23.4% sodium chloride 30 mL × 1。",
@@ -3214,7 +3214,7 @@ const allChapters = {
     },
     {
       "id": 11,
-      "question": "【臨床案例】一名 61 歲男性因急性說話困難、意識混亂及右側偏癱就診， NIHSS 20 分。頭部 CT 顯示右頂葉腦內出血（intracerebral hemorrhage, ICH）。用藥包含 hydroxychloroquine、 ibuprofen PRN、 warfarin、 amlodipine 及 donepezil。檢驗： 血清肌酸酐（serum creatinine, SCr） 1.8 mg/dL、血小板 245,000/mm³、 國際標準化比值（international normalized ratio, INR） 6.8。生命徵象：血壓 163/101 mm Hg、心率 99 次 / 分。\n\n除了 vitamin K 之外，針對此病人最適當的初始治療為何？",
+      "question": "一名 61 歲男性因急性說話困難、意識混亂及右側偏癱就診， NIHSS 20 分。頭部 CT 顯示右頂葉腦內出血（intracerebral hemorrhage, ICH）。用藥包含 hydroxychloroquine、 ibuprofen PRN、 warfarin、 amlodipine 及 donepezil。檢驗： 血清肌酸酐（serum creatinine, SCr） 1.8 mg/dL、血小板 245,000/mm³、 國際標準化比值（international normalized ratio, INR） 6.8。生命徵象：血壓 163/101 mm Hg、心率 99 次 / 分。\n\n除了 vitamin K 之外，針對此病人最適當的初始治療為何？",
       "options": [
         "A. 重新開始服用 amlodipine。",
         "B. 靜脈注射給予四因子凝血酶原複合濃縮物（4F-PCC） 50 units/kg × 1。",
@@ -3233,7 +3233,7 @@ const allChapters = {
     },
     {
       "id": 12,
-      "question": "【臨床案例】一名 61 歲男性因急性說話困難、意識混亂及右側偏癱就診， NIHSS 20 分。頭部 CT 顯示右頂葉腦內出血（intracerebral hemorrhage, ICH）。用藥包含 hydroxychloroquine、 ibuprofen PRN、 warfarin、 amlodipine 及 donepezil。檢驗： 血清肌酸酐（serum creatinine, SCr） 1.8 mg/dL、血小板 245,000/mm³、 國際標準化比值（international normalized ratio, INR） 6.8。生命徵象：血壓 163/101 mm Hg、心率 99 次 / 分。\n\n針對此名 61 歲腦內出血病人，下列哪一種初始降血壓治療最為適當？",
+      "question": "一名 61 歲男性因急性說話困難、意識混亂及右側偏癱就診， NIHSS 20 分。頭部 CT 顯示右頂葉腦內出血（intracerebral hemorrhage, ICH）。用藥包含 hydroxychloroquine、 ibuprofen PRN、 warfarin、 amlodipine 及 donepezil。檢驗： 血清肌酸酐（serum creatinine, SCr） 1.8 mg/dL、血小板 245,000/mm³、 國際標準化比值（international normalized ratio, INR） 6.8。生命徵象：血壓 163/101 mm Hg、心率 99 次 / 分。\n\n針對此名 61 歲腦內出血病人，下列哪一種初始降血壓治療最為適當？",
       "options": [
         "A. 輸注 Clevidipine 1 mg/h，維持收縮壓（systolic blood pressure, SBP） 180–220 mm Hg。",
         "B. 輸注 Nicardipine 5 mg/h，維持收縮壓（systolic blood pressure, SBP） 140–150 mm Hg。",
@@ -3252,7 +3252,7 @@ const allChapters = {
     },
     {
       "id": 13,
-      "question": "【臨床案例】一名 49 歲女性因「這輩子最嚴重的頭痛」至急診，頭部 CT 顯示瀰漫性 蜘蛛膜下腔出血（subarachnoid hemorrhage, SAH）。病人無特殊病史，有 20 包 - 年抽菸史。\n\n下列哪一種治療最適合用於預防 蜘蛛膜下腔出血（subarachnoid hemorrhage, SAH）引起的缺血性併發症？",
+      "question": "一名 49 歲女性因「這輩子最嚴重的頭痛」至急診，頭部 CT 顯示瀰漫性 蜘蛛膜下腔出血（subarachnoid hemorrhage, SAH）。病人無特殊病史，有 20 包 - 年抽菸史。\n\n下列哪一種治療最適合用於預防 蜘蛛膜下腔出血（subarachnoid hemorrhage, SAH）引起的缺血性併發症？",
       "options": [
         "A. 口服 Nimodipine 治療 21 天（Nimodipine for 21 days）。",
         "B. 維持正常體液容積及允許性高血壓 14 天。",
@@ -3271,7 +3271,7 @@ const allChapters = {
     },
     {
       "id": 14,
-      "question": "【臨床案例】一名 49 歲女性因「這輩子最嚴重的頭痛」至急診，頭部 CT 顯示瀰漫性 蜘蛛膜下腔出血（subarachnoid hemorrhage, SAH）。病人無特殊病史，有 20 包 - 年抽菸史。 在住院第 5 天，病人警覺度下降， 格拉斯哥昏迷指數（Glasgow Coma Scale, GCS）下降 2 分。數位減像血管造影（DSA）提示腦血管痙攣。\n\n下列哪一種治療模式最適合首先啟動？",
+      "question": "一名 49 歲女性因「這輩子最嚴重的頭痛」至急診，頭部 CT 顯示瀰漫性 蜘蛛膜下腔出血（subarachnoid hemorrhage, SAH）。病人無特殊病史，有 20 包 - 年抽菸史。 在住院第 5 天，病人警覺度下降， 格拉斯哥昏迷指數（Glasgow Coma Scale, GCS）下降 2 分。數位減像血管造影（DSA）提示腦血管痙攣。\n\n下列哪一種治療模式最適合首先啟動？",
       "options": [
         "A. 輸注 norepinephrine 0.05 mcg/kg/min，提升 平均動脈壓（mean arterial pressure, MAP）至 90 mm Hg。",
         "B. 輸注 1 單位濃縮紅血球，將血紅素提升至 10 g/dL。",
@@ -3290,7 +3290,7 @@ const allChapters = {
     },
     {
       "id": 15,
-      "question": "【臨床案例】一名 52 歲女性因單一車輛車禍入住 加護病房（intensive care unit, ICU），下肢多處骨折且有硬腦膜下血腫，需接受緊急開顱手術清除血腫。居家藥物包含 metoprolol、 rivaroxaban 10 mg （最後一次服藥為 5 小時前）、 lisinopril 及 atorvastatin。入院檢驗： Hct 31.2%，血小板 577,000/mm³。\n\n哪一項實驗室檢驗最能評估 rivaroxaban 的抗凝血程度？",
+      "question": "一名 52 歲女性因單一車輛車禍入住 加護病房（intensive care unit, ICU），下肢多處骨折且有硬腦膜下血腫，需接受緊急開顱手術清除血腫。居家藥物包含 metoprolol、 rivaroxaban 10 mg （最後一次服藥為 5 小時前）、 lisinopril 及 atorvastatin。入院檢驗： Hct 31.2%，血小板 577,000/mm³。\n\n哪一項實驗室檢驗最能評估 rivaroxaban 的抗凝血程度？",
       "options": [
         "A. 國際標準化比值（international normalized ratio, INR）。",
         "B. 抗第十凝血因子活性濃度（Anti-Xa activity concentration）。",
@@ -3309,7 +3309,7 @@ const allChapters = {
     },
     {
       "id": 16,
-      "question": "【臨床案例】一名 52 歲女性因單一車輛車禍入住 加護病房（intensive care unit, ICU），下肢多處骨折且有硬腦膜下血腫，需接受緊急開顱手術清除血腫。居家藥物包含 metoprolol、 rivaroxaban 10 mg （最後一次服藥為 5 小時前）、 lisinopril 及 atorvastatin。入院檢驗： Hct 31.2%，血小板 577,000/mm³。\n\n在此病人接受緊急開顱手術前，下列哪一種療法最適合用於逆轉 rivaroxaban？",
+      "question": "一名 52 歲女性因單一車輛車禍入住 加護病房（intensive care unit, ICU），下肢多處骨折且有硬腦膜下血腫，需接受緊急開顱手術清除血腫。居家藥物包含 metoprolol、 rivaroxaban 10 mg （最後一次服藥為 5 小時前）、 lisinopril 及 atorvastatin。入院檢驗： Hct 31.2%，血小板 577,000/mm³。\n\n在此病人接受緊急開顱手術前，下列哪一種療法最適合用於逆轉 rivaroxaban？",
       "options": [
         "A. 靜脈注射給予四因子凝血酶原複合濃縮物（4F-PCC） 50 units/kg × 1。",
         "B. 靜脈注射給予 Andexanet 200 mg × 1。",
@@ -3330,7 +3330,7 @@ const allChapters = {
   "11": [
     {
       "id": 1,
-      "question": "【臨床案例】一名 58 歲男性（身高 71 英吋，體重 106 kg），在胸痛與呼吸短促進行性惡化 24 小時後，由外院轉入加護病房（intensive care unit, ICU）。抵達時使用高流量鼻導管給予 6 L 氧氣，持續輸注 heparin 16 units/kg/h 及 dopamine 15 mcg/kg/min。外院紀錄顯示其就診時呈現心搏過緩（心率 50–58 次 / 分）及低血壓（78/49–86/55 mm Hg）。外院 12 導程心電圖（ECG）顯示在導程 II、 III、 aVF 出現 ST 段上升。考量其胸痛與心電圖表現，轉院前給予嚼服 aspirin 324 mg、 clopidogrel 600 mg 及單次靜脈注射 morphine 4 mg。紀錄並顯示因心搏過緩與低血壓而暫緩給予 β 受體阻斷劑與 nitroglycerin。過去病史包括服藥順從性不佳、高血壓、糖尿病、血脂異常及射出分率保留型心臟衰竭（HFpEF， 1 年前報告之 LVEF 為 65%）。病人表示目前在家未服用任何藥物。 • 轉院生命徵象：血壓 87/52 mm Hg、心率 110 次 / 分、呼吸 19 次 / 分、體溫 99.7°F （37.6°C）。 • 理學檢查顯示持續窘迫、輻射性胸痛（7/10）、肺部濕囉音（rales）、無心臟雜音，右橈動脈置有動脈導管（A- line）。 • 原留置導尿管集尿袋內有 20 mL 尿液（病人表示最近一次排尿為昨日上午）。外院紀錄顯示轉院前僅記錄 30 mL 尿量。 • 胸部 X 光顯示瀰漫性斑片狀浸潤陰影（diffuse patchy opacities），但報告指出無法排除浸潤感染。 • 實驗室檢查： Na 132 mEq/L, K 4.2 mEq/L, Cl 102 mEq/L, CO₂ 22 mEq/L, 血中尿素氮（blood urea nitrogen, BUN） 34 mg/dL, 血清肌酸酐（serum creatinine, SCr） 1.9 mg/dL, 血糖 163 mg/dL。 • 全血球計數（CBC）： 白血球計數（white blood cell count, WBC） 11.3 × 10³ cells/mm³, Hb 10.9 g/dL, Hct 31.1%, PLT 213,000/mm³。 • 其他數值： Troponin-T 3.9 ng/mL, AST 14 IU/L, ALT 46 IU/L, HbA1c 8.3%, BNP 1423 pg/mL。\n\n下列何者最可能是該病人收治住院與轉院的原因？",
+      "question": "一名 58 歲男性（身高 71 英吋，體重 106 kg），在胸痛與呼吸短促進行性惡化 24 小時後，由外院轉入加護病房（intensive care unit, ICU）。抵達時使用高流量鼻導管給予 6 L 氧氣，持續輸注 heparin 16 units/kg/h 及 dopamine 15 mcg/kg/min。外院紀錄顯示其就診時呈現心搏過緩（心率 50–58 次 / 分）及低血壓（78/49–86/55 mm Hg）。外院 12 導程心電圖（ECG）顯示在導程 II、 III、 aVF 出現 ST 段上升。考量其胸痛與心電圖表現，轉院前給予嚼服 aspirin 324 mg、 clopidogrel 600 mg 及單次靜脈注射 morphine 4 mg。紀錄並顯示因心搏過緩與低血壓而暫緩給予 β 受體阻斷劑與 nitroglycerin。過去病史包括服藥順從性不佳、高血壓、糖尿病、血脂異常及射出分率保留型心臟衰竭（HFpEF， 1 年前報告之 LVEF 為 65%）。病人表示目前在家未服用任何藥物。 • 轉院生命徵象：血壓 87/52 mm Hg、心率 110 次 / 分、呼吸 19 次 / 分、體溫 99.7°F （37.6°C）。 • 理學檢查顯示持續窘迫、輻射性胸痛（7/10）、肺部濕囉音（rales）、無心臟雜音，右橈動脈置有動脈導管（A- line）。 • 原留置導尿管集尿袋內有 20 mL 尿液（病人表示最近一次排尿為昨日上午）。外院紀錄顯示轉院前僅記錄 30 mL 尿量。 • 胸部 X 光顯示瀰漫性斑片狀浸潤陰影（diffuse patchy opacities），但報告指出無法排除浸潤感染。 • 實驗室檢查： Na 132 mEq/L, K 4.2 mEq/L, Cl 102 mEq/L, CO₂ 22 mEq/L, 血中尿素氮（blood urea nitrogen, BUN） 34 mg/dL, 血清肌酸酐（serum creatinine, SCr） 1.9 mg/dL, 血糖 163 mg/dL。 • 全血球計數（CBC）： 白血球計數（white blood cell count, WBC） 11.3 × 10³ cells/mm³, Hb 10.9 g/dL, Hct 31.1%, PLT 213,000/mm³。 • 其他數值： Troponin-T 3.9 ng/mL, AST 14 IU/L, ALT 46 IU/L, HbA1c 8.3%, BNP 1423 pg/mL。\n\n下列何者最可能是該病人收治住院與轉院的原因？",
       "options": [
         "A. 疑似肺炎導致之敗血性休克併發心肌抑制與需氧量性缺血。",
         "B. 慢性收縮性心臟衰竭急性去代償導致之心因性休克。",
@@ -3349,7 +3349,7 @@ const allChapters = {
     },
     {
       "id": 2,
-      "question": "【臨床案例】一名 58 歲男性（身高 71 英吋，體重 106 kg），在胸痛與呼吸短促進行性惡化 24 小時後，由外院轉入加護病房（intensive care unit, ICU）。抵達時使用高流量鼻導管給予 6 L 氧氣，持續輸注 heparin 16 units/kg/h 及 dopamine 15 mcg/kg/min。外院紀錄顯示其就診時呈現心搏過緩（心率 50–58 次 / 分）及低血壓（78/49–86/55 mm Hg）。外院 12 導程心電圖（ECG）顯示在導程 II、 III、 aVF 出現 ST 段上升。考量其胸痛與心電圖表現，轉院前給予嚼服 aspirin 324 mg、 clopidogrel 600 mg 及單次靜脈注射 morphine 4 mg。紀錄並顯示因心搏過緩與低血壓而暫緩給予 β 受體阻斷劑與 nitroglycerin。過去病史包括服藥順從性不佳、高血壓、糖尿病、血脂異常及射出分率保留型心臟衰竭（HFpEF， 1 年前報告之 LVEF 為 65%）。病人表示目前在家未服用任何藥物。 • 轉院生命徵象：血壓 87/52 mm Hg、心率 110 次 / 分、呼吸 19 次 / 分、體溫 99.7°F （37.6°C）。 • 理學檢查顯示持續窘迫、輻射性胸痛（7/10）、肺部濕囉音（rales）、無心臟雜音，右橈動脈置有動脈導管（A- line）。 • 原留置導尿管集尿袋內有 20 mL 尿液（病人表示最近一次排尿為昨日上午）。外院紀錄顯示轉院前僅記錄 30 mL 尿量。 • 胸部 X 光顯示瀰漫性斑片狀浸潤陰影（diffuse patchy opacities），但報告指出無法排除浸潤感染。 • 實驗室檢查： Na 132 mEq/L, K 4.2 mEq/L, Cl 102 mEq/L, CO₂ 22 mEq/L, 血中尿素氮（blood urea nitrogen, BUN） 34 mg/dL, 血清肌酸酐（serum creatinine, SCr） 1.9 mg/dL, 血糖 163 mg/dL。 • 全血球計數（CBC）： 白血球計數（white blood cell count, WBC） 11.3 × 10³ cells/mm³, Hb 10.9 g/dL, Hct 31.1%, PLT 213,000/mm³。 • 其他數值： Troponin-T 3.9 ng/mL, AST 14 IU/L, ALT 46 IU/L, HbA1c 8.3%, BNP 1423 pg/mL。\n\n根據病人的臨床表現，哪一條冠狀動脈最可能是罪魁禍首病灶（culprit lesion）？",
+      "question": "一名 58 歲男性（身高 71 英吋，體重 106 kg），在胸痛與呼吸短促進行性惡化 24 小時後，由外院轉入加護病房（intensive care unit, ICU）。抵達時使用高流量鼻導管給予 6 L 氧氣，持續輸注 heparin 16 units/kg/h 及 dopamine 15 mcg/kg/min。外院紀錄顯示其就診時呈現心搏過緩（心率 50–58 次 / 分）及低血壓（78/49–86/55 mm Hg）。外院 12 導程心電圖（ECG）顯示在導程 II、 III、 aVF 出現 ST 段上升。考量其胸痛與心電圖表現，轉院前給予嚼服 aspirin 324 mg、 clopidogrel 600 mg 及單次靜脈注射 morphine 4 mg。紀錄並顯示因心搏過緩與低血壓而暫緩給予 β 受體阻斷劑與 nitroglycerin。過去病史包括服藥順從性不佳、高血壓、糖尿病、血脂異常及射出分率保留型心臟衰竭（HFpEF， 1 年前報告之 LVEF 為 65%）。病人表示目前在家未服用任何藥物。 • 轉院生命徵象：血壓 87/52 mm Hg、心率 110 次 / 分、呼吸 19 次 / 分、體溫 99.7°F （37.6°C）。 • 理學檢查顯示持續窘迫、輻射性胸痛（7/10）、肺部濕囉音（rales）、無心臟雜音，右橈動脈置有動脈導管（A- line）。 • 原留置導尿管集尿袋內有 20 mL 尿液（病人表示最近一次排尿為昨日上午）。外院紀錄顯示轉院前僅記錄 30 mL 尿量。 • 胸部 X 光顯示瀰漫性斑片狀浸潤陰影（diffuse patchy opacities），但報告指出無法排除浸潤感染。 • 實驗室檢查： Na 132 mEq/L, K 4.2 mEq/L, Cl 102 mEq/L, CO₂ 22 mEq/L, 血中尿素氮（blood urea nitrogen, BUN） 34 mg/dL, 血清肌酸酐（serum creatinine, SCr） 1.9 mg/dL, 血糖 163 mg/dL。 • 全血球計數（CBC）： 白血球計數（white blood cell count, WBC） 11.3 × 10³ cells/mm³, Hb 10.9 g/dL, Hct 31.1%, PLT 213,000/mm³。 • 其他數值： Troponin-T 3.9 ng/mL, AST 14 IU/L, ALT 46 IU/L, HbA1c 8.3%, BNP 1423 pg/mL。\n\n根據病人的臨床表現，哪一條冠狀動脈最可能是罪魁禍首病灶（culprit lesion）？",
       "options": [
         "A. 左主冠狀動脈（Left main coronary artery）。",
         "B. 左前降支動脈（Left anterior descending artery, LAD）。",
@@ -3368,7 +3368,7 @@ const allChapters = {
     },
     {
       "id": 3,
-      "question": "【臨床案例】一名 58 歲男性（身高 71 英吋，體重 106 kg），在胸痛與呼吸短促進行性惡化 24 小時後，由外院轉入加護病房（intensive care unit, ICU）。抵達時使用高流量鼻導管給予 6 L 氧氣，持續輸注 heparin 16 units/kg/h 及 dopamine 15 mcg/kg/min。外院紀錄顯示其就診時呈現心搏過緩（心率 50–58 次 / 分）及低血壓（78/49–86/55 mm Hg）。外院 12 導程心電圖（ECG）顯示在導程 II、 III、 aVF 出現 ST 段上升。考量其胸痛與心電圖表現，轉院前給予嚼服 aspirin 324 mg、 clopidogrel 600 mg 及單次靜脈注射 morphine 4 mg。紀錄並顯示因心搏過緩與低血壓而暫緩給予 β 受體阻斷劑與 nitroglycerin。過去病史包括服藥順從性不佳、高血壓、糖尿病、血脂異常及射出分率保留型心臟衰竭（HFpEF， 1 年前報告之 LVEF 為 65%）。病人表示目前在家未服用任何藥物。 • 轉院生命徵象：血壓 87/52 mm Hg、心率 110 次 / 分、呼吸 19 次 / 分、體溫 99.7°F （37.6°C）。 • 理學檢查顯示持續窘迫、輻射性胸痛（7/10）、肺部濕囉音（rales）、無心臟雜音，右橈動脈置有動脈導管（A- line）。 • 原留置導尿管集尿袋內有 20 mL 尿液（病人表示最近一次排尿為昨日上午）。外院紀錄顯示轉院前僅記錄 30 mL 尿量。 • 胸部 X 光顯示瀰漫性斑片狀浸潤陰影（diffuse patchy opacities），但報告指出無法排除浸潤感染。 • 實驗室檢查： Na 132 mEq/L, K 4.2 mEq/L, Cl 102 mEq/L, CO₂ 22 mEq/L, 血中尿素氮（blood urea nitrogen, BUN） 34 mg/dL, 血清肌酸酐（serum creatinine, SCr） 1.9 mg/dL, 血糖 163 mg/dL。 • 全血球計數（CBC）： 白血球計數（white blood cell count, WBC） 11.3 × 10³ cells/mm³, Hb 10.9 g/dL, Hct 31.1%, PLT 213,000/mm³。 • 其他數值： Troponin-T 3.9 ng/mL, AST 14 IU/L, ALT 46 IU/L, HbA1c 8.3%, BNP 1423 pg/mL。\n\n評估進行血管再暢通治療的介入性心臟科醫師要求 加護病房（intensive care unit, ICU）團隊放置中央靜脈導管。針對該病人的血流動力學支持，下列哪項處置調整建議最佳？",
+      "question": "一名 58 歲男性（身高 71 英吋，體重 106 kg），在胸痛與呼吸短促進行性惡化 24 小時後，由外院轉入加護病房（intensive care unit, ICU）。抵達時使用高流量鼻導管給予 6 L 氧氣，持續輸注 heparin 16 units/kg/h 及 dopamine 15 mcg/kg/min。外院紀錄顯示其就診時呈現心搏過緩（心率 50–58 次 / 分）及低血壓（78/49–86/55 mm Hg）。外院 12 導程心電圖（ECG）顯示在導程 II、 III、 aVF 出現 ST 段上升。考量其胸痛與心電圖表現，轉院前給予嚼服 aspirin 324 mg、 clopidogrel 600 mg 及單次靜脈注射 morphine 4 mg。紀錄並顯示因心搏過緩與低血壓而暫緩給予 β 受體阻斷劑與 nitroglycerin。過去病史包括服藥順從性不佳、高血壓、糖尿病、血脂異常及射出分率保留型心臟衰竭（HFpEF， 1 年前報告之 LVEF 為 65%）。病人表示目前在家未服用任何藥物。 • 轉院生命徵象：血壓 87/52 mm Hg、心率 110 次 / 分、呼吸 19 次 / 分、體溫 99.7°F （37.6°C）。 • 理學檢查顯示持續窘迫、輻射性胸痛（7/10）、肺部濕囉音（rales）、無心臟雜音，右橈動脈置有動脈導管（A- line）。 • 原留置導尿管集尿袋內有 20 mL 尿液（病人表示最近一次排尿為昨日上午）。外院紀錄顯示轉院前僅記錄 30 mL 尿量。 • 胸部 X 光顯示瀰漫性斑片狀浸潤陰影（diffuse patchy opacities），但報告指出無法排除浸潤感染。 • 實驗室檢查： Na 132 mEq/L, K 4.2 mEq/L, Cl 102 mEq/L, CO₂ 22 mEq/L, 血中尿素氮（blood urea nitrogen, BUN） 34 mg/dL, 血清肌酸酐（serum creatinine, SCr） 1.9 mg/dL, 血糖 163 mg/dL。 • 全血球計數（CBC）： 白血球計數（white blood cell count, WBC） 11.3 × 10³ cells/mm³, Hb 10.9 g/dL, Hct 31.1%, PLT 213,000/mm³。 • 其他數值： Troponin-T 3.9 ng/mL, AST 14 IU/L, ALT 46 IU/L, HbA1c 8.3%, BNP 1423 pg/mL。\n\n評估進行血管再暢通治療的介入性心臟科醫師要求 加護病房（intensive care unit, ICU）團隊放置中央靜脈導管。針對該病人的血流動力學支持，下列哪項處置調整建議最佳？",
       "options": [
         "A. 調高 dopamine 劑量以達到平均動脈壓（mean arterial pressure, MAP）大於 65 mm Hg。",
         "B. 轉換為 norepinephrine，並調升劑量以達到 平均動脈壓（mean arterial pressure, MAP）大於 65 mm Hg，同時逐漸調降並停用 dopamine。",
@@ -3387,7 +3387,7 @@ const allChapters = {
     },
     {
       "id": 4,
-      "question": "【臨床案例】一名 58 歲男性（身高 71 英吋，體重 106 kg），在胸痛與呼吸短促進行性惡化 24 小時後，由外院轉入加護病房（intensive care unit, ICU）。抵達時使用高流量鼻導管給予 6 L 氧氣，持續輸注 heparin 16 units/kg/h 及 dopamine 15 mcg/kg/min。外院紀錄顯示其就診時呈現心搏過緩（心率 50–58 次 / 分）及低血壓（78/49–86/55 mm Hg）。外院 12 導程心電圖（ECG）顯示在導程 II、 III、 aVF 出現 ST 段上升。考量其胸痛與心電圖表現，轉院前給予嚼服 aspirin 324 mg、 clopidogrel 600 mg 及單次靜脈注射 morphine 4 mg。紀錄並顯示因心搏過緩與低血壓而暫緩給予 β 受體阻斷劑與 nitroglycerin。過去病史包括服藥順從性不佳、高血壓、糖尿病、血脂異常及射出分率保留型心臟衰竭（HFpEF， 1 年前報告之 LVEF 為 65%）。病人表示目前在家未服用任何藥物。 • 轉院生命徵象：血壓 87/52 mm Hg、心率 110 次 / 分、呼吸 19 次 / 分、體溫 99.7°F （37.6°C）。 • 理學檢查顯示持續窘迫、輻射性胸痛（7/10）、肺部濕囉音（rales）、無心臟雜音，右橈動脈置有動脈導管（A- line）。 • 原留置導尿管集尿袋內有 20 mL 尿液（病人表示最近一次排尿為昨日上午）。外院紀錄顯示轉院前僅記錄 30 mL 尿量。 • 胸部 X 光顯示瀰漫性斑片狀浸潤陰影（diffuse patchy opacities），但報告指出無法排除浸潤感染。 • 實驗室檢查： Na 132 mEq/L, K 4.2 mEq/L, Cl 102 mEq/L, CO₂ 22 mEq/L, 血中尿素氮（blood urea nitrogen, BUN） 34 mg/dL, 血清肌酸酐（serum creatinine, SCr） 1.9 mg/dL, 血糖 163 mg/dL。 • 全血球計數（CBC）： 白血球計數（white blood cell count, WBC） 11.3 × 10³ cells/mm³, Hb 10.9 g/dL, Hct 31.1%, PLT 213,000/mm³。 • 其他數值： Troponin-T 3.9 ng/mL, AST 14 IU/L, ALT 46 IU/L, HbA1c 8.3%, BNP 1423 pg/mL。\n\n病人被送至心導管室，隨後廣播「 Code Blue 」進行急救。抵達時胸外按壓因電擊除顫而暫停，並已給予單次 epinephrine。介入團隊表示在嘗試顯影右冠狀動脈時，病人突發心室頻脈（ventricular tachycardia, VT）。目前心電圖監測顯示竇性心搏過速合併二聯律（bigeminy），心率 113 次 / 分，血壓 84/52 mm Hg。醫師擔心 心室頻脈（ventricular tachycardia, VT）復發，詢問抗心律不整藥物建議，下列何者最佳？",
+      "question": "一名 58 歲男性（身高 71 英吋，體重 106 kg），在胸痛與呼吸短促進行性惡化 24 小時後，由外院轉入加護病房（intensive care unit, ICU）。抵達時使用高流量鼻導管給予 6 L 氧氣，持續輸注 heparin 16 units/kg/h 及 dopamine 15 mcg/kg/min。外院紀錄顯示其就診時呈現心搏過緩（心率 50–58 次 / 分）及低血壓（78/49–86/55 mm Hg）。外院 12 導程心電圖（ECG）顯示在導程 II、 III、 aVF 出現 ST 段上升。考量其胸痛與心電圖表現，轉院前給予嚼服 aspirin 324 mg、 clopidogrel 600 mg 及單次靜脈注射 morphine 4 mg。紀錄並顯示因心搏過緩與低血壓而暫緩給予 β 受體阻斷劑與 nitroglycerin。過去病史包括服藥順從性不佳、高血壓、糖尿病、血脂異常及射出分率保留型心臟衰竭（HFpEF， 1 年前報告之 LVEF 為 65%）。病人表示目前在家未服用任何藥物。 • 轉院生命徵象：血壓 87/52 mm Hg、心率 110 次 / 分、呼吸 19 次 / 分、體溫 99.7°F （37.6°C）。 • 理學檢查顯示持續窘迫、輻射性胸痛（7/10）、肺部濕囉音（rales）、無心臟雜音，右橈動脈置有動脈導管（A- line）。 • 原留置導尿管集尿袋內有 20 mL 尿液（病人表示最近一次排尿為昨日上午）。外院紀錄顯示轉院前僅記錄 30 mL 尿量。 • 胸部 X 光顯示瀰漫性斑片狀浸潤陰影（diffuse patchy opacities），但報告指出無法排除浸潤感染。 • 實驗室檢查： Na 132 mEq/L, K 4.2 mEq/L, Cl 102 mEq/L, CO₂ 22 mEq/L, 血中尿素氮（blood urea nitrogen, BUN） 34 mg/dL, 血清肌酸酐（serum creatinine, SCr） 1.9 mg/dL, 血糖 163 mg/dL。 • 全血球計數（CBC）： 白血球計數（white blood cell count, WBC） 11.3 × 10³ cells/mm³, Hb 10.9 g/dL, Hct 31.1%, PLT 213,000/mm³。 • 其他數值： Troponin-T 3.9 ng/mL, AST 14 IU/L, ALT 46 IU/L, HbA1c 8.3%, BNP 1423 pg/mL。\n\n病人被送至心導管室，隨後廣播「 Code Blue 」進行急救。抵達時胸外按壓因電擊除顫而暫停，並已給予單次 epinephrine。介入團隊表示在嘗試顯影右冠狀動脈時，病人突發心室頻脈（ventricular tachycardia, VT）。目前心電圖監測顯示竇性心搏過速合併二聯律（bigeminy），心率 113 次 / 分，血壓 84/52 mm Hg。醫師擔心 心室頻脈（ventricular tachycardia, VT）復發，詢問抗心律不整藥物建議，下列何者最佳？",
       "options": [
         "A. Lidocaine 100 mg 靜脈推注 2–3 分鐘，接著以 1 mg/min 持續輸注。",
         "B. amiodarone 300 mg 靜脈推注小於 1 分鐘。",
@@ -3406,7 +3406,7 @@ const allChapters = {
     },
     {
       "id": 5,
-      "question": "【臨床案例】一名 58 歲男性（身高 71 英吋，體重 106 kg），在胸痛與呼吸短促進行性惡化 24 小時後，由外院轉入加護病房（intensive care unit, ICU）。抵達時使用高流量鼻導管給予 6 L 氧氣，持續輸注 heparin 16 units/kg/h 及 dopamine 15 mcg/kg/min。外院紀錄顯示其就診時呈現心搏過緩（心率 50–58 次 / 分）及低血壓（78/49–86/55 mm Hg）。外院 12 導程心電圖（ECG）顯示在導程 II、 III、 aVF 出現 ST 段上升。考量其胸痛與心電圖表現，轉院前給予嚼服 aspirin 324 mg、 clopidogrel 600 mg 及單次靜脈注射 morphine 4 mg。紀錄並顯示因心搏過緩與低血壓而暫緩給予 β 受體阻斷劑與 nitroglycerin。過去病史包括服藥順從性不佳、高血壓、糖尿病、血脂異常及射出分率保留型心臟衰竭（HFpEF， 1 年前報告之 LVEF 為 65%）。病人表示目前在家未服用任何藥物。 • 轉院生命徵象：血壓 87/52 mm Hg、心率 110 次 / 分、呼吸 19 次 / 分、體溫 99.7°F （37.6°C）。 • 理學檢查顯示持續窘迫、輻射性胸痛（7/10）、肺部濕囉音（rales）、無心臟雜音，右橈動脈置有動脈導管（A- line）。 • 原留置導尿管集尿袋內有 20 mL 尿液（病人表示最近一次排尿為昨日上午）。外院紀錄顯示轉院前僅記錄 30 mL 尿量。 • 胸部 X 光顯示瀰漫性斑片狀浸潤陰影（diffuse patchy opacities），但報告指出無法排除浸潤感染。 • 實驗室檢查： Na 132 mEq/L, K 4.2 mEq/L, Cl 102 mEq/L, CO₂ 22 mEq/L, 血中尿素氮（blood urea nitrogen, BUN） 34 mg/dL, 血清肌酸酐（serum creatinine, SCr） 1.9 mg/dL, 血糖 163 mg/dL。 • 全血球計數（CBC）： 白血球計數（white blood cell count, WBC） 11.3 × 10³ cells/mm³, Hb 10.9 g/dL, Hct 31.1%, PLT 213,000/mm³。 • 其他數值： Troponin-T 3.9 ng/mL, AST 14 IU/L, ALT 46 IU/L, HbA1c 8.3%, BNP 1423 pg/mL。\n\n病人經股動脈途徑完成左心導管術後返回 加護病房（intensive care unit, ICU）。除了急性去代償之外，在接下來 12 小時內最需警惕的重大處置併發症為何？",
+      "question": "一名 58 歲男性（身高 71 英吋，體重 106 kg），在胸痛與呼吸短促進行性惡化 24 小時後，由外院轉入加護病房（intensive care unit, ICU）。抵達時使用高流量鼻導管給予 6 L 氧氣，持續輸注 heparin 16 units/kg/h 及 dopamine 15 mcg/kg/min。外院紀錄顯示其就診時呈現心搏過緩（心率 50–58 次 / 分）及低血壓（78/49–86/55 mm Hg）。外院 12 導程心電圖（ECG）顯示在導程 II、 III、 aVF 出現 ST 段上升。考量其胸痛與心電圖表現，轉院前給予嚼服 aspirin 324 mg、 clopidogrel 600 mg 及單次靜脈注射 morphine 4 mg。紀錄並顯示因心搏過緩與低血壓而暫緩給予 β 受體阻斷劑與 nitroglycerin。過去病史包括服藥順從性不佳、高血壓、糖尿病、血脂異常及射出分率保留型心臟衰竭（HFpEF， 1 年前報告之 LVEF 為 65%）。病人表示目前在家未服用任何藥物。 • 轉院生命徵象：血壓 87/52 mm Hg、心率 110 次 / 分、呼吸 19 次 / 分、體溫 99.7°F （37.6°C）。 • 理學檢查顯示持續窘迫、輻射性胸痛（7/10）、肺部濕囉音（rales）、無心臟雜音，右橈動脈置有動脈導管（A- line）。 • 原留置導尿管集尿袋內有 20 mL 尿液（病人表示最近一次排尿為昨日上午）。外院紀錄顯示轉院前僅記錄 30 mL 尿量。 • 胸部 X 光顯示瀰漫性斑片狀浸潤陰影（diffuse patchy opacities），但報告指出無法排除浸潤感染。 • 實驗室檢查： Na 132 mEq/L, K 4.2 mEq/L, Cl 102 mEq/L, CO₂ 22 mEq/L, 血中尿素氮（blood urea nitrogen, BUN） 34 mg/dL, 血清肌酸酐（serum creatinine, SCr） 1.9 mg/dL, 血糖 163 mg/dL。 • 全血球計數（CBC）： 白血球計數（white blood cell count, WBC） 11.3 × 10³ cells/mm³, Hb 10.9 g/dL, Hct 31.1%, PLT 213,000/mm³。 • 其他數值： Troponin-T 3.9 ng/mL, AST 14 IU/L, ALT 46 IU/L, HbA1c 8.3%, BNP 1423 pg/mL。\n\n病人經股動脈途徑完成左心導管術後返回 加護病房（intensive care unit, ICU）。除了急性去代償之外，在接下來 12 小時內最需警惕的重大處置併發症為何？",
       "options": [
         "A. 出血（特別是腹膜後出血 retroperitoneal bleeding）。",
         "B. 血管剝離／破裂。",
@@ -3425,7 +3425,7 @@ const allChapters = {
     },
     {
       "id": 6,
-      "question": "【臨床案例】一名 58 歲男性（身高 71 英吋，體重 106 kg），在胸痛與呼吸短促進行性惡化 24 小時後，由外院轉入加護病房（intensive care unit, ICU）。抵達時使用高流量鼻導管給予 6 L 氧氣，持續輸注 heparin 16 units/kg/h 及 dopamine 15 mcg/kg/min。外院紀錄顯示其就診時呈現心搏過緩（心率 50–58 次 / 分）及低血壓（78/49–86/55 mm Hg）。外院 12 導程心電圖（ECG）顯示在導程 II、 III、 aVF 出現 ST 段上升。考量其胸痛與心電圖表現，轉院前給予嚼服 aspirin 324 mg、 clopidogrel 600 mg 及單次靜脈注射 morphine 4 mg。紀錄並顯示因心搏過緩與低血壓而暫緩給予 β 受體阻斷劑與 nitroglycerin。過去病史包括服藥順從性不佳、高血壓、糖尿病、血脂異常及射出分率保留型心臟衰竭（HFpEF， 1 年前報告之 LVEF 為 65%）。病人表示目前在家未服用任何藥物。 • 轉院生命徵象：血壓 87/52 mm Hg、心率 110 次 / 分、呼吸 19 次 / 分、體溫 99.7°F （37.6°C）。 • 理學檢查顯示持續窘迫、輻射性胸痛（7/10）、肺部濕囉音（rales）、無心臟雜音，右橈動脈置有動脈導管（A- line）。 • 原留置導尿管集尿袋內有 20 mL 尿液（病人表示最近一次排尿為昨日上午）。外院紀錄顯示轉院前僅記錄 30 mL 尿量。 • 胸部 X 光顯示瀰漫性斑片狀浸潤陰影（diffuse patchy opacities），但報告指出無法排除浸潤感染。 • 實驗室檢查： Na 132 mEq/L, K 4.2 mEq/L, Cl 102 mEq/L, CO₂ 22 mEq/L, 血中尿素氮（blood urea nitrogen, BUN） 34 mg/dL, 血清肌酸酐（serum creatinine, SCr） 1.9 mg/dL, 血糖 163 mg/dL。 • 全血球計數（CBC）： 白血球計數（white blood cell count, WBC） 11.3 × 10³ cells/mm³, Hb 10.9 g/dL, Hct 31.1%, PLT 213,000/mm³。 • 其他數值： Troponin-T 3.9 ng/mL, AST 14 IU/L, ALT 46 IU/L, HbA1c 8.3%, BNP 1423 pg/mL。\n\n病人返回 加護病房（intensive care unit, ICU）並置放肺動脈導管（PAC），目前正接受 dopamine 12 mcg/kg/min 與 norepinephrine 0.08 mcg/kg/min，心率 108 次 / 分，血壓 82/51 mm Hg，心臟指數（cardiac index, CI） 2.0 L/min/m²， 中央靜脈壓（central venous pressure, CVP） 26 mm Hg，肺動脈壓 49/21 mm Hg。醫師擔心休克合併右心室功能不全，希望提高血壓同時逐漸調降 dopamine，並因肺動脈高壓而盡量減少肺血管阻力（PVR）的進一步增加。下列哪項策略最值得推薦？",
+      "question": "一名 58 歲男性（身高 71 英吋，體重 106 kg），在胸痛與呼吸短促進行性惡化 24 小時後，由外院轉入加護病房（intensive care unit, ICU）。抵達時使用高流量鼻導管給予 6 L 氧氣，持續輸注 heparin 16 units/kg/h 及 dopamine 15 mcg/kg/min。外院紀錄顯示其就診時呈現心搏過緩（心率 50–58 次 / 分）及低血壓（78/49–86/55 mm Hg）。外院 12 導程心電圖（ECG）顯示在導程 II、 III、 aVF 出現 ST 段上升。考量其胸痛與心電圖表現，轉院前給予嚼服 aspirin 324 mg、 clopidogrel 600 mg 及單次靜脈注射 morphine 4 mg。紀錄並顯示因心搏過緩與低血壓而暫緩給予 β 受體阻斷劑與 nitroglycerin。過去病史包括服藥順從性不佳、高血壓、糖尿病、血脂異常及射出分率保留型心臟衰竭（HFpEF， 1 年前報告之 LVEF 為 65%）。病人表示目前在家未服用任何藥物。 • 轉院生命徵象：血壓 87/52 mm Hg、心率 110 次 / 分、呼吸 19 次 / 分、體溫 99.7°F （37.6°C）。 • 理學檢查顯示持續窘迫、輻射性胸痛（7/10）、肺部濕囉音（rales）、無心臟雜音，右橈動脈置有動脈導管（A- line）。 • 原留置導尿管集尿袋內有 20 mL 尿液（病人表示最近一次排尿為昨日上午）。外院紀錄顯示轉院前僅記錄 30 mL 尿量。 • 胸部 X 光顯示瀰漫性斑片狀浸潤陰影（diffuse patchy opacities），但報告指出無法排除浸潤感染。 • 實驗室檢查： Na 132 mEq/L, K 4.2 mEq/L, Cl 102 mEq/L, CO₂ 22 mEq/L, 血中尿素氮（blood urea nitrogen, BUN） 34 mg/dL, 血清肌酸酐（serum creatinine, SCr） 1.9 mg/dL, 血糖 163 mg/dL。 • 全血球計數（CBC）： 白血球計數（white blood cell count, WBC） 11.3 × 10³ cells/mm³, Hb 10.9 g/dL, Hct 31.1%, PLT 213,000/mm³。 • 其他數值： Troponin-T 3.9 ng/mL, AST 14 IU/L, ALT 46 IU/L, HbA1c 8.3%, BNP 1423 pg/mL。\n\n病人返回 加護病房（intensive care unit, ICU）並置放肺動脈導管（PAC），目前正接受 dopamine 12 mcg/kg/min 與 norepinephrine 0.08 mcg/kg/min，心率 108 次 / 分，血壓 82/51 mm Hg，心臟指數（cardiac index, CI） 2.0 L/min/m²， 中央靜脈壓（central venous pressure, CVP） 26 mm Hg，肺動脈壓 49/21 mm Hg。醫師擔心休克合併右心室功能不全，希望提高血壓同時逐漸調降 dopamine，並因肺動脈高壓而盡量減少肺血管阻力（PVR）的進一步增加。下列哪項策略最值得推薦？",
       "options": [
         "A. 維持現有輸注處方，稍後再重新評估。",
         "B. 啟動 phenylephrine 1 mcg/kg/min，並於 平均動脈壓（mean arterial pressure, MAP）大於 65 mm Hg 時調降 dopamine。",
@@ -3444,7 +3444,7 @@ const allChapters = {
     },
     {
       "id": 7,
-      "question": "【臨床案例】一名 58 歲男性（身高 71 英吋，體重 106 kg），在胸痛與呼吸短促進行性惡化 24 小時後，由外院轉入加護病房（intensive care unit, ICU）。抵達時使用高流量鼻導管給予 6 L 氧氣，持續輸注 heparin 16 units/kg/h 及 dopamine 15 mcg/kg/min。外院紀錄顯示其就診時呈現心搏過緩（心率 50–58 次 / 分）及低血壓（78/49–86/55 mm Hg）。外院 12 導程心電圖（ECG）顯示在導程 II、 III、 aVF 出現 ST 段上升。考量其胸痛與心電圖表現，轉院前給予嚼服 aspirin 324 mg、 clopidogrel 600 mg 及單次靜脈注射 morphine 4 mg。紀錄並顯示因心搏過緩與低血壓而暫緩給予 β 受體阻斷劑與 nitroglycerin。過去病史包括服藥順從性不佳、高血壓、糖尿病、血脂異常及射出分率保留型心臟衰竭（HFpEF， 1 年前報告之 LVEF 為 65%）。病人表示目前在家未服用任何藥物。 • 轉院生命徵象：血壓 87/52 mm Hg、心率 110 次 / 分、呼吸 19 次 / 分、體溫 99.7°F （37.6°C）。 • 理學檢查顯示持續窘迫、輻射性胸痛（7/10）、肺部濕囉音（rales）、無心臟雜音，右橈動脈置有動脈導管（A- line）。 • 原留置導尿管集尿袋內有 20 mL 尿液（病人表示最近一次排尿為昨日上午）。外院紀錄顯示轉院前僅記錄 30 mL 尿量。 • 胸部 X 光顯示瀰漫性斑片狀浸潤陰影（diffuse patchy opacities），但報告指出無法排除浸潤感染。 • 實驗室檢查： Na 132 mEq/L, K 4.2 mEq/L, Cl 102 mEq/L, CO₂ 22 mEq/L, 血中尿素氮（blood urea nitrogen, BUN） 34 mg/dL, 血清肌酸酐（serum creatinine, SCr） 1.9 mg/dL, 血糖 163 mg/dL。 • 全血球計數（CBC）： 白血球計數（white blood cell count, WBC） 11.3 × 10³ cells/mm³, Hb 10.9 g/dL, Hct 31.1%, PLT 213,000/mm³。 • 其他數值： Troponin-T 3.9 ng/mL, AST 14 IU/L, ALT 46 IU/L, HbA1c 8.3%, BNP 1423 pg/mL。\n\n數小時後，病人突發心房顫動（atrial fibrillation, AF），心率 126 次 / 分；血壓在上述處方下維持在 86/56 mm Hg。您最可能建議投予下列哪一種藥物來處置病人的心房顫動？",
+      "question": "一名 58 歲男性（身高 71 英吋，體重 106 kg），在胸痛與呼吸短促進行性惡化 24 小時後，由外院轉入加護病房（intensive care unit, ICU）。抵達時使用高流量鼻導管給予 6 L 氧氣，持續輸注 heparin 16 units/kg/h 及 dopamine 15 mcg/kg/min。外院紀錄顯示其就診時呈現心搏過緩（心率 50–58 次 / 分）及低血壓（78/49–86/55 mm Hg）。外院 12 導程心電圖（ECG）顯示在導程 II、 III、 aVF 出現 ST 段上升。考量其胸痛與心電圖表現，轉院前給予嚼服 aspirin 324 mg、 clopidogrel 600 mg 及單次靜脈注射 morphine 4 mg。紀錄並顯示因心搏過緩與低血壓而暫緩給予 β 受體阻斷劑與 nitroglycerin。過去病史包括服藥順從性不佳、高血壓、糖尿病、血脂異常及射出分率保留型心臟衰竭（HFpEF， 1 年前報告之 LVEF 為 65%）。病人表示目前在家未服用任何藥物。 • 轉院生命徵象：血壓 87/52 mm Hg、心率 110 次 / 分、呼吸 19 次 / 分、體溫 99.7°F （37.6°C）。 • 理學檢查顯示持續窘迫、輻射性胸痛（7/10）、肺部濕囉音（rales）、無心臟雜音，右橈動脈置有動脈導管（A- line）。 • 原留置導尿管集尿袋內有 20 mL 尿液（病人表示最近一次排尿為昨日上午）。外院紀錄顯示轉院前僅記錄 30 mL 尿量。 • 胸部 X 光顯示瀰漫性斑片狀浸潤陰影（diffuse patchy opacities），但報告指出無法排除浸潤感染。 • 實驗室檢查： Na 132 mEq/L, K 4.2 mEq/L, Cl 102 mEq/L, CO₂ 22 mEq/L, 血中尿素氮（blood urea nitrogen, BUN） 34 mg/dL, 血清肌酸酐（serum creatinine, SCr） 1.9 mg/dL, 血糖 163 mg/dL。 • 全血球計數（CBC）： 白血球計數（white blood cell count, WBC） 11.3 × 10³ cells/mm³, Hb 10.9 g/dL, Hct 31.1%, PLT 213,000/mm³。 • 其他數值： Troponin-T 3.9 ng/mL, AST 14 IU/L, ALT 46 IU/L, HbA1c 8.3%, BNP 1423 pg/mL。\n\n數小時後，病人突發心房顫動（atrial fibrillation, AF），心率 126 次 / 分；血壓在上述處方下維持在 86/56 mm Hg。您最可能建議投予下列哪一種藥物來處置病人的心房顫動？",
       "options": [
         "A. amiodarone 150 mg 靜脈推注（IV push），隨後以 1 mg/min 持續輸注。",
         "B. amiodarone 150 mg 靜脈輸注超過 10 分鐘，隨後以 1 mg/min 持續輸注。",
@@ -3463,7 +3463,7 @@ const allChapters = {
     },
     {
       "id": 8,
-      "question": "【臨床案例】一名 58 歲男性（身高 71 英吋，體重 106 kg），在胸痛與呼吸短促進行性惡化 24 小時後，由外院轉入加護病房（intensive care unit, ICU）。抵達時使用高流量鼻導管給予 6 L 氧氣，持續輸注 heparin 16 units/kg/h 及 dopamine 15 mcg/kg/min。外院紀錄顯示其就診時呈現心搏過緩（心率 50–58 次 / 分）及低血壓（78/49–86/55 mm Hg）。外院 12 導程心電圖（ECG）顯示在導程 II、 III、 aVF 出現 ST 段上升。考量其胸痛與心電圖表現，轉院前給予嚼服 aspirin 324 mg、 clopidogrel 600 mg 及單次靜脈注射 morphine 4 mg。紀錄並顯示因心搏過緩與低血壓而暫緩給予 β 受體阻斷劑與 nitroglycerin。過去病史包括服藥順從性不佳、高血壓、糖尿病、血脂異常及射出分率保留型心臟衰竭（HFpEF， 1 年前報告之 LVEF 為 65%）。病人表示目前在家未服用任何藥物。 • 轉院生命徵象：血壓 87/52 mm Hg、心率 110 次 / 分、呼吸 19 次 / 分、體溫 99.7°F （37.6°C）。 • 理學檢查顯示持續窘迫、輻射性胸痛（7/10）、肺部濕囉音（rales）、無心臟雜音，右橈動脈置有動脈導管（A- line）。 • 原留置導尿管集尿袋內有 20 mL 尿液（病人表示最近一次排尿為昨日上午）。外院紀錄顯示轉院前僅記錄 30 mL 尿量。 • 胸部 X 光顯示瀰漫性斑片狀浸潤陰影（diffuse patchy opacities），但報告指出無法排除浸潤感染。 • 實驗室檢查： Na 132 mEq/L, K 4.2 mEq/L, Cl 102 mEq/L, CO₂ 22 mEq/L, 血中尿素氮（blood urea nitrogen, BUN） 34 mg/dL, 血清肌酸酐（serum creatinine, SCr） 1.9 mg/dL, 血糖 163 mg/dL。 • 全血球計數（CBC）： 白血球計數（white blood cell count, WBC） 11.3 × 10³ cells/mm³, Hb 10.9 g/dL, Hct 31.1%, PLT 213,000/mm³。 • 其他數值： Troponin-T 3.9 ng/mL, AST 14 IU/L, ALT 46 IU/L, HbA1c 8.3%, BNP 1423 pg/mL。\n\n根據該病人的臨床表現（急性心肌梗塞且射出分率保留），下列哪一項用藥相關醫療品質指標（quality metric）不要求記錄禁忌症？",
+      "question": "一名 58 歲男性（身高 71 英吋，體重 106 kg），在胸痛與呼吸短促進行性惡化 24 小時後，由外院轉入加護病房（intensive care unit, ICU）。抵達時使用高流量鼻導管給予 6 L 氧氣，持續輸注 heparin 16 units/kg/h 及 dopamine 15 mcg/kg/min。外院紀錄顯示其就診時呈現心搏過緩（心率 50–58 次 / 分）及低血壓（78/49–86/55 mm Hg）。外院 12 導程心電圖（ECG）顯示在導程 II、 III、 aVF 出現 ST 段上升。考量其胸痛與心電圖表現，轉院前給予嚼服 aspirin 324 mg、 clopidogrel 600 mg 及單次靜脈注射 morphine 4 mg。紀錄並顯示因心搏過緩與低血壓而暫緩給予 β 受體阻斷劑與 nitroglycerin。過去病史包括服藥順從性不佳、高血壓、糖尿病、血脂異常及射出分率保留型心臟衰竭（HFpEF， 1 年前報告之 LVEF 為 65%）。病人表示目前在家未服用任何藥物。 • 轉院生命徵象：血壓 87/52 mm Hg、心率 110 次 / 分、呼吸 19 次 / 分、體溫 99.7°F （37.6°C）。 • 理學檢查顯示持續窘迫、輻射性胸痛（7/10）、肺部濕囉音（rales）、無心臟雜音，右橈動脈置有動脈導管（A- line）。 • 原留置導尿管集尿袋內有 20 mL 尿液（病人表示最近一次排尿為昨日上午）。外院紀錄顯示轉院前僅記錄 30 mL 尿量。 • 胸部 X 光顯示瀰漫性斑片狀浸潤陰影（diffuse patchy opacities），但報告指出無法排除浸潤感染。 • 實驗室檢查： Na 132 mEq/L, K 4.2 mEq/L, Cl 102 mEq/L, CO₂ 22 mEq/L, 血中尿素氮（blood urea nitrogen, BUN） 34 mg/dL, 血清肌酸酐（serum creatinine, SCr） 1.9 mg/dL, 血糖 163 mg/dL。 • 全血球計數（CBC）： 白血球計數（white blood cell count, WBC） 11.3 × 10³ cells/mm³, Hb 10.9 g/dL, Hct 31.1%, PLT 213,000/mm³。 • 其他數值： Troponin-T 3.9 ng/mL, AST 14 IU/L, ALT 46 IU/L, HbA1c 8.3%, BNP 1423 pg/mL。\n\n根據該病人的臨床表現（急性心肌梗塞且射出分率保留），下列哪一項用藥相關醫療品質指標（quality metric）不要求記錄禁忌症？",
       "options": [
         "A. aspirin 禁忌症記錄。",
         "B. Statin 禁忌症記錄。",
@@ -3482,7 +3482,7 @@ const allChapters = {
     },
     {
       "id": 9,
-      "question": "【臨床案例】J.M. 是一名 68 歲男性，有冠心症（CAD）病史，包括 6 個月前發生 ST 節段上升型心肌梗塞（ST-elevation myocardial infarction, STEMI）並置入兩支藥物塗藥支架（DES）、第 2 型糖尿病、高血壓、血脂異常、胃食道逆流（GERD）、阻塞性睡眠呼吸中止症（OSA）、頻繁流鼻血、缺血性心肌病變（LVEF 30%–35%）以及中度至重度二尖瓣逆流（MR）。他因嚴重呼吸短促及意識狀態改變入住心臟加護病房（CICU），目前使用持續正壓呼吸器（CPAP）。過去 2 週內他體重增加了 13 kg （現體重 121 kg），且儘管調高了利尿劑劑量，尿量仍然減少。居家長期用藥包含： aspirin 81 mg 每日一次（once daily, QD）、 ticagrelor 90 mg Q12H、 pantoprazole 40 mg QD、 atorvastatin 40 mg QD、 insulin glargine 10 units 睡前（at bedtime, QHS）、 metformin 500 mg Q12H、 furosemide 40 mg 每日兩次（twice daily, BID）、potassium chloride 20 mEq BID。其妻子表示他原本服用 clopidogrel，直到 1 個月前因費用考量，基層醫師改給予他 ticagrelor 樣品藥。理學檢查顯示雙肺滿布囉音（rales）。病人無發燒、焦慮且意識清楚。\n\n考量 J.M. 的共病症，部分藥物已被證實具降低死亡率效益。若欲進一步延緩疾病進展並改善死亡率，下列哪組藥物可新增或調整至其用藥清單？",
+      "question": "J.M. 是一名 68 歲男性，有冠心症（CAD）病史，包括 6 個月前發生 ST 節段上升型心肌梗塞（ST-elevation myocardial infarction, STEMI）並置入兩支藥物塗藥支架（DES）、第 2 型糖尿病、高血壓、血脂異常、胃食道逆流（GERD）、阻塞性睡眠呼吸中止症（OSA）、頻繁流鼻血、缺血性心肌病變（LVEF 30%–35%）以及中度至重度二尖瓣逆流（MR）。他因嚴重呼吸短促及意識狀態改變入住心臟加護病房（CICU），目前使用持續正壓呼吸器（CPAP）。過去 2 週內他體重增加了 13 kg （現體重 121 kg），且儘管調高了利尿劑劑量，尿量仍然減少。居家長期用藥包含： aspirin 81 mg 每日一次（once daily, QD）、 ticagrelor 90 mg Q12H、 pantoprazole 40 mg QD、 atorvastatin 40 mg QD、 insulin glargine 10 units 睡前（at bedtime, QHS）、 metformin 500 mg Q12H、 furosemide 40 mg 每日兩次（twice daily, BID）、potassium chloride 20 mEq BID。其妻子表示他原本服用 clopidogrel，直到 1 個月前因費用考量，基層醫師改給予他 ticagrelor 樣品藥。理學檢查顯示雙肺滿布囉音（rales）。病人無發燒、焦慮且意識清楚。\n\n考量 J.M. 的共病症，部分藥物已被證實具降低死亡率效益。若欲進一步延緩疾病進展並改善死亡率，下列哪組藥物可新增或調整至其用藥清單？",
       "options": [
         "A. amlodipine, clopidogrel, 及 sitagliptin",
         "B. spironolactone, lisinopril, 及 carvedilol",
@@ -3501,7 +3501,7 @@ const allChapters = {
     },
     {
       "id": 10,
-      "question": "【臨床案例】J.M. 是一名 68 歲男性，有冠心症（CAD）病史，包括 6 個月前發生 ST 節段上升型心肌梗塞（ST-elevation myocardial infarction, STEMI）並置入兩支藥物塗藥支架（DES）、第 2 型糖尿病、高血壓、血脂異常、胃食道逆流（GERD）、阻塞性睡眠呼吸中止症（OSA）、頻繁流鼻血、缺血性心肌病變（LVEF 30%–35%）以及中度至重度二尖瓣逆流（MR）。他因嚴重呼吸短促及意識狀態改變入住心臟加護病房（CICU），目前使用持續正壓呼吸器（CPAP）。過去 2 週內他體重增加了 13 kg （現體重 121 kg），且儘管調高了利尿劑劑量，尿量仍然減少。居家長期用藥包含： aspirin 81 mg 每日一次（once daily, QD）、 ticagrelor 90 mg Q12H、 pantoprazole 40 mg QD、 atorvastatin 40 mg QD、 insulin glargine 10 units 睡前（at bedtime, QHS）、 metformin 500 mg Q12H、 furosemide 40 mg 每日兩次（twice daily, BID）、potassium chloride 20 mEq BID。其妻子表示他原本服用 clopidogrel，直到 1 個月前因費用考量，基層醫師改給予他 ticagrelor 樣品藥。理學檢查顯示雙肺滿布囉音（rales）。病人無發燒、焦慮且意識清楚。\n\n考量病人的臨床表現，下列哪一組診斷檢查最有助於指導醫療團隊對 J.M. 目前情況的處置決策？（假設基礎生化檢查、血氧飽和度與血糖已完成）",
+      "question": "J.M. 是一名 68 歲男性，有冠心症（CAD）病史，包括 6 個月前發生 ST 節段上升型心肌梗塞（ST-elevation myocardial infarction, STEMI）並置入兩支藥物塗藥支架（DES）、第 2 型糖尿病、高血壓、血脂異常、胃食道逆流（GERD）、阻塞性睡眠呼吸中止症（OSA）、頻繁流鼻血、缺血性心肌病變（LVEF 30%–35%）以及中度至重度二尖瓣逆流（MR）。他因嚴重呼吸短促及意識狀態改變入住心臟加護病房（CICU），目前使用持續正壓呼吸器（CPAP）。過去 2 週內他體重增加了 13 kg （現體重 121 kg），且儘管調高了利尿劑劑量，尿量仍然減少。居家長期用藥包含： aspirin 81 mg 每日一次（once daily, QD）、 ticagrelor 90 mg Q12H、 pantoprazole 40 mg QD、 atorvastatin 40 mg QD、 insulin glargine 10 units 睡前（at bedtime, QHS）、 metformin 500 mg Q12H、 furosemide 40 mg 每日兩次（twice daily, BID）、potassium chloride 20 mEq BID。其妻子表示他原本服用 clopidogrel，直到 1 個月前因費用考量，基層醫師改給予他 ticagrelor 樣品藥。理學檢查顯示雙肺滿布囉音（rales）。病人無發燒、焦慮且意識清楚。\n\n考量病人的臨床表現，下列哪一組診斷檢查最有助於指導醫療團隊對 J.M. 目前情況的處置決策？（假設基礎生化檢查、血氧飽和度與血糖已完成）",
       "options": [
         "A. 尿液培養、呼吸道培養、乳酸（lactate）及降鈣素原（procalcitonin）",
         "B. 胸部 X 光、動脈血氣分析（arterial blood gas, ABG）、肝功能檢查及連續心肌酵素（serial troponins）",
@@ -3520,7 +3520,7 @@ const allChapters = {
     },
     {
       "id": 11,
-      "question": "【臨床案例】J.M. 是一名 68 歲男性，有冠心症（CAD）病史，包括 6 個月前發生 ST 節段上升型心肌梗塞（ST-elevation myocardial infarction, STEMI）並置入兩支藥物塗藥支架（DES）、第 2 型糖尿病、高血壓、血脂異常、胃食道逆流（GERD）、阻塞性睡眠呼吸中止症（OSA）、頻繁流鼻血、缺血性心肌病變（LVEF 30%–35%）以及中度至重度二尖瓣逆流（MR）。他因嚴重呼吸短促及意識狀態改變入住心臟加護病房（CICU），目前使用持續正壓呼吸器（CPAP）。過去 2 週內他體重增加了 13 kg （現體重 121 kg），且儘管調高了利尿劑劑量，尿量仍然減少。居家長期用藥包含： aspirin 81 mg 每日一次（once daily, QD）、 ticagrelor 90 mg Q12H、 pantoprazole 40 mg QD、 atorvastatin 40 mg QD、 insulin glargine 10 units 睡前（at bedtime, QHS）、 metformin 500 mg Q12H、 furosemide 40 mg 每日兩次（twice daily, BID）、potassium chloride 20 mEq BID。其妻子表示他原本服用 clopidogrel，直到 1 個月前因費用考量，基層醫師改給予他 ticagrelor 樣品藥。理學檢查顯示雙肺滿布囉音（rales）。病人無發燒、焦慮且意識清楚。 所有上述檢查皆已開立並獲得以下結果： J.M. 的血壓為 90/56 mm Hg （MAP 67 mm Hg），心率 56 次 / 分。 12 導程 ECG 顯示正常竇性心律，無急性 ST-T 變化。 • 胸部 X 光顯示瀰漫性斑片狀陰影，管路位置適當。 • 生化檢查： Na 126 mEq/L, K 4.8 mEq/L, Cl 102 mEq/L, CO₂ 21 mEq/L, 血中尿素氮（blood urea nitrogen, BUN） 32 mg/dL, 血清肌酸酐（serum creatinine, SCr） 1.6 mg/dL, 血糖 134 mg/dL。 • CBC： 白血球計數（white blood cell count, WBC） 9.8 × 10³ cells/mm³, Hb 11.1 g/dL, Hct 32.6%, PLT 173,000/mm³。 • 其他： Troponin 0.9 ng/mL, AST 114 IU/L, ALT 102 IU/L, BNP 1936 pg/mL。 • 侵入性血流動力學： 中央靜脈壓（central venous pressure, CVP） 28 mm Hg, PAP 46/22 mm Hg, 心臟指數（cardiac index, CI） 1.8 L/min/m², ScvO₂ 53%。 • 動脈血液氣體分析（arterial blood gas, ABG）： pH 7.36, PO₂ 93.7, PCO₂ 43.2, HCO₃ 23.9, SaO₂ 89%, 乳酸 6.9 mmol/L。理學檢查顯示四肢冰冷且微血管充填時間（capillary refill）差。團隊已給予 furosemide 80 mg 靜脈給藥（intravenous, IV）一次，並希望啟動升壓劑或強心劑。\n\n此時最適當的推薦為何？",
+      "question": "J.M. 是一名 68 歲男性，有冠心症（CAD）病史，包括 6 個月前發生 ST 節段上升型心肌梗塞（ST-elevation myocardial infarction, STEMI）並置入兩支藥物塗藥支架（DES）、第 2 型糖尿病、高血壓、血脂異常、胃食道逆流（GERD）、阻塞性睡眠呼吸中止症（OSA）、頻繁流鼻血、缺血性心肌病變（LVEF 30%–35%）以及中度至重度二尖瓣逆流（MR）。他因嚴重呼吸短促及意識狀態改變入住心臟加護病房（CICU），目前使用持續正壓呼吸器（CPAP）。過去 2 週內他體重增加了 13 kg （現體重 121 kg），且儘管調高了利尿劑劑量，尿量仍然減少。居家長期用藥包含： aspirin 81 mg 每日一次（once daily, QD）、 ticagrelor 90 mg Q12H、 pantoprazole 40 mg QD、 atorvastatin 40 mg QD、 insulin glargine 10 units 睡前（at bedtime, QHS）、 metformin 500 mg Q12H、 furosemide 40 mg 每日兩次（twice daily, BID）、potassium chloride 20 mEq BID。其妻子表示他原本服用 clopidogrel，直到 1 個月前因費用考量，基層醫師改給予他 ticagrelor 樣品藥。理學檢查顯示雙肺滿布囉音（rales）。病人無發燒、焦慮且意識清楚。 所有上述檢查皆已開立並獲得以下結果： J.M. 的血壓為 90/56 mm Hg （MAP 67 mm Hg），心率 56 次 / 分。 12 導程 ECG 顯示正常竇性心律，無急性 ST-T 變化。 • 胸部 X 光顯示瀰漫性斑片狀陰影，管路位置適當。 • 生化檢查： Na 126 mEq/L, K 4.8 mEq/L, Cl 102 mEq/L, CO₂ 21 mEq/L, 血中尿素氮（blood urea nitrogen, BUN） 32 mg/dL, 血清肌酸酐（serum creatinine, SCr） 1.6 mg/dL, 血糖 134 mg/dL。 • CBC： 白血球計數（white blood cell count, WBC） 9.8 × 10³ cells/mm³, Hb 11.1 g/dL, Hct 32.6%, PLT 173,000/mm³。 • 其他： Troponin 0.9 ng/mL, AST 114 IU/L, ALT 102 IU/L, BNP 1936 pg/mL。 • 侵入性血流動力學： 中央靜脈壓（central venous pressure, CVP） 28 mm Hg, PAP 46/22 mm Hg, 心臟指數（cardiac index, CI） 1.8 L/min/m², ScvO₂ 53%。 • 動脈血液氣體分析（arterial blood gas, ABG）： pH 7.36, PO₂ 93.7, PCO₂ 43.2, HCO₃ 23.9, SaO₂ 89%, 乳酸 6.9 mmol/L。理學檢查顯示四肢冰冷且微血管充填時間（capillary refill）差。團隊已給予 furosemide 80 mg 靜脈給藥（intravenous, IV）一次，並希望啟動升壓劑或強心劑。\n\n此時最適當的推薦為何？",
       "options": [
         "A. norepinephrine 0.08 mcg/kg/min",
         "B. epinephrine 0.08 mcg/kg/min",
@@ -3539,7 +3539,7 @@ const allChapters = {
     },
     {
       "id": 12,
-      "question": "【臨床案例】J.M. 是一名 68 歲男性，有冠心症（CAD）病史，包括 6 個月前發生 ST 節段上升型心肌梗塞（ST-elevation myocardial infarction, STEMI）並置入兩支藥物塗藥支架（DES）、第 2 型糖尿病、高血壓、血脂異常、胃食道逆流（GERD）、阻塞性睡眠呼吸中止症（OSA）、頻繁流鼻血、缺血性心肌病變（LVEF 30%–35%）以及中度至重度二尖瓣逆流（MR）。他因嚴重呼吸短促及意識狀態改變入住心臟加護病房（CICU），目前使用持續正壓呼吸器（CPAP）。過去 2 週內他體重增加了 13 kg （現體重 121 kg），且儘管調高了利尿劑劑量，尿量仍然減少。居家長期用藥包含： aspirin 81 mg 每日一次（once daily, QD）、 ticagrelor 90 mg Q12H、 pantoprazole 40 mg QD、 atorvastatin 40 mg QD、 insulin glargine 10 units 睡前（at bedtime, QHS）、 metformin 500 mg Q12H、 furosemide 40 mg 每日兩次（twice daily, BID）、potassium chloride 20 mEq BID。其妻子表示他原本服用 clopidogrel，直到 1 個月前因費用考量，基層醫師改給予他 ticagrelor 樣品藥。理學檢查顯示雙肺滿布囉音（rales）。病人無發燒、焦慮且意識清楚。 所有上述檢查皆已開立並獲得以下結果： J.M. 的血壓為 90/56 mm Hg （MAP 67 mm Hg），心率 56 次 / 分。 12 導程 ECG 顯示正常竇性心律，無急性 ST-T 變化。 • 胸部 X 光顯示瀰漫性斑片狀陰影，管路位置適當。 • 生化檢查： Na 126 mEq/L, K 4.8 mEq/L, Cl 102 mEq/L, CO₂ 21 mEq/L, 血中尿素氮（blood urea nitrogen, BUN） 32 mg/dL, 血清肌酸酐（serum creatinine, SCr） 1.6 mg/dL, 血糖 134 mg/dL。 • CBC： 白血球計數（white blood cell count, WBC） 9.8 × 10³ cells/mm³, Hb 11.1 g/dL, Hct 32.6%, PLT 173,000/mm³。 • 其他： Troponin 0.9 ng/mL, AST 114 IU/L, ALT 102 IU/L, BNP 1936 pg/mL。 • 侵入性血流動力學： 中央靜脈壓（central venous pressure, CVP） 28 mm Hg, PAP 46/22 mm Hg, 心臟指數（cardiac index, CI） 1.8 L/min/m², ScvO₂ 53%。 • 動脈血液氣體分析（arterial blood gas, ABG）： pH 7.36, PO₂ 93.7, PCO₂ 43.2, HCO₃ 23.9, SaO₂ 89%, 乳酸 6.9 mmol/L。理學檢查顯示四肢冰冷且微血管充填時間（capillary refill）差。團隊已給予 furosemide 80 mg 靜脈給藥（intravenous, IV）一次，並希望啟動升壓劑或強心劑。\n\nJ.M. 的 ECG 顯示無急性 ST 段改變。然而住院醫師考量其呼吸短促與心肌酵素輕微升高，仍考慮 急性冠心症（acute coronary syndrome, ACS）的診斷。關於其他潛在診斷的可能性，下列哪項敘述最為準確？",
+      "question": "J.M. 是一名 68 歲男性，有冠心症（CAD）病史，包括 6 個月前發生 ST 節段上升型心肌梗塞（ST-elevation myocardial infarction, STEMI）並置入兩支藥物塗藥支架（DES）、第 2 型糖尿病、高血壓、血脂異常、胃食道逆流（GERD）、阻塞性睡眠呼吸中止症（OSA）、頻繁流鼻血、缺血性心肌病變（LVEF 30%–35%）以及中度至重度二尖瓣逆流（MR）。他因嚴重呼吸短促及意識狀態改變入住心臟加護病房（CICU），目前使用持續正壓呼吸器（CPAP）。過去 2 週內他體重增加了 13 kg （現體重 121 kg），且儘管調高了利尿劑劑量，尿量仍然減少。居家長期用藥包含： aspirin 81 mg 每日一次（once daily, QD）、 ticagrelor 90 mg Q12H、 pantoprazole 40 mg QD、 atorvastatin 40 mg QD、 insulin glargine 10 units 睡前（at bedtime, QHS）、 metformin 500 mg Q12H、 furosemide 40 mg 每日兩次（twice daily, BID）、potassium chloride 20 mEq BID。其妻子表示他原本服用 clopidogrel，直到 1 個月前因費用考量，基層醫師改給予他 ticagrelor 樣品藥。理學檢查顯示雙肺滿布囉音（rales）。病人無發燒、焦慮且意識清楚。 所有上述檢查皆已開立並獲得以下結果： J.M. 的血壓為 90/56 mm Hg （MAP 67 mm Hg），心率 56 次 / 分。 12 導程 ECG 顯示正常竇性心律，無急性 ST-T 變化。 • 胸部 X 光顯示瀰漫性斑片狀陰影，管路位置適當。 • 生化檢查： Na 126 mEq/L, K 4.8 mEq/L, Cl 102 mEq/L, CO₂ 21 mEq/L, 血中尿素氮（blood urea nitrogen, BUN） 32 mg/dL, 血清肌酸酐（serum creatinine, SCr） 1.6 mg/dL, 血糖 134 mg/dL。 • CBC： 白血球計數（white blood cell count, WBC） 9.8 × 10³ cells/mm³, Hb 11.1 g/dL, Hct 32.6%, PLT 173,000/mm³。 • 其他： Troponin 0.9 ng/mL, AST 114 IU/L, ALT 102 IU/L, BNP 1936 pg/mL。 • 侵入性血流動力學： 中央靜脈壓（central venous pressure, CVP） 28 mm Hg, PAP 46/22 mm Hg, 心臟指數（cardiac index, CI） 1.8 L/min/m², ScvO₂ 53%。 • 動脈血液氣體分析（arterial blood gas, ABG）： pH 7.36, PO₂ 93.7, PCO₂ 43.2, HCO₃ 23.9, SaO₂ 89%, 乳酸 6.9 mmol/L。理學檢查顯示四肢冰冷且微血管充填時間（capillary refill）差。團隊已給予 furosemide 80 mg 靜脈給藥（intravenous, IV）一次，並希望啟動升壓劑或強心劑。\n\nJ.M. 的 ECG 顯示無急性 ST 段改變。然而住院醫師考量其呼吸短促與心肌酵素輕微升高，仍考慮 急性冠心症（acute coronary syndrome, ACS）的診斷。關於其他潛在診斷的可能性，下列哪項敘述最為準確？",
       "options": [
         "A. 否，這最可能是 非 ST 節段上升型心肌梗塞（non-ST-elevation myocardial infarction, NSTEMI）。",
         "B. 是，這可能是未確診的慢性阻塞性肺病（chronic obstructive pulmonary disease, COPD）。",
@@ -3558,7 +3558,7 @@ const allChapters = {
     },
     {
       "id": 13,
-      "question": "【臨床案例】J.M. 是一名 68 歲男性，有冠心症（CAD）病史，包括 6 個月前發生 ST 節段上升型心肌梗塞（ST-elevation myocardial infarction, STEMI）並置入兩支藥物塗藥支架（DES）、第 2 型糖尿病、高血壓、血脂異常、胃食道逆流（GERD）、阻塞性睡眠呼吸中止症（OSA）、頻繁流鼻血、缺血性心肌病變（LVEF 30%–35%）以及中度至重度二尖瓣逆流（MR）。他因嚴重呼吸短促及意識狀態改變入住心臟加護病房（CICU），目前使用持續正壓呼吸器（CPAP）。過去 2 週內他體重增加了 13 kg （現體重 121 kg），且儘管調高了利尿劑劑量，尿量仍然減少。居家長期用藥包含： aspirin 81 mg 每日一次（once daily, QD）、 ticagrelor 90 mg Q12H、 pantoprazole 40 mg QD、 atorvastatin 40 mg QD、 insulin glargine 10 units 睡前（at bedtime, QHS）、 metformin 500 mg Q12H、 furosemide 40 mg 每日兩次（twice daily, BID）、potassium chloride 20 mEq BID。其妻子表示他原本服用 clopidogrel，直到 1 個月前因費用考量，基層醫師改給予他 ticagrelor 樣品藥。理學檢查顯示雙肺滿布囉音（rales）。病人無發燒、焦慮且意識清楚。 所有上述檢查皆已開立並獲得以下結果： J.M. 的血壓為 90/56 mm Hg （MAP 67 mm Hg），心率 56 次 / 分。 12 導程 ECG 顯示正常竇性心律，無急性 ST-T 變化。 • 胸部 X 光顯示瀰漫性斑片狀陰影，管路位置適當。 • 生化檢查： Na 126 mEq/L, K 4.8 mEq/L, Cl 102 mEq/L, CO₂ 21 mEq/L, 血中尿素氮（blood urea nitrogen, BUN） 32 mg/dL, 血清肌酸酐（serum creatinine, SCr） 1.6 mg/dL, 血糖 134 mg/dL。 • CBC： 白血球計數（white blood cell count, WBC） 9.8 × 10³ cells/mm³, Hb 11.1 g/dL, Hct 32.6%, PLT 173,000/mm³。 • 其他： Troponin 0.9 ng/mL, AST 114 IU/L, ALT 102 IU/L, BNP 1936 pg/mL。 • 侵入性血流動力學： 中央靜脈壓（central venous pressure, CVP） 28 mm Hg, PAP 46/22 mm Hg, 心臟指數（cardiac index, CI） 1.8 L/min/m², ScvO₂ 53%。 • 動脈血液氣體分析（arterial blood gas, ABG）： pH 7.36, PO₂ 93.7, PCO₂ 43.2, HCO₃ 23.9, SaO₂ 89%, 乳酸 6.9 mmol/L。理學檢查顯示四肢冰冷且微血管充填時間（capillary refill）差。團隊已給予 furosemide 80 mg 靜脈給藥（intravenous, IV）一次，並希望啟動升壓劑或強心劑。\n\nJ.M. 在心電圖監測上出現間歇性心搏過緩。團隊已照會心臟電生理專科。在此同時，下列哪一項敘述最能準確反映是否能針對任何其他可矯正的潛在原因進行介入？",
+      "question": "J.M. 是一名 68 歲男性，有冠心症（CAD）病史，包括 6 個月前發生 ST 節段上升型心肌梗塞（ST-elevation myocardial infarction, STEMI）並置入兩支藥物塗藥支架（DES）、第 2 型糖尿病、高血壓、血脂異常、胃食道逆流（GERD）、阻塞性睡眠呼吸中止症（OSA）、頻繁流鼻血、缺血性心肌病變（LVEF 30%–35%）以及中度至重度二尖瓣逆流（MR）。他因嚴重呼吸短促及意識狀態改變入住心臟加護病房（CICU），目前使用持續正壓呼吸器（CPAP）。過去 2 週內他體重增加了 13 kg （現體重 121 kg），且儘管調高了利尿劑劑量，尿量仍然減少。居家長期用藥包含： aspirin 81 mg 每日一次（once daily, QD）、 ticagrelor 90 mg Q12H、 pantoprazole 40 mg QD、 atorvastatin 40 mg QD、 insulin glargine 10 units 睡前（at bedtime, QHS）、 metformin 500 mg Q12H、 furosemide 40 mg 每日兩次（twice daily, BID）、potassium chloride 20 mEq BID。其妻子表示他原本服用 clopidogrel，直到 1 個月前因費用考量，基層醫師改給予他 ticagrelor 樣品藥。理學檢查顯示雙肺滿布囉音（rales）。病人無發燒、焦慮且意識清楚。 所有上述檢查皆已開立並獲得以下結果： J.M. 的血壓為 90/56 mm Hg （MAP 67 mm Hg），心率 56 次 / 分。 12 導程 ECG 顯示正常竇性心律，無急性 ST-T 變化。 • 胸部 X 光顯示瀰漫性斑片狀陰影，管路位置適當。 • 生化檢查： Na 126 mEq/L, K 4.8 mEq/L, Cl 102 mEq/L, CO₂ 21 mEq/L, 血中尿素氮（blood urea nitrogen, BUN） 32 mg/dL, 血清肌酸酐（serum creatinine, SCr） 1.6 mg/dL, 血糖 134 mg/dL。 • CBC： 白血球計數（white blood cell count, WBC） 9.8 × 10³ cells/mm³, Hb 11.1 g/dL, Hct 32.6%, PLT 173,000/mm³。 • 其他： Troponin 0.9 ng/mL, AST 114 IU/L, ALT 102 IU/L, BNP 1936 pg/mL。 • 侵入性血流動力學： 中央靜脈壓（central venous pressure, CVP） 28 mm Hg, PAP 46/22 mm Hg, 心臟指數（cardiac index, CI） 1.8 L/min/m², ScvO₂ 53%。 • 動脈血液氣體分析（arterial blood gas, ABG）： pH 7.36, PO₂ 93.7, PCO₂ 43.2, HCO₃ 23.9, SaO₂ 89%, 乳酸 6.9 mmol/L。理學檢查顯示四肢冰冷且微血管充填時間（capillary refill）差。團隊已給予 furosemide 80 mg 靜脈給藥（intravenous, IV）一次，並希望啟動升壓劑或強心劑。\n\nJ.M. 在心電圖監測上出現間歇性心搏過緩。團隊已照會心臟電生理專科。在此同時，下列哪一項敘述最能準確反映是否能針對任何其他可矯正的潛在原因進行介入？",
       "options": [
         "A. 可停用 ticagrelor 並換回 clopidogrel。",
         "B. 應完全停用 ticagrelor。",
@@ -3577,7 +3577,7 @@ const allChapters = {
     },
     {
       "id": 14,
-      "question": "【臨床案例】J.M. 是一名 68 歲男性，有冠心症（CAD）病史，包括 6 個月前發生 ST 節段上升型心肌梗塞（ST-elevation myocardial infarction, STEMI）並置入兩支藥物塗藥支架（DES）、第 2 型糖尿病、高血壓、血脂異常、胃食道逆流（GERD）、阻塞性睡眠呼吸中止症（OSA）、頻繁流鼻血、缺血性心肌病變（LVEF 30%–35%）以及中度至重度二尖瓣逆流（MR）。他因嚴重呼吸短促及意識狀態改變入住心臟加護病房（CICU），目前使用持續正壓呼吸器（CPAP）。過去 2 週內他體重增加了 13 kg （現體重 121 kg），且儘管調高了利尿劑劑量，尿量仍然減少。居家長期用藥包含： aspirin 81 mg 每日一次（once daily, QD）、 ticagrelor 90 mg Q12H、 pantoprazole 40 mg QD、 atorvastatin 40 mg QD、 insulin glargine 10 units 睡前（at bedtime, QHS）、 metformin 500 mg Q12H、 furosemide 40 mg 每日兩次（twice daily, BID）、potassium chloride 20 mEq BID。其妻子表示他原本服用 clopidogrel，直到 1 個月前因費用考量，基層醫師改給予他 ticagrelor 樣品藥。理學檢查顯示雙肺滿布囉音（rales）。病人無發燒、焦慮且意識清楚。 所有上述檢查皆已開立並獲得以下結果： J.M. 的血壓為 90/56 mm Hg （MAP 67 mm Hg），心率 56 次 / 分。 12 導程 ECG 顯示正常竇性心律，無急性 ST-T 變化。 • 胸部 X 光顯示瀰漫性斑片狀陰影，管路位置適當。 • 生化檢查： Na 126 mEq/L, K 4.8 mEq/L, Cl 102 mEq/L, CO₂ 21 mEq/L, 血中尿素氮（blood urea nitrogen, BUN） 32 mg/dL, 血清肌酸酐（serum creatinine, SCr） 1.6 mg/dL, 血糖 134 mg/dL。 • CBC： 白血球計數（white blood cell count, WBC） 9.8 × 10³ cells/mm³, Hb 11.1 g/dL, Hct 32.6%, PLT 173,000/mm³。 • 其他： Troponin 0.9 ng/mL, AST 114 IU/L, ALT 102 IU/L, BNP 1936 pg/mL。 • 侵入性血流動力學： 中央靜脈壓（central venous pressure, CVP） 28 mm Hg, PAP 46/22 mm Hg, 心臟指數（cardiac index, CI） 1.8 L/min/m², ScvO₂ 53%。 • 動脈血液氣體分析（arterial blood gas, ABG）： pH 7.36, PO₂ 93.7, PCO₂ 43.2, HCO₃ 23.9, SaO₂ 89%, 乳酸 6.9 mmol/L。理學檢查顯示四肢冰冷且微血管充填時間（capillary refill）差。團隊已給予 furosemide 80 mg 靜脈給藥（intravenous, IV）一次，並希望啟動升壓劑或強心劑。 自第 5 題後進行適當介入，病人未需要心臟節律器。在接下來 48 小時內， J.M. 持續接受強心劑治療並進行利尿（過去 2 天淨體液平衡分別為負 1250 mL 及負 900 mL）。經胸前心臟超音波（TTE）顯示 左心室射出分率（left ventricular ejection fraction, LVEF） 15%– 20%，左心室擴大且低動能，重度二尖瓣逆流，雙心房擴大。未見心內血栓，但無法完全排除。 J.M. 在心電監測上出現越來越多的心房早期收縮（PAC），心率維持在 83–96 次 / 分。他正接受 dobutamine 5 mcg/kg/min 及 furosemide 10 mg/h 持續輸注。團隊接獲通報 J.M. 發生突發性心房顫動伴快速心室反應（AF with RVR），心率 132 次 / 分（發生約 30 分鐘）。其血壓現為 83/52 mm Hg。\n\n針對該病人哪種治療計畫最為首選？",
+      "question": "J.M. 是一名 68 歲男性，有冠心症（CAD）病史，包括 6 個月前發生 ST 節段上升型心肌梗塞（ST-elevation myocardial infarction, STEMI）並置入兩支藥物塗藥支架（DES）、第 2 型糖尿病、高血壓、血脂異常、胃食道逆流（GERD）、阻塞性睡眠呼吸中止症（OSA）、頻繁流鼻血、缺血性心肌病變（LVEF 30%–35%）以及中度至重度二尖瓣逆流（MR）。他因嚴重呼吸短促及意識狀態改變入住心臟加護病房（CICU），目前使用持續正壓呼吸器（CPAP）。過去 2 週內他體重增加了 13 kg （現體重 121 kg），且儘管調高了利尿劑劑量，尿量仍然減少。居家長期用藥包含： aspirin 81 mg 每日一次（once daily, QD）、 ticagrelor 90 mg Q12H、 pantoprazole 40 mg QD、 atorvastatin 40 mg QD、 insulin glargine 10 units 睡前（at bedtime, QHS）、 metformin 500 mg Q12H、 furosemide 40 mg 每日兩次（twice daily, BID）、potassium chloride 20 mEq BID。其妻子表示他原本服用 clopidogrel，直到 1 個月前因費用考量，基層醫師改給予他 ticagrelor 樣品藥。理學檢查顯示雙肺滿布囉音（rales）。病人無發燒、焦慮且意識清楚。 所有上述檢查皆已開立並獲得以下結果： J.M. 的血壓為 90/56 mm Hg （MAP 67 mm Hg），心率 56 次 / 分。 12 導程 ECG 顯示正常竇性心律，無急性 ST-T 變化。 • 胸部 X 光顯示瀰漫性斑片狀陰影，管路位置適當。 • 生化檢查： Na 126 mEq/L, K 4.8 mEq/L, Cl 102 mEq/L, CO₂ 21 mEq/L, 血中尿素氮（blood urea nitrogen, BUN） 32 mg/dL, 血清肌酸酐（serum creatinine, SCr） 1.6 mg/dL, 血糖 134 mg/dL。 • CBC： 白血球計數（white blood cell count, WBC） 9.8 × 10³ cells/mm³, Hb 11.1 g/dL, Hct 32.6%, PLT 173,000/mm³。 • 其他： Troponin 0.9 ng/mL, AST 114 IU/L, ALT 102 IU/L, BNP 1936 pg/mL。 • 侵入性血流動力學： 中央靜脈壓（central venous pressure, CVP） 28 mm Hg, PAP 46/22 mm Hg, 心臟指數（cardiac index, CI） 1.8 L/min/m², ScvO₂ 53%。 • 動脈血液氣體分析（arterial blood gas, ABG）： pH 7.36, PO₂ 93.7, PCO₂ 43.2, HCO₃ 23.9, SaO₂ 89%, 乳酸 6.9 mmol/L。理學檢查顯示四肢冰冷且微血管充填時間（capillary refill）差。團隊已給予 furosemide 80 mg 靜脈給藥（intravenous, IV）一次，並希望啟動升壓劑或強心劑。 自第 5 題後進行適當介入，病人未需要心臟節律器。在接下來 48 小時內， J.M. 持續接受強心劑治療並進行利尿（過去 2 天淨體液平衡分別為負 1250 mL 及負 900 mL）。經胸前心臟超音波（TTE）顯示 左心室射出分率（left ventricular ejection fraction, LVEF） 15%– 20%，左心室擴大且低動能，重度二尖瓣逆流，雙心房擴大。未見心內血栓，但無法完全排除。 J.M. 在心電監測上出現越來越多的心房早期收縮（PAC），心率維持在 83–96 次 / 分。他正接受 dobutamine 5 mcg/kg/min 及 furosemide 10 mg/h 持續輸注。團隊接獲通報 J.M. 發生突發性心房顫動伴快速心室反應（AF with RVR），心率 132 次 / 分（發生約 30 分鐘）。其血壓現為 83/52 mm Hg。\n\n針對該病人哪種治療計畫最為首選？",
       "options": [
         "A. 同步心臟電擊整流（Synchronized cardioversion）",
         "B. metoprolol 5 mg 靜脈推注",
@@ -3596,7 +3596,7 @@ const allChapters = {
     },
     {
       "id": 15,
-      "question": "【臨床案例】J.M. 是一名 68 歲男性，有冠心症（CAD）病史，包括 6 個月前發生 ST 節段上升型心肌梗塞（ST-elevation myocardial infarction, STEMI）並置入兩支藥物塗藥支架（DES）、第 2 型糖尿病、高血壓、血脂異常、胃食道逆流（GERD）、阻塞性睡眠呼吸中止症（OSA）、頻繁流鼻血、缺血性心肌病變（LVEF 30%–35%）以及中度至重度二尖瓣逆流（MR）。他因嚴重呼吸短促及意識狀態改變入住心臟加護病房（CICU），目前使用持續正壓呼吸器（CPAP）。過去 2 週內他體重增加了 13 kg （現體重 121 kg），且儘管調高了利尿劑劑量，尿量仍然減少。居家長期用藥包含： aspirin 81 mg 每日一次（once daily, QD）、 ticagrelor 90 mg Q12H、 pantoprazole 40 mg QD、 atorvastatin 40 mg QD、 insulin glargine 10 units 睡前（at bedtime, QHS）、 metformin 500 mg Q12H、 furosemide 40 mg 每日兩次（twice daily, BID）、potassium chloride 20 mEq BID。其妻子表示他原本服用 clopidogrel，直到 1 個月前因費用考量，基層醫師改給予他 ticagrelor 樣品藥。理學檢查顯示雙肺滿布囉音（rales）。病人無發燒、焦慮且意識清楚。 所有上述檢查皆已開立並獲得以下結果： J.M. 的血壓為 90/56 mm Hg （MAP 67 mm Hg），心率 56 次 / 分。 12 導程 ECG 顯示正常竇性心律，無急性 ST-T 變化。 • 胸部 X 光顯示瀰漫性斑片狀陰影，管路位置適當。 • 生化檢查： Na 126 mEq/L, K 4.8 mEq/L, Cl 102 mEq/L, CO₂ 21 mEq/L, 血中尿素氮（blood urea nitrogen, BUN） 32 mg/dL, 血清肌酸酐（serum creatinine, SCr） 1.6 mg/dL, 血糖 134 mg/dL。 • CBC： 白血球計數（white blood cell count, WBC） 9.8 × 10³ cells/mm³, Hb 11.1 g/dL, Hct 32.6%, PLT 173,000/mm³。 • 其他： Troponin 0.9 ng/mL, AST 114 IU/L, ALT 102 IU/L, BNP 1936 pg/mL。 • 侵入性血流動力學： 中央靜脈壓（central venous pressure, CVP） 28 mm Hg, PAP 46/22 mm Hg, 心臟指數（cardiac index, CI） 1.8 L/min/m², ScvO₂ 53%。 • 動脈血液氣體分析（arterial blood gas, ABG）： pH 7.36, PO₂ 93.7, PCO₂ 43.2, HCO₃ 23.9, SaO₂ 89%, 乳酸 6.9 mmol/L。理學檢查顯示四肢冰冷且微血管充填時間（capillary refill）差。團隊已給予 furosemide 80 mg 靜脈給藥（intravenous, IV）一次，並希望啟動升壓劑或強心劑。 自第 5 題後進行適當介入，病人未需要心臟節律器。在接下來 48 小時內， J.M. 持續接受強心劑治療並進行利尿（過去 2 天淨體液平衡分別為負 1250 mL 及負 900 mL）。經胸前心臟超音波（TTE）顯示 左心室射出分率（left ventricular ejection fraction, LVEF） 15%– 20%，左心室擴大且低動能，重度二尖瓣逆流，雙心房擴大。未見心內血栓，但無法完全排除。 J.M. 在心電監測上出現越來越多的心房早期收縮（PAC），心率維持在 83–96 次 / 分。他正接受 dobutamine 5 mcg/kg/min 及 furosemide 10 mg/h 持續輸注。團隊接獲通報 J.M. 發生突發性心房顫動伴快速心室反應（AF with RVR），心率 132 次 / 分（發生約 30 分鐘）。其血壓現為 83/52 mm Hg。\n\n經上述處置後 J.M. 的血壓與心率有所改善，但仍維持心房顫動。團隊目前考慮評估其抗凝血治療適應性。計算其 CHA₂DS₂-VASc 分數為 5 分， HAS-BLED 分數為 5 分。醫師考慮在 加護病房（intensive care unit, ICU）住院期間使用 heparin 持續輸注，並尋求您的建議。何者為最恰當的回覆？",
+      "question": "J.M. 是一名 68 歲男性，有冠心症（CAD）病史，包括 6 個月前發生 ST 節段上升型心肌梗塞（ST-elevation myocardial infarction, STEMI）並置入兩支藥物塗藥支架（DES）、第 2 型糖尿病、高血壓、血脂異常、胃食道逆流（GERD）、阻塞性睡眠呼吸中止症（OSA）、頻繁流鼻血、缺血性心肌病變（LVEF 30%–35%）以及中度至重度二尖瓣逆流（MR）。他因嚴重呼吸短促及意識狀態改變入住心臟加護病房（CICU），目前使用持續正壓呼吸器（CPAP）。過去 2 週內他體重增加了 13 kg （現體重 121 kg），且儘管調高了利尿劑劑量，尿量仍然減少。居家長期用藥包含： aspirin 81 mg 每日一次（once daily, QD）、 ticagrelor 90 mg Q12H、 pantoprazole 40 mg QD、 atorvastatin 40 mg QD、 insulin glargine 10 units 睡前（at bedtime, QHS）、 metformin 500 mg Q12H、 furosemide 40 mg 每日兩次（twice daily, BID）、potassium chloride 20 mEq BID。其妻子表示他原本服用 clopidogrel，直到 1 個月前因費用考量，基層醫師改給予他 ticagrelor 樣品藥。理學檢查顯示雙肺滿布囉音（rales）。病人無發燒、焦慮且意識清楚。 所有上述檢查皆已開立並獲得以下結果： J.M. 的血壓為 90/56 mm Hg （MAP 67 mm Hg），心率 56 次 / 分。 12 導程 ECG 顯示正常竇性心律，無急性 ST-T 變化。 • 胸部 X 光顯示瀰漫性斑片狀陰影，管路位置適當。 • 生化檢查： Na 126 mEq/L, K 4.8 mEq/L, Cl 102 mEq/L, CO₂ 21 mEq/L, 血中尿素氮（blood urea nitrogen, BUN） 32 mg/dL, 血清肌酸酐（serum creatinine, SCr） 1.6 mg/dL, 血糖 134 mg/dL。 • CBC： 白血球計數（white blood cell count, WBC） 9.8 × 10³ cells/mm³, Hb 11.1 g/dL, Hct 32.6%, PLT 173,000/mm³。 • 其他： Troponin 0.9 ng/mL, AST 114 IU/L, ALT 102 IU/L, BNP 1936 pg/mL。 • 侵入性血流動力學： 中央靜脈壓（central venous pressure, CVP） 28 mm Hg, PAP 46/22 mm Hg, 心臟指數（cardiac index, CI） 1.8 L/min/m², ScvO₂ 53%。 • 動脈血液氣體分析（arterial blood gas, ABG）： pH 7.36, PO₂ 93.7, PCO₂ 43.2, HCO₃ 23.9, SaO₂ 89%, 乳酸 6.9 mmol/L。理學檢查顯示四肢冰冷且微血管充填時間（capillary refill）差。團隊已給予 furosemide 80 mg 靜脈給藥（intravenous, IV）一次，並希望啟動升壓劑或強心劑。 自第 5 題後進行適當介入，病人未需要心臟節律器。在接下來 48 小時內， J.M. 持續接受強心劑治療並進行利尿（過去 2 天淨體液平衡分別為負 1250 mL 及負 900 mL）。經胸前心臟超音波（TTE）顯示 左心室射出分率（left ventricular ejection fraction, LVEF） 15%– 20%，左心室擴大且低動能，重度二尖瓣逆流，雙心房擴大。未見心內血栓，但無法完全排除。 J.M. 在心電監測上出現越來越多的心房早期收縮（PAC），心率維持在 83–96 次 / 分。他正接受 dobutamine 5 mcg/kg/min 及 furosemide 10 mg/h 持續輸注。團隊接獲通報 J.M. 發生突發性心房顫動伴快速心室反應（AF with RVR），心率 132 次 / 分（發生約 30 分鐘）。其血壓現為 83/52 mm Hg。\n\n經上述處置後 J.M. 的血壓與心率有所改善，但仍維持心房顫動。團隊目前考慮評估其抗凝血治療適應性。計算其 CHA₂DS₂-VASc 分數為 5 分， HAS-BLED 分數為 5 分。醫師考慮在 加護病房（intensive care unit, ICU）住院期間使用 heparin 持續輸注，並尋求您的建議。何者為最恰當的回覆？",
       "options": [
         "A. 根據這些評分，病人的出血風險與中風風險相同；因此，啟動或暫緩抗凝血治療皆屬合理。",
         "B. 根據這些評分，病人的中風風險超過出血風險；因此，啟動 heparin 抗凝治療是合理的。",
@@ -3615,7 +3615,7 @@ const allChapters = {
     },
     {
       "id": 16,
-      "question": "【臨床案例】J.M. 是一名 68 歲男性，有冠心症（CAD）病史，包括 6 個月前發生 ST 節段上升型心肌梗塞（ST-elevation myocardial infarction, STEMI）並置入兩支藥物塗藥支架（DES）、第 2 型糖尿病、高血壓、血脂異常、胃食道逆流（GERD）、阻塞性睡眠呼吸中止症（OSA）、頻繁流鼻血、缺血性心肌病變（LVEF 30%–35%）以及中度至重度二尖瓣逆流（MR）。他因嚴重呼吸短促及意識狀態改變入住心臟加護病房（CICU），目前使用持續正壓呼吸器（CPAP）。過去 2 週內他體重增加了 13 kg （現體重 121 kg），且儘管調高了利尿劑劑量，尿量仍然減少。居家長期用藥包含： aspirin 81 mg 每日一次（once daily, QD）、 ticagrelor 90 mg Q12H、 pantoprazole 40 mg QD、 atorvastatin 40 mg QD、 insulin glargine 10 units 睡前（at bedtime, QHS）、 metformin 500 mg Q12H、 furosemide 40 mg 每日兩次（twice daily, BID）、potassium chloride 20 mEq BID。其妻子表示他原本服用 clopidogrel，直到 1 個月前因費用考量，基層醫師改給予他 ticagrelor 樣品藥。理學檢查顯示雙肺滿布囉音（rales）。病人無發燒、焦慮且意識清楚。 所有上述檢查皆已開立並獲得以下結果： J.M. 的血壓為 90/56 mm Hg （MAP 67 mm Hg），心率 56 次 / 分。 12 導程 ECG 顯示正常竇性心律，無急性 ST-T 變化。 • 胸部 X 光顯示瀰漫性斑片狀陰影，管路位置適當。 • 生化檢查： Na 126 mEq/L, K 4.8 mEq/L, Cl 102 mEq/L, CO₂ 21 mEq/L, 血中尿素氮（blood urea nitrogen, BUN） 32 mg/dL, 血清肌酸酐（serum creatinine, SCr） 1.6 mg/dL, 血糖 134 mg/dL。 • CBC： 白血球計數（white blood cell count, WBC） 9.8 × 10³ cells/mm³, Hb 11.1 g/dL, Hct 32.6%, PLT 173,000/mm³。 • 其他： Troponin 0.9 ng/mL, AST 114 IU/L, ALT 102 IU/L, BNP 1936 pg/mL。 • 侵入性血流動力學： 中央靜脈壓（central venous pressure, CVP） 28 mm Hg, PAP 46/22 mm Hg, 心臟指數（cardiac index, CI） 1.8 L/min/m², ScvO₂ 53%。 • 動脈血液氣體分析（arterial blood gas, ABG）： pH 7.36, PO₂ 93.7, PCO₂ 43.2, HCO₃ 23.9, SaO₂ 89%, 乳酸 6.9 mmol/L。理學檢查顯示四肢冰冷且微血管充填時間（capillary refill）差。團隊已給予 furosemide 80 mg 靜脈給藥（intravenous, IV）一次，並希望啟動升壓劑或強心劑。 自第 5 題後進行適當介入，病人未需要心臟節律器。在接下來 48 小時內， J.M. 持續接受強心劑治療並進行利尿（過去 2 天淨體液平衡分別為負 1250 mL 及負 900 mL）。經胸前心臟超音波（TTE）顯示 左心室射出分率（left ventricular ejection fraction, LVEF） 15%– 20%，左心室擴大且低動能，重度二尖瓣逆流，雙心房擴大。未見心內血栓，但無法完全排除。 J.M. 在心電監測上出現越來越多的心房早期收縮（PAC），心率維持在 83–96 次 / 分。他正接受 dobutamine 5 mcg/kg/min 及 furosemide 10 mg/h 持續輸注。團隊接獲通報 J.M. 發生突發性心房顫動伴快速心室反應（AF with RVR），心率 132 次 / 分（發生約 30 分鐘）。其血壓現為 83/52 mm Hg。 J.M. 已脫離心房顫動，但仍處於心因性休克狀態。 CICU 團隊已照會心臟外科醫師評估其二尖瓣病變並考慮晚期心臟衰竭進階療法。以其目前的去代償狀態，若要接受手術需進一步最佳化。\n\n下列哪種暫時性機械性循環輔助（MCS）在中重度二尖瓣逆流合併心因性休克的情境中最為有利？",
+      "question": "J.M. 是一名 68 歲男性，有冠心症（CAD）病史，包括 6 個月前發生 ST 節段上升型心肌梗塞（ST-elevation myocardial infarction, STEMI）並置入兩支藥物塗藥支架（DES）、第 2 型糖尿病、高血壓、血脂異常、胃食道逆流（GERD）、阻塞性睡眠呼吸中止症（OSA）、頻繁流鼻血、缺血性心肌病變（LVEF 30%–35%）以及中度至重度二尖瓣逆流（MR）。他因嚴重呼吸短促及意識狀態改變入住心臟加護病房（CICU），目前使用持續正壓呼吸器（CPAP）。過去 2 週內他體重增加了 13 kg （現體重 121 kg），且儘管調高了利尿劑劑量，尿量仍然減少。居家長期用藥包含： aspirin 81 mg 每日一次（once daily, QD）、 ticagrelor 90 mg Q12H、 pantoprazole 40 mg QD、 atorvastatin 40 mg QD、 insulin glargine 10 units 睡前（at bedtime, QHS）、 metformin 500 mg Q12H、 furosemide 40 mg 每日兩次（twice daily, BID）、potassium chloride 20 mEq BID。其妻子表示他原本服用 clopidogrel，直到 1 個月前因費用考量，基層醫師改給予他 ticagrelor 樣品藥。理學檢查顯示雙肺滿布囉音（rales）。病人無發燒、焦慮且意識清楚。 所有上述檢查皆已開立並獲得以下結果： J.M. 的血壓為 90/56 mm Hg （MAP 67 mm Hg），心率 56 次 / 分。 12 導程 ECG 顯示正常竇性心律，無急性 ST-T 變化。 • 胸部 X 光顯示瀰漫性斑片狀陰影，管路位置適當。 • 生化檢查： Na 126 mEq/L, K 4.8 mEq/L, Cl 102 mEq/L, CO₂ 21 mEq/L, 血中尿素氮（blood urea nitrogen, BUN） 32 mg/dL, 血清肌酸酐（serum creatinine, SCr） 1.6 mg/dL, 血糖 134 mg/dL。 • CBC： 白血球計數（white blood cell count, WBC） 9.8 × 10³ cells/mm³, Hb 11.1 g/dL, Hct 32.6%, PLT 173,000/mm³。 • 其他： Troponin 0.9 ng/mL, AST 114 IU/L, ALT 102 IU/L, BNP 1936 pg/mL。 • 侵入性血流動力學： 中央靜脈壓（central venous pressure, CVP） 28 mm Hg, PAP 46/22 mm Hg, 心臟指數（cardiac index, CI） 1.8 L/min/m², ScvO₂ 53%。 • 動脈血液氣體分析（arterial blood gas, ABG）： pH 7.36, PO₂ 93.7, PCO₂ 43.2, HCO₃ 23.9, SaO₂ 89%, 乳酸 6.9 mmol/L。理學檢查顯示四肢冰冷且微血管充填時間（capillary refill）差。團隊已給予 furosemide 80 mg 靜脈給藥（intravenous, IV）一次，並希望啟動升壓劑或強心劑。 自第 5 題後進行適當介入，病人未需要心臟節律器。在接下來 48 小時內， J.M. 持續接受強心劑治療並進行利尿（過去 2 天淨體液平衡分別為負 1250 mL 及負 900 mL）。經胸前心臟超音波（TTE）顯示 左心室射出分率（left ventricular ejection fraction, LVEF） 15%– 20%，左心室擴大且低動能，重度二尖瓣逆流，雙心房擴大。未見心內血栓，但無法完全排除。 J.M. 在心電監測上出現越來越多的心房早期收縮（PAC），心率維持在 83–96 次 / 分。他正接受 dobutamine 5 mcg/kg/min 及 furosemide 10 mg/h 持續輸注。團隊接獲通報 J.M. 發生突發性心房顫動伴快速心室反應（AF with RVR），心率 132 次 / 分（發生約 30 分鐘）。其血壓現為 83/52 mm Hg。 J.M. 已脫離心房顫動，但仍處於心因性休克狀態。 CICU 團隊已照會心臟外科醫師評估其二尖瓣病變並考慮晚期心臟衰竭進階療法。以其目前的去代償狀態，若要接受手術需進一步最佳化。\n\n下列哪種暫時性機械性循環輔助（MCS）在中重度二尖瓣逆流合併心因性休克的情境中最為有利？",
       "options": [
         "A. 靜脈 - 動脈體外膜氧合（VA-ECMO）",
         "B. 靜脈 - 靜脈體外膜氧合（VV-ECMO）",
@@ -3636,7 +3636,7 @@ const allChapters = {
   "12": [
     {
       "id": 1,
-      "question": "【臨床案例】T.B. 是一名 62 歲男性，有心房顫動、冠狀動脈疾病置放塗藥支架（2009 年）、射出分率降低型心臟衰竭（2018 年心臟超音波最近一次 EF 為 45%）及胃食道逆流病史。 T.B. 因疑似急性心肌梗塞被送往心導管室。實驗室數值： 國際標準化比值（international normalized ratio, INR） 1、血小板 200,000/mm³、 Hb 12 g/dL、 血清肌酸酐（serum creatinine, SCr） 1.7 mg/dL （基線 1.5 mg/dL）、 白血球計數（white blood cell count, WBC） 17 × 10³ cells/mm³、 AST 100 IU/L。導管術後轉入冠狀動脈加護病房（CCU）觀察，此時突發意識喪失且摸不到脈搏。您所屬的 CCU 團隊被召喚至床邊。此時 T.B. 置有周邊靜脈管路，在此事件前使用鼻導管吸入室內空氣。\n\n在 T.B. 的急救復甦中，下列哪一項是最適當的第一步？",
+      "question": "T.B. 是一名 62 歲男性，有心房顫動、冠狀動脈疾病置放塗藥支架（2009 年）、射出分率降低型心臟衰竭（2018 年心臟超音波最近一次 EF 為 45%）及胃食道逆流病史。 T.B. 因疑似急性心肌梗塞被送往心導管室。實驗室數值： 國際標準化比值（international normalized ratio, INR） 1、血小板 200,000/mm³、 Hb 12 g/dL、 血清肌酸酐（serum creatinine, SCr） 1.7 mg/dL （基線 1.5 mg/dL）、 白血球計數（white blood cell count, WBC） 17 × 10³ cells/mm³、 AST 100 IU/L。導管術後轉入冠狀動脈加護病房（CCU）觀察，此時突發意識喪失且摸不到脈搏。您所屬的 CCU 團隊被召喚至床邊。此時 T.B. 置有周邊靜脈管路，在此事件前使用鼻導管吸入室內空氣。\n\n在 T.B. 的急救復甦中，下列哪一項是最適當的第一步？",
       "options": [
         "A. 立即進行氣管內插管，因為這很可能是低氧性呼吸衰竭導致的心跳停止。",
         "B. 放置中央靜脈導管以利升壓劑給藥。",
@@ -3655,7 +3655,7 @@ const allChapters = {
     },
     {
       "id": 2,
-      "question": "【臨床案例】T.B. 是一名 62 歲男性，有心房顫動、冠狀動脈疾病置放塗藥支架（2009 年）、射出分率降低型心臟衰竭（2018 年心臟超音波最近一次 EF 為 45%）及胃食道逆流病史。 T.B. 因疑似急性心肌梗塞被送往心導管室。實驗室數值： 國際標準化比值（international normalized ratio, INR） 1、血小板 200,000/mm³、 Hb 12 g/dL、 血清肌酸酐（serum creatinine, SCr） 1.7 mg/dL （基線 1.5 mg/dL）、 白血球計數（white blood cell count, WBC） 17 × 10³ cells/mm³、 AST 100 IU/L。導管術後轉入冠狀動脈加護病房（CCU）觀察，此時突發意識喪失且摸不到脈搏。您所屬的 CCU 團隊被召喚至床邊。此時 T.B. 置有周邊靜脈管路，在此事件前使用鼻導管吸入室內空氣。\n\n心電圖監視器顯示 T.B. 處於心室纖維顫動（ventricular fibrillation, VF），且持續無脈搏。針對 T.B. 的 心室顫動（ventricular fibrillation, VF）心跳停止，下列哪一項處置最適當？",
+      "question": "T.B. 是一名 62 歲男性，有心房顫動、冠狀動脈疾病置放塗藥支架（2009 年）、射出分率降低型心臟衰竭（2018 年心臟超音波最近一次 EF 為 45%）及胃食道逆流病史。 T.B. 因疑似急性心肌梗塞被送往心導管室。實驗室數值： 國際標準化比值（international normalized ratio, INR） 1、血小板 200,000/mm³、 Hb 12 g/dL、 血清肌酸酐（serum creatinine, SCr） 1.7 mg/dL （基線 1.5 mg/dL）、 白血球計數（white blood cell count, WBC） 17 × 10³ cells/mm³、 AST 100 IU/L。導管術後轉入冠狀動脈加護病房（CCU）觀察，此時突發意識喪失且摸不到脈搏。您所屬的 CCU 團隊被召喚至床邊。此時 T.B. 置有周邊靜脈管路，在此事件前使用鼻導管吸入室內空氣。\n\n心電圖監視器顯示 T.B. 處於心室纖維顫動（ventricular fibrillation, VF），且持續無脈搏。針對 T.B. 的 心室顫動（ventricular fibrillation, VF）心跳停止，下列哪一項處置最適當？",
       "options": [
         "A. 使用雙相型除顫器給予非同步電擊／除顫（unsynchronized shock/defibrillation） 120–200 J。",
         "B. 給予靜脈注射 amiodarone 300 mg。",
@@ -3674,7 +3674,7 @@ const allChapters = {
     },
     {
       "id": 3,
-      "question": "【臨床案例】T.B. 是一名 62 歲男性，有心房顫動、冠狀動脈疾病置放塗藥支架（2009 年）、射出分率降低型心臟衰竭（2018 年心臟超音波最近一次 EF 為 45%）及胃食道逆流病史。 T.B. 因疑似急性心肌梗塞被送往心導管室。實驗室數值： 國際標準化比值（international normalized ratio, INR） 1、血小板 200,000/mm³、 Hb 12 g/dL、 血清肌酸酐（serum creatinine, SCr） 1.7 mg/dL （基線 1.5 mg/dL）、 白血球計數（white blood cell count, WBC） 17 × 10³ cells/mm³、 AST 100 IU/L。導管術後轉入冠狀動脈加護病房（CCU）觀察，此時突發意識喪失且摸不到脈搏。您所屬的 CCU 團隊被召喚至床邊。此時 T.B. 置有周邊靜脈管路，在此事件前使用鼻導管吸入室內空氣。\n\n監視器上 T.B. 的心律由 心室顫動（ventricular fibrillation, VF）轉變為無脈搏電氣活動（PEA）。針對 T.B. 的 PEA 心跳停止，下列何種處置最適當？",
+      "question": "T.B. 是一名 62 歲男性，有心房顫動、冠狀動脈疾病置放塗藥支架（2009 年）、射出分率降低型心臟衰竭（2018 年心臟超音波最近一次 EF 為 45%）及胃食道逆流病史。 T.B. 因疑似急性心肌梗塞被送往心導管室。實驗室數值： 國際標準化比值（international normalized ratio, INR） 1、血小板 200,000/mm³、 Hb 12 g/dL、 血清肌酸酐（serum creatinine, SCr） 1.7 mg/dL （基線 1.5 mg/dL）、 白血球計數（white blood cell count, WBC） 17 × 10³ cells/mm³、 AST 100 IU/L。導管術後轉入冠狀動脈加護病房（CCU）觀察，此時突發意識喪失且摸不到脈搏。您所屬的 CCU 團隊被召喚至床邊。此時 T.B. 置有周邊靜脈管路，在此事件前使用鼻導管吸入室內空氣。\n\n監視器上 T.B. 的心律由 心室顫動（ventricular fibrillation, VF）轉變為無脈搏電氣活動（PEA）。針對 T.B. 的 PEA 心跳停止，下列何種處置最適當？",
       "options": [
         "A. 使用雙相除顫器給予 120 J 非同步電擊除顫。",
         "B. 持續高品質胸外按壓，同時評估並處理可逆的心跳停止潛在原因（5H5T）。",
@@ -3693,7 +3693,7 @@ const allChapters = {
     },
     {
       "id": 4,
-      "question": "【臨床案例】T.B. 是一名 62 歲男性，有心房顫動、冠狀動脈疾病置放塗藥支架（2009 年）、射出分率降低型心臟衰竭（2018 年心臟超音波最近一次 EF 為 45%）及胃食道逆流病史。 T.B. 因疑似急性心肌梗塞被送往心導管室。實驗室數值： 國際標準化比值（international normalized ratio, INR） 1、血小板 200,000/mm³、 Hb 12 g/dL、 血清肌酸酐（serum creatinine, SCr） 1.7 mg/dL （基線 1.5 mg/dL）、 白血球計數（white blood cell count, WBC） 17 × 10³ cells/mm³、 AST 100 IU/L。導管術後轉入冠狀動脈加護病房（CCU）觀察，此時突發意識喪失且摸不到脈搏。您所屬的 CCU 團隊被召喚至床邊。此時 T.B. 置有周邊靜脈管路，在此事件前使用鼻導管吸入室內空氣。\n\n在歷經 15 分鐘的總急救復甦後， T.B. 恢復自發性循環（ROSC）。醫療團隊正討論是否對 T.B. 實施目標體溫管理（TTM / temperature control）。關於 T.B. 的體溫控制，下列哪一項敘述最為準確？",
+      "question": "T.B. 是一名 62 歲男性，有心房顫動、冠狀動脈疾病置放塗藥支架（2009 年）、射出分率降低型心臟衰竭（2018 年心臟超音波最近一次 EF 為 45%）及胃食道逆流病史。 T.B. 因疑似急性心肌梗塞被送往心導管室。實驗室數值： 國際標準化比值（international normalized ratio, INR） 1、血小板 200,000/mm³、 Hb 12 g/dL、 血清肌酸酐（serum creatinine, SCr） 1.7 mg/dL （基線 1.5 mg/dL）、 白血球計數（white blood cell count, WBC） 17 × 10³ cells/mm³、 AST 100 IU/L。導管術後轉入冠狀動脈加護病房（CCU）觀察，此時突發意識喪失且摸不到脈搏。您所屬的 CCU 團隊被召喚至床邊。此時 T.B. 置有周邊靜脈管路，在此事件前使用鼻導管吸入室內空氣。\n\n在歷經 15 分鐘的總急救復甦後， T.B. 恢復自發性循環（ROSC）。醫療團隊正討論是否對 T.B. 實施目標體溫管理（TTM / temperature control）。關於 T.B. 的體溫控制，下列哪一項敘述最為準確？",
       "options": [
         "A. 不應考慮，因為其初始表現為 心室顫動（ventricular fibrillation, VF）心跳停止。",
         "B. 不應考慮，因為他有轉氨酶升高（transaminitis）。",
@@ -3712,7 +3712,7 @@ const allChapters = {
     },
     {
       "id": 5,
-      "question": "【臨床案例】T.B. 是一名 62 歲男性，有心房顫動、冠狀動脈疾病置放塗藥支架（2009 年）、射出分率降低型心臟衰竭（2018 年心臟超音波最近一次 EF 為 45%）及胃食道逆流病史。 T.B. 因疑似急性心肌梗塞被送往心導管室。實驗室數值： 國際標準化比值（international normalized ratio, INR） 1、血小板 200,000/mm³、 Hb 12 g/dL、 血清肌酸酐（serum creatinine, SCr） 1.7 mg/dL （基線 1.5 mg/dL）、 白血球計數（white blood cell count, WBC） 17 × 10³ cells/mm³、 AST 100 IU/L。導管術後轉入冠狀動脈加護病房（CCU）觀察，此時突發意識喪失且摸不到脈搏。您所屬的 CCU 團隊被召喚至床邊。此時 T.B. 置有周邊靜脈管路，在此事件前使用鼻導管吸入室內空氣。\n\n醫療團隊希望進一步了解支持目標體溫管理的相關實證文獻。關於支持體溫控制的數據，下列哪一項資訊最適當？",
+      "question": "T.B. 是一名 62 歲男性，有心房顫動、冠狀動脈疾病置放塗藥支架（2009 年）、射出分率降低型心臟衰竭（2018 年心臟超音波最近一次 EF 為 45%）及胃食道逆流病史。 T.B. 因疑似急性心肌梗塞被送往心導管室。實驗室數值： 國際標準化比值（international normalized ratio, INR） 1、血小板 200,000/mm³、 Hb 12 g/dL、 血清肌酸酐（serum creatinine, SCr） 1.7 mg/dL （基線 1.5 mg/dL）、 白血球計數（white blood cell count, WBC） 17 × 10³ cells/mm³、 AST 100 IU/L。導管術後轉入冠狀動脈加護病房（CCU）觀察，此時突發意識喪失且摸不到脈搏。您所屬的 CCU 團隊被召喚至床邊。此時 T.B. 置有周邊靜脈管路，在此事件前使用鼻導管吸入室內空氣。\n\n醫療團隊希望進一步了解支持目標體溫管理的相關實證文獻。關於支持體溫控制的數據，下列哪一項資訊最適當？",
       "options": [
         "A. 已證實可改善 PEA 心跳停止病人的整體存活率。",
         "B. 已證實可改善神經學預後（neurologic outcomes）。",
@@ -3731,7 +3731,7 @@ const allChapters = {
     },
     {
       "id": 6,
-      "question": "【臨床案例】J.H. 是一名 48 歲女性，無已知病史，因突發呼吸短促、右側疼痛及視力模糊就診急診。她否認非法藥物或吸菸史，確認有社交性飲酒（約每週 3 杯）。尿液毒物篩檢陰性。初始生命徵象：血壓 202/140 mm Hg、心率 88 次 / 分、呼吸 22 次 / 分、胸部與右側疼痛評分 4/10。初始實驗室數值： 血清肌酸酐（serum creatinine, SCr） 0.8 mg/dL、 AST 608 U/L、 ALT 458 U/L、 lipase 20 U/L、總膽紅素 1.0 mg/dL、直接膽紅素 0.4 mg/dL、 白血球計數（white blood cell count, WBC） 6 × 10³ cells/mm³、 Hb 11 g/dL、 Troponin T < 0.01 ng/mL、 D-dimer < 0.5 mcg/mL。胸部 X 光顯示中度雙側肋膜積水，無局部實質化病灶。胸部 CT 排除肺栓塞。病人目前未服用任何處方藥或成藥。\n\n下列哪一項實驗室異常或就診症狀最能使 J.H. 被判定為高血壓急症（hypertensive emergency）？",
+      "question": "J.H. 是一名 48 歲女性，無已知病史，因突發呼吸短促、右側疼痛及視力模糊就診急診。她否認非法藥物或吸菸史，確認有社交性飲酒（約每週 3 杯）。尿液毒物篩檢陰性。初始生命徵象：血壓 202/140 mm Hg、心率 88 次 / 分、呼吸 22 次 / 分、胸部與右側疼痛評分 4/10。初始實驗室數值： 血清肌酸酐（serum creatinine, SCr） 0.8 mg/dL、 AST 608 U/L、 ALT 458 U/L、 lipase 20 U/L、總膽紅素 1.0 mg/dL、直接膽紅素 0.4 mg/dL、 白血球計數（white blood cell count, WBC） 6 × 10³ cells/mm³、 Hb 11 g/dL、 Troponin T < 0.01 ng/mL、 D-dimer < 0.5 mcg/mL。胸部 X 光顯示中度雙側肋膜積水，無局部實質化病灶。胸部 CT 排除肺栓塞。病人目前未服用任何處方藥或成藥。\n\n下列哪一項實驗室異常或就診症狀最能使 J.H. 被判定為高血壓急症（hypertensive emergency）？",
       "options": [
         "A. 無；她屬於單純高血壓急迫症（hypertensive urgency）。",
         "B. 她的血清肌酸酐（serum creatinine, SCr）。",
@@ -3750,7 +3750,7 @@ const allChapters = {
     },
     {
       "id": 7,
-      "question": "【臨床案例】J.H. 是一名 48 歲女性，無已知病史，因突發呼吸短促、右側疼痛及視力模糊就診急診。她否認非法藥物或吸菸史，確認有社交性飲酒（約每週 3 杯）。尿液毒物篩檢陰性。初始生命徵象：血壓 202/140 mm Hg、心率 88 次 / 分、呼吸 22 次 / 分、胸部與右側疼痛評分 4/10。初始實驗室數值： 血清肌酸酐（serum creatinine, SCr） 0.8 mg/dL、 AST 608 U/L、 ALT 458 U/L、 lipase 20 U/L、總膽紅素 1.0 mg/dL、直接膽紅素 0.4 mg/dL、 白血球計數（white blood cell count, WBC） 6 × 10³ cells/mm³、 Hb 11 g/dL、 Troponin T < 0.01 ng/mL、 D-dimer < 0.5 mcg/mL。胸部 X 光顯示中度雙側肋膜積水，無局部實質化病灶。胸部 CT 排除肺栓塞。病人目前未服用任何處方藥或成藥。\n\n針對 J.H. 的血壓控制，下列哪一項為最適當的初始治療策略？",
+      "question": "J.H. 是一名 48 歲女性，無已知病史，因突發呼吸短促、右側疼痛及視力模糊就診急診。她否認非法藥物或吸菸史，確認有社交性飲酒（約每週 3 杯）。尿液毒物篩檢陰性。初始生命徵象：血壓 202/140 mm Hg、心率 88 次 / 分、呼吸 22 次 / 分、胸部與右側疼痛評分 4/10。初始實驗室數值： 血清肌酸酐（serum creatinine, SCr） 0.8 mg/dL、 AST 608 U/L、 ALT 458 U/L、 lipase 20 U/L、總膽紅素 1.0 mg/dL、直接膽紅素 0.4 mg/dL、 白血球計數（white blood cell count, WBC） 6 × 10³ cells/mm³、 Hb 11 g/dL、 Troponin T < 0.01 ng/mL、 D-dimer < 0.5 mcg/mL。胸部 X 光顯示中度雙側肋膜積水，無局部實質化病灶。胸部 CT 排除肺栓塞。病人目前未服用任何處方藥或成藥。\n\n針對 J.H. 的血壓控制，下列哪一項為最適當的初始治療策略？",
       "options": [
         "A. Phentolamine 1 mg 靜脈推注每 30 分鐘一次。",
         "B. metoprolol 25 mg 口服每 12 小時一次。",
@@ -3769,7 +3769,7 @@ const allChapters = {
     },
     {
       "id": 8,
-      "question": "【臨床案例】J.H. 是一名 48 歲女性，無已知病史，因突發呼吸短促、右側疼痛及視力模糊就診急診。她否認非法藥物或吸菸史，確認有社交性飲酒（約每週 3 杯）。尿液毒物篩檢陰性。初始生命徵象：血壓 202/140 mm Hg、心率 88 次 / 分、呼吸 22 次 / 分、胸部與右側疼痛評分 4/10。初始實驗室數值： 血清肌酸酐（serum creatinine, SCr） 0.8 mg/dL、 AST 608 U/L、 ALT 458 U/L、 lipase 20 U/L、總膽紅素 1.0 mg/dL、直接膽紅素 0.4 mg/dL、 白血球計數（white blood cell count, WBC） 6 × 10³ cells/mm³、 Hb 11 g/dL、 Troponin T < 0.01 ng/mL、 D-dimer < 0.5 mcg/mL。胸部 X 光顯示中度雙側肋膜積水，無局部實質化病灶。胸部 CT 排除肺栓塞。病人目前未服用任何處方藥或成藥。\n\n針對 J.H. 的血壓降幅目標，下列何者最適當？",
+      "question": "J.H. 是一名 48 歲女性，無已知病史，因突發呼吸短促、右側疼痛及視力模糊就診急診。她否認非法藥物或吸菸史，確認有社交性飲酒（約每週 3 杯）。尿液毒物篩檢陰性。初始生命徵象：血壓 202/140 mm Hg、心率 88 次 / 分、呼吸 22 次 / 分、胸部與右側疼痛評分 4/10。初始實驗室數值： 血清肌酸酐（serum creatinine, SCr） 0.8 mg/dL、 AST 608 U/L、 ALT 458 U/L、 lipase 20 U/L、總膽紅素 1.0 mg/dL、直接膽紅素 0.4 mg/dL、 白血球計數（white blood cell count, WBC） 6 × 10³ cells/mm³、 Hb 11 g/dL、 Troponin T < 0.01 ng/mL、 D-dimer < 0.5 mcg/mL。胸部 X 光顯示中度雙側肋膜積水，無局部實質化病灶。胸部 CT 排除肺栓塞。病人目前未服用任何處方藥或成藥。\n\n針對 J.H. 的血壓降幅目標，下列何者最適當？",
       "options": [
         "A. 在前 60 分鐘內將平均動脈壓（mean arterial pressure, MAP）降低至多 25%。",
         "B. 在前 60 分鐘內將 平均動脈壓（mean arterial pressure, MAP）降低 50%。",
@@ -3788,7 +3788,7 @@ const allChapters = {
     },
     {
       "id": 9,
-      "question": "【臨床案例】A.C. 是一名 50 歲男性，有胃食道逆流及慢性阻塞性肺病（chronic obstructive pulmonary disease, COPD）病史，因呼吸短促、心悸及疑似肺部疾病急性發作入院。在住院第 4 天， A.C. 在家庭醫學科病房突發目擊心跳停止。您所屬的緊急應變團隊接獲通報並抵達現場，此時床邊護理師已開始進行胸外按壓。\n\n下列關於胸外按壓的觀念何者最適當？",
+      "question": "A.C. 是一名 50 歲男性，有胃食道逆流及慢性阻塞性肺病（chronic obstructive pulmonary disease, COPD）病史，因呼吸短促、心悸及疑似肺部疾病急性發作入院。在住院第 4 天， A.C. 在家庭醫學科病房突發目擊心跳停止。您所屬的緊急應變團隊接獲通報並抵達現場，此時床邊護理師已開始進行胸外按壓。\n\n下列關於胸外按壓的觀念何者最適當？",
       "options": [
         "A. 應每 5 分鐘輪換一次施救者以確保按壓持續。",
         "B. 胸外按壓能提高胸內壓並直接擠壓心臟，為重要器官提供氧氣輸送。",
@@ -3807,7 +3807,7 @@ const allChapters = {
     },
     {
       "id": 10,
-      "question": "【臨床案例】L.S. 是一名 66 歲女性，在安寧病房探視其丈夫。她在醫院餐廳排隊結帳時突然倒地。您所屬的緊急應變小組接獲召喚抵達現場。 L.S. 對聲音呼叫及拍打肩膀皆無反應，無呼吸且無頸動脈搏動。\n\n團隊準備使用甦醒球面罩（bag-mask）進行正壓通氣。下列哪一項敘述最為準確？",
+      "question": "L.S. 是一名 66 歲女性，在安寧病房探視其丈夫。她在醫院餐廳排隊結帳時突然倒地。您所屬的緊急應變小組接獲召喚抵達現場。 L.S. 對聲音呼叫及拍打肩膀皆無反應，無呼吸且無頸動脈搏動。\n\n團隊準備使用甦醒球面罩（bag-mask）進行正壓通氣。下列哪一項敘述最為準確？",
       "options": [
         "A. 在高級呼吸道置入前，應以每分鐘 20 次的頻率進行過度換氣以快速糾正缺氧。",
         "B. 單人施救者使用甦醒球面罩的效果與雙人施救者相當。",
@@ -3826,7 +3826,7 @@ const allChapters = {
     },
     {
       "id": 11,
-      "question": "【臨床案例】T.V. 是一名 62 歲男性，有慢性肝病、低血糖及心房顫動病史。 2 天前因敗血症入住內科加護病房（medical intensive care unit, MICU），經積極輸液復甦與靜脈抗生素治療，未需使用升壓劑。在 加護病房（intensive care unit, ICU）第 3 天，監視器顯示 T.V. 出現心室纖維顫動（ventricular fibrillation, VF），隨即失去意識且摸不到脈搏。 內科加護病房（medical intensive care unit, MICU）團隊立即展開急救並貼上除顫貼片。\n\n關於除顫貼片（defibrillator pads）的擺放位置與電擊注意事項，下列何者最適當？",
+      "question": "T.V. 是一名 62 歲男性，有慢性肝病、低血糖及心房顫動病史。 2 天前因敗血症入住內科加護病房（medical intensive care unit, MICU），經積極輸液復甦與靜脈抗生素治療，未需使用升壓劑。在 加護病房（intensive care unit, ICU）第 3 天，監視器顯示 T.V. 出現心室纖維顫動（ventricular fibrillation, VF），隨即失去意識且摸不到脈搏。 內科加護病房（medical intensive care unit, MICU）團隊立即展開急救並貼上除顫貼片。\n\n關於除顫貼片（defibrillator pads）的擺放位置與電擊注意事項，下列何者最適當？",
       "options": [
         "A. 前外側（anterolateral）或前後側（anteroposterior）貼片擺放位置終止心室性心律不整的效果相當。",
         "B. 若病人胸前有經皮藥物貼片，可直接將除顫電極片貼在藥物貼片上方進行電擊。",
@@ -3845,7 +3845,7 @@ const allChapters = {
     },
     {
       "id": 12,
-      "question": "【臨床案例】F.V. 是一名 63 歲女性，有糖尿病、 HFpEF、高血壓及 OSA 病史，因胸悶與不適就診急診。在急診突發意識喪失並呈現無脈搏心室頻脈（pVT）。團隊立即進行胸外按壓、貼上貼片並以 30:2 進行甦醒球通氣。電擊一次後恢復按壓，在下一次脈搏檢查時完成氣管內管插管。 F.V. 仍無脈搏，按壓持續進行。\n\n關於 F.V. 在置入進階呼吸道（advanced airway）後的急救復甦，下列哪一項敘述最為準確？",
+      "question": "F.V. 是一名 63 歲女性，有糖尿病、 HFpEF、高血壓及 OSA 病史，因胸悶與不適就診急診。在急診突發意識喪失並呈現無脈搏心室頻脈（pVT）。團隊立即進行胸外按壓、貼上貼片並以 30:2 進行甦醒球通氣。電擊一次後恢復按壓，在下一次脈搏檢查時完成氣管內管插管。 F.V. 仍無脈搏，按壓持續進行。\n\n關於 F.V. 在置入進階呼吸道（advanced airway）後的急救復甦，下列哪一項敘述最為準確？",
       "options": [
         "A. 按壓與通氣比率應維持 30:2 以避免過度通氣。",
         "B. 進階呼吸道應在電擊去顫與 CPR 之前優先建立。",
@@ -3864,7 +3864,7 @@ const allChapters = {
     },
     {
       "id": 13,
-      "question": "【臨床案例】V.B. 是一名 62 歲男性，病史不詳，因意識不清且語無倫次來到急診。在急診觀察期間突發意識喪失且無脈搏。急診同仁立即啟動 CPR，心律分析顯示為 PEA。\n\n下列哪一項敘述最能準確描述適當的心跳停止處置？",
+      "question": "V.B. 是一名 62 歲男性，病史不詳，因意識不清且語無倫次來到急診。在急診觀察期間突發意識喪失且無脈搏。急診同仁立即啟動 CPR，心律分析顯示為 PEA。\n\n下列哪一項敘述最能準確描述適當的心跳停止處置？",
       "options": [
         "A. PEA 的存活率完全取決於藥物與進階呼吸道，因此插管與管路建立優先於 CPR。",
         "B. 應在持續進行 CPR 及送檢實驗室檢查的同時，系統性回顧並迅速處理 PEA 心跳停止的可逆原因（5H5T）。",
@@ -3883,7 +3883,7 @@ const allChapters = {
     },
     {
       "id": 14,
-      "question": "【臨床案例】M.G. 是一名 58 歲女性，有慢性退化性關節炎及消化性潰瘍病史，因疑似胃潰瘍出血導致低血容休克入住 內科加護病房（medical intensive care unit, MICU）。胃鏡完成潰瘍電燒止血後情況穩定。在 加護病房（intensive care unit, ICU）第 2 天， M.G. 突發嗜睡、缺氧並隨後停止心跳。 MICU 團隊趕到床邊，監視器顯示 心室顫動（ventricular fibrillation, VF）。急救依 ACLS 流程進行，病人預計接受 amiodarone。\n\n關於心跳停止中使用抗心律不整藥物，下列何者最適當？",
+      "question": "M.G. 是一名 58 歲女性，有慢性退化性關節炎及消化性潰瘍病史，因疑似胃潰瘍出血導致低血容休克入住 內科加護病房（medical intensive care unit, MICU）。胃鏡完成潰瘍電燒止血後情況穩定。在 加護病房（intensive care unit, ICU）第 2 天， M.G. 突發嗜睡、缺氧並隨後停止心跳。 MICU 團隊趕到床邊，監視器顯示 心室顫動（ventricular fibrillation, VF）。急救依 ACLS 流程進行，病人預計接受 amiodarone。\n\n關於心跳停止中使用抗心律不整藥物，下列何者最適當？",
       "options": [
         "A. 應給予 amiodarone 150 mg 緩慢靜脈輸注超過 10 分鐘。",
         "B. amiodarone 不適用於 心室顫動（ventricular fibrillation, VF）心跳停止， lidocaine 是唯一推薦的藥物。",
@@ -3902,7 +3902,7 @@ const allChapters = {
     },
     {
       "id": 15,
-      "question": "【臨床案例】K.G. 是一名 61 歲女性，有心房顫動、冠心症（6 年前接受三條冠狀動脈繞道手術 CABG）、糖尿病及退化性關節炎病史。因 PEA 心跳停止經急救後成功 ROSC，收治進入 內科加護病房（medical intensive care unit, MICU）接受目標體溫控制（TTM）。 K.G. 在 ROSC 後持續處於昏迷狀態，已接受氣管插管且血流動力學穩定（BP 94/72 mm Hg, HR 86 bpm）。\n\n關於目標體溫控制（temperature control），下列哪一項敘述最為準確？",
+      "question": "K.G. 是一名 61 歲女性，有心房顫動、冠心症（6 年前接受三條冠狀動脈繞道手術 CABG）、糖尿病及退化性關節炎病史。因 PEA 心跳停止經急救後成功 ROSC，收治進入 內科加護病房（medical intensive care unit, MICU）接受目標體溫控制（TTM）。 K.G. 在 ROSC 後持續處於昏迷狀態，已接受氣管插管且血流動力學穩定（BP 94/72 mm Hg, HR 86 bpm）。\n\n關於目標體溫控制（temperature control），下列哪一項敘述最為準確？",
       "options": [
         "A. 低血糖是低溫治療的常見併發症，通常需要持續輸注高濃度葡萄糖。",
         "B. 在低溫治療期間，經細胞色素 P450 （CYP）代謝之藥物清除率顯著下降，應進行劑量調整或避免使用。",
@@ -3921,7 +3921,7 @@ const allChapters = {
     },
     {
       "id": 16,
-      "question": "【臨床案例】B.B. 是一名 44 歲男性，無重大病史，因胸部劇烈「撕裂感（ripping sensation） 」疼痛就診急診。吸菸史每日 1.5 包共 20 年。急診胸部 X 光顯示縱膈腔顯著變寬（mediastinal widening）。心肌酵素正常。實驗室數值： Na 135 mEq/L, K 4.3 mEq/L, HCO₃⁻ 24 mEq/L, 血清肌酸酐（serum creatinine, SCr） 0.55 mg/dL, 血糖 110 mg/dL, DBil 0.2 mg/dL, AST 39 U/L。急診胸部 CT 血管攝影顯示急性 A 型與 B 型主動脈剝離。生命徵象：血壓 208/140 mm Hg、心率 120 次 / 分。\n\n下列哪項處置最適合 B.B.？",
+      "question": "B.B. 是一名 44 歲男性，無重大病史，因胸部劇烈「撕裂感（ripping sensation） 」疼痛就診急診。吸菸史每日 1.5 包共 20 年。急診胸部 X 光顯示縱膈腔顯著變寬（mediastinal widening）。心肌酵素正常。實驗室數值： Na 135 mEq/L, K 4.3 mEq/L, HCO₃⁻ 24 mEq/L, 血清肌酸酐（serum creatinine, SCr） 0.55 mg/dL, 血糖 110 mg/dL, DBil 0.2 mg/dL, AST 39 U/L。急診胸部 CT 血管攝影顯示急性 A 型與 B 型主動脈剝離。生命徵象：血壓 208/140 mm Hg、心率 120 次 / 分。\n\n下列哪項處置最適合 B.B.？",
       "options": [
         "A. 使用 esmolol 在前 60 分鐘內達到 平均動脈壓（mean arterial pressure, MAP）降低 25% 的目標。",
         "B. 使用 lisinopril 加上 hydrochlorothiazide 在前 24 小時內將血壓降至 160/100 mm Hg。",
@@ -3942,7 +3942,7 @@ const allChapters = {
   "13": [
     {
       "id": 1,
-      "question": "【臨床案例】一名 25 歲女性因疑似 acetaminophen 過量被送至急診室。服藥時間不詳。就診時測不到血中 acetaminophen 濃度，但其 ALT 與 AST 濃度分別高達 3500 IU/L 與 2500 IU/L。病人明顯意識混亂、言語無條理，但可被叫醒。其他重要實驗室數值包括總膽紅素 3.0 mg/dL、鹼性磷酸酶（Alk Phos） 500 IU/L、 白血球計數（white blood cell count, WBC） 12 × 10³ cells/mm³、血小板 90,000/mm³、國際標準化比值（international normalized ratio, INR） 2.6。\n\n下列哪一個選項最能代表使該病人符合 acetaminophen 引起之急性肝衰竭（ALF）診斷的兩項核心徵象或症狀？",
+      "question": "一名 25 歲女性因疑似 acetaminophen 過量被送至急診室。服藥時間不詳。就診時測不到血中 acetaminophen 濃度，但其 ALT 與 AST 濃度分別高達 3500 IU/L 與 2500 IU/L。病人明顯意識混亂、言語無條理，但可被叫醒。其他重要實驗室數值包括總膽紅素 3.0 mg/dL、鹼性磷酸酶（Alk Phos） 500 IU/L、 白血球計數（white blood cell count, WBC） 12 × 10³ cells/mm³、血小板 90,000/mm³、國際標準化比值（international normalized ratio, INR） 2.6。\n\n下列哪一個選項最能代表使該病人符合 acetaminophen 引起之急性肝衰竭（ALF）診斷的兩項核心徵象或症狀？",
       "options": [
         "A. 黃疸（Jaundice）與肝性腦病變（Encephalopathy）。",
         "B. 血小板低下（Thrombocytopenia）與肝性腦病變。",
@@ -3961,7 +3961,7 @@ const allChapters = {
     },
     {
       "id": 2,
-      "question": "【臨床案例】一名 25 歲女性因疑似 acetaminophen 過量被送至急診室。服藥時間不詳。就診時測不到血中 acetaminophen 濃度，但其 ALT 與 AST 濃度分別高達 3500 IU/L 與 2500 IU/L。病人明顯意識混亂、言語無條理，但可被叫醒。其他重要實驗室數值包括總膽紅素 3.0 mg/dL、鹼性磷酸酶（Alk Phos） 500 IU/L、 白血球計數（white blood cell count, WBC） 12 × 10³ cells/mm³、血小板 90,000/mm³、國際標準化比值（international normalized ratio, INR） 2.6。\n\n針對其疑似 acetaminophen 引起之 ALF，下列哪一項處置最適當？",
+      "question": "一名 25 歲女性因疑似 acetaminophen 過量被送至急診室。服藥時間不詳。就診時測不到血中 acetaminophen 濃度，但其 ALT 與 AST 濃度分別高達 3500 IU/L 與 2500 IU/L。病人明顯意識混亂、言語無條理，但可被叫醒。其他重要實驗室數值包括總膽紅素 3.0 mg/dL、鹼性磷酸酶（Alk Phos） 500 IU/L、 白血球計數（white blood cell count, WBC） 12 × 10³ cells/mm³、血小板 90,000/mm³、國際標準化比值（international normalized ratio, INR） 2.6。\n\n針對其疑似 acetaminophen 引起之 ALF，下列哪一項處置最適當？",
       "options": [
         "A. 給予靜脈注射 acetylcysteine 21 小時療程，若有必要應持續給藥直至 ALF 徵象與症狀緩解。",
         "B. 此時不需 acetylcysteine 治療，因其血中 acetaminophen 濃度已測不到。",
@@ -3980,7 +3980,7 @@ const allChapters = {
     },
     {
       "id": 3,
-      "question": "【臨床案例】一名 46 歲男性因酒精性嚴重急性胰臟炎（AP）入院。相關病史包括酒精性肝硬化，並曾多次因肝性腦病變併發吸入性肺炎入院。入院後先以乳酸林格氏液（LR）進行初始靜脈輸液復甦。\n\n針對該病人的營養支持，下列哪項處置最佳？",
+      "question": "一名 46 歲男性因酒精性嚴重急性胰臟炎（AP）入院。相關病史包括酒精性肝硬化，並曾多次因肝性腦病變併發吸入性肺炎入院。入院後先以乳酸林格氏液（LR）進行初始靜脈輸液復甦。\n\n針對該病人的營養支持，下列哪項處置最佳？",
       "options": [
         "A. 維持禁食（NPO）讓胰臟充分休息，直到急性胰臟炎完全緩解。",
         "B. 啟動全靜脈營養（TPN）。",
@@ -3999,7 +3999,7 @@ const allChapters = {
     },
     {
       "id": 4,
-      "question": "【臨床案例】一名 37 歲女性因病態性肥胖接受胃繞道手術（Roux-en-Y）。術後併發腸皮瘻管（enterocutaneous fistula）、發燒與白血球增多。已啟動廣效抗生素並於瘻管處放置傷口負壓輔助癒合系統（wound VAC）。昨日瘻管引流量為 570 mL/day，今日為 250 mL/day。\n\n關於這兩次紀錄間的瘻管引流量變化，下列敘述何者最為準確？",
+      "question": "一名 37 歲女性因病態性肥胖接受胃繞道手術（Roux-en-Y）。術後併發腸皮瘻管（enterocutaneous fistula）、發燒與白血球增多。已啟動廣效抗生素並於瘻管處放置傷口負壓輔助癒合系統（wound VAC）。昨日瘻管引流量為 570 mL/day，今日為 250 mL/day。\n\n關於這兩次紀錄間的瘻管引流量變化，下列敘述何者最為準確？",
       "options": [
         "A. 兩天的引流量皆屬於低排量（low output）。",
         "B. 其引流量定義為由高排量轉變為低排量。",
@@ -4018,7 +4018,7 @@ const allChapters = {
     },
     {
       "id": 5,
-      "question": "【臨床案例】一名 68 歲男性預計接受大腸切除術。考量該術式併發術後腸阻塞（POI）的機率極高，術前給予 alvimopan。為降低 alvimopan 相關之心血管風險，美國 美國食品藥物管理局（Food and Drug Administration, FDA）透過 EASE 計畫限制其使用規範。\n\n下列何者最能代表該項使用限制？",
+      "question": "一名 68 歲男性預計接受大腸切除術。考量該術式併發術後腸阻塞（POI）的機率極高，術前給予 alvimopan。為降低 alvimopan 相關之心血管風險，美國 美國食品藥物管理局（Food and Drug Administration, FDA）透過 EASE 計畫限制其使用規範。\n\n下列何者最能代表該項使用限制？",
       "options": [
         "A. 啟動用藥時需進行持續心電圖監測，以監控校正後 QT 間期（QTc）延長。",
         "B. 嚴格限制於短期住院使用，且每位病人最多不得超過 15 劑（limit of 15 doses）。",
@@ -4037,7 +4037,7 @@ const allChapters = {
     },
     {
       "id": 6,
-      "question": "【臨床案例】一名 40 歲女性預計接受常規開腹手術切除肝臟惡性腫瘤。考量手術範圍廣泛、預期使用吸入性麻醉劑及圍手術期鴉片類止痛藥，團隊擬定多模式處方以預防術後噁心嘔吐（PONV）。\n\n關於各預防藥物相對於手術的給藥時機，下列描述何者最佳？",
+      "question": "一名 40 歲女性預計接受常規開腹手術切除肝臟惡性腫瘤。考量手術範圍廣泛、預期使用吸入性麻醉劑及圍手術期鴉片類止痛藥，團隊擬定多模式處方以預防術後噁心嘔吐（PONV）。\n\n關於各預防藥物相對於手術的給藥時機，下列描述何者最佳？",
       "options": [
         "A. dexamethasone 4 mg 靜脈注射於手術結束時給予。",
         "B. ondansetron 4 mg 靜脈注射於麻醉誘導時給予。",
@@ -4056,7 +4056,7 @@ const allChapters = {
     },
     {
       "id": 7,
-      "question": "【臨床案例】一名 69 歲女性因胃潰瘍引起之上消化道出血（UGIB）入住外科 加護病房（intensive care unit, ICU）。因失血量大目前需輸血。病因檢查顯示其幽門螺旋桿菌（Helicobacter pylori）檢驗呈陽性。\n\n下列何者最能反映對該病人不適當的治療選項？",
+      "question": "一名 69 歲女性因胃潰瘍引起之上消化道出血（UGIB）入住外科 加護病房（intensive care unit, ICU）。因失血量大目前需輸血。病因檢查顯示其幽門螺旋桿菌（Helicobacter pylori）檢驗呈陽性。\n\n下列何者最能反映對該病人不適當的治療選項？",
       "options": [
         "A. octreotide 50 mcg 靜脈推注，隨後以 50 mcg/h 持續輸注 72 小時。",
         "B. 使用質子幫浦抑制劑（PPI）合併抗生素進行 14 天滅菌治療。",
@@ -4075,7 +4075,7 @@ const allChapters = {
     },
     {
       "id": 8,
-      "question": "【臨床案例】甲狀腺風暴（thyroid storm）是一種危及生命的內分泌急症。\n\n下列哪一組實驗室檢驗異常最能代表典型甲狀腺風暴病人的數值表現？",
+      "question": "甲狀腺風暴（thyroid storm）是一種危及生命的內分泌急症。\n\n下列哪一組實驗室檢驗異常最能代表典型甲狀腺風暴病人的數值表現？",
       "options": [
         "A. TSH 高、 T₃ 高、 T₄ 高。",
         "B. TSH 低、 T₃ 高、 T₄ 高。",
@@ -4094,7 +4094,7 @@ const allChapters = {
     },
     {
       "id": 9,
-      "question": "【臨床案例】一名 60 歲女性類風濕性關節炎病人， 3 個月前開始服用 azathioprine，現因藥物引起之肝損傷（DILI）併發非 acetaminophen 急性肝衰竭（NAI-ALF）就診。就診時 ALT 500 IU/L、 AST 350 IU/L、 國際標準化比值（international normalized ratio, INR） 1.7，表現輕度意識混亂與嗜睡。\n\n下列哪一項介入措施被證實對治療非 acetaminophen 急性肝衰竭（NAI-ALF）最為有效？",
+      "question": "一名 60 歲女性類風濕性關節炎病人， 3 個月前開始服用 azathioprine，現因藥物引起之肝損傷（DILI）併發非 acetaminophen 急性肝衰竭（NAI-ALF）就診。就診時 ALT 500 IU/L、 AST 350 IU/L、 國際標準化比值（international normalized ratio, INR） 1.7，表現輕度意識混亂與嗜睡。\n\n下列哪一項介入措施被證實對治療非 acetaminophen 急性肝衰竭（NAI-ALF）最為有效？",
       "options": [
         "A. 靜脈注射 acetylcysteine 21 小時療程。",
         "B. 靜脈注射 acetylcysteine 72 小時（或更長）療程。",
@@ -4113,7 +4113,7 @@ const allChapters = {
     },
     {
       "id": 10,
-      "question": "【臨床案例】一名 33 歲男性因 acetaminophen 中毒併發急性肝衰竭入院。服藥後已過 72 小時，理學檢查顯示重度腦病變且對疼痛無反應。置入顱內壓（intracranial pressure, ICP）監測器，顯示顱內壓急性升高至 30 mm Hg。\n\n針對其急性顱內壓（intracranial pressure, ICP）升高，下列何者最適當？",
+      "question": "一名 33 歲男性因 acetaminophen 中毒併發急性肝衰竭入院。服藥後已過 72 小時，理學檢查顯示重度腦病變且對疼痛無反應。置入顱內壓（intracranial pressure, ICP）監測器，顯示顱內壓急性升高至 30 mm Hg。\n\n針對其急性顱內壓（intracranial pressure, ICP）升高，下列何者最適當？",
       "options": [
         "A. 持續輸注高張 sodium chloride 溶液以維持血鈉 145–155 mEq/L。",
         "B. 靜脈給予甘露醇（mannitol） 0.5–1 g/kg （或 0.5 mg/kg 規格誤植校正）單次輸注。",
@@ -4132,7 +4132,7 @@ const allChapters = {
     },
     {
       "id": 11,
-      "question": "【臨床案例】一名 44 歲女性因廣泛性腹痛 2 天就診急診。澱粉酶 700 IU/L、解脂酶 800 IU/L。經乳酸林格氏液靜脈輸注復甦及鼻空腸管（NJ）腸道營養。然而 48 小時後病情仍未改善，腹部 CT 影像顯示胰臟壞死範圍達 40%。\n\n此時進行下列哪一項處置最佳？",
+      "question": "一名 44 歲女性因廣泛性腹痛 2 天就診急診。澱粉酶 700 IU/L、解脂酶 800 IU/L。經乳酸林格氏液靜脈輸注復甦及鼻空腸管（NJ）腸道營養。然而 48 小時後病情仍未改善，腹部 CT 影像顯示胰臟壞死範圍達 40%。\n\n此時進行下列哪一項處置最佳？",
       "options": [
         "A. 應預防性給予 piperacillin/tazobactam 以預防感染性壞死性胰臟炎。",
         "B. 必須立即進行壞死性胰臟炎外科清創手術。",
@@ -4151,7 +4151,7 @@ const allChapters = {
     },
     {
       "id": 12,
-      "question": "【臨床案例】一名 34 歲病態性肥胖女性， 1 週前接受胃繞道手術，現因腸皮瘻管入住外科 加護病房（intensive care unit, ICU）。目前每日瘻管引流量約 600 mL/day （高排量）。\n\n針對其高排量瘻管，下列哪一項介入措施『未被證實』與減少瘻管引流量相關？",
+      "question": "一名 34 歲病態性肥胖女性， 1 週前接受胃繞道手術，現因腸皮瘻管入住外科 加護病房（intensive care unit, ICU）。目前每日瘻管引流量約 600 mL/day （高排量）。\n\n針對其高排量瘻管，下列哪一項介入措施『未被證實』與減少瘻管引流量相關？",
       "options": [
         "A. 靜脈持續輸注 somatostatin 250 mcg/h。",
         "B. 皮下注射 octreotide 100 mcg 每日三次。",
@@ -4170,7 +4170,7 @@ const allChapters = {
     },
     {
       "id": 13,
-      "question": "【臨床案例】一名 40 歲男性預計接受大腸切除術。考量該手術之複雜度及圍手術期鴉片類與吸入性麻醉的使用，團隊擬定計畫預防術後腸阻塞（POI）。\n\n下列哪一種藥物最適合作為降低術後腸阻塞（POI）發生率的推薦？",
+      "question": "一名 40 歲男性預計接受大腸切除術。考量該手術之複雜度及圍手術期鴉片類與吸入性麻醉的使用，團隊擬定計畫預防術後腸阻塞（POI）。\n\n下列哪一種藥物最適合作為降低術後腸阻塞（POI）發生率的推薦？",
       "options": [
         "A. 術後使用 hydromorphone 病人自控式止痛（PCA）取代 morphine。",
         "B. 手術前口服 alvimopan 12 mg，術後持續每日兩次最多 7 天。",
@@ -4189,7 +4189,7 @@ const allChapters = {
     },
     {
       "id": 14,
-      "question": "【臨床案例】一名 27 歲女性預計接受經腹全子宮切除術。她是無吸菸者，有顯著的暈車 / 動暈症（motion sickness）病史。手術期間預計接受吸入性全身麻醉，且術後可能需要高劑量鴉片類止痛藥。\n\n考量該病人的 PONV 風險，為有效預防術後噁心嘔吐，下列哪種處置最佳？",
+      "question": "一名 27 歲女性預計接受經腹全子宮切除術。她是無吸菸者，有顯著的暈車 / 動暈症（motion sickness）病史。手術期間預計接受吸入性全身麻醉，且術後可能需要高劑量鴉片類止痛藥。\n\n考量該病人的 PONV 風險，為有效預防術後噁心嘔吐，下列哪種處置最佳？",
       "options": [
         "A. 病人屬於 PONV 高風險群（Apfel 4 分）；應於手術前晚給予經皮 scopolamine 貼片，麻醉誘導時給予 dexamethasone 4 mg 靜脈給藥（intravenous, IV），並於手術結束時給予 ondansetron 4 mg 靜脈給藥（intravenous, IV）。",
         "B. 病人屬於中度風險群；僅需於誘導時給予 dexamethasone 4 mg 靜脈給藥（intravenous, IV）並於結束時給予 ondansetron 4 mg 靜脈給藥（intravenous, IV）。",
@@ -4208,7 +4208,7 @@ const allChapters = {
     },
     {
       "id": 15,
-      "question": "【臨床案例】一名 27 歲男性有克隆氏症（Crohn disease）病史，因自直腸解大量鮮紅色血便就診急診。病人呈現低血壓（收縮壓 85 mm Hg, MAP 58 mm Hg），鼻胃管沖洗抽吸出「咖啡渣樣（coffee-ground） 」物質。值班醫師正聯絡胃腸鏡團隊安排胃鏡檢查。\n\n關於該病人的處置照護，下列哪項敘述最為準確？",
+      "question": "一名 27 歲男性有克隆氏症（Crohn disease）病史，因自直腸解大量鮮紅色血便就診急診。病人呈現低血壓（收縮壓 85 mm Hg, MAP 58 mm Hg），鼻胃管沖洗抽吸出「咖啡渣樣（coffee-ground） 」物質。值班醫師正聯絡胃腸鏡團隊安排胃鏡檢查。\n\n關於該病人的處置照護，下列哪項敘述最為準確？",
       "options": [
         "A. 胃鏡是正確處置，但必須等到 PPI 持續輸注啟動並完成數小時後方可進行。",
         "B. 應儘快啟動 PPI 持續輸注，並於胃鏡術後常規持續 48 小時。",
@@ -4227,7 +4227,7 @@ const allChapters = {
     },
     {
       "id": 16,
-      "question": "【臨床案例】一名 23 歲男性（體重 80 kg）因急性意識狀態改變與核心體溫 94°F （34.4°C）就診急診。他有甲狀腺機能低下病史，但家屬表示約 1 週前他自行停用所有藥物。醫療團隊評估後診斷為黏液水腫性昏迷（myxedema coma）。\n\n針對此病人，下列哪一項為最適當的治療藥物選項？",
+      "question": "一名 23 歲男性（體重 80 kg）因急性意識狀態改變與核心體溫 94°F （34.4°C）就診急診。他有甲狀腺機能低下病史，但家屬表示約 1 週前他自行停用所有藥物。醫療團隊評估後診斷為黏液水腫性昏迷（myxedema coma）。\n\n針對此病人，下列哪一項為最適當的治療藥物選項？",
       "options": [
         "A. 靜脈注射 levothyroxine 400 mcg 單次負荷劑量，隨後每日給予 125 mcg （同時先給予皮質類固醇）。",
         "B. insulin 持續輸注滴定以控制血糖在 140–180 mg/dL。",
@@ -4248,7 +4248,7 @@ const allChapters = {
   "14": [
     {
       "id": 1,
-      "question": "【臨床案例】在加護病房（intensive care unit, ICU）查房時，醫療團隊使用一套能使所有重症病人獲益的「常規介入查檢表（checklist） 」。\n\n下列哪一組介入措施最為有效？",
+      "question": "在加護病房（intensive care unit, ICU）查房時，醫療團隊使用一套能使所有重症病人獲益的「常規介入查檢表（checklist） 」。\n\n下列哪一組介入措施最為有效？",
       "options": [
         "A. 對所有收治入住 加護病房（intensive care unit, ICU）的病人啟動壓力性潰瘍預防（SUP），並於適當時停用鎮靜劑。",
         "B. 於適當時啟動腸道營養，並對所有病人常規使用機械性靜脈血栓栓塞（venous thromboembolism, VTE）預防。",
@@ -4267,7 +4267,7 @@ const allChapters = {
     },
     {
       "id": 2,
-      "question": "【臨床案例】針對重症病人的壓力性黏膜病變（SRMD）與壓力性潰瘍預防（SUP）藥物機轉。\n\n下列哪一項敘述最為正確？",
+      "question": "針對重症病人的壓力性黏膜病變（SRMD）與壓力性潰瘍預防（SUP）藥物機轉。\n\n下列哪一項敘述最為正確？",
       "options": [
         "A. Sucralfate 能顯著提高胃內 pH 值達到抑酸效果。",
         "B. 相較於 H₂ 受體拮抗劑（H₂RA），質子幫浦抑制劑（PPI）已被大型試驗證實能顯著降低臨床顯著出血的發生率。",
@@ -4286,7 +4286,7 @@ const allChapters = {
     },
     {
       "id": 3,
-      "question": "【臨床案例】一名 66 歲男性因腹痛、噁心與意識狀態改變收治 加護病房（intensive care unit, ICU）。病史包括酒精性肝硬化、心房顫動、慢性腎臟病（CKD）及糜爛性食道炎（erosive esophagitis）。病人接受氣管插管並在呼吸器上穩定。留置鼻胃管（NGT）且腸道管灌耐受良好。\n\n針對預防壓力性出血，下列哪一項建議最佳？",
+      "question": "一名 66 歲男性因腹痛、噁心與意識狀態改變收治 加護病房（intensive care unit, ICU）。病史包括酒精性肝硬化、心房顫動、慢性腎臟病（CKD）及糜爛性食道炎（erosive esophagitis）。病人接受氣管插管並在呼吸器上穩定。留置鼻胃管（NGT）且腸道管灌耐受良好。\n\n針對預防壓力性出血，下列哪一項建議最佳？",
       "options": [
         "A. pantoprazole 40 mg 靜脈注射每日兩次。",
         "B. Ranitidine 50 mg 靜脈注射每日三次。",
@@ -4305,7 +4305,7 @@ const allChapters = {
     },
     {
       "id": 4,
-      "question": "【臨床案例】一名 51 歲女性因重度脫水導致低血容性休克收治 加護病房（intensive care unit, ICU）。她主訴腹瀉與倦怠 5 天，近期無感染病史或醫療機構接觸史。病史包含甲狀腺機能低下及 GERD。用藥包括 levothyroxine 25 mcg 每日一次（once daily, QD）及 famotidine 20 mg 睡前（at bedtime, QHS）。日前基層醫師因 GERD 症狀加劇將 famotidine 改為 omeprazole 20 mg QHS。住院期間檢驗困難梭狀桿菌（CDI）呈陽性。\n\n關於質子幫浦抑制劑（PPI）與困難梭狀桿菌感染（CDI）的相關性，下列敘述何者最適當？",
+      "question": "一名 51 歲女性因重度脫水導致低血容性休克收治 加護病房（intensive care unit, ICU）。她主訴腹瀉與倦怠 5 天，近期無感染病史或醫療機構接觸史。病史包含甲狀腺機能低下及 GERD。用藥包括 levothyroxine 25 mcg 每日一次（once daily, QD）及 famotidine 20 mg 睡前（at bedtime, QHS）。日前基層醫師因 GERD 症狀加劇將 famotidine 改為 omeprazole 20 mg QHS。住院期間檢驗困難梭狀桿菌（CDI）呈陽性。\n\n關於質子幫浦抑制劑（PPI）與困難梭狀桿菌感染（CDI）的相關性，下列敘述何者最適當？",
       "options": [
         "A. PPI 會降低胃酸分泌導致胃酸缺乏（hypochlorhydria），從而降低人體對外來致病菌的防禦力，為誘發 CDI 的潛在危險因子。",
         "B. 前瞻性隨機對照試驗已明確證實 PPI 的使用與 CDI 風險呈因果關聯。",
@@ -4324,7 +4324,7 @@ const allChapters = {
     },
     {
       "id": 5,
-      "question": "【臨床案例】一名 50 歲女性（體重 70 kg）因意識狀態惡化入住 加護病房（intensive care unit, ICU）。病史包含高血壓、抽菸及骨質疏鬆。隔日清晨接受氣管內插管並使用呼吸器。置有鼻胃管。用藥包括 ceftriaxone 2 g 靜脈給藥（intravenous, IV） Q12H、 vancomycin 1250 mg 靜脈給藥（intravenous, IV） Q12H、 acyclovir 800 mg 靜脈給藥（intravenous, IV） Q8H、 famotidine 20 mg NGT 每日兩次（twice daily, BID）及軟便劑。血清肌酸酐（serum creatinine, SCr）正常。\n\n針對此病人，下列哪一項靜脈血栓栓塞（venous thromboembolism, VTE）預防措施最適當？",
+      "question": "一名 50 歲女性（體重 70 kg）因意識狀態惡化入住 加護病房（intensive care unit, ICU）。病史包含高血壓、抽菸及骨質疏鬆。隔日清晨接受氣管內插管並使用呼吸器。置有鼻胃管。用藥包括 ceftriaxone 2 g 靜脈給藥（intravenous, IV） Q12H、 vancomycin 1250 mg 靜脈給藥（intravenous, IV） Q12H、 acyclovir 800 mg 靜脈給藥（intravenous, IV） Q8H、 famotidine 20 mg NGT 每日兩次（twice daily, BID）及軟便劑。血清肌酸酐（serum creatinine, SCr）正常。\n\n針對此病人，下列哪一項靜脈血栓栓塞（venous thromboembolism, VTE）預防措施最適當？",
       "options": [
         "A. 單純使用間歇性充氣加壓裝置（IPC）。",
         "B. 皮下注射 enoxaparin 40 mg 每日一次。",
@@ -4343,7 +4343,7 @@ const allChapters = {
     },
     {
       "id": 6,
-      "question": "【臨床案例】一名 34 歲女性（體重 65 kg）因機動車車禍導致多處上肢骨折、閉合性腦損傷（closed-head injury）及第 4 級肝臟撕裂傷（grade 4 liver laceration）。無重大過去病史。術後入住 加護病房（intensive care unit, ICU）使用呼吸器。數值： Na 145 mEq/L, K 3.1 mEq/L, Cl 97 mEq/L, CO₂ 18 mEq/L, 血中尿素氮（blood urea nitrogen, BUN） 70 mg/dL, 血清肌酸酐（serum creatinine, SCr） 3.5 mg/dL。\n\n在入院當天，下列哪一項 靜脈血栓栓塞（venous thromboembolism, VTE）預防措施對該病人最為適當？",
+      "question": "一名 34 歲女性（體重 65 kg）因機動車車禍導致多處上肢骨折、閉合性腦損傷（closed-head injury）及第 4 級肝臟撕裂傷（grade 4 liver laceration）。無重大過去病史。術後入住 加護病房（intensive care unit, ICU）使用呼吸器。數值： Na 145 mEq/L, K 3.1 mEq/L, Cl 97 mEq/L, CO₂ 18 mEq/L, 血中尿素氮（blood urea nitrogen, BUN） 70 mg/dL, 血清肌酸酐（serum creatinine, SCr） 3.5 mg/dL。\n\n在入院當天，下列哪一項 靜脈血栓栓塞（venous thromboembolism, VTE）預防措施對該病人最為適當？",
       "options": [
         "A. 提供間歇性充氣加壓裝置（IPC）。",
         "B. 皮下注射 dalteparin 5000 units 每日一次。",
@@ -4362,7 +4362,7 @@ const allChapters = {
     },
     {
       "id": 7,
-      "question": "【臨床案例】一名 34 歲男性（體重 70 kg）因胰臟炎併發急性呼吸衰竭收治外科 加護病房（intensive care unit, ICU）。目前用藥包括 norepinephrine 0.07 mcg/kg/min、 dexmedetomidine 0.7 mcg/kg/h、 ampicillin/sulbactam 3 g 靜脈給藥（intravenous, IV） Q6H、 famotidine 20 mg 靜脈給藥（intravenous, IV）每日兩次（twice daily, BID）及皮下注射 heparin 5000 units Q8H。 ICU 第 3 天團隊懷疑 heparin 引起之血小板低下症（HIT）。入院時血小板 360,000/mm³，今日降至 180,000/mm³。計算 4Ts 評分為 3 分（低風險）。團隊希望送檢 heparin-PF4 免疫檢測並啟動 argatroban。\n\n此時最適當的臨床回覆為何？",
+      "question": "一名 34 歲男性（體重 70 kg）因胰臟炎併發急性呼吸衰竭收治外科 加護病房（intensive care unit, ICU）。目前用藥包括 norepinephrine 0.07 mcg/kg/min、 dexmedetomidine 0.7 mcg/kg/h、 ampicillin/sulbactam 3 g 靜脈給藥（intravenous, IV） Q6H、 famotidine 20 mg 靜脈給藥（intravenous, IV）每日兩次（twice daily, BID）及皮下注射 heparin 5000 units Q8H。 ICU 第 3 天團隊懷疑 heparin 引起之血小板低下症（HIT）。入院時血小板 360,000/mm³，今日降至 180,000/mm³。計算 4Ts 評分為 3 分（低風險）。團隊希望送檢 heparin-PF4 免疫檢測並啟動 argatroban。\n\n此時最適當的臨床回覆為何？",
       "options": [
         "A. 停用所有 heparin 製品，但不需啟動 argatroban。",
         "B. 停用所有 heparin 製品，並立即啟動 argatroban。",
@@ -4381,7 +4381,7 @@ const allChapters = {
     },
     {
       "id": 8,
-      "question": "【臨床案例】面對臨終（end of life）的重症病人，安寧緩和醫療的核心考量極為重要。\n\n下列哪一組處置考量在照護瀕死重症病人時最為重要？",
+      "question": "面對臨終（end of life）的重症病人，安寧緩和醫療的核心考量極為重要。\n\n下列哪一組處置考量在照護瀕死重症病人時最為重要？",
       "options": [
         "A. 疼痛處置、嚴格血糖控制及呼吸道分泌物控制。",
         "B. 例行性每小時生命徵象監測、停用不必要藥物及呼吸道分泌物控制。",
@@ -4400,7 +4400,7 @@ const allChapters = {
     },
     {
       "id": 9,
-      "question": "【臨床案例】一名 68 歲男性（體重 85 kg）因社區型肺炎併發嚴重低氧性呼吸衰竭收治 加護病房（intensive care unit, ICU），接受氣管內插管及機械通氣。病史包括酒精性肝硬化（Child-Pugh B 級）、心臟衰竭及心肌梗塞。數值： 白血球計數（white blood cell count, WBC） 15 × 10³ cells/mm³, Plt 150,000/mm³, 血中尿素氮（blood urea nitrogen, BUN） 15 mg/dL, 血清肌酸酐（serum creatinine, SCr） 1.1 mg/dL, K 4.5 mEq/L, 國際標準化比值（international normalized ratio, INR） 1.0, AST 58 IU/L, ALT 49 IU/L。用藥包含 azithromycin 500 mg 靜脈給藥（intravenous, IV）每日一次（once daily, QD）、 ceftriaxone 1 g 靜脈給藥（intravenous, IV） QD、 vancomycin 1250 mg 靜脈給藥（intravenous, IV） Q12H 及 fentanyl 輸注。\n\n針對此病人，下列哪一項壓力性潰瘍預防（SUP）建議最適當？",
+      "question": "一名 68 歲男性（體重 85 kg）因社區型肺炎併發嚴重低氧性呼吸衰竭收治 加護病房（intensive care unit, ICU），接受氣管內插管及機械通氣。病史包括酒精性肝硬化（Child-Pugh B 級）、心臟衰竭及心肌梗塞。數值： 白血球計數（white blood cell count, WBC） 15 × 10³ cells/mm³, Plt 150,000/mm³, 血中尿素氮（blood urea nitrogen, BUN） 15 mg/dL, 血清肌酸酐（serum creatinine, SCr） 1.1 mg/dL, K 4.5 mEq/L, 國際標準化比值（international normalized ratio, INR） 1.0, AST 58 IU/L, ALT 49 IU/L。用藥包含 azithromycin 500 mg 靜脈給藥（intravenous, IV）每日一次（once daily, QD）、 ceftriaxone 1 g 靜脈給藥（intravenous, IV） QD、 vancomycin 1250 mg 靜脈給藥（intravenous, IV） Q12H 及 fentanyl 輸注。\n\n針對此病人，下列哪一項壓力性潰瘍預防（SUP）建議最適當？",
       "options": [
         "A. 啟動 SUP，因為病人正接受機械通氣。",
         "B. 不需啟動 SUP，因為病人無凝血功能異常。",
@@ -4419,7 +4419,7 @@ const allChapters = {
     },
     {
       "id": 10,
-      "question": "【臨床案例】一名 45 歲女性因社區型肺炎引起之嚴重呼吸衰竭收治 加護病房（intensive care unit, ICU），接受氣管內插管與機械通氣。置放鼻胃管（NGT）啟動腸道營養。 3 天後，她正接受 norepinephrine 與 vasopressin 持續輸注及抗生素。數值： 白血球計數（white blood cell count, WBC） 20 × 10³ cells/mm³, Plt 45,000/mm³, 血中尿素氮（blood urea nitrogen, BUN） 70 mg/dL, 血清肌酸酐（serum creatinine, SCr） 4.5 mg/dL （基線 0.9 mg/dL） , K 4.5 mEq/L, 國際標準化比值（international normalized ratio, INR） 1.4, AST 30 IU/L, ALT 46 IU/L。\n\n下列何者最能完整反映該病人目前所具備的壓力性出血危險因子？",
+      "question": "一名 45 歲女性因社區型肺炎引起之嚴重呼吸衰竭收治 加護病房（intensive care unit, ICU），接受氣管內插管與機械通氣。置放鼻胃管（NGT）啟動腸道營養。 3 天後，她正接受 norepinephrine 與 vasopressin 持續輸注及抗生素。數值： 白血球計數（white blood cell count, WBC） 20 × 10³ cells/mm³, Plt 45,000/mm³, 血中尿素氮（blood urea nitrogen, BUN） 70 mg/dL, 血清肌酸酐（serum creatinine, SCr） 4.5 mg/dL （基線 0.9 mg/dL） , K 4.5 mEq/L, 國際標準化比值（international normalized ratio, INR） 1.4, AST 30 IU/L, ALT 46 IU/L。\n\n下列何者最能完整反映該病人目前所具備的壓力性出血危險因子？",
       "options": [
         "A. 僅有機械通氣。",
         "B. 機械通氣、凝血異常及急性腎損傷。",
@@ -4438,7 +4438,7 @@ const allChapters = {
     },
     {
       "id": 11,
-      "question": "【臨床案例】一名 45 歲女性因社區型肺炎引起之嚴重呼吸衰竭收治 加護病房（intensive care unit, ICU），接受氣管內插管與機械通氣。置放鼻胃管（NGT）啟動腸道營養。 3 天後，她正接受 norepinephrine 與 vasopressin 持續輸注及抗生素。數值： 白血球計數（white blood cell count, WBC） 20 × 10³ cells/mm³, Plt 45,000/mm³, 血中尿素氮（blood urea nitrogen, BUN） 70 mg/dL, 血清肌酸酐（serum creatinine, SCr） 4.5 mg/dL （基線 0.9 mg/dL） , K 4.5 mEq/L, 國際標準化比值（international normalized ratio, INR） 1.4, AST 30 IU/L, ALT 46 IU/L。\n\n針對此病人預防壓力性黏膜出血，下列哪項處置最適當？",
+      "question": "一名 45 歲女性因社區型肺炎引起之嚴重呼吸衰竭收治 加護病房（intensive care unit, ICU），接受氣管內插管與機械通氣。置放鼻胃管（NGT）啟動腸道營養。 3 天後，她正接受 norepinephrine 與 vasopressin 持續輸注及抗生素。數值： 白血球計數（white blood cell count, WBC） 20 × 10³ cells/mm³, Plt 45,000/mm³, 血中尿素氮（blood urea nitrogen, BUN） 70 mg/dL, 血清肌酸酐（serum creatinine, SCr） 4.5 mg/dL （基線 0.9 mg/dL） , K 4.5 mEq/L, 國際標準化比值（international normalized ratio, INR） 1.4, AST 30 IU/L, ALT 46 IU/L。\n\n針對此病人預防壓力性黏膜出血，下列哪項處置最適當？",
       "options": [
         "A. 經 NGT 給予 sucralfate 1 g 每日四次。",
         "B. 經 NGT 給予氫氧化鎂 30 mL 每 4 小時一次。",
@@ -4457,7 +4457,7 @@ const allChapters = {
     },
     {
       "id": 12,
-      "question": "【臨床案例】一名 45 歲女性因社區型肺炎引起之嚴重呼吸衰竭收治 加護病房（intensive care unit, ICU），接受氣管內插管與機械通氣。置放鼻胃管（NGT）啟動腸道營養。 3 天後，她正接受 norepinephrine 與 vasopressin 持續輸注及抗生素。數值： 白血球計數（white blood cell count, WBC） 20 × 10³ cells/mm³, Plt 45,000/mm³, 血中尿素氮（blood urea nitrogen, BUN） 70 mg/dL, 血清肌酸酐（serum creatinine, SCr） 4.5 mg/dL （基線 0.9 mg/dL） , K 4.5 mEq/L, 國際標準化比值（international normalized ratio, INR） 1.4, AST 30 IU/L, ALT 46 IU/L。 一週後病人呼吸狀況大幅改善。過去 4 天已完全停用鎮靜劑與升壓劑，配合物理治療復健，今日已成功拔管。目前用藥僅剩 ceftriaxone、皮下 heparin 及 SUP。數值： WBC 6 × 10³ cells/mm³, Plt 256,000/mm³, BUN 10 mg/dL, SCr 1.1 mg/dL, INR 0.8。\n\n針對該病人的壓力性潰瘍預防（SUP）處方，下列哪一項建議最適當？",
+      "question": "一名 45 歲女性因社區型肺炎引起之嚴重呼吸衰竭收治 加護病房（intensive care unit, ICU），接受氣管內插管與機械通氣。置放鼻胃管（NGT）啟動腸道營養。 3 天後，她正接受 norepinephrine 與 vasopressin 持續輸注及抗生素。數值： 白血球計數（white blood cell count, WBC） 20 × 10³ cells/mm³, Plt 45,000/mm³, 血中尿素氮（blood urea nitrogen, BUN） 70 mg/dL, 血清肌酸酐（serum creatinine, SCr） 4.5 mg/dL （基線 0.9 mg/dL） , K 4.5 mEq/L, 國際標準化比值（international normalized ratio, INR） 1.4, AST 30 IU/L, ALT 46 IU/L。 一週後病人呼吸狀況大幅改善。過去 4 天已完全停用鎮靜劑與升壓劑，配合物理治療復健，今日已成功拔管。目前用藥僅剩 ceftriaxone、皮下 heparin 及 SUP。數值： WBC 6 × 10³ cells/mm³, Plt 256,000/mm³, BUN 10 mg/dL, SCr 1.1 mg/dL, INR 0.8。\n\n針對該病人的壓力性潰瘍預防（SUP）處方，下列哪一項建議最適當？",
       "options": [
         "A. SUP 應持續使用直到病人出院。",
         "B. SUP 應持續使用直到轉出 加護病房（intensive care unit, ICU）。",
@@ -4476,7 +4476,7 @@ const allChapters = {
     },
     {
       "id": 13,
-      "question": "【臨床案例】一名 93 歲長期臥床男性（體重 45 kg）由護理之家轉入，因 慢性阻塞性肺病（chronic obstructive pulmonary disease, COPD）急性發作需接受氣管插管機械通氣。病史包括糖尿病與心臟衰竭。檢驗除 血中尿素氮（blood urea nitrogen, BUN） 35 mg/dL 及 血清肌酸酐（serum creatinine, SCr） 2.8 mg/dL （基線 0.5 mg/dL）外皆正常。\n\n針對該病人，下列哪一項 靜脈血栓栓塞（venous thromboembolism, VTE）預防建議最適當？",
+      "question": "一名 93 歲長期臥床男性（體重 45 kg）由護理之家轉入，因 慢性阻塞性肺病（chronic obstructive pulmonary disease, COPD）急性發作需接受氣管插管機械通氣。病史包括糖尿病與心臟衰竭。檢驗除 血中尿素氮（blood urea nitrogen, BUN） 35 mg/dL 及 血清肌酸酐（serum creatinine, SCr） 2.8 mg/dL （基線 0.5 mg/dL）外皆正常。\n\n針對該病人，下列哪一項 靜脈血栓栓塞（venous thromboembolism, VTE）預防建議最適當？",
       "options": [
         "A. 單純使用間歇性充氣加壓裝置（IPC）。",
         "B. 皮下注射 enoxaparin 30 mg 每日一次。",
@@ -4495,7 +4495,7 @@ const allChapters = {
     },
     {
       "id": 14,
-      "question": "【臨床案例】一名 55 歲男性（體重 60 kg）有糖尿病、高血脂及 4 個月前因下肢外傷併發深部靜脈血栓（deep vein thrombosis, DVT）病史，今因流感病毒重症呼吸衰竭收治 加護病房（intensive care unit, ICU）。入院數值正常（Plt 250,000/mm³, SCr 0.9 mg/dL）。處方包含 fentanyl、 midazolam、 pip/tazo、 vancomycin、insulin、 SUP 及靜脈 heparin 輸注（heparin drip）。 5 天後病人持續插管，此時血小板降至 112,000/mm³ （下降超過 50%）， 血中尿素氮（blood urea nitrogen, BUN） 45 mg/dL, 血清肌酸酐（serum creatinine, SCr） 2.7 mg/dL。團隊送檢 heparin-PF4 免疫檢測，需 48 小時方能回報。\n\n此時最佳的處置步驟為何？",
+      "question": "一名 55 歲男性（體重 60 kg）有糖尿病、高血脂及 4 個月前因下肢外傷併發深部靜脈血栓（deep vein thrombosis, DVT）病史，今因流感病毒重症呼吸衰竭收治 加護病房（intensive care unit, ICU）。入院數值正常（Plt 250,000/mm³, SCr 0.9 mg/dL）。處方包含 fentanyl、 midazolam、 pip/tazo、 vancomycin、insulin、 SUP 及靜脈 heparin 輸注（heparin drip）。 5 天後病人持續插管，此時血小板降至 112,000/mm³ （下降超過 50%）， 血中尿素氮（blood urea nitrogen, BUN） 45 mg/dL, 血清肌酸酐（serum creatinine, SCr） 2.7 mg/dL。團隊送檢 heparin-PF4 免疫檢測，需 48 小時方能回報。\n\n此時最佳的處置步驟為何？",
       "options": [
         "A. 立即停用 heparin 輸注，並啟動 argatroban 持續靜脈輸注 0.25 mcg/kg/min （依重症 / 多重器官衰竭調整劑量）。",
         "B. 不作任何處理，因病人有多重其他可能導致血小板低下的原因。",
@@ -4514,7 +4514,7 @@ const allChapters = {
     },
     {
       "id": 15,
-      "question": "【臨床案例】一名 55 歲男性（體重 60 kg）有糖尿病、高血脂及 4 個月前因下肢外傷併發深部靜脈血栓（deep vein thrombosis, DVT）病史，今因流感病毒重症呼吸衰竭收治 加護病房（intensive care unit, ICU）。入院數值正常（Plt 250,000/mm³, SCr 0.9 mg/dL）。處方包含 fentanyl、 midazolam、 pip/tazo、 vancomycin、insulin、 SUP 及靜脈 heparin 輸注（heparin drip）。 5 天後病人持續插管，此時血小板降至 112,000/mm³ （下降超過 50%）， 血中尿素氮（blood urea nitrogen, BUN） 45 mg/dL, 血清肌酸酐（serum creatinine, SCr） 2.7 mg/dL。團隊送檢 heparin-PF4 免疫檢測，需 48 小時方能回報。 3 天後， heparin-PF4 免疫檢測與血清素釋放試驗（SRA）均呈陽性確診 HIT，且超音波發現新發生的 深部靜脈栓塞（deep vein thrombosis, DVT）。團隊希望轉換為口服 warfarin。病人目前血小板計數為 130,000/mm³。\n\n此時最適當的回覆為何？",
+      "question": "一名 55 歲男性（體重 60 kg）有糖尿病、高血脂及 4 個月前因下肢外傷併發深部靜脈血栓（deep vein thrombosis, DVT）病史，今因流感病毒重症呼吸衰竭收治 加護病房（intensive care unit, ICU）。入院數值正常（Plt 250,000/mm³, SCr 0.9 mg/dL）。處方包含 fentanyl、 midazolam、 pip/tazo、 vancomycin、insulin、 SUP 及靜脈 heparin 輸注（heparin drip）。 5 天後病人持續插管，此時血小板降至 112,000/mm³ （下降超過 50%）， 血中尿素氮（blood urea nitrogen, BUN） 45 mg/dL, 血清肌酸酐（serum creatinine, SCr） 2.7 mg/dL。團隊送檢 heparin-PF4 免疫檢測，需 48 小時方能回報。 3 天後， heparin-PF4 免疫檢測與血清素釋放試驗（SRA）均呈陽性確診 HIT，且超音波發現新發生的 深部靜脈栓塞（deep vein thrombosis, DVT）。團隊希望轉換為口服 warfarin。病人目前血小板計數為 130,000/mm³。\n\n此時最適當的回覆為何？",
       "options": [
         "A. 停用 argatroban 並啟動口服 warfarin 5 mg 每日一次。",
         "B. 停用 argatroban 並啟動口服 warfarin 10 mg 每日一次。",
@@ -4533,7 +4533,7 @@ const allChapters = {
     },
     {
       "id": 16,
-      "question": "【臨床案例】一名 88 歲女性因心臟衰竭去代償、急性腎損傷及 1 個月前跌倒導致肋骨骨折之劇烈無法控制疼痛收治 加護病房（intensive care unit, ICU）。此為過去 5 個月內第 4 次入住 ICU。溝通後得知其意願為拒絕心肺復甦與插管（DNR/DNI），僅求舒適。血壓 119/70 mm Hg、心率 120 次 / 分、呼吸 55 次 / 分，行為疼痛量表（Behavioral Pain Scale, BPS）評分為 9/10 （重度疼痛）。與家屬會議達成共識希望減輕痛苦。決定啟動 morphine 靜脈滴注 2 mg/h，滴定參數包括給予同等當前輸注速率之單次推注，並調升輸注速率 25% 以維持 行為疼痛量表（Behavioral Pain Scale, BPS）評分 3 分（無疼痛）。數值正常（BUN 10, SCr 0.6）。照顧護理師認為滴定參數過於激進。\n\n針對該滴定參數，下列哪項處置最為適當？",
+      "question": "一名 88 歲女性因心臟衰竭去代償、急性腎損傷及 1 個月前跌倒導致肋骨骨折之劇烈無法控制疼痛收治 加護病房（intensive care unit, ICU）。此為過去 5 個月內第 4 次入住 ICU。溝通後得知其意願為拒絕心肺復甦與插管（DNR/DNI），僅求舒適。血壓 119/70 mm Hg、心率 120 次 / 分、呼吸 55 次 / 分，行為疼痛量表（Behavioral Pain Scale, BPS）評分為 9/10 （重度疼痛）。與家屬會議達成共識希望減輕痛苦。決定啟動 morphine 靜脈滴注 2 mg/h，滴定參數包括給予同等當前輸注速率之單次推注，並調升輸注速率 25% 以維持 行為疼痛量表（Behavioral Pain Scale, BPS）評分 3 分（無疼痛）。數值正常（BUN 10, SCr 0.6）。照顧護理師認為滴定參數過於激進。\n\n針對該滴定參數，下列哪項處置最為適當？",
       "options": [
         "A. 修改參數，改為僅在病人出現不適跡象（如血壓或心率上升）時才調升 morphine。",
         "B. 取消滴定參數，維持 morphine 在現有速率 2 mg/h 不變。",
@@ -4554,7 +4554,7 @@ const allChapters = {
   "15": [
     {
       "id": 1,
-      "question": "【臨床案例】一名 80 歲女性因大腸桿菌（Escherichia coli）泌尿道感染併發敗血性休克入住加護病房（intensive care unit, ICU）。入院重要生命徵象：血壓 80/40 mm Hg、心率 155 次 / 分且心律為心房顫動、呼吸 26 次 / 分、體溫 105.8°F （41°C）。理學檢查顯示病人虛弱、嗜睡且意識混亂。數值： Na 155 mEq/L, K 3.6 mEq/L, 血清肌酸酐（serum creatinine, SCr） 1.8 mg/dL, 乳酸 4.2 mmol/L。\n\n下列哪一項最能代表該病人符合『休克症候群（shock syndrome） 』的臨床表徵？",
+      "question": "一名 80 歲女性因大腸桿菌（Escherichia coli）泌尿道感染併發敗血性休克入住加護病房（intensive care unit, ICU）。入院重要生命徵象：血壓 80/40 mm Hg、心率 155 次 / 分且心律為心房顫動、呼吸 26 次 / 分、體溫 105.8°F （41°C）。理學檢查顯示病人虛弱、嗜睡且意識混亂。數值： Na 155 mEq/L, K 3.6 mEq/L, 血清肌酸酐（serum creatinine, SCr） 1.8 mg/dL, 乳酸 4.2 mmol/L。\n\n下列哪一項最能代表該病人符合『休克症候群（shock syndrome） 』的臨床表徵？",
       "options": [
         "A. 體溫 105.8°F （41°C）與意識混亂。",
         "B. 心率 155 次 / 分伴心房顫動與高體溫。",
@@ -4573,7 +4573,7 @@ const allChapters = {
     },
     {
       "id": 2,
-      "question": "【臨床案例】一名 80 歲女性因大腸桿菌（Escherichia coli）泌尿道感染併發敗血性休克入住加護病房（intensive care unit, ICU）。入院重要生命徵象：血壓 80/40 mm Hg、心率 155 次 / 分且心律為心房顫動、呼吸 26 次 / 分、體溫 105.8°F （41°C）。理學檢查顯示病人虛弱、嗜睡且意識混亂。數值： Na 155 mEq/L, K 3.6 mEq/L, 血清肌酸酐（serum creatinine, SCr） 1.8 mg/dL, 乳酸 4.2 mmol/L。\n\n根據 Fick 氧氣輸送方程式（DO₂ = CO × CaO₂ × 10），下列哪項因素在此病人中直接阻礙了氧氣輸送（DO₂）？",
+      "question": "一名 80 歲女性因大腸桿菌（Escherichia coli）泌尿道感染併發敗血性休克入住加護病房（intensive care unit, ICU）。入院重要生命徵象：血壓 80/40 mm Hg、心率 155 次 / 分且心律為心房顫動、呼吸 26 次 / 分、體溫 105.8°F （41°C）。理學檢查顯示病人虛弱、嗜睡且意識混亂。數值： Na 155 mEq/L, K 3.6 mEq/L, 血清肌酸酐（serum creatinine, SCr） 1.8 mg/dL, 乳酸 4.2 mmol/L。\n\n根據 Fick 氧氣輸送方程式（DO₂ = CO × CaO₂ × 10），下列哪項因素在此病人中直接阻礙了氧氣輸送（DO₂）？",
       "options": [
         "A. 高乳酸血症直接破壞氧氣輸送。",
         "B. 快速心房顫動（AF with RVR）損害心室充填並降低每搏輸出量（SV），從而降低心輸出量（cardiac output, CO）與 DO₂。",
@@ -4592,7 +4592,7 @@ const allChapters = {
     },
     {
       "id": 3,
-      "question": "【臨床案例】一名 58 歲女性因腹膜炎併發敗血性休克收治 加護病房（intensive care unit, ICU）。動脈血氣與實驗室數值顯示： pH 7.28, PaCO₂ 32 mm Hg, HCO₃⁻ 15 mEq/L, Na 140 mEq/L, Cl 118 mEq/L （高氯性代謝性酸中毒）。病人目前已接受 20 mL/kg 結晶體輸液， 平均動脈壓（mean arterial pressure, MAP） 58 mm Hg。\n\n針對其進一步的靜脈輸液復甦，下列哪一種輸液選擇最為適當？",
+      "question": "一名 58 歲女性因腹膜炎併發敗血性休克收治 加護病房（intensive care unit, ICU）。動脈血氣與實驗室數值顯示： pH 7.28, PaCO₂ 32 mm Hg, HCO₃⁻ 15 mEq/L, Na 140 mEq/L, Cl 118 mEq/L （高氯性代謝性酸中毒）。病人目前已接受 20 mL/kg 結晶體輸液， 平均動脈壓（mean arterial pressure, MAP） 58 mm Hg。\n\n針對其進一步的靜脈輸液復甦，下列哪一種輸液選擇最為適當？",
       "options": [
         "A. 0.9% sodium chloride 溶液（Normal Saline）。",
         "B. 5% 白蛋白（albumin）。",
@@ -4611,7 +4611,7 @@ const allChapters = {
     },
     {
       "id": 4,
-      "question": "【臨床案例】一名 67 歲男性有長期嚴重高血壓病史，因敗血性休克接受輸液復甦與 norepinephrine 輸注。目前 平均動脈壓（mean arterial pressure, MAP）維持在 68 mm Hg， ScvO₂ 72%，但連續 3 小時尿量皆小於 0.3 mL/kg/h，且血清乳酸持續在 3.8 mmol/L 無清除跡象。\n\n此時針對其血流動力學支持，下一步處置何者最佳？",
+      "question": "一名 67 歲男性有長期嚴重高血壓病史，因敗血性休克接受輸液復甦與 norepinephrine 輸注。目前 平均動脈壓（mean arterial pressure, MAP）維持在 68 mm Hg， ScvO₂ 72%，但連續 3 小時尿量皆小於 0.3 mL/kg/h，且血清乳酸持續在 3.8 mmol/L 無清除跡象。\n\n此時針對其血流動力學支持，下一步處置何者最佳？",
       "options": [
         "A. 維持現有 norepinephrine 劑量不變，繼續觀察。",
         "B. 調升 norepinephrine 劑量，將目標 平均動脈壓（mean arterial pressure, MAP）提高（如 75–85 mm Hg），以克服其自體調節曲線右移並改善器官灌流。",
@@ -4630,7 +4630,7 @@ const allChapters = {
     },
     {
       "id": 5,
-      "question": "【臨床案例】一名 72 歲男性因重度肺炎併發敗血性休克接受機械通氣，合併快速心房顫動。目前使用 norepinephrine， 平均動脈壓（mean arterial pressure, MAP） 60 mm Hg，乳酸 3.5 mmol/L。團隊希望評估病人是否仍具備體液反應性（fluid responsiveness）。\n\n在此臨床情境下，下列哪一項評估方法最為可靠？",
+      "question": "一名 72 歲男性因重度肺炎併發敗血性休克接受機械通氣，合併快速心房顫動。目前使用 norepinephrine， 平均動脈壓（mean arterial pressure, MAP） 60 mm Hg，乳酸 3.5 mmol/L。團隊希望評估病人是否仍具備體液反應性（fluid responsiveness）。\n\n在此臨床情境下，下列哪一項評估方法最為可靠？",
       "options": [
         "A. 藉由動脈導管監測脈壓變異度（PPV）。",
         "B. 實施被動抬腿試驗（Passive Leg Raising, PLR）結合即時心輸出量監測。",
@@ -4649,7 +4649,7 @@ const allChapters = {
     },
     {
       "id": 6,
-      "question": "【臨床案例】一名 24 歲男性在輸注抗生素後突發急性血管擴張性休克（過敏性過敏性反應 anaphylactic shock）。血壓 70/35 mm Hg，前負荷顯著低下， ScvO₂ 48%，乳酸 4.5 mmol/L。\n\n針對此血管擴張性休克病人，下列處置順序與用藥何者最適當？",
+      "question": "一名 24 歲男性在輸注抗生素後突發急性血管擴張性休克（過敏性過敏性反應 anaphylactic shock）。血壓 70/35 mm Hg，前負荷顯著低下， ScvO₂ 48%，乳酸 4.5 mmol/L。\n\n針對此血管擴張性休克病人，下列處置順序與用藥何者最適當？",
       "options": [
         "A. 輸注濃縮紅血球（PRBC）以提升 CaO₂。",
         "B. 啟動 dobutamine 輸注以增強心肌收縮力。",
@@ -4668,7 +4668,7 @@ const allChapters = {
     },
     {
       "id": 7,
-      "question": "【臨床案例】一名 60 歲女性（體重 70 kg）因腎盂腎炎引發敗血症，目前已完成 1600 mL 晶體輸液（約 23 mL/kg）。目前生命徵象：血壓 95/53 mm Hg （MAP 67 mm Hg），心率 102 次 / 分，尿量連續 2 小時為 20 mL/h （<0.5 mL/kg/h），乳酸 3.2 mmol/L， ScvO₂ 58%。\n\n此時下一步最適當的處置為何？",
+      "question": "一名 60 歲女性（體重 70 kg）因腎盂腎炎引發敗血症，目前已完成 1600 mL 晶體輸液（約 23 mL/kg）。目前生命徵象：血壓 95/53 mm Hg （MAP 67 mm Hg），心率 102 次 / 分，尿量連續 2 小時為 20 mL/h （<0.5 mL/kg/h），乳酸 3.2 mmol/L， ScvO₂ 58%。\n\n此時下一步最適當的處置為何？",
       "options": [
         "A. 再給予至少 500 mL sodium chloride 溶液或平衡鹽輸注，以補足初始 30 mL/kg 的結晶體復甦目標並改善器官灌流。",
         "B. 立即給予 5% 白蛋白輸注。",
@@ -4687,7 +4687,7 @@ const allChapters = {
     },
     {
       "id": 8,
-      "question": "【臨床案例】一名 65 歲男性在完成大於 30 mL/kg 的靜脈晶體輸液後，血壓仍為 82/50 mm Hg （MAP 61 mm Hg），尿量 15 mL/h，乳酸 4.0 mmol/L。\n\n針對其持續性敗血性休克，首選的升壓劑為何？",
+      "question": "一名 65 歲男性在完成大於 30 mL/kg 的靜脈晶體輸液後，血壓仍為 82/50 mm Hg （MAP 61 mm Hg），尿量 15 mL/h，乳酸 4.0 mmol/L。\n\n針對其持續性敗血性休克，首選的升壓劑為何？",
       "options": [
         "A. norepinephrine。",
         "B. vasopressin 單獨一線使用。",
@@ -4706,7 +4706,7 @@ const allChapters = {
     },
     {
       "id": 9,
-      "question": "【臨床案例】一名 56 歲女性因腹腔內感染導致敗血性休克，在充分輸液後正接受 norepinephrine 0.25 mcg/kg/min。目前 平均動脈壓（mean arterial pressure, MAP）為 66 mm Hg，心率 110 次 / 分， ScvO₂ 72%，乳酸 2.8 mmol/L。\n\n團隊希望在處方中加上 vasopressin （AVP）。關於在 norepinephrine 基礎上加用 vasopressin 的臨床效益，下列哪項敘述最為準確？",
+      "question": "一名 56 歲女性因腹腔內感染導致敗血性休克，在充分輸液後正接受 norepinephrine 0.25 mcg/kg/min。目前 平均動脈壓（mean arterial pressure, MAP）為 66 mm Hg，心率 110 次 / 分， ScvO₂ 72%，乳酸 2.8 mmol/L。\n\n團隊希望在處方中加上 vasopressin （AVP）。關於在 norepinephrine 基礎上加用 vasopressin 的臨床效益，下列哪項敘述最為準確？",
       "options": [
         "A. 加用 vasopressin 能直接顯著改善全因死亡率，且需先給予大量輸液負荷。",
         "B. vasopressin 可作為輔助升壓劑加用，主要效益為提升 平均動脈壓（mean arterial pressure, MAP）並顯著降低 norepinephrine 的劑量需求（sparing effect）。",
@@ -4725,7 +4725,7 @@ const allChapters = {
     },
     {
       "id": 10,
-      "question": "【臨床案例】一名 74 歲男性因重度肺炎併發急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）與敗血性休克入住 加護病房（intensive care unit, ICU）。置有肺動脈導管（PAC）。數值：心臟指數（cardiac index, CI） 4.0 L/min/m², 中央靜脈壓（central venous pressure, CVP） 14 mm Hg, PCWP 16 mm Hg, 全身血管阻力（systemic vascular resistance, SVR） 450 dynes·s/cm⁵, 平均動脈壓（mean arterial pressure, MAP） 56 mm Hg。\n\n根據上述血流動力學數值，該病人呈現何種休克型態？",
+      "question": "一名 74 歲男性因重度肺炎併發急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）與敗血性休克入住 加護病房（intensive care unit, ICU）。置有肺動脈導管（PAC）。數值：心臟指數（cardiac index, CI） 4.0 L/min/m², 中央靜脈壓（central venous pressure, CVP） 14 mm Hg, PCWP 16 mm Hg, 全身血管阻力（systemic vascular resistance, SVR） 450 dynes·s/cm⁵, 平均動脈壓（mean arterial pressure, MAP） 56 mm Hg。\n\n根據上述血流動力學數值，該病人呈現何種休克型態？",
       "options": [
         "A. 心因性休克（Cardiogenic shock）。",
         "B. 分佈性／血管擴張性休克（Distributive / Vasodilatory shock）。",
@@ -4744,7 +4744,7 @@ const allChapters = {
     },
     {
       "id": 11,
-      "question": "【臨床案例】一名 74 歲男性因重度肺炎併發急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）與敗血性休克入住 加護病房（intensive care unit, ICU）。置有肺動脈導管（PAC）。數值：心臟指數（cardiac index, CI） 4.0 L/min/m², 中央靜脈壓（central venous pressure, CVP） 14 mm Hg, PCWP 16 mm Hg, 全身血管阻力（systemic vascular resistance, SVR） 450 dynes·s/cm⁵, 平均動脈壓（mean arterial pressure, MAP） 56 mm Hg。\n\n若病人數值轉變為 心臟指數（cardiac index, CI） 1.6 L/min/m², 全身血管阻力（systemic vascular resistance, SVR） 1800 dynes·s/cm⁵, PCWP 24 mm Hg, 中央靜脈壓（central venous pressure, CVP） 20 mm Hg，此時最可能為哪種休克？",
+      "question": "一名 74 歲男性因重度肺炎併發急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）與敗血性休克入住 加護病房（intensive care unit, ICU）。置有肺動脈導管（PAC）。數值：心臟指數（cardiac index, CI） 4.0 L/min/m², 中央靜脈壓（central venous pressure, CVP） 14 mm Hg, PCWP 16 mm Hg, 全身血管阻力（systemic vascular resistance, SVR） 450 dynes·s/cm⁵, 平均動脈壓（mean arterial pressure, MAP） 56 mm Hg。\n\n若病人數值轉變為 心臟指數（cardiac index, CI） 1.6 L/min/m², 全身血管阻力（systemic vascular resistance, SVR） 1800 dynes·s/cm⁵, PCWP 24 mm Hg, 中央靜脈壓（central venous pressure, CVP） 20 mm Hg，此時最可能為哪種休克？",
       "options": [
         "A. 低血容性休克。",
         "B. 敗血性休克。",
@@ -4763,7 +4763,7 @@ const allChapters = {
     },
     {
       "id": 12,
-      "question": "【臨床案例】在休克復甦過程中，精準評估體液反應性（fluid responsiveness）至關重要。\n\n下列哪一項指標在完全被動機械通氣病人中屬於優於靜態指標的動態指標？",
+      "question": "在休克復甦過程中，精準評估體液反應性（fluid responsiveness）至關重要。\n\n下列哪一項指標在完全被動機械通氣病人中屬於優於靜態指標的動態指標？",
       "options": [
         "A. 中央靜脈壓（central venous pressure, CVP）。",
         "B. 肺動脈楔壓（PCWP）。",
@@ -4782,7 +4782,7 @@ const allChapters = {
     },
     {
       "id": 13,
-      "question": "【臨床案例】一名 52 歲男性因膽道感染引發敗血性休克，被動抬腿試驗（PLR）陽性（提示具體液反應性）。已接受 15 mL/kg sodium chloride 溶液。\n\n針對其進一步輸液治療，下列敘述何者最符合實證指引？",
+      "question": "一名 52 歲男性因膽道感染引發敗血性休克，被動抬腿試驗（PLR）陽性（提示具體液反應性）。已接受 15 mL/kg sodium chloride 溶液。\n\n針對其進一步輸液治療，下列敘述何者最符合實證指引？",
       "options": [
         "A. 應立即常規使用 20% 白蛋白輸注，因其膠體滲透壓最高。",
         "B. 應使用羥乙基澱粉（HES）以減少外周水腫。",
@@ -4801,7 +4801,7 @@ const allChapters = {
     },
     {
       "id": 14,
-      "question": "【臨床案例】一名 63 歲女性因敗血性休克接受 norepinephrine 輸注與晶體輸液復甦， 平均動脈壓（mean arterial pressure, MAP） 65 mm Hg。然而心臟超音波顯示雙心室收縮功能嚴重低下，心肌病變， ScvO₂ 僅 52% （提示嚴重心肌抑制與 DO₂ 不足）。\n\n此時針對其心肌功能不全與低組織灌流，新增下列哪一種血管活性藥物最為適當？",
+      "question": "一名 63 歲女性因敗血性休克接受 norepinephrine 輸注與晶體輸液復甦， 平均動脈壓（mean arterial pressure, MAP） 65 mm Hg。然而心臟超音波顯示雙心室收縮功能嚴重低下，心肌病變， ScvO₂ 僅 52% （提示嚴重心肌抑制與 DO₂ 不足）。\n\n此時針對其心肌功能不全與低組織灌流，新增下列哪一種血管活性藥物最為適當？",
       "options": [
         "A. phenylephrine。",
         "B. vasopressin。",
@@ -4820,7 +4820,7 @@ const allChapters = {
     },
     {
       "id": 15,
-      "question": "【臨床案例】一名 70 歲女性因發燒與呼吸急促就診急診。生命徵象：血壓 96/58 mm Hg （SBP < 100）、心率 108 次 / 分、呼吸 24 次 / 分（RR ≥ 22）、 格拉斯哥昏迷指數（Glasgow Coma Scale, GCS） 14 分（嗜睡意識改變）。數值： 白血球計數（white blood cell count, WBC） 14 × 10³ cells/mm³, 血小板 80,000/mm³, 血清肌酸酐（serum creatinine, SCr） 1.9 mg/dL （基線 0.8） , 乳酸 2.4 mmol/L。未需要升壓劑維持血壓。\n\n根據 Sepsis-3 最新國際定義，該病人的臨床狀態最精準符合下列何者？",
+      "question": "一名 70 歲女性因發燒與呼吸急促就診急診。生命徵象：血壓 96/58 mm Hg （SBP < 100）、心率 108 次 / 分、呼吸 24 次 / 分（RR ≥ 22）、 格拉斯哥昏迷指數（Glasgow Coma Scale, GCS） 14 分（嗜睡意識改變）。數值： 白血球計數（white blood cell count, WBC） 14 × 10³ cells/mm³, 血小板 80,000/mm³, 血清肌酸酐（serum creatinine, SCr） 1.9 mg/dL （基線 0.8） , 乳酸 2.4 mmol/L。未需要升壓劑維持血壓。\n\n根據 Sepsis-3 最新國際定義，該病人的臨床狀態最精準符合下列何者？",
       "options": [
         "A. 嚴重全身性發炎反應症候群（SIRS）。",
         "B. 敗血症（Sepsis）。",
@@ -4839,7 +4839,7 @@ const allChapters = {
     },
     {
       "id": 16,
-      "question": "【臨床案例】一名 71 歲男性有缺血性心肌病變病史（LVEF 20%），因憩室炎穿孔引發腹膜炎與低血壓（MAP 58 mm Hg）入住 加護病房（intensive care unit, ICU）。充分輸液後 ScvO₂ 75%，但乳酸高達 4.1 mmol/L。\n\n針對其血壓與休克處置，下列哪項處方最為適當？",
+      "question": "一名 71 歲男性有缺血性心肌病變病史（LVEF 20%），因憩室炎穿孔引發腹膜炎與低血壓（MAP 58 mm Hg）入住 加護病房（intensive care unit, ICU）。充分輸液後 ScvO₂ 75%，但乳酸高達 4.1 mmol/L。\n\n針對其血壓與休克處置，下列哪項處方最為適當？",
       "options": [
         "A. 啟動 norepinephrine 輸注，目標 平均動脈壓（mean arterial pressure, MAP） ≥ 65 mm Hg。",
         "B. 單獨啟動 vasopressin 輸注，目標 平均動脈壓（mean arterial pressure, MAP） ≥ 65 mm Hg。",
@@ -4858,7 +4858,7 @@ const allChapters = {
     },
     {
       "id": 17,
-      "question": "【臨床案例】一名 59 歲男性因肺炎引發敗血性休克，在完成 30 mL/kg 輸液後，目前正接受 norepinephrine 0.05 mcg/kg/min 輸注。生命徵象：血壓 110/68 mm Hg （MAP 82 mm Hg），心率 88 次 / 分，尿量 0.8 mL/kg/h，乳酸 1.6 mmol/L。住院醫師詢問是否應進行 ACTH 刺激試驗並常規給予 hydrocortisone。\n\n針對重症皮質類固醇的處置，下列何者最適當？",
+      "question": "一名 59 歲男性因肺炎引發敗血性休克，在完成 30 mL/kg 輸液後，目前正接受 norepinephrine 0.05 mcg/kg/min 輸注。生命徵象：血壓 110/68 mm Hg （MAP 82 mm Hg），心率 88 次 / 分，尿量 0.8 mL/kg/h，乳酸 1.6 mmol/L。住院醫師詢問是否應進行 ACTH 刺激試驗並常規給予 hydrocortisone。\n\n針對重症皮質類固醇的處置，下列何者最適當？",
       "options": [
         "A. 進行 ACTH 刺激試驗，若皮質醇增加 < 9 mcg/dL 則給予 hydrocortisone。",
         "B. 立即給予高劑量 methylprednisolone 1 g/day。",
@@ -4879,7 +4879,7 @@ const allChapters = {
   "16": [
     {
       "id": 1,
-      "question": "【臨床案例】一名 41 歲男性因機車車禍就診急診。評估發現肋骨骨折、骨盆骨折及雙側股骨骨折。病人意識混亂，生命徵象：血壓 82/48 mm Hg、心率 125 次 / 分、呼吸 34 次 / 分、體溫 95°F （35°C）。進一步評估顯示失血量約佔其全身總血容量的 35%。\n\n根據外傷失血分級（ATLS classification），該病人的出血性休克最精準屬於哪一級？",
+      "question": "一名 41 歲男性因機車車禍就診急診。評估發現肋骨骨折、骨盆骨折及雙側股骨骨折。病人意識混亂，生命徵象：血壓 82/48 mm Hg、心率 125 次 / 分、呼吸 34 次 / 分、體溫 95°F （35°C）。進一步評估顯示失血量約佔其全身總血容量的 35%。\n\n根據外傷失血分級（ATLS classification），該病人的出血性休克最精準屬於哪一級？",
       "options": [
         "A. 第 I 級（Class I）。",
         "B. 第 II 級（Class II）。",
@@ -4898,7 +4898,7 @@ const allChapters = {
     },
     {
       "id": 2,
-      "question": "【臨床案例】一名 62 歲男性有酒精性肝硬化與門脈高壓病史，因虛弱及吐血（hematemesis）就診急診。生命徵象：血壓 76/42 mm Hg、心率 134 次 / 分、呼吸 28 次 / 分。實驗室檢查： Hb 6.8 g/dL, 血小板 65,000/mm³, 國際標準化比值（international normalized ratio, INR） 2.1, 乳酸 4.8 mmol/L。\n\n根據 Fick 方程式（DO₂ = 10 × CO × CaO₂），下列哪一項數值最不直接代表或反映該病人的氧氣輸送（DO₂）受損？",
+      "question": "一名 62 歲男性有酒精性肝硬化與門脈高壓病史，因虛弱及吐血（hematemesis）就診急診。生命徵象：血壓 76/42 mm Hg、心率 134 次 / 分、呼吸 28 次 / 分。實驗室檢查： Hb 6.8 g/dL, 血小板 65,000/mm³, 國際標準化比值（international normalized ratio, INR） 2.1, 乳酸 4.8 mmol/L。\n\n根據 Fick 方程式（DO₂ = 10 × CO × CaO₂），下列哪一項數值最不直接代表或反映該病人的氧氣輸送（DO₂）受損？",
       "options": [
         "A. 收縮壓 76 mm Hg。",
         "B. 血紅素（Hb） 6.8 g/dL。",
@@ -4917,7 +4917,7 @@ const allChapters = {
     },
     {
       "id": 3,
-      "question": "【臨床案例】一名 28 歲男性因穿刺傷大失血送抵急診，呈現休克狀態。團隊正啟動大量輸血協定（MTP）。\n\n在大量輸血復甦過程中，針對血小板與血漿的目標，下列何者最適當？",
+      "question": "一名 28 歲男性因穿刺傷大失血送抵急診，呈現休克狀態。團隊正啟動大量輸血協定（MTP）。\n\n在大量輸血復甦過程中，針對血小板與血漿的目標，下列何者最適當？",
       "options": [
         "A. 維持血小板大於 20,000/mm³ 且 國際標準化比值（international normalized ratio, INR）小於 3.0。",
         "B. 維持血小板大於 100,000/mm³ 且 國際標準化比值（international normalized ratio, INR）小於 1.0。",
@@ -4936,7 +4936,7 @@ const allChapters = {
     },
     {
       "id": 4,
-      "question": "【臨床案例】一名 50 歲男性在外傷大出血接受 10 單位 PRBC 與 8 單位 FFP 輸注後，心電圖出現 QT 間期延長，且肌肉抽搐、低血壓對升壓劑反應不佳。\n\n下列哪一項電解質異常最可能是導致此現象的原因，且應如何處置？",
+      "question": "一名 50 歲男性在外傷大出血接受 10 單位 PRBC 與 8 單位 FFP 輸注後，心電圖出現 QT 間期延長，且肌肉抽搐、低血壓對升壓劑反應不佳。\n\n下列哪一項電解質異常最可能是導致此現象的原因，且應如何處置？",
       "options": [
         "A. 高血鈣；給予 furosemide。",
         "B. 低游離鈣血症（Hypocalcemia）；靜脈給予 calcium chloride 或 calcium gluconate。",
@@ -4955,7 +4955,7 @@ const allChapters = {
     },
     {
       "id": 5,
-      "question": "【臨床案例】一名 35 歲外傷大出血休克病人於受傷後 45 分鐘送達急診。\n\n關於抗纖維蛋白溶解劑 Tranexamic acid （TXA）在該病人中的使用，下列敘述何者最符合 CRASH-2 里程碑試驗之實證？",
+      "question": "一名 35 歲外傷大出血休克病人於受傷後 45 分鐘送達急診。\n\n關於抗纖維蛋白溶解劑 Tranexamic acid （TXA）在該病人中的使用，下列敘述何者最符合 CRASH-2 里程碑試驗之實證？",
       "options": [
         "A. 應於受傷後 3 小時內儘早給予首劑 TXA 1 g 靜脈輸注 10 分鐘，隨後以 1 g 輸注 8 小時，能顯著降低全因死亡率與大出血死亡率。",
         "B. 若受傷已超過 3 小時，仍應常規給予 TXA，因延遲給藥療效不變。",
@@ -4974,7 +4974,7 @@ const allChapters = {
     },
     {
       "id": 6,
-      "question": "【臨床案例】一名 78 歲男性因非瓣膜性心房顫動長期服用 apixaban 5 mg 每日兩次（twice daily, BID），現因急性大腦實質顱內出血（intracerebral hemorrhage, ICH）呈現昏迷收治神經重症 加護病房（intensive care unit, ICU）。最後一次服藥時間為 4 小時前。\n\n針對其 apixaban 相關危及生命之重大出血，首選的反轉中和處置為何？",
+      "question": "一名 78 歲男性因非瓣膜性心房顫動長期服用 apixaban 5 mg 每日兩次（twice daily, BID），現因急性大腦實質顱內出血（intracerebral hemorrhage, ICH）呈現昏迷收治神經重症 加護病房（intensive care unit, ICU）。最後一次服藥時間為 4 小時前。\n\n針對其 apixaban 相關危及生命之重大出血，首選的反轉中和處置為何？",
       "options": [
         "A. Idarucizumab 5 g 靜脈輸注。",
         "B. Andexanet alfa 靜脈輸注（或若無法取得則給予 4-factor PCC 50 units/kg）。",
@@ -4993,7 +4993,7 @@ const allChapters = {
     },
     {
       "id": 7,
-      "question": "【臨床案例】一名 68 歲女性因心房顫動服用 warfarin，現因創傷性顱內硬腦膜下出血（SDH）就診急診，入院 國際標準化比值（international normalized ratio, INR）為 4.5。\n\n針對 warfarin 引起的危及生命大出血，下列何種急性反轉處置最為迅速且適當？",
+      "question": "一名 68 歲女性因心房顫動服用 warfarin，現因創傷性顱內硬腦膜下出血（SDH）就診急診，入院 國際標準化比值（international normalized ratio, INR）為 4.5。\n\n針對 warfarin 引起的危及生命大出血，下列何種急性反轉處置最為迅速且適當？",
       "options": [
         "A. 單純給予新鮮冷凍血漿（FFP） 4 單位。",
         "B. 4 因子凝血酶原複合物濃縮劑（4F-PCC）依體重與 國際標準化比值（international normalized ratio, INR）給藥，並合併靜脈注射維生素 K 10 mg。",
@@ -5012,7 +5012,7 @@ const allChapters = {
     },
     {
       "id": 8,
-      "question": "【臨床案例】一名 70 歲男性因急性下肢深部靜脈血栓接受未分餾 heparin （unfractionated heparin, UFH）靜脈輸注，因劑量計算錯誤導致給藥過量，目前 活化部分凝血活酶時間（activated partial thromboplastin time, aPTT） > 150 秒並出現自發性腹膜後血腫。過去 1 小時內已停止 heparin 輸注，估計體內殘留約 5000 units heparin。\n\n針對其 heparin 過量出血，最適當的 protamine sulfate 中和劑量為何？",
+      "question": "一名 70 歲男性因急性下肢深部靜脈血栓接受未分餾 heparin （unfractionated heparin, UFH）靜脈輸注，因劑量計算錯誤導致給藥過量，目前 活化部分凝血活酶時間（activated partial thromboplastin time, aPTT） > 150 秒並出現自發性腹膜後血腫。過去 1 小時內已停止 heparin 輸注，估計體內殘留約 5000 units heparin。\n\n針對其 heparin 過量出血，最適當的 protamine sulfate 中和劑量為何？",
       "options": [
         "A. Protamine sulfate 50 mg 靜脈緩慢輸注超過 10 分鐘（中和比例約 1 mg protamine 中和 100 units heparin，單次上限 50 mg）。",
         "B. Protamine sulfate 250 mg 快速推注。",
@@ -5031,7 +5031,7 @@ const allChapters = {
     },
     {
       "id": 9,
-      "question": "【臨床案例】一名 60 歲女性（體重 140 kg）突發急性次大塊肺栓塞（pulmonary embolism, PE）併發低血壓性阻塞性休克（收縮壓 78 mm Hg, 心率 130 bpm, CTA 證實雙側大塊 PE）。無活動性出血或抗凝禁忌。\n\n針對此高危險（massive/high-risk）肺栓塞併發休克病人，下列哪一種全身溶栓藥物處方最適當？",
+      "question": "一名 60 歲女性（體重 140 kg）突發急性次大塊肺栓塞（pulmonary embolism, PE）併發低血壓性阻塞性休克（收縮壓 78 mm Hg, 心率 130 bpm, CTA 證實雙側大塊 PE）。無活動性出血或抗凝禁忌。\n\n針對此高危險（massive/high-risk）肺栓塞併發休克病人，下列哪一種全身溶栓藥物處方最適當？",
       "options": [
         "A. tenecteplase 50 mg 靜脈推注一次。",
         "B. 暫緩溶栓，等待心臟超音波與心肌酵素報告出爐再決定。",
@@ -5050,7 +5050,7 @@ const allChapters = {
     },
     {
       "id": 10,
-      "question": "【臨床案例】一名 67 歲男性在狩獵時臀部意外遭受槍傷，立即送至急診。轉送途中接受 500 mL 乳酸林格氏液。入院生命徵象：血壓 104/58 mm Hg、心率 108 次 / 分、呼吸 22 次 / 分、體溫 95°F （35°C）。疼痛評分 8/10，表情焦慮。骨盆與腹部檢查懷疑有活動性穿刺血管損傷。\n\n針對此穿刺傷出血病人的初期液體復甦策略，下列何者最適當？",
+      "question": "一名 67 歲男性在狩獵時臀部意外遭受槍傷，立即送至急診。轉送途中接受 500 mL 乳酸林格氏液。入院生命徵象：血壓 104/58 mm Hg、心率 108 次 / 分、呼吸 22 次 / 分、體溫 95°F （35°C）。疼痛評分 8/10，表情焦慮。骨盆與腹部檢查懷疑有活動性穿刺血管損傷。\n\n針對此穿刺傷出血病人的初期液體復甦策略，下列何者最適當？",
       "options": [
         "A. 以 1000 mL/h 快速輸注乳酸林格氏液以維持尿量大於 30 mL/h。",
         "B. 大量靜脈輸注晶體液使血壓迅速升至收縮壓 > 140 mm Hg。",
@@ -5069,7 +5069,7 @@ const allChapters = {
     },
     {
       "id": 11,
-      "question": "【臨床案例】一名 29 歲男性（身高 72 英吋，體重 85 kg）在煉鋼廠工作跌入高溫爐渣，造成下肢與臀部 40% 總體表面積（TBSA）之二至三度燒傷收治燒傷中心。轉送途中已接受 500 mL sodium chloride 溶液。住院醫師請您協助依 Parkland 公式計算前 24 小時的輸液需求。\n\n針對其燒傷休克輸液復甦，下列計算與給藥計畫何者最佳？",
+      "question": "一名 29 歲男性（身高 72 英吋，體重 85 kg）在煉鋼廠工作跌入高溫爐渣，造成下肢與臀部 40% 總體表面積（TBSA）之二至三度燒傷收治燒傷中心。轉送途中已接受 500 mL sodium chloride 溶液。住院醫師請您協助依 Parkland 公式計算前 24 小時的輸液需求。\n\n針對其燒傷休克輸液復甦，下列計算與給藥計畫何者最佳？",
       "options": [
         "A. 前 24 小時給予 15 L 乳酸林格氏液，前 12 小時以 1000 mL/h 給予。",
         "B. 根據 Parkland 公式 [4 mL × kg × %TBSA]，前 24 小時總量為 13,600 mL 乳酸林格氏液；扣除途中 500 mL 後，前 8 小時給予一半（約 800 mL/h），後 16 小時給予另一半（約 425 mL/h），並依尿量 0.5 mL/kg/h 動態滴定。",
@@ -5088,7 +5088,7 @@ const allChapters = {
     },
     {
       "id": 12,
-      "question": "【臨床案例】D.R. 是一名 37 歲男性，騎機車撞上鹿後送醫。初次評估：已插管、呼吸 37 次 / 分、 收縮壓（systolic blood pressure, SBP） 72 mm Hg、心率 141 次 / 分、 格拉斯哥昏迷指數（Glasgow Coma Scale, GCS） 5T。腹部超音波 FAST 檢驗呈陽性（腹腔內大出血）。啟動大量輸血協定（MTP），送往手術室進行緊急剖腹探查術。\n\n針對其低血容出血性休克，最佳的初始復甦策略為何？",
+      "question": "D.R. 是一名 37 歲男性，騎機車撞上鹿後送醫。初次評估：已插管、呼吸 37 次 / 分、 收縮壓（systolic blood pressure, SBP） 72 mm Hg、心率 141 次 / 分、 格拉斯哥昏迷指數（Glasgow Coma Scale, GCS） 5T。腹部超音波 FAST 檢驗呈陽性（腹腔內大出血）。啟動大量輸血協定（MTP），送往手術室進行緊急剖腹探查術。\n\n針對其低血容出血性休克，最佳的初始復甦策略為何？",
       "options": [
         "A. 快速加壓輸注 0.9% sodium chloride 溶液 3 L。",
         "B. 等待血紅素與凝血檢驗回報後再開始輸血。",
@@ -5107,7 +5107,7 @@ const allChapters = {
     },
     {
       "id": 13,
-      "question": "【臨床案例】D.R. 是一名 37 歲男性，騎機車撞上鹿後送醫。初次評估：已插管、呼吸 37 次 / 分、 收縮壓（systolic blood pressure, SBP） 72 mm Hg、心率 141 次 / 分、 格拉斯哥昏迷指數（Glasgow Coma Scale, GCS） 5T。腹部超音波 FAST 檢驗呈陽性（腹腔內大出血）。啟動大量輸血協定（MTP），送往手術室進行緊急剖腹探查術。\n\n在大量輸血過程中，針對酸中毒與電解質紊亂，下列哪一項處置最適當？",
+      "question": "D.R. 是一名 37 歲男性，騎機車撞上鹿後送醫。初次評估：已插管、呼吸 37 次 / 分、 收縮壓（systolic blood pressure, SBP） 72 mm Hg、心率 141 次 / 分、 格拉斯哥昏迷指數（Glasgow Coma Scale, GCS） 5T。腹部超音波 FAST 檢驗呈陽性（腹腔內大出血）。啟動大量輸血協定（MTP），送往手術室進行緊急剖腹探查術。\n\n在大量輸血過程中，針對酸中毒與電解質紊亂，下列哪一項處置最適當？",
       "options": [
         "A. 常規給予 sodium bicarbonate 以糾正代謝性酸中毒。",
         "B. 監測游離鈣濃度，並積極給予靜脈鈣劑以維持游離鈣在正常範圍。",
@@ -5126,7 +5126,7 @@ const allChapters = {
     },
     {
       "id": 14,
-      "question": "【臨床案例】一名 54 歲男性因車輛翻覆事故送醫， FAST 陽性，接受剖腹探查術切除第 5 級脾臟破裂。入院 4 小時內已接受 14 單位 PRBC、 12 單位 FFP 及 10 單位血小板。\n\n在完成上述大量輸血後，下列哪一項併發症最不可能發生或需特別注意？",
+      "question": "一名 54 歲男性因車輛翻覆事故送醫， FAST 陽性，接受剖腹探查術切除第 5 級脾臟破裂。入院 4 小時內已接受 14 單位 PRBC、 12 單位 FFP 及 10 單位血小板。\n\n在完成上述大量輸血後，下列哪一項併發症最不可能發生或需特別注意？",
       "options": [
         "A. 低體溫（Hypothermia）。",
         "B. 高血鉀（Hyperkalemia）。",
@@ -5145,7 +5145,7 @@ const allChapters = {
     },
     {
       "id": 15,
-      "question": "【臨床案例】一名 60 歲女性因跌倒導致顱內出血，目前正服用 dabigatran 150 mg 每日兩次（twice daily, BID）預防房顫中風，最後一次服藥為 2 小時前。\n\n針對其 dabigatran 相關危及生命大出血，首選專一性反轉拮抗劑為何？",
+      "question": "一名 60 歲女性因跌倒導致顱內出血，目前正服用 dabigatran 150 mg 每日兩次（twice daily, BID）預防房顫中風，最後一次服藥為 2 小時前。\n\n針對其 dabigatran 相關危及生命大出血，首選專一性反轉拮抗劑為何？",
       "options": [
         "A. Andexanet alfa。",
         "B. Idarucizumab 5 g 靜脈輸注。",
@@ -5164,7 +5164,7 @@ const allChapters = {
     },
     {
       "id": 16,
-      "question": "【臨床案例】一名 48 歲女性（體重 75 kg）因呼吸短促就診急診，胸部 CT 血管攝影（CTA）顯示右肺動脈次節分支肺栓塞（pulmonary embolism, PE），無右心室擴大。生命徵象：心率 118 次 / 分、血壓 98/62 mm Hg、尿量 1 mL/kg/h、 Troponin T 0.06 ng/mL、 BNP 60 pg/mL、乳酸 0.9 mmol/L。\n\n根據危險分層，該病人的肺栓塞嚴重度與最適當的初期抗凝治療為何？",
+      "question": "一名 48 歲女性（體重 75 kg）因呼吸短促就診急診，胸部 CT 血管攝影（CTA）顯示右肺動脈次節分支肺栓塞（pulmonary embolism, PE），無右心室擴大。生命徵象：心率 118 次 / 分、血壓 98/62 mm Hg、尿量 1 mL/kg/h、 Troponin T 0.06 ng/mL、 BNP 60 pg/mL、乳酸 0.9 mmol/L。\n\n根據危險分層，該病人的肺栓塞嚴重度與最適當的初期抗凝治療為何？",
       "options": [
         "A. 高危險性 肺栓塞（pulmonary embolism, PE）；應立即給予全身性溶栓治療（Alteplase 100 mg）。",
         "B. 低危險性 肺栓塞（pulmonary embolism, PE）；可門診口服 aspirin 治療。",
@@ -5183,7 +5183,7 @@ const allChapters = {
     },
     {
       "id": 17,
-      "question": "【臨床案例】一名 52 歲男性因車禍多處創傷導致大量腹腔出血，目前接受緊急手術與大量輸血復甦。目前已使用 TXA、 1:1:1 輸血及補充足量鈣離子。體溫已由 34.2°C 回升至 36.5°C。外科醫師詢問是否可給予重組第七凝血因子（rFVIIa）作為輔助止血。\n\n關於外傷大出血中使用 recombinant factor VIIa （rFVIIa），下列何者最符合目前指引與實證？",
+      "question": "一名 52 歲男性因車禍多處創傷導致大量腹腔出血，目前接受緊急手術與大量輸血復甦。目前已使用 TXA、 1:1:1 輸血及補充足量鈣離子。體溫已由 34.2°C 回升至 36.5°C。外科醫師詢問是否可給予重組第七凝血因子（rFVIIa）作為輔助止血。\n\n關於外傷大出血中使用 recombinant factor VIIa （rFVIIa），下列何者最符合目前指引與實證？",
       "options": [
         "A. rFVIIa 應作為所有外傷大出血病人的第一線常規用藥。",
         "B. rFVIIa 已經被證實能顯著改善外傷大出血病人的長期全因死亡率。",
@@ -5204,7 +5204,7 @@ const allChapters = {
   "17": [
     {
       "id": 1,
-      "question": "【臨床案例】P.J. 是一名無重大過去病史的女性病人，因重症使用呼吸器正接受 propofol 50–60 mcg/kg/min 及 fentanyl 75–100 mcg/h 持續輸注達 4 天。今日實驗室檢驗顯示其轉氨酶（AST/ALT）升至基線的 5 倍、血清乳酸升至 5 mmol/L、三酸甘油酯（triglyceride）升至 450 mg/dL。未新增其他藥物。\n\n考量上述檢驗數值變化，醫療團隊目前最應緊急處理的潛在重大併發症為何？",
+      "question": "P.J. 是一名無重大過去病史的女性病人，因重症使用呼吸器正接受 propofol 50–60 mcg/kg/min 及 fentanyl 75–100 mcg/h 持續輸注達 4 天。今日實驗室檢驗顯示其轉氨酶（AST/ALT）升至基線的 5 倍、血清乳酸升至 5 mmol/L、三酸甘油酯（triglyceride）升至 450 mg/dL。未新增其他藥物。\n\n考量上述檢驗數值變化，醫療團隊目前最應緊急處理的潛在重大併發症為何？",
       "options": [
         "A. 深部靜脈血栓（deep vein thrombosis, DVT）。",
         "B. 重症多發性神經病變（CIP）。",
@@ -5223,7 +5223,7 @@ const allChapters = {
     },
     {
       "id": 2,
-      "question": "【臨床案例】在評估長期使用靜脈鎮靜劑的重症病人時。\n\n下列哪一項關於鎮靜策略的敘述最符合最新 PADIS 指南之實證建議？",
+      "question": "在評估長期使用靜脈鎮靜劑的重症病人時。\n\n下列哪一項關於鎮靜策略的敘述最符合最新 PADIS 指南之實證建議？",
       "options": [
         "A. 所有接受機械通氣的重症病人都應維持深度鎮靜（RASS −4 至 −5），以避免非預期拔管。",
         "B. 在接受機械通氣的成人重症病人中，優先推薦使用非苯二氮平類鎮靜劑（propofol 或 dexmedetomidine），優於苯二氮平類藥物（midazolam 或 lorazepam）。",
@@ -5242,7 +5242,7 @@ const allChapters = {
     },
     {
       "id": 3,
-      "question": "【臨床案例】在加護病房中評估無法以言語表達的插管重症病人之疼痛程度。\n\n下列哪一項評估工具屬於經實證驗證且指南推薦的有效客觀疼痛評估量表？",
+      "question": "在加護病房中評估無法以言語表達的插管重症病人之疼痛程度。\n\n下列哪一項評估工具屬於經實證驗證且指南推薦的有效客觀疼痛評估量表？",
       "options": [
         "A. 單純監測心率與血壓的波動。",
         "B. 鎮靜安撫評分（Richmond Agitation-Sedation Scale, RASS）。",
@@ -5261,7 +5261,7 @@ const allChapters = {
     },
     {
       "id": 4,
-      "question": "【臨床案例】一名 54 歲男性因重度 急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）接受長時間 fentanyl 高劑量持續輸注（>5 天）合併 propofol。近日病人出現嚴重急性肝功能障礙伴低白蛋白血症，且 fentanyl 鎮靜蓄積時間顯著超出預期。\n\n下列哪一項藥物動力學（pharmacokinetics, PK）特性最能合理解釋長時間輸注 fentanyl 在肝功能衰竭病人中清除率大幅延遲且作用時間延長的現象？",
+      "question": "一名 54 歲男性因重度 急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）接受長時間 fentanyl 高劑量持續輸注（>5 天）合併 propofol。近日病人出現嚴重急性肝功能障礙伴低白蛋白血症，且 fentanyl 鎮靜蓄積時間顯著超出預期。\n\n下列哪一項藥物動力學（pharmacokinetics, PK）特性最能合理解釋長時間輸注 fentanyl 在肝功能衰竭病人中清除率大幅延遲且作用時間延長的現象？",
       "options": [
         "A. fentanyl 主要經由腎臟排泄未改變原型藥物。",
         "B. fentanyl 具高度親脂性（high lipophilicity）與極大分佈體積，長期輸注時情境敏感半衰期（context- sensitive half-time）顯著延長，且主要經肝臟 CYP3A4 代謝，肝衰竭時清除率急劇下降。",
@@ -5280,7 +5280,7 @@ const allChapters = {
     },
     {
       "id": 5,
-      "question": "【臨床案例】一名 58 歲女性因肺炎收治 加護病房（intensive care unit, ICU），入院前長期於門診服用 alprazolam 1 mg 每日三次（three times daily, TID）及 paroxetine 20 mg 每日一次（once daily, QD）。入院後因未核對居家藥物而中斷給藥。住院第 3 天，病人突發嚴重躁動、焦慮、失眠、瞻妄，並伴隨血壓 180/100 mm Hg 及心率 125 次 / 分。呼吸狀況尚可，無發燒或感染源擴散。\n\n此時臨床藥師應優先向醫療團隊提出何種處置建議？",
+      "question": "一名 58 歲女性因肺炎收治 加護病房（intensive care unit, ICU），入院前長期於門診服用 alprazolam 1 mg 每日三次（three times daily, TID）及 paroxetine 20 mg 每日一次（once daily, QD）。入院後因未核對居家藥物而中斷給藥。住院第 3 天，病人突發嚴重躁動、焦慮、失眠、瞻妄，並伴隨血壓 180/100 mm Hg 及心率 125 次 / 分。呼吸狀況尚可，無發燒或感染源擴散。\n\n此時臨床藥師應優先向醫療團隊提出何種處置建議？",
       "options": [
         "A. 立即加開高劑量 fentanyl 持續靜脈輸注以強力鎮靜。",
         "B. 詳實評估其居家長期用藥史，辨識出急性苯二氮平類及抗憂鬱劑之「藥物戒斷症候群（drug withdrawal syndrome） 」，並儘速恢復其居家口服藥物治療。",
@@ -5299,7 +5299,7 @@ const allChapters = {
     },
     {
       "id": 6,
-      "question": "【臨床案例】在加護病房每日評估病人譫妄狀態時。\n\n下列哪一項工具為經過嚴謹驗證且目前指南強烈推薦之重症病人譫妄篩檢工具？",
+      "question": "在加護病房每日評估病人譫妄狀態時。\n\n下列哪一項工具為經過嚴謹驗證且目前指南強烈推薦之重症病人譫妄篩檢工具？",
       "options": [
         "A. 重症照護疼痛觀察工具（Critical-Care Pain Observation Tool, CPOT）。",
         "B. 簡短智能測驗（MMSE）。",
@@ -5318,7 +5318,7 @@ const allChapters = {
     },
     {
       "id": 7,
-      "question": "【臨床案例】一名 65 歲男性因重度 急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）接受持續神經肌肉阻斷劑（NMBA，如 cisatracurium）輸注以改善嚴重人機不同步與危及生命的低氧血症。\n\n在給予持續神經肌肉阻斷治療期間，下列哪一項照護措施屬於不可或缺且強制執行的原則？",
+      "question": "一名 65 歲男性因重度 急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）接受持續神經肌肉阻斷劑（NMBA，如 cisatracurium）輸注以改善嚴重人機不同步與危及生命的低氧血症。\n\n在給予持續神經肌肉阻斷治療期間，下列哪一項照護措施屬於不可或缺且強制執行的原則？",
       "options": [
         "A. 停止所有鎮靜與止痛藥物，避免遮蔽神經功能監測。",
         "B. 在啟動肌鬆劑前及輸注全程，必須確保給予充足且深度的鎮靜劑與止痛劑，並給予常規眼部潤滑保護以防角膜潰瘍。",
@@ -5337,7 +5337,7 @@ const allChapters = {
     },
     {
       "id": 8,
-      "question": "【臨床案例】關於重症加護病房內譫妄（ICU Delirium）的預防與處置策略。\n\n下列哪一項陳述最符合當前 PADIS 指南及 MIND-USA 大型臨床試驗的結論？",
+      "question": "關於重症加護病房內譫妄（ICU Delirium）的預防與處置策略。\n\n下列哪一項陳述最符合當前 PADIS 指南及 MIND-USA 大型臨床試驗的結論？",
       "options": [
         "A. 常規預防性給予 haloperidol 或非典型抗精神病藥能顯著降低譫妄發生率。",
         "B. 所有譫妄病人均應常規啟動 lorazepam 靜脈注射治療。",
@@ -5356,7 +5356,7 @@ const allChapters = {
     },
     {
       "id": 9,
-      "question": "【臨床案例】T.O. 是一名 70 歲男性，因車禍多處骨折剛收治 加護病房（intensive care unit, ICU），病史包含高血壓。氣管內插管後出現明顯躁動。數值正常，生命徵象：血壓 175/95 mm Hg、心率 110 次 / 分。\n\n此時下列哪一組初始鎮靜止痛處方最為適當？",
+      "question": "T.O. 是一名 70 歲男性，因車禍多處骨折剛收治 加護病房（intensive care unit, ICU），病史包含高血壓。氣管內插管後出現明顯躁動。數值正常，生命徵象：血壓 175/95 mm Hg、心率 110 次 / 分。\n\n此時下列哪一組初始鎮靜止痛處方最為適當？",
       "options": [
         "A. fentanyl 持續輸注合併 midazolam 持續輸注。",
         "B. 單純 propofol 輸注，並視需要給予 fentanyl。",
@@ -5375,7 +5375,7 @@ const allChapters = {
     },
     {
       "id": 10,
-      "question": "【臨床案例】T.O. 是一名 70 歲男性，因車禍多處骨折剛收治 加護病房（intensive care unit, ICU），病史包含高血壓。氣管內插管後出現明顯躁動。數值正常，生命徵象：血壓 175/95 mm Hg、心率 110 次 / 分。\n\n在啟動處方 2 小時後， T.O. 的 重症疼痛觀察工具（Critical-Care Pain Observation Tool, CPOT）評分為 0 （無疼痛），但 Richmond 躁動鎮靜量表（Richmond Agitation-Sedation Scale, RASS）評分為 +2 （躁動、試圖拔管）。血壓 150/85 mm Hg、心率 95 次 / 分。此時下一步處置何者最佳？",
+      "question": "T.O. 是一名 70 歲男性，因車禍多處骨折剛收治 加護病房（intensive care unit, ICU），病史包含高血壓。氣管內插管後出現明顯躁動。數值正常，生命徵象：血壓 175/95 mm Hg、心率 110 次 / 分。\n\n在啟動處方 2 小時後， T.O. 的 重症疼痛觀察工具（Critical-Care Pain Observation Tool, CPOT）評分為 0 （無疼痛），但 Richmond 躁動鎮靜量表（Richmond Agitation-Sedation Scale, RASS）評分為 +2 （躁動、試圖拔管）。血壓 150/85 mm Hg、心率 95 次 / 分。此時下一步處置何者最佳？",
       "options": [
         "A. 調高 fentanyl 輸注速率。",
         "B. 靜脈推注 lorazepam 4 mg。",
@@ -5394,7 +5394,7 @@ const allChapters = {
     },
     {
       "id": 11,
-      "question": "【臨床案例】一名 48 歲男性有肝硬化及肝腎症候群病史，因呼吸窘迫插管收治 加護病房（intensive care unit, ICU）。過去 2 天接受 midazolam 1 mg/h 及 fentanyl 75 mcg/h 輸注；過去 24 小時 Richmond 躁動鎮靜量表（Richmond Agitation-Sedation Scale, RASS）持續為 −4 至 −5 （過度深度鎮靜）， 重症疼痛觀察工具（Critical-Care Pain Observation Tool, CPOT）為 1 分。氧氣需求已顯著下降且生命徵象平穩。\n\n針對其用藥調整，下列哪一項最適當？",
+      "question": "一名 48 歲男性有肝硬化及肝腎症候群病史，因呼吸窘迫插管收治 加護病房（intensive care unit, ICU）。過去 2 天接受 midazolam 1 mg/h 及 fentanyl 75 mcg/h 輸注；過去 24 小時 Richmond 躁動鎮靜量表（Richmond Agitation-Sedation Scale, RASS）持續為 −4 至 −5 （過度深度鎮靜）， 重症疼痛觀察工具（Critical-Care Pain Observation Tool, CPOT）為 1 分。氧氣需求已顯著下降且生命徵象平穩。\n\n針對其用藥調整，下列哪一項最適當？",
       "options": [
         "A. 調降 midazolam；若出現躁動則視需要給予 lorazepam。",
         "B. 停用 midazolam 與 fentanyl 持續輸注；改為僅在 重症疼痛觀察工具（Critical-Care Pain Observation Tool, CPOT） ≥ 3 分時視需要給予 PRN fentanyl，並促進病人甦醒與早期拔管評估。",
@@ -5413,7 +5413,7 @@ const allChapters = {
     },
     {
       "id": 12,
-      "question": "【臨床案例】一名 52 歲女性因感染性休克插管收治 加護病房（intensive care unit, ICU）。病史包含重度憂鬱症與焦慮症，居家長期服用 clonazepam 1 mg 每日三次（three times daily, TID）及 duloxetine 60 mg 每日一次（once daily, QD）。入院第 4 天休克已緩解，停用升壓劑，但病人突發極度躁動、出汗、心搏過速與震顫，無法配合呼吸機。\n\n臨床藥師核對用藥紀錄後發現上述居家藥物入院後皆未開立。此時最佳處置為何？",
+      "question": "一名 52 歲女性因感染性休克插管收治 加護病房（intensive care unit, ICU）。病史包含重度憂鬱症與焦慮症，居家長期服用 clonazepam 1 mg 每日三次（three times daily, TID）及 duloxetine 60 mg 每日一次（once daily, QD）。入院第 4 天休克已緩解，停用升壓劑，但病人突發極度躁動、出汗、心搏過速與震顫，無法配合呼吸機。\n\n臨床藥師核對用藥紀錄後發現上述居家藥物入院後皆未開立。此時最佳處置為何？",
       "options": [
         "A. 調高 fentanyl 與 dexmedetomidine 劑量。",
         "B. 向醫療團隊說明此為急性抗焦慮劑（苯二氮平類）與抗憂鬱劑之「中斷戒斷反應」，建議重新開立口服或等效之苯二氮平類與抗憂鬱藥物治療戒斷。",
@@ -5432,7 +5432,7 @@ const allChapters = {
     },
     {
       "id": 13,
-      "question": "【臨床案例】一名 52 歲女性因感染性休克插管收治 加護病房（intensive care unit, ICU）。病史包含重度憂鬱症與焦慮症，居家長期服用 clonazepam 1 mg 每日三次（three times daily, TID）及 duloxetine 60 mg 每日一次（once daily, QD）。入院第 4 天休克已緩解，停用升壓劑，但病人突發極度躁動、出汗、心搏過速與震顫，無法配合呼吸機。 T.L.於 24 小時前成功拔管，目前接受 dexmedetomidine 0.2 mcg/kg/h，過去 24 小時因輕微疼痛接受兩劑 fentanyl 25 mcg。她目前清醒平靜，但間歇有輕微躁動。疼痛評估為陰性，但 加護病房意識混亂評估法（Confusion Assessment Method for the ICU, CAM-ICU）篩檢首度呈現陽性（確診譫妄）。實驗室數值與生命徵象正常。\n\n針對其譫妄的管理，下列哪項處置建議最佳？",
+      "question": "一名 52 歲女性因感染性休克插管收治 加護病房（intensive care unit, ICU）。病史包含重度憂鬱症與焦慮症，居家長期服用 clonazepam 1 mg 每日三次（three times daily, TID）及 duloxetine 60 mg 每日一次（once daily, QD）。入院第 4 天休克已緩解，停用升壓劑，但病人突發極度躁動、出汗、心搏過速與震顫，無法配合呼吸機。 T.L.於 24 小時前成功拔管，目前接受 dexmedetomidine 0.2 mcg/kg/h，過去 24 小時因輕微疼痛接受兩劑 fentanyl 25 mcg。她目前清醒平靜，但間歇有輕微躁動。疼痛評估為陰性，但 加護病房意識混亂評估法（Confusion Assessment Method for the ICU, CAM-ICU）篩檢首度呈現陽性（確診譫妄）。實驗室數值與生命徵象正常。\n\n針對其譫妄的管理，下列哪項處置建議最佳？",
       "options": [
         "A. 持續 dexmedetomidine，並加上 quetiapine 25 mg 口服（oral, PO）每日兩次（twice daily, BID）以治療譫妄。",
         "B. 停用 dexmedetomidine，並大量增加靜脈輸液以防脫水。",
@@ -5451,7 +5451,7 @@ const allChapters = {
     },
     {
       "id": 14,
-      "question": "【臨床案例】在加護病房中推行早期活動（Early Mobility）與復健集束化方案。\n\n下列哪一項敘述最能體現重症早期活動的實證效益？",
+      "question": "在加護病房中推行早期活動（Early Mobility）與復健集束化方案。\n\n下列哪一項敘述最能體現重症早期活動的實證效益？",
       "options": [
         "A. 早期活動僅適用於未插管之清醒病人。",
         "B. 在插管重症病人中，只要血流動力學與呼吸穩定，由跨專業團隊執行早期活動能顯著減少譫妄天數、縮短呼吸器使用時間並改善出院時的日常生活功能獨立性。",
@@ -5470,7 +5470,7 @@ const allChapters = {
     },
     {
       "id": 15,
-      "question": "【臨床案例】一名 55 歲男性因重度 急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS） （PaO₂/FiO₂ 比值小於 100 mm Hg）接受氣管插管機械通氣。目前正接受 fentanyl 200 mcg/h、 midazolam 8 mg/h 及 propofol 40 mcg/kg/min 輸注，處於深度鎮靜狀態。然而，經多次微調呼吸器參數後，病人仍持續存在嚴重人機不同步（patient-ventilator dyssynchrony）與重度頑固性低氧血症。\n\n此時醫療團隊最適當的處置考量為何？",
+      "question": "一名 55 歲男性因重度 急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS） （PaO₂/FiO₂ 比值小於 100 mm Hg）接受氣管插管機械通氣。目前正接受 fentanyl 200 mcg/h、 midazolam 8 mg/h 及 propofol 40 mcg/kg/min 輸注，處於深度鎮靜狀態。然而，經多次微調呼吸器參數後，病人仍持續存在嚴重人機不同步（patient-ventilator dyssynchrony）與重度頑固性低氧血症。\n\n此時醫療團隊最適當的處置考量為何？",
       "options": [
         "A. 加開常規 lorazepam 每 6 小時靜脈注射一次。",
         "B. 加開 quetiapine 50 mg 每 8 小時一次。",
@@ -5489,7 +5489,7 @@ const allChapters = {
     },
     {
       "id": 16,
-      "question": "【臨床案例】一名 70 歲女性在 加護病房（intensive care unit, ICU）住院第 2 天，因重症肌無力危象接受插管。目前呼吸狀況穩定，但夜間頻繁清醒且主訴加護病房噪音（警報聲、查房聲）與燈光導致嚴重睡眠剝奪。\n\n針對 加護病房（intensive care unit, ICU）病人的睡眠中斷（Sleep Disruption），下列哪一種處置策略最符合 PADIS 指南推薦？",
+      "question": "一名 70 歲女性在 加護病房（intensive care unit, ICU）住院第 2 天，因重症肌無力危象接受插管。目前呼吸狀況穩定，但夜間頻繁清醒且主訴加護病房噪音（警報聲、查房聲）與燈光導致嚴重睡眠剝奪。\n\n針對 加護病房（intensive care unit, ICU）病人的睡眠中斷（Sleep Disruption），下列哪一種處置策略最符合 PADIS 指南推薦？",
       "options": [
         "A. 常規給予高劑量 flurazepam 或 zolpidem 助眠。",
         "B. 夜間持續輸注 propofol 作為助眠劑。",
@@ -5510,7 +5510,7 @@ const allChapters = {
   "18": [
     {
       "id": 1,
-      "question": "【臨床案例】在急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）病人的實證治療策略中，針對俯臥通氣（prone positioning）與順阿曲庫銨（cisatracurium）輸注的臨床效益。\n\n下列哪一個 急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）嚴重度分類子族群，從俯臥通氣與 cisatracurium 早期給藥中獲益最為明確且死亡率下降幅度最大？",
+      "question": "在急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）病人的實證治療策略中，針對俯臥通氣（prone positioning）與順阿曲庫銨（cisatracurium）輸注的臨床效益。\n\n下列哪一個 急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）嚴重度分類子族群，從俯臥通氣與 cisatracurium 早期給藥中獲益最為明確且死亡率下降幅度最大？",
       "options": [
         "A. 急性肺損傷（Acute lung injury, ALI）。",
         "B. 中度至重度（Moderate to severe）急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）。",
@@ -5529,7 +5529,7 @@ const allChapters = {
     },
     {
       "id": 2,
-      "question": "【臨床案例】多項劃時代的重度呼吸衰竭臨床試驗探討了中重度急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）的藥物與支持性療法。\n\n下列哪一項動脈血氧分壓與吸入氧氣濃度分率比值（Pao2/Fio2）參數，最符合這些里程碑臨床試驗（如 ROSE、 ACURASYS、 DEXA-ARDS 等）納入之中度至重度 急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）族群的典型收案條件？",
+      "question": "多項劃時代的重度呼吸衰竭臨床試驗探討了中重度急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）的藥物與支持性療法。\n\n下列哪一項動脈血氧分壓與吸入氧氣濃度分率比值（Pao2/Fio2）參數，最符合這些里程碑臨床試驗（如 ROSE、 ACURASYS、 DEXA-ARDS 等）納入之中度至重度 急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）族群的典型收案條件？",
       "options": [
         "A. 100–200 mm Hg。",
         "B. 大於 150 mm Hg。",
@@ -5548,7 +5548,7 @@ const allChapters = {
     },
     {
       "id": 3,
-      "question": "【臨床案例】在侵入性機械通氣（invasive mechanical ventilation）治療急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）的肺保護性通氣策略中。\n\n下列哪一項參數最精確地描述了 ARDSNet 指南所規範之『低潮氣容積（low tidal volumes） 』計算標準？",
+      "question": "在侵入性機械通氣（invasive mechanical ventilation）治療急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）的肺保護性通氣策略中。\n\n下列哪一項參數最精確地描述了 ARDSNet 指南所規範之『低潮氣容積（low tidal volumes） 』計算標準？",
       "options": [
         "A. 總體重（total body weight） 6 mL/kg。",
         "B. 理想體重／預測體重（ideal/predicted body weight, IBW/PBW） 4–8 mL/kg （初始常用 4–6 mL/kg）。",
@@ -5567,7 +5567,7 @@ const allChapters = {
     },
     {
       "id": 4,
-      "question": "【臨床案例】一名 65 歲男性因嚴重呼吸急促、呼吸急促、意識改變及大汗淋漓送至急診。胸部 X 光顯示瀰漫性雙側浸潤斑塊。生命徵象：血壓 94/54 mm Hg、呼吸 26 次 / 分、心率 120 次 / 分、體溫 41.0°C （105.8°F）。家屬表示症狀始於 2 天前，近 24 小時急遽惡化。病人轉入 加護病房（intensive care unit, ICU）並接受氣管插管。動脈血氣分析（arterial blood gas, ABG）顯示： pH 7.30、 Paco2 50 mm Hg、 Pao2 50 mm Hg、 Sao2 85% （在 Fio2 100% 下， Pao2/Fio2 = 50 mm Hg）。\n\n在病患轉入 加護病房（intensive care unit, ICU）後的最初 24 小時內，下列何者為最佳之綜合治療處置計畫？",
+      "question": "一名 65 歲男性因嚴重呼吸急促、呼吸急促、意識改變及大汗淋漓送至急診。胸部 X 光顯示瀰漫性雙側浸潤斑塊。生命徵象：血壓 94/54 mm Hg、呼吸 26 次 / 分、心率 120 次 / 分、體溫 41.0°C （105.8°F）。家屬表示症狀始於 2 天前，近 24 小時急遽惡化。病人轉入 加護病房（intensive care unit, ICU）並接受氣管插管。動脈血氣分析（arterial blood gas, ABG）顯示： pH 7.30、 Paco2 50 mm Hg、 Pao2 50 mm Hg、 Sao2 85% （在 Fio2 100% 下， Pao2/Fio2 = 50 mm Hg）。\n\n在病患轉入 加護病房（intensive care unit, ICU）後的最初 24 小時內，下列何者為最佳之綜合治療處置計畫？",
       "options": [
         "A. 經驗性抗生素治療、靜脈輸液復甦合併升壓劑抗休克；低潮氣容積（4–8 mL/kg）通氣策略；深部鎮靜以達 Richmond 躁動鎮靜量表（Richmond Agitation-Sedation Scale, RASS） −4；以及俯臥通氣。",
         "B. 經驗性抗生素治療、靜脈輸液復甦合併升壓劑抗休克；低潮氣容積（4–8 mL/kg）通氣策略；深部鎮靜以達 Richmond 躁動鎮靜量表（Richmond Agitation-Sedation Scale, RASS） −5 並給予 cisatracurium 輸注以限制高原壓；以及俯臥通氣（prone positioning）。",
@@ -5586,7 +5586,7 @@ const allChapters = {
     },
     {
       "id": 5,
-      "question": "【臨床案例】P.D. 是一名 67 歲女性（身高 160 cm，體重 68 kg），因 急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）肺炎住進 加護病房（intensive care unit, ICU）。呼吸器參數：潮氣容積 280 mL、呼吸速率 20 次 / 分、 呼氣末正壓（positive end-expiratory pressure, PEEP） 12 cm H2O、 Fio2 80%，高原壓為 22 cm H2O。 平均動脈壓（mean arterial pressure, MAP）為 68 mm Hg，norepinephrine 輸注已於 4 小時前成功停止拔除；近 2 小時 中央靜脈壓（central venous pressure, CVP）介於 8–14 cm H2O。過去 24 小時總尿量為 1150 mL， 血清肌酸酐（serum creatinine, SCr） 1.2 mg/dL。 ICU 團隊正討論依據 FACTT Lite 方案進行水分管理。\n\n依據 FACTT Lite 臨床指引架構，下列哪一項輸液管理處置最為恰當？",
+      "question": "P.D. 是一名 67 歲女性（身高 160 cm，體重 68 kg），因 急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）肺炎住進 加護病房（intensive care unit, ICU）。呼吸器參數：潮氣容積 280 mL、呼吸速率 20 次 / 分、 呼氣末正壓（positive end-expiratory pressure, PEEP） 12 cm H2O、 Fio2 80%，高原壓為 22 cm H2O。 平均動脈壓（mean arterial pressure, MAP）為 68 mm Hg，norepinephrine 輸注已於 4 小時前成功停止拔除；近 2 小時 中央靜脈壓（central venous pressure, CVP）介於 8–14 cm H2O。過去 24 小時總尿量為 1150 mL， 血清肌酸酐（serum creatinine, SCr） 1.2 mg/dL。 ICU 團隊正討論依據 FACTT Lite 方案進行水分管理。\n\n依據 FACTT Lite 臨床指引架構，下列哪一項輸液管理處置最為恰當？",
       "options": [
         "A. 立即單次給予 furosemide 40 mg 靜脈給藥（intravenous, IV），並於 4 小時後重新評估。",
         "B. 給予 furosemide 1 mg/h 持續輸注，並於 8 小時後重新評估。",
@@ -5605,7 +5605,7 @@ const allChapters = {
     },
     {
       "id": 6,
-      "question": "【臨床案例】在評估全身性皮質類固醇（corticosteroids）於急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）的實證文獻時。\n\n下列哪一項敘述最準確地反映了已發表的 急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）類固醇臨床試驗之關鍵結論？",
+      "question": "在評估全身性皮質類固醇（corticosteroids）於急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）的實證文獻時。\n\n下列哪一項敘述最準確地反映了已發表的 急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）類固醇臨床試驗之關鍵結論？",
       "options": [
         "A. dexamethasone 在全面接受肺保護性通氣策略的 急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）病人中證實能顯著改善臨床預後與死亡率。",
         "B. 在 急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）發病超過 7 天後才啟用 dexamethasone 與臨床預後惡化明確相關。",
@@ -5624,7 +5624,7 @@ const allChapters = {
     },
     {
       "id": 7,
-      "question": "【臨床案例】一名 34 歲女性因急性呼吸衰竭需進行快速順序插管（Rapid Sequence Intubation, RSI），無其他重大慢性病史與藥物過敏史。\n\n在實施 RSI 之給藥流程中，下列哪一種藥物給藥順序最為正確且符合急重症插管準則？",
+      "question": "一名 34 歲女性因急性呼吸衰竭需進行快速順序插管（Rapid Sequence Intubation, RSI），無其他重大慢性病史與藥物過敏史。\n\n在實施 RSI 之給藥流程中，下列哪一種藥物給藥順序最為正確且符合急重症插管準則？",
       "options": [
         "A. rocuronium 靜脈推注 → etomidate 靜脈推注 → midazolam 靜脈推注。",
         "B. fentanyl 靜脈推注 → succinylcholine 靜脈推注 → propofol 靜脈推注。",
@@ -5643,7 +5643,7 @@ const allChapters = {
     },
     {
       "id": 8,
-      "question": "【臨床案例】一名 78 歲男性（體重 70 kg）因急性呼吸衰竭接受氣管插管轉入 加護病房（intensive care unit, ICU）。呼吸機初始設定： AC/VC 模式、潮氣容積 700 mL （10 mL/kg）、呼吸速率 20 次 / 分、 Fio2 50%、 呼氣末正壓（positive end-expiratory pressure, PEEP） 5 cm H2O、 PS 10 cm H2O。首套 動脈血液氣體分析（arterial blood gas, ABG）數值： pH 7.25、 Paco2 65 mm Hg、 HCO3 26 mEq/L、 Pao2 57 mm Hg、 Sao2 90% （Pao2/Fio2 = 114 mm Hg）。 平均動脈壓（mean arterial pressure, MAP）為 72 mm Hg，無須升壓劑支持； 血清肌酸酐（serum creatinine, SCr） 1.2 mg/dL，過去 6 小時尿量 350 mL。\n\n針對該病人之呼吸機重設與全身性處置方針，下列哪一項策略為最佳起始處置？",
+      "question": "一名 78 歲男性（體重 70 kg）因急性呼吸衰竭接受氣管插管轉入 加護病房（intensive care unit, ICU）。呼吸機初始設定： AC/VC 模式、潮氣容積 700 mL （10 mL/kg）、呼吸速率 20 次 / 分、 Fio2 50%、 呼氣末正壓（positive end-expiratory pressure, PEEP） 5 cm H2O、 PS 10 cm H2O。首套 動脈血液氣體分析（arterial blood gas, ABG）數值： pH 7.25、 Paco2 65 mm Hg、 HCO3 26 mEq/L、 Pao2 57 mm Hg、 Sao2 90% （Pao2/Fio2 = 114 mm Hg）。 平均動脈壓（mean arterial pressure, MAP）為 72 mm Hg，無須升壓劑支持； 血清肌酸酐（serum creatinine, SCr） 1.2 mg/dL，過去 6 小時尿量 350 mL。\n\n針對該病人之呼吸機重設與全身性處置方針，下列哪一項策略為最佳起始處置？",
       "options": [
         "A. 高潮氣容積機械通氣合併保守型水分管理。",
         "B. 低潮氣容積（Low tidal volume）機械通氣合併保守型水分管理（conservative fluid management）。",
@@ -5662,7 +5662,7 @@ const allChapters = {
     },
     {
       "id": 9,
-      "question": "【臨床案例】一名 56 歲男性因過去 24 小時呼吸困難急遽惡化，診斷為 急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）入住 加護病房（intensive care unit, ICU）。病史有高血壓與慢性酗酒。初次 動脈血液氣體分析（arterial blood gas, ABG）： pH 7.24、 Paco2 58 mm Hg、 HCO3 24 mEq/L、 Pao2 50 mm Hg、 Sao2 84% （AC 模式， Fio2 100%）。胸部 X 光顯示瀰漫性雙側浸潤。經過初期的靜脈輸液復甦後，血壓為 120/40 mm Hg （MAP 67 mm Hg），心率 142 次 / 分， 中央靜脈壓（central venous pressure, CVP） 8 mm Hg；原先輸注的 norepinephrine （10 mcg/min）目前已成功完全下調停用， 平均動脈壓（mean arterial pressure, MAP）仍穩定維持在 67 mm Hg。已針對社區型肺炎啟動 ceftriaxone 與 levofloxacin。\n\n針對該病人的 急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）呼吸與重症治療，下列何者為最佳之整合性醫療處置？",
+      "question": "一名 56 歲男性因過去 24 小時呼吸困難急遽惡化，診斷為 急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）入住 加護病房（intensive care unit, ICU）。病史有高血壓與慢性酗酒。初次 動脈血液氣體分析（arterial blood gas, ABG）： pH 7.24、 Paco2 58 mm Hg、 HCO3 24 mEq/L、 Pao2 50 mm Hg、 Sao2 84% （AC 模式， Fio2 100%）。胸部 X 光顯示瀰漫性雙側浸潤。經過初期的靜脈輸液復甦後，血壓為 120/40 mm Hg （MAP 67 mm Hg），心率 142 次 / 分， 中央靜脈壓（central venous pressure, CVP） 8 mm Hg；原先輸注的 norepinephrine （10 mcg/min）目前已成功完全下調停用， 平均動脈壓（mean arterial pressure, MAP）仍穩定維持在 67 mm Hg。已針對社區型肺炎啟動 ceftriaxone 與 levofloxacin。\n\n針對該病人的 急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）呼吸與重症治療，下列何者為最佳之整合性醫療處置？",
       "options": [
         "A. 繼續積極輸液復甦以維持 中央靜脈壓（central venous pressure, CVP） 10–14 mm Hg；低潮氣容積（4–8 mL/kg IBW）策略；俯臥通氣；深度鎮靜並輸注 cisatracurium。",
         "B. 啟動利尿以達到 中央靜脈壓（central venous pressure, CVP） < 4 mm Hg；低潮氣容積策略；仰臥通氣；深度鎮靜並輸注 cisatracurium。",
@@ -5681,7 +5681,7 @@ const allChapters = {
     },
     {
       "id": 10,
-      "question": "【臨床案例】一名 70 歲女性（身高 63 吋，體重 65 kg）因缺氧性呼吸衰竭在外院收治，在外院已接受 急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）治療達 3 天，隨後應家屬要求轉送至您的 加護病房（intensive care unit, ICU）。入院時病人正接受機械通氣，設定如下： SIMV 模式、潮氣容積 600 mL （12 mL/kg）、呼吸速率 12 次 / 分、 PS 10 cm H2O、 呼氣末正壓（positive end-expiratory pressure, PEEP） 10 cm H2O。\n\n針對該病人的 急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）呼吸器設定調整，下列哪一項處置最為恰當？",
+      "question": "一名 70 歲女性（身高 63 吋，體重 65 kg）因缺氧性呼吸衰竭在外院收治，在外院已接受 急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）治療達 3 天，隨後應家屬要求轉送至您的 加護病房（intensive care unit, ICU）。入院時病人正接受機械通氣，設定如下： SIMV 模式、潮氣容積 600 mL （12 mL/kg）、呼吸速率 12 次 / 分、 PS 10 cm H2O、 呼氣末正壓（positive end-expiratory pressure, PEEP） 10 cm H2O。\n\n針對該病人的 急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）呼吸器設定調整，下列哪一項處置最為恰當？",
       "options": [
         "A. 調整為 AC/VC 模式，潮氣容積 300 mL （約 6 mL/kg IBW），呼吸速率 20 次 / 分， PS 10 cm H2O， 呼氣末正壓（positive end-expiratory pressure, PEEP） 5 cm H2O；採常規仰臥位（supine positioning）。",
         "B. 調整為 AC/VC 模式，潮氣容積 300 mL，呼吸速率 20 次 / 分， PS 10 cm H2O， 呼氣末正壓（positive end-expiratory pressure, PEEP） 5 cm H2O；採俯臥通氣；並給予 cisatracurium 輸注。",
@@ -5700,7 +5700,7 @@ const allChapters = {
     },
     {
       "id": 11,
-      "question": "【臨床案例】一名 63 歲女性（身高 165 cm，體重 64 kg， IBW 57 kg）具糖尿病與慢性腎臟病史， 2 天前因急性 COVID- 19 肺炎收治普通病房並接受鼻導管氧氣治療，起始口服 dexamethasone 6 mg 每日一次（once daily, QD）。今日因氧合急遽惡化並符合重度 急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）標準而緊急氣管插管轉入 加護病房（intensive care unit, ICU）。立即啟動肺保護通氣：潮氣容積 340 mL （6 mL/kg）、呼吸速率 22 次 / 分、 呼氣末正壓（positive end-expiratory pressure, PEEP） 12 cm H2O、 Fio2 100%。 動脈血液氣體分析（arterial blood gas, ABG）顯示： pH 7.28、 Paco2 46 mm Hg、 Pao2 60 mm Hg、 HCO3 24 mEq/L、 Sao2 92% （Pao2/Fio2 = 60 mm Hg）。\n\n針對該病人當前的全身性皮質類固醇（corticosteroid）治療計畫，下列哪一項建議最為恰當？",
+      "question": "一名 63 歲女性（身高 165 cm，體重 64 kg， IBW 57 kg）具糖尿病與慢性腎臟病史， 2 天前因急性 COVID- 19 肺炎收治普通病房並接受鼻導管氧氣治療，起始口服 dexamethasone 6 mg 每日一次（once daily, QD）。今日因氧合急遽惡化並符合重度 急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）標準而緊急氣管插管轉入 加護病房（intensive care unit, ICU）。立即啟動肺保護通氣：潮氣容積 340 mL （6 mL/kg）、呼吸速率 22 次 / 分、 呼氣末正壓（positive end-expiratory pressure, PEEP） 12 cm H2O、 Fio2 100%。 動脈血液氣體分析（arterial blood gas, ABG）顯示： pH 7.28、 Paco2 46 mm Hg、 Pao2 60 mm Hg、 HCO3 24 mEq/L、 Sao2 92% （Pao2/Fio2 = 60 mm Hg）。\n\n針對該病人當前的全身性皮質類固醇（corticosteroid）治療計畫，下列哪一項建議最為恰當？",
       "options": [
         "A. 全面停止 dexamethasone 治療。",
         "B. 將口服 dexamethasone 6 mg 改為靜脈注射 methylprednisolone 40 mg Q6H。",
@@ -5719,7 +5719,7 @@ const allChapters = {
     },
     {
       "id": 12,
-      "question": "【臨床案例】K.J. 是一名 56 歲男性（身高 72 吋，體重 120 kg， IBW 約 79 kg），因敗血性休克需升壓劑支持合併重度 急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）肺炎收治 加護病房（intensive care unit, ICU）。肺保護通氣設定：潮氣容積 600 mL （換算 IBW 約 7.6 mL/kg）、呼吸速率 24 次 / 分、 呼氣末正壓（positive end-expiratory pressure, PEEP） 14 cm H2O、 Fio2 100%，高原壓為 24 cm H2O。 動脈血液氣體分析（arterial blood gas, ABG）顯示： pH 7.28、 Paco2 46 mm Hg、 Pao2 62 mm Hg、 HCO3 24 mEq/L （Pao2/Fio2 = 62 mm Hg）。\n\n在已優化常規呼吸機支持但嚴重缺氧持續存在時，下列哪一項治療策略最適合進一步評估以改善該病人之預後與氧合？",
+      "question": "K.J. 是一名 56 歲男性（身高 72 吋，體重 120 kg， IBW 約 79 kg），因敗血性休克需升壓劑支持合併重度 急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）肺炎收治 加護病房（intensive care unit, ICU）。肺保護通氣設定：潮氣容積 600 mL （換算 IBW 約 7.6 mL/kg）、呼吸速率 24 次 / 分、 呼氣末正壓（positive end-expiratory pressure, PEEP） 14 cm H2O、 Fio2 100%，高原壓為 24 cm H2O。 動脈血液氣體分析（arterial blood gas, ABG）顯示： pH 7.28、 Paco2 46 mm Hg、 Pao2 62 mm Hg、 HCO3 24 mEq/L （Pao2/Fio2 = 62 mm Hg）。\n\n在已優化常規呼吸機支持但嚴重缺氧持續存在時，下列哪一項治療策略最適合進一步評估以改善該病人之預後與氧合？",
       "options": [
         "A. 吸入性一氧化氮（Inhaled nitric oxide, iNO）。",
         "B. 體外膜氧合（Extracorporeal membrane oxygenation, ECMO）。",
@@ -5738,7 +5738,7 @@ const allChapters = {
     },
     {
       "id": 13,
-      "question": "【臨床案例】D.J. 是一名 49 歲男性，因敗血性休克需血管活性藥物支持合併 急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）接受機械通氣，參數如下：潮氣容積 400 mL、呼吸速率 26 次 / 分、 呼氣末正壓（positive end-expiratory pressure, PEEP） 20 cm H2O、 Fio2 100%，導致高原壓（plateau pressure）高達 40 cm H2O。機械通氣啟動後的 動脈血液氣體分析（arterial blood gas, ABG）顯示： pH 7.45、 Paco2 34 mm Hg、 Pao2 110 mm Hg、 HCO3 24 mmol/L、 Sao2 88%。\n\n考量病人當前高原壓嚴重超標且處於休克狀態，下列哪一項治療處置組合此時最為恰當？",
+      "question": "D.J. 是一名 49 歲男性，因敗血性休克需血管活性藥物支持合併 急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）接受機械通氣，參數如下：潮氣容積 400 mL、呼吸速率 26 次 / 分、 呼氣末正壓（positive end-expiratory pressure, PEEP） 20 cm H2O、 Fio2 100%，導致高原壓（plateau pressure）高達 40 cm H2O。機械通氣啟動後的 動脈血液氣體分析（arterial blood gas, ABG）顯示： pH 7.45、 Paco2 34 mm Hg、 Pao2 110 mm Hg、 HCO3 24 mmol/L、 Sao2 88%。\n\n考量病人當前高原壓嚴重超標且處於休克狀態，下列哪一項治療處置組合此時最為恰當？",
       "options": [
         "A. cisatracurium、 furosemide 利尿、以及俯臥通氣。",
         "B. cisatracurium、 furosemide 利尿、以及 體外膜氧合（extracorporeal membrane oxygenation, ECMO）。",
@@ -5757,7 +5757,7 @@ const allChapters = {
     },
     {
       "id": 14,
-      "question": "【臨床案例】一名 55 歲男性（體重 75 kg）因火災導致腹部、背部及下肢遭受 65% 總體表面積（TBSA）嚴重燒傷，入住燒傷加護病房。病人目前昏迷無法自主保護呼吸道。既往有高血壓病史。目前正接受高劑量 norepinephrine 與 vasopressin 輸注以維持 平均動脈壓（mean arterial pressure, MAP） 65 mm Hg。實驗室檢驗： Na 130 mEq/L、 K 5.9 mEq/L、 Cl 122 mEq/L、 CO2 15 mg/dL、 血中尿素氮（blood urea nitrogen, BUN） 10 mg/dL、 血清肌酸酐（serum creatinine, SCr） 1.3 mg/dL。團隊決定立即實施 RSI 插管。\n\n針對該嚴重燒傷且血鉀過高、血行動力學不穩定的病人，下列哪一組 RSI 藥物組合最為安全且適當？",
+      "question": "一名 55 歲男性（體重 75 kg）因火災導致腹部、背部及下肢遭受 65% 總體表面積（TBSA）嚴重燒傷，入住燒傷加護病房。病人目前昏迷無法自主保護呼吸道。既往有高血壓病史。目前正接受高劑量 norepinephrine 與 vasopressin 輸注以維持 平均動脈壓（mean arterial pressure, MAP） 65 mm Hg。實驗室檢驗： Na 130 mEq/L、 K 5.9 mEq/L、 Cl 122 mEq/L、 CO2 15 mg/dL、 血中尿素氮（blood urea nitrogen, BUN） 10 mg/dL、 血清肌酸酐（serum creatinine, SCr） 1.3 mg/dL。團隊決定立即實施 RSI 插管。\n\n針對該嚴重燒傷且血鉀過高、血行動力學不穩定的病人，下列哪一組 RSI 藥物組合最為安全且適當？",
       "options": [
         "A. fentanyl、 propofol、以及 rocuronium。",
         "B. fentanyl、 ketamine、以及 succinylcholine。",
@@ -5776,7 +5776,7 @@ const allChapters = {
     },
     {
       "id": 15,
-      "question": "【臨床案例】一名 39 歲無家可歸男性（體重 70 kg）在酒精中毒狀態下由 3 英尺高的梯子跌落，因創傷性腦損傷（traumatic brain injury, TBI）收治神經重症加護病房。影像學檢查證實硬腦膜下血腫（subdural hematoma）。醫療團隊決定進行氣管插管以保護氣道與控制腦灌流。實驗室數值： Na 133 mEq/L、 K 4.5 mEq/L、 Cl 97 mEq/L、 CO2 28 mg/dL、 血中尿素氮（blood urea nitrogen, BUN） 13 mg/dL、 血清肌酸酐（serum creatinine, SCr） 0.7 mg/dL、葡萄糖 140 mg/dL。\n\n針對該顱內出血可能伴隨顱內壓升高（elevated ICP）的創傷病人，下列哪一種 RSI 誘導麻醉劑與劑量組合最為適當？",
+      "question": "一名 39 歲無家可歸男性（體重 70 kg）在酒精中毒狀態下由 3 英尺高的梯子跌落，因創傷性腦損傷（traumatic brain injury, TBI）收治神經重症加護病房。影像學檢查證實硬腦膜下血腫（subdural hematoma）。醫療團隊決定進行氣管插管以保護氣道與控制腦灌流。實驗室數值： Na 133 mEq/L、 K 4.5 mEq/L、 Cl 97 mEq/L、 CO2 28 mg/dL、 血中尿素氮（blood urea nitrogen, BUN） 13 mg/dL、 血清肌酸酐（serum creatinine, SCr） 0.7 mg/dL、葡萄糖 140 mg/dL。\n\n針對該顱內出血可能伴隨顱內壓升高（elevated ICP）的創傷病人，下列哪一種 RSI 誘導麻醉劑與劑量組合最為適當？",
       "options": [
         "A. propofol 90 mg 靜脈推注。",
         "B. ketamine 100 mg （約 1.5 mg/kg）靜脈推注。",
@@ -5795,7 +5795,7 @@ const allChapters = {
     },
     {
       "id": 16,
-      "question": "【臨床案例】一名 74 歲女性（身高 63 吋，體重 65 kg， IBW 52 kg）因缺氧性呼吸衰竭在外院收治，在外院已接受 急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）治療 3 天後轉入您的 加護病房（intensive care unit, ICU）。抵達時呼吸機設定如下： SIMV 模式、潮氣容積 600 mL （12 mL/kg）、呼吸速率 12 次 / 分、 PS 10 cm H2O、 呼氣末正壓（positive end-expiratory pressure, PEEP） 10 cm H2O。\n\n針對該病人的 急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）呼吸器通氣處置計畫，下列哪一項模式與參數調整最為符合指引推薦？",
+      "question": "一名 74 歲女性（身高 63 吋，體重 65 kg， IBW 52 kg）因缺氧性呼吸衰竭在外院收治，在外院已接受 急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）治療 3 天後轉入您的 加護病房（intensive care unit, ICU）。抵達時呼吸機設定如下： SIMV 模式、潮氣容積 600 mL （12 mL/kg）、呼吸速率 12 次 / 分、 PS 10 cm H2O、 呼氣末正壓（positive end-expiratory pressure, PEEP） 10 cm H2O。\n\n針對該病人的 急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS）呼吸器通氣處置計畫，下列哪一項模式與參數調整最為符合指引推薦？",
       "options": [
         "A. AC/VC 模式，潮氣容積 300 mL （約 6 mL/kg IBW），呼吸速率 20 次 / 分， PS 10 cm H2O， 呼氣末正壓（positive end-expiratory pressure, PEEP） 5 cm H2O。",
         "B. SIMV 模式，潮氣容積 300 mL （6 mL/kg），呼吸速率 20 次 / 分， PS 10 cm H2O， 呼氣末正壓（positive end-expiratory pressure, PEEP） 5 cm H2O。",
@@ -5816,7 +5816,7 @@ const allChapters = {
   "19": [
     {
       "id": 1,
-      "question": "【臨床案例】一名 21 歲女性（身高 62 吋，體重 50 kg）具囊腫性纖維化（Cystic Fibrosis, CF）慢性病史，因急性呼吸衰竭接受氣管插管機械通氣收治 加護病房（intensive care unit, ICU）。插管後初次 動脈血液氣體分析（arterial blood gas, ABG）顯示： pH 7.27、 Paco2 55 mm Hg、 Pao2 35 mm Hg、 HCO3 22 mEq/L、 Sao2 88% （在 Fio2 60% 下， Pao2/Fio2 約 58 mm Hg）。呼吸機設定： AC/VC 模式、潮氣容積 400 mL、呼吸速率 20 次 / 分、 呼氣末正壓（positive end-expiratory pressure, PEEP） 5 cm H2O、 PS 5 cm H2O。血壓 110/70 mm Hg，心率 95 次 / 分。\n\n考量該病患同時合併囊腫性纖維化急性惡化與嚴重 急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS），下列何者為最佳之整合性全人治療計畫？",
+      "question": "一名 21 歲女性（身高 62 吋，體重 50 kg）具囊腫性纖維化（Cystic Fibrosis, CF）慢性病史，因急性呼吸衰竭接受氣管插管機械通氣收治 加護病房（intensive care unit, ICU）。插管後初次 動脈血液氣體分析（arterial blood gas, ABG）顯示： pH 7.27、 Paco2 55 mm Hg、 Pao2 35 mm Hg、 HCO3 22 mEq/L、 Sao2 88% （在 Fio2 60% 下， Pao2/Fio2 約 58 mm Hg）。呼吸機設定： AC/VC 模式、潮氣容積 400 mL、呼吸速率 20 次 / 分、 呼氣末正壓（positive end-expiratory pressure, PEEP） 5 cm H2O、 PS 5 cm H2O。血壓 110/70 mm Hg，心率 95 次 / 分。\n\n考量該病患同時合併囊腫性纖維化急性惡化與嚴重 急性呼吸窘迫症候群（acute respiratory distress syndrome, ARDS），下列何者為最佳之整合性全人治療計畫？",
       "options": [
         "A. 啟動 cefepime 2 g 靜脈給藥（intravenous, IV） Q8H 及 tobramycin 150 mg 靜脈給藥（intravenous, IV） Q8H；靜脈輸液復甦以維持 中央靜脈壓（central venous pressure, CVP）目標 10–13 mm Hg；吸入 dornase alfa 與 7% 高張 sodium chloride 溶液霧化吸入。",
         "B. 啟動 cefepime 2 g 靜脈給藥（intravenous, IV） Q8H 及 tobramycin 500 mg 靜脈給藥（intravenous, IV） Q8H；靜脈輸液復甦以維持 中央靜脈壓（central venous pressure, CVP）目標 10–13 mm Hg；吸入 dornase alfa 與 7% 高張 sodium chloride 溶液霧化吸入。",
@@ -5835,7 +5835,7 @@ const allChapters = {
     },
     {
       "id": 2,
-      "question": "【臨床案例】在囊腫性纖維化（cystic fibrosis, CF）急性肺部惡化病人的全人照護與非抗生素輔助性處置策略中。\n\n下列哪一項輔助治療措施在改善病患肺功能、呼吸道廓清與臨床預後方面擁有最高等級之實證醫學指引推薦（Grade B）？",
+      "question": "在囊腫性纖維化（cystic fibrosis, CF）急性肺部惡化病人的全人照護與非抗生素輔助性處置策略中。\n\n下列哪一項輔助治療措施在改善病患肺功能、呼吸道廓清與臨床預後方面擁有最高等級之實證醫學指引推薦（Grade B）？",
       "options": [
         "A. 0.9% 常規 sodium chloride 溶液（Normal saline）霧化吸入。",
         "B. 全身性皮質類固醇（Systemic corticosteroids）給藥。",
@@ -5854,7 +5854,7 @@ const allChapters = {
     },
     {
       "id": 3,
-      "question": "【臨床案例】一名 55 歲女性肺動脈高壓（pulmonary arterial hypertension, PAH）病人因嚴重呼吸衰竭住進 加護病房（intensive care unit, ICU）。自述近 5 天呼吸做功急遽增加，平時規律服用 macitentan 10 mg 每日一次（once daily, QD）及 sildenafil 20 mg 每日三次（three times daily, TID）。當前生命徵象：血壓 76/60 mm Hg、心率 130 次 / 分、呼吸 40 次 / 分、經 6 L 鼻導管 Sao2 85%。右心導管數值： mPAP 50 mm Hg、右心房壓（RAP） 25 mm Hg、心臟指數（cardiac index, CI） 1.9 L/min/m2、肺微血管楔壓（PCWP） 16 mm Hg。心臟超音波顯示左室射出分率 60% 伴隨極嚴重右心室擴大（severe RV dilatation）。\n\n針對該處於失代償性右心衰竭與心因性充血狀態的肺動脈高壓病人，下列哪一項起始藥物治療處置最為關鍵且適當？",
+      "question": "一名 55 歲女性肺動脈高壓（pulmonary arterial hypertension, PAH）病人因嚴重呼吸衰竭住進 加護病房（intensive care unit, ICU）。自述近 5 天呼吸做功急遽增加，平時規律服用 macitentan 10 mg 每日一次（once daily, QD）及 sildenafil 20 mg 每日三次（three times daily, TID）。當前生命徵象：血壓 76/60 mm Hg、心率 130 次 / 分、呼吸 40 次 / 分、經 6 L 鼻導管 Sao2 85%。右心導管數值： mPAP 50 mm Hg、右心房壓（RAP） 25 mm Hg、心臟指數（cardiac index, CI） 1.9 L/min/m2、肺微血管楔壓（PCWP） 16 mm Hg。心臟超音波顯示左室射出分率 60% 伴隨極嚴重右心室擴大（severe RV dilatation）。\n\n針對該處於失代償性右心衰竭與心因性充血狀態的肺動脈高壓病人，下列哪一項起始藥物治療處置最為關鍵且適當？",
       "options": [
         "A. dopamine 持續靜脈輸注。",
         "B. Epoprostenol 持續靜脈輸注。",
@@ -5873,7 +5873,7 @@ const allChapters = {
     },
     {
       "id": 4,
-      "question": "【臨床案例】在依據國際指南（ESC/ERS 及 CHEST）長期管理肺動脈高壓（pulmonary arterial hypertension, PAH）病人的臨床治療目標中。\n\n下列哪一項指標被列為界定病患處於『低風險狀態（Low-risk status） 』且維持長期生存之核心治療目標？",
+      "question": "在依據國際指南（ESC/ERS 及 CHEST）長期管理肺動脈高壓（pulmonary arterial hypertension, PAH）病人的臨床治療目標中。\n\n下列哪一項指標被列為界定病患處於『低風險狀態（Low-risk status） 』且維持長期生存之核心治療目標？",
       "options": [
         "A. 達到並維持 WHO 功能分級（FC） III 或 IV 級。",
         "B. 維持 6 分鐘步行距離（6MWD）大於 400 公尺即可，其他數值不拘。",
@@ -5892,7 +5892,7 @@ const allChapters = {
     },
     {
       "id": 5,
-      "question": "【臨床案例】一名 32 歲男性因極度焦慮與嚴重呼吸困難至急診就醫。聽診發現廣泛性明顯喘鳴音（audible wheezing）。病人呼吸極為費力，僅能說出斷續片語而無法講出完整句子。過去數小時在家中反覆使用 albuterol 定量吸入劑（MDI）但症狀完全無改善。肺功能檢測其第一秒用力呼氣容積（FEV1）僅為預測值的 45%。\n\n依據 全球氣喘倡議（Global Initiative for Asthma, GINA）及 NAEPP 氣喘急性發作嚴重度分級準則，該名病患的急性發作應歸類為下列何種嚴重程度？",
+      "question": "一名 32 歲男性因極度焦慮與嚴重呼吸困難至急診就醫。聽診發現廣泛性明顯喘鳴音（audible wheezing）。病人呼吸極為費力，僅能說出斷續片語而無法講出完整句子。過去數小時在家中反覆使用 albuterol 定量吸入劑（MDI）但症狀完全無改善。肺功能檢測其第一秒用力呼氣容積（FEV1）僅為預測值的 45%。\n\n依據 全球氣喘倡議（Global Initiative for Asthma, GINA）及 NAEPP 氣喘急性發作嚴重度分級準則，該名病患的急性發作應歸類為下列何種嚴重程度？",
       "options": [
         "A. 輕度（Mild）。",
         "B. 中度（Moderate）。",
@@ -5911,7 +5911,7 @@ const allChapters = {
     },
     {
       "id": 6,
-      "question": "【臨床案例】一名 55 歲男性因持續 2 週漸進性呼吸困難、喘鳴伴隨靜止時發作急診就醫。病人意識混亂，僅能簡短以短語回應，表明近 2 天吸入型支氣管擴張劑完全失效。無發燒，心率 116 次 / 分、呼吸 42 次 / 分、未吸氧時 Sao2 86%。立即給予高流量氧氣、 albuterol 持續霧化吸入及靜脈注射 methylprednisolone 125 mg 單次給藥。 1 小時後重新評估，病人缺氧與支氣管痙攣未見任何改善。\n\n針對該名對初期常規治療反應不佳之重度瀕死氣喘病人，此時最適當追加的輔助藥物治療為何？",
+      "question": "一名 55 歲男性因持續 2 週漸進性呼吸困難、喘鳴伴隨靜止時發作急診就醫。病人意識混亂，僅能簡短以短語回應，表明近 2 天吸入型支氣管擴張劑完全失效。無發燒，心率 116 次 / 分、呼吸 42 次 / 分、未吸氧時 Sao2 86%。立即給予高流量氧氣、 albuterol 持續霧化吸入及靜脈注射 methylprednisolone 125 mg 單次給藥。 1 小時後重新評估，病人缺氧與支氣管痙攣未見任何改善。\n\n針對該名對初期常規治療反應不佳之重度瀕死氣喘病人，此時最適當追加的輔助藥物治療為何？",
       "options": [
         "A. 針對社區型肺炎常見病原菌啟動經驗性廣效抗生素治療。",
         "B. 給予 magnesium sulfate 2 g 靜脈滴注 20 分鐘。",
@@ -5930,7 +5930,7 @@ const allChapters = {
     },
     {
       "id": 7,
-      "question": "【臨床案例】一名 66 歲男性因慢性阻塞性肺疾病急性惡化（exacerbation of chronic obstructive pulmonary disease, ECOPD）導致急性呼吸衰竭收治 加護病房（intensive care unit, ICU）。過去 2 年未曾發生急性發作。居家維持用藥為 albuterol HFA 2 噴 QID PRN 以及 tiotropium 1 噴 每日一次（once daily, QD）。病人否認近期接觸感染病患，咳痰量與顏色無任何變化。無已知藥物過敏史。目前使用鼻導管 4 L/min （Sao2 97%），並正接受 albuterol 與 ipratropium 霧化吸入治療。\n\n除了當前的支氣管擴張劑外，下列哪一項藥物處置計畫最符合當前 慢性阻塞性肺病全球倡議（Global Initiative for Chronic Obstructive Lung Disease, GOLD）指南針對該病患之治療建議？",
+      "question": "一名 66 歲男性因慢性阻塞性肺疾病急性惡化（exacerbation of chronic obstructive pulmonary disease, ECOPD）導致急性呼吸衰竭收治 加護病房（intensive care unit, ICU）。過去 2 年未曾發生急性發作。居家維持用藥為 albuterol HFA 2 噴 QID PRN 以及 tiotropium 1 噴 每日一次（once daily, QD）。病人否認近期接觸感染病患，咳痰量與顏色無任何變化。無已知藥物過敏史。目前使用鼻導管 4 L/min （Sao2 97%），並正接受 albuterol 與 ipratropium 霧化吸入治療。\n\n除了當前的支氣管擴張劑外，下列哪一項藥物處置計畫最符合當前 慢性阻塞性肺病全球倡議（Global Initiative for Chronic Obstructive Lung Disease, GOLD）指南針對該病患之治療建議？",
       "options": [
         "A. azithromycin 500 mg 靜脈注射每日一次。",
         "B. prednisone 40 mg （或 30–40 mg）口服每日一次，連續 5 天。",
@@ -5949,7 +5949,7 @@ const allChapters = {
     },
     {
       "id": 8,
-      "question": "【臨床案例】一名 65 歲非裔男性（身高 177.8 cm，體重 90 kg， SCr 1.5 mg/dL）具洗腎之末期腎病、 慢性阻塞性肺病（chronic obstructive pulmonary disease, COPD）、高血壓病史，因呼吸衰竭由家中急診轉入 加護病房（intensive care unit, ICU）。入院前症狀包含咳嗽、呼吸困難、痰量顯著增加呈黃綠膿性並伴隨發燒。呼吸道病毒檢測呈現鼻病毒（rhinovirus）陽性。未吸氧時 Sao2 為 85%，給予高流量鼻導管（HFNC） 30 L/min、 Fio2 60% 治療 15 分鐘後，病人呼吸費力顯著減輕，經皮血氧 Sao2 升至 97%，團隊維持相同 HFNC 設定。病人已接受 methylprednisolone 60 mg 靜脈給藥（intravenous, IV）單次及 azithromycin 500 mg 靜脈給藥（intravenous, IV）單次給藥。\n\n在該病患當前的所有處置計畫中，下列哪一項醫療決策在文獻與指引中被證實與『 慢性阻塞性肺病（chronic obstructive pulmonary disease, COPD）急性惡化病人死亡率顯著上升』密切相關？",
+      "question": "一名 65 歲非裔男性（身高 177.8 cm，體重 90 kg， SCr 1.5 mg/dL）具洗腎之末期腎病、 慢性阻塞性肺病（chronic obstructive pulmonary disease, COPD）、高血壓病史，因呼吸衰竭由家中急診轉入 加護病房（intensive care unit, ICU）。入院前症狀包含咳嗽、呼吸困難、痰量顯著增加呈黃綠膿性並伴隨發燒。呼吸道病毒檢測呈現鼻病毒（rhinovirus）陽性。未吸氧時 Sao2 為 85%，給予高流量鼻導管（HFNC） 30 L/min、 Fio2 60% 治療 15 分鐘後，病人呼吸費力顯著減輕，經皮血氧 Sao2 升至 97%，團隊維持相同 HFNC 設定。病人已接受 methylprednisolone 60 mg 靜脈給藥（intravenous, IV）單次及 azithromycin 500 mg 靜脈給藥（intravenous, IV）單次給藥。\n\n在該病患當前的所有處置計畫中，下列哪一項醫療決策在文獻與指引中被證實與『 慢性阻塞性肺病（chronic obstructive pulmonary disease, COPD）急性惡化病人死亡率顯著上升』密切相關？",
       "options": [
         "A. 給予高於 prednisone 30 mg 口服等效劑量之皮質類固醇。",
         "B. 以周邊脈搏血氧飽和度（SpO2）滴定氧氣療法。",
@@ -5968,7 +5968,7 @@ const allChapters = {
     },
     {
       "id": 9,
-      "question": "【臨床案例】一名 20 歲女性因囊腫性纖維化（cystic fibrosis, CF）急性肺部惡化收治 加護病房（intensive care unit, ICU）。入院前病情穩定，維持理想體重且剛完成居家抗生素維持療程。病人因缺氧性呼吸衰竭接受機械通氣，採用 AC/VC 模式合併肺保護策略（4–8 mL/kg 潮氣容積）。\n\n針對該名併發呼吸衰竭的 囊性纖維化（cystic fibrosis, CF）急性惡化重症病人，下列哪一組藥物與營養治療組合最為恰當？",
+      "question": "一名 20 歲女性因囊腫性纖維化（cystic fibrosis, CF）急性肺部惡化收治 加護病房（intensive care unit, ICU）。入院前病情穩定，維持理想體重且剛完成居家抗生素維持療程。病人因缺氧性呼吸衰竭接受機械通氣，採用 AC/VC 模式合併肺保護策略（4–8 mL/kg 潮氣容積）。\n\n針對該名併發呼吸衰竭的 囊性纖維化（cystic fibrosis, CF）急性惡化重症病人，下列哪一組藥物與營養治療組合最為恰當？",
       "options": [
         "A. tobramycin 霧化吸入； 7% 高張 sodium chloride 溶液霧化吸入；以及管灌營養採急性期低熱量目標（15 kcal/kg/day）。",
         "B. ceftriaxone 2 g 靜脈給藥（intravenous, IV） Q24H； tobramycin 霧化吸入； 0.9% 常規 sodium chloride 溶液霧化吸入；以及管灌營養維持常規目標（25 kcal/kg/day）。",
@@ -5987,7 +5987,7 @@ const allChapters = {
     },
     {
       "id": 10,
-      "question": "【臨床案例】上述 20 歲女性 囊性纖維化（cystic fibrosis, CF）病人在接受雙重靜脈抗生素、積極胸部物理治療及居家慢性維持藥物治療 5 天後，呼吸困難顯著改善並成功拔管，於住院第 6 天轉出加護病房至普通病房。\n\n依據 STOP2 等最新里程碑臨床試驗之實證結論，針對該名在治療前 7 天內症狀迅速獲得顯著改善的 囊性纖維化（cystic fibrosis, CF）病人，最適宜建議的靜脈抗生素總療程為多少天？",
+      "question": "上述 20 歲女性 囊性纖維化（cystic fibrosis, CF）病人在接受雙重靜脈抗生素、積極胸部物理治療及居家慢性維持藥物治療 5 天後，呼吸困難顯著改善並成功拔管，於住院第 6 天轉出加護病房至普通病房。\n\n依據 STOP2 等最新里程碑臨床試驗之實證結論，針對該名在治療前 7 天內症狀迅速獲得顯著改善的 囊性纖維化（cystic fibrosis, CF）病人，最適宜建議的靜脈抗生素總療程為多少天？",
       "options": [
         "A. 7 天。",
         "B. 10 天。",
@@ -6006,7 +6006,7 @@ const allChapters = {
     },
     {
       "id": 11,
-      "question": "【臨床案例】一名 33 歲男性因肺動脈高壓（pulmonary arterial hypertension, PAH）急遽惡化轉入醫療加護病房。病人既往未曾接受任何 肺動脈高壓（pulmonary arterial hypertension, PAH）標靶藥物治療。過去 6 個月運動性呼吸困難加劇；近 2 個月甚至連帶狗散步都會產生嚴重疲憊並偶伴胸痛；近幾天則在靜止休息時即出現嚴重呼吸急促。理學檢查：血壓 105/63 mm Hg、心率 85 次 / 分、肺部聽診清晰、四肢輕微水腫。心臟超音波顯示肺動脈收縮壓顯著升高，左室射出分率正常。急性血管反應性試驗（vasodilator challenge）呈現陰性（無反應）。實驗室： 血清肌酸酐（serum creatinine, SCr） 0.6 mg/dL、 AST 160 U/L、 ALT 100 U/L。\n\n依據病患之臨床症狀表現，下列何者最能準確描述該病患的 WHO 功能分級（FC）以及未來 1 年內的預估死亡風險？",
+      "question": "一名 33 歲男性因肺動脈高壓（pulmonary arterial hypertension, PAH）急遽惡化轉入醫療加護病房。病人既往未曾接受任何 肺動脈高壓（pulmonary arterial hypertension, PAH）標靶藥物治療。過去 6 個月運動性呼吸困難加劇；近 2 個月甚至連帶狗散步都會產生嚴重疲憊並偶伴胸痛；近幾天則在靜止休息時即出現嚴重呼吸急促。理學檢查：血壓 105/63 mm Hg、心率 85 次 / 分、肺部聽診清晰、四肢輕微水腫。心臟超音波顯示肺動脈收縮壓顯著升高，左室射出分率正常。急性血管反應性試驗（vasodilator challenge）呈現陰性（無反應）。實驗室： 血清肌酸酐（serum creatinine, SCr） 0.6 mg/dL、 AST 160 U/L、 ALT 100 U/L。\n\n依據病患之臨床症狀表現，下列何者最能準確描述該病患的 WHO 功能分級（FC）以及未來 1 年內的預估死亡風險？",
       "options": [
         "A. WHO FC III， 1 年死亡風險約 5%。",
         "B. WHO FC III， 1 年死亡風險約 10%。",
@@ -6025,7 +6025,7 @@ const allChapters = {
     },
     {
       "id": 12,
-      "question": "【臨床案例】承接上述 33 歲男性新診斷為高危險群（WHO FC IV）、血管反應性試驗陰性且肝功能異常（AST 160 U/L, ALT 100 U/L）的肺動脈高壓病人。\n\n依據國際肺動脈高壓診療指引，此時最應優先推薦立即啟動的初始標靶藥物治療方案為何？",
+      "question": "承接上述 33 歲男性新診斷為高危險群（WHO FC IV）、血管反應性試驗陰性且肝功能異常（AST 160 U/L, ALT 100 U/L）的肺動脈高壓病人。\n\n依據國際肺動脈高壓診療指引，此時最應優先推薦立即啟動的初始標靶藥物治療方案為何？",
       "options": [
         "A. Epoprostenol 持續靜脈輸注（起始劑量 2 ng/kg/min，逐步向上滴定）。",
         "B. diltiazem 180 mg 口服每日一次。",
@@ -6044,7 +6044,7 @@ const allChapters = {
     },
     {
       "id": 13,
-      "question": "【臨床案例】一名 40 歲女性（體重 115 kg）因氣喘重積狀態（status asthmaticus）收治加護病房。既往有嚴重難治性氣喘病史，在過去 6 個月內曾發生 3 次氣管插管病史。慢性病史包含高血壓、糖尿病、肥胖以及雙極性情感疾患。在過去 2 個月中，她平均每月至少使用 3 罐以上的 albuterol 支氣管擴張吸入劑以緩解症狀。\n\n依據氣喘死亡危險因子評估標準，下列哪一組特徵最精確地涵蓋了該病患所具備的氣喘高死亡風險因子（higher mortality risk factors）？",
+      "question": "一名 40 歲女性（體重 115 kg）因氣喘重積狀態（status asthmaticus）收治加護病房。既往有嚴重難治性氣喘病史，在過去 6 個月內曾發生 3 次氣管插管病史。慢性病史包含高血壓、糖尿病、肥胖以及雙極性情感疾患。在過去 2 個月中，她平均每月至少使用 3 罐以上的 albuterol 支氣管擴張吸入劑以緩解症狀。\n\n依據氣喘死亡危險因子評估標準，下列哪一組特徵最精確地涵蓋了該病患所具備的氣喘高死亡風險因子（higher mortality risk factors）？",
       "options": [
         "A. 過去 6 個月內有 3 次住院病史，以及合併雙極性情感疾患。",
         "B. 過去一個月使用超過 2 罐短效吸入劑（SABA），以及重度肥胖。",
@@ -6063,7 +6063,7 @@ const allChapters = {
     },
     {
       "id": 14,
-      "question": "【臨床案例】一名 40 歲女性（體重 115 kg）因氣喘重積狀態（status asthmaticus）收治加護病房。既往有嚴重難治性氣喘病史，在過去 6 個月內曾發生 3 次氣管插管病史。慢性病史包含高血壓、糖尿病、肥胖以及雙極性情感疾患。在過去 2 個月中，她平均每月至少使用 3 罐以上的 albuterol 支氣管擴張吸入劑以緩解症狀。 接續此案例的 40 歲女性氣喘重積病人，因呼吸肌衰竭接受氣管插管並使用呼吸機。醫療團隊正制定急性威脅生命發作之藥物治療方案。\n\n針對該名已接受侵入性插管的重積氣喘危重病人，下列哪一組藥物治療方案最符合指引之起始藥物治療標準？",
+      "question": "一名 40 歲女性（體重 115 kg）因氣喘重積狀態（status asthmaticus）收治加護病房。既往有嚴重難治性氣喘病史，在過去 6 個月內曾發生 3 次氣管插管病史。慢性病史包含高血壓、糖尿病、肥胖以及雙極性情感疾患。在過去 2 個月中，她平均每月至少使用 3 罐以上的 albuterol 支氣管擴張吸入劑以緩解症狀。 接續此案例的 40 歲女性氣喘重積病人，因呼吸肌衰竭接受氣管插管並使用呼吸機。醫療團隊正制定急性威脅生命發作之藥物治療方案。\n\n針對該名已接受侵入性插管的重積氣喘危重病人，下列哪一組藥物治療方案最符合指引之起始藥物治療標準？",
       "options": [
         "A. 吸入型 albuterol 霧化 2.5 mg 每 3 小時一次。",
         "B. 吸入型 albuterol 霧化 2.5 mg Q3H 加上吸入型 ipratropium 霧化 0.5 mg Q6H。",
@@ -6082,7 +6082,7 @@ const allChapters = {
     },
     {
       "id": 15,
-      "question": "【臨床案例】一名 79 歲女性（體重 70 kg）因 慢性阻塞性肺病（chronic obstructive pulmonary disease, COPD）急性惡化（exacerbation of chronic obstructive pulmonary disease, ECOPD）併發嚴重高碳酸血症呼吸衰竭收治 加護病房（intensive care unit, ICU）。既往有多重 慢性阻塞性肺病急性惡化（exacerbation of chronic obstructive pulmonary disease, ECOPD）住院病史。就診時伴隨發燒、極度呼吸困難、咳出大量黃綠色濃稠膿痰及意識混亂。病史有對 penicillin 產生致死性過敏性休克（anaphylaxis）之明確紀錄。血壓 190/100 mm Hg、心率 110 次 / 分、呼吸 22 次 / 分。 動脈血液氣體分析（arterial blood gas, ABG） （鼻導管 6 L/min 下）： pH 7.20、 Paco2 85 mm Hg、 Pao2 33 mm Hg。病人隨即接受氣管插管與呼吸機支持。\n\n針對該名對青黴素嚴重過敏、頻繁發作且咳出濃痰之嚴重 慢性阻塞性肺病急性惡化（exacerbation of chronic obstructive pulmonary disease, ECOPD）重症病患，下列哪一組藥物治療方案最為適當？",
+      "question": "一名 79 歲女性（體重 70 kg）因 慢性阻塞性肺病（chronic obstructive pulmonary disease, COPD）急性惡化（exacerbation of chronic obstructive pulmonary disease, ECOPD）併發嚴重高碳酸血症呼吸衰竭收治 加護病房（intensive care unit, ICU）。既往有多重 慢性阻塞性肺病急性惡化（exacerbation of chronic obstructive pulmonary disease, ECOPD）住院病史。就診時伴隨發燒、極度呼吸困難、咳出大量黃綠色濃稠膿痰及意識混亂。病史有對 penicillin 產生致死性過敏性休克（anaphylaxis）之明確紀錄。血壓 190/100 mm Hg、心率 110 次 / 分、呼吸 22 次 / 分。 動脈血液氣體分析（arterial blood gas, ABG） （鼻導管 6 L/min 下）： pH 7.20、 Paco2 85 mm Hg、 Pao2 33 mm Hg。病人隨即接受氣管插管與呼吸機支持。\n\n針對該名對青黴素嚴重過敏、頻繁發作且咳出濃痰之嚴重 慢性阻塞性肺病急性惡化（exacerbation of chronic obstructive pulmonary disease, ECOPD）重症病患，下列哪一組藥物治療方案最為適當？",
       "options": [
         "A. 靜脈注射 methylprednisolone 1 mg/kg 分兩次給藥；吸入 albuterol 霧化；靜脈注射 ampicillin/sulbactam 3 g Q6H 連續 7 天；靜脈注射 azithromycin 500 mg 每日一次（once daily, QD）連續 5 天。",
         "B. 經鼻胃管（NGT）給予 prednisone 40 mg 每日一次（once daily, QD）連續 5 天；吸入 albuterol 與 ipratropium 霧化；靜脈注射 ampicillin/sulbactam 3 g Q6H 連續 10 天；靜脈注射 azithromycin 500 mg QD。",
@@ -6101,7 +6101,7 @@ const allChapters = {
     },
     {
       "id": 16,
-      "question": "【臨床案例】一名 75 歲女性因有痰咳嗽與意識改變（僅能勉強辨識人名）至急診就醫。病史有第二型糖尿病與重度 慢性阻塞性肺病（chronic obstructive pulmonary disease, COPD）。就醫時生命徵象：體溫 38.8°C （101.8°F）、心率 95 次 / 分、呼吸 44 次 / 分、收縮壓 105 mm Hg、使用居家氧氣（鼻導管 2 L/min）時 SpO2 僅 86%。隨後使用 Venturi 面罩（Fio2 30%）實施非侵入性通氣支持，其 SpO2 迅速上升並穩定維持在 91%。生化檢驗： 血清肌酸酐（serum creatinine, SCr） 1.4 mg/dL、 血中尿素氮（blood urea nitrogen, BUN） 55 mg/dL； 動脈血液氣體分析（arterial blood gas, ABG）報告： pH 7.47、 Paco2 55 mm Hg、 Pao2 59 mm Hg。胸部 X 光顯示多葉性浸潤斑塊。\n\n依據 2023/2024 慢性阻塞性肺病全球倡議（Global Initiative for Chronic Obstructive Lung Disease, GOLD）指南最新分類架構，下列何者最精確地描述了該病患的 慢性阻塞性肺病急性惡化（exacerbation of chronic obstructive pulmonary disease, ECOPD）嚴重程度及其急性呼吸衰竭分級？",
+      "question": "一名 75 歲女性因有痰咳嗽與意識改變（僅能勉強辨識人名）至急診就醫。病史有第二型糖尿病與重度 慢性阻塞性肺病（chronic obstructive pulmonary disease, COPD）。就醫時生命徵象：體溫 38.8°C （101.8°F）、心率 95 次 / 分、呼吸 44 次 / 分、收縮壓 105 mm Hg、使用居家氧氣（鼻導管 2 L/min）時 SpO2 僅 86%。隨後使用 Venturi 面罩（Fio2 30%）實施非侵入性通氣支持，其 SpO2 迅速上升並穩定維持在 91%。生化檢驗： 血清肌酸酐（serum creatinine, SCr） 1.4 mg/dL、 血中尿素氮（blood urea nitrogen, BUN） 55 mg/dL； 動脈血液氣體分析（arterial blood gas, ABG）報告： pH 7.47、 Paco2 55 mm Hg、 Pao2 59 mm Hg。胸部 X 光顯示多葉性浸潤斑塊。\n\n依據 2023/2024 慢性阻塞性肺病全球倡議（Global Initiative for Chronic Obstructive Lung Disease, GOLD）指南最新分類架構，下列何者最精確地描述了該病患的 慢性阻塞性肺病急性惡化（exacerbation of chronic obstructive pulmonary disease, ECOPD）嚴重程度及其急性呼吸衰竭分級？",
       "options": [
         "A. 中度 慢性阻塞性肺病急性惡化（exacerbation of chronic obstructive pulmonary disease, ECOPD） （Moderate ECOPD）伴隨非危及生命之急性呼吸衰竭（Non–life-threatening acute respiratory failure）。",
         "B. 中度 慢性阻塞性肺病急性惡化（exacerbation of chronic obstructive pulmonary disease, ECOPD） （Moderate ECOPD）伴隨危及生命之急性呼吸衰竭（Life-threatening acute respiratory failure）。",
@@ -6122,7 +6122,7 @@ const allChapters = {
   "20": [
     {
       "id": 1,
-      "question": "【臨床案例】一名 38 歲患有第二型糖尿病的女性因意識混亂與意識狀態改變送至急診。病患正持有 glipizide 10 mg 口服（oral, PO）每日兩次（twice daily, BID）處方，但目前無法配合回答任何病史。初次生命徵象：血壓 115/65 mm Hg、心率 68 次 / 分、呼吸 15 次 / 分、體溫 37.0°C。即時床邊血糖（point-of-care glucose）為 45 mg/dL；醫療團隊立即給予兩次 50% dextrose 注射液（D50W） 50 mL 靜脈推注。第一次推注後追蹤血糖為 50 mg/dL，第二次推注後僅達 57 mg/dL，低血糖症狀與意識混亂毫無改善。\n\n針對該名對反覆靜脈輸注高張葡萄糖反應不佳的磺醯尿素類（sulfonylurea）降血糖藥中毒病人，此時最適當且具特異性之處置藥物為何？",
+      "question": "一名 38 歲患有第二型糖尿病的女性因意識混亂與意識狀態改變送至急診。病患正持有 glipizide 10 mg 口服（oral, PO）每日兩次（twice daily, BID）處方，但目前無法配合回答任何病史。初次生命徵象：血壓 115/65 mm Hg、心率 68 次 / 分、呼吸 15 次 / 分、體溫 37.0°C。即時床邊血糖（point-of-care glucose）為 45 mg/dL；醫療團隊立即給予兩次 50% dextrose 注射液（D50W） 50 mL 靜脈推注。第一次推注後追蹤血糖為 50 mg/dL，第二次推注後僅達 57 mg/dL，低血糖症狀與意識混亂毫無改善。\n\n針對該名對反覆靜脈輸注高張葡萄糖反應不佳的磺醯尿素類（sulfonylurea）降血糖藥中毒病人，此時最適當且具特異性之處置藥物為何？",
       "options": [
         "A. 繼續給予第三次 50% dextrose 注射液（D50W） 50 mL 靜脈推注。",
         "B. 升糖素（glucagon） 1 mg 肌肉注射。",
@@ -6141,7 +6141,7 @@ const allChapters = {
     },
     {
       "id": 2,
-      "question": "【臨床案例】一名 56 歲男性因乙型受體阻斷劑（β-blocker）過量中毒收治 加護病房（intensive care unit, ICU）。在接受 2 L 的 0.9% sodium chloride 溶液擴容以及 3 g calcium gluconate 靜脈注射後，其生命徵象仍持續呈現休克與心搏過緩：血壓 70/40 mm Hg、心率 52 次 / 分、呼吸 22 次 / 分。\n\n在輸液與鈣劑初始治療反應不佳的情況下，下列哪一項進階解毒與升壓治療方案此時最為適當且劑量正確？",
+      "question": "一名 56 歲男性因乙型受體阻斷劑（β-blocker）過量中毒收治 加護病房（intensive care unit, ICU）。在接受 2 L 的 0.9% sodium chloride 溶液擴容以及 3 g calcium gluconate 靜脈注射後，其生命徵象仍持續呈現休克與心搏過緩：血壓 70/40 mm Hg、心率 52 次 / 分、呼吸 22 次 / 分。\n\n在輸液與鈣劑初始治療反應不佳的情況下，下列哪一項進階解毒與升壓治療方案此時最為適當且劑量正確？",
       "options": [
         "A. 升糖素（glucagon） 5 mg 靜脈注射（初始負荷劑量 5–10 mg 於 1–2 分鐘內推注）。",
         "B. 阿托品（atropine） 2 mg 靜脈注射。",
@@ -6160,7 +6160,7 @@ const allChapters = {
     },
     {
       "id": 3,
-      "question": "【臨床案例】一名 76 歲女性因意識狀態下降送至急診就醫。生命徵象：血壓 118/72 mm Hg、心率 57 次 / 分、呼吸 17 次 / 分。病人感到明顯噁心，理學檢查顯示輕度多汗與腸鳴音活躍。家屬表示病人近期常忘記是否已服藥，懷疑可能重複用藥過量。\n\n綜合該病人的臨床表現（心搏過緩、噁心、流汗、意識模糊但呼吸速率與血壓相對正常），該病人最可能處於下列哪一種常見的中毒症候群（toxidrome）？",
+      "question": "一名 76 歲女性因意識狀態下降送至急診就醫。生命徵象：血壓 118/72 mm Hg、心率 57 次 / 分、呼吸 17 次 / 分。病人感到明顯噁心，理學檢查顯示輕度多汗與腸鳴音活躍。家屬表示病人近期常忘記是否已服藥，懷疑可能重複用藥過量。\n\n綜合該病人的臨床表現（心搏過緩、噁心、流汗、意識模糊但呼吸速率與血壓相對正常），該病人最可能處於下列哪一種常見的中毒症候群（toxidrome）？",
       "options": [
         "A. 抗膽鹼中毒症候群（Anticholinergic toxidrome）。",
         "B. 膽鹼性中毒症候群（Cholinergic toxidrome） （如阿茲海默症乙醯膽鹼酯酶抑制劑過量）。",
@@ -6179,7 +6179,7 @@ const allChapters = {
     },
     {
       "id": 4,
-      "question": "【臨床案例】一名 38 歲女性因疑似過量服用非典型抗精神病藥物 risperidone 被送入 加護病房（intensive care unit, ICU）。入院初期出現低血壓，但在接受兩袋 500 mL 乳酸林格氏液輸注後血壓回升至 118/77 mm Hg、心率 75 次 / 分、呼吸 16 次 / 分。 12 導程心電圖顯示 QT 間期延長（校正後 QTc 為 480 毫秒）；生化檢驗： HCO3 24 mEq/L、鉀離子（K） 3.1 mEq/L、鎂離子（Mg） 1.8 mg/dL。\n\n針對該名非典型抗精神病藥物中毒且心電圖出現 QTc 延長合併電解質紊亂的病人，下列哪一項處置在當前最為迫切且適當？",
+      "question": "一名 38 歲女性因疑似過量服用非典型抗精神病藥物 risperidone 被送入 加護病房（intensive care unit, ICU）。入院初期出現低血壓，但在接受兩袋 500 mL 乳酸林格氏液輸注後血壓回升至 118/77 mm Hg、心率 75 次 / 分、呼吸 16 次 / 分。 12 導程心電圖顯示 QT 間期延長（校正後 QTc 為 480 毫秒）；生化檢驗： HCO3 24 mEq/L、鉀離子（K） 3.1 mEq/L、鎂離子（Mg） 1.8 mg/dL。\n\n針對該名非典型抗精神病藥物中毒且心電圖出現 QTc 延長合併電解質紊亂的病人，下列哪一項處置在當前最為迫切且適當？",
       "options": [
         "A. potassium chloride 20 mEq 靜脈滴注每小時一次，共給予兩劑（積極糾正低血鉀）。",
         "B. activated charcoal 50 g 口服給予。",
@@ -6198,7 +6198,7 @@ const allChapters = {
     },
     {
       "id": 5,
-      "question": "【臨床案例】一名 48 歲男性因社區型肺炎收治普通病房。病史有高血壓、高血脂及 慢性阻塞性肺病（chronic obstructive pulmonary disease, COPD），自述偶爾飲酒但無酒精戒斷病史。入院後接受 levofloxacin 750 mg 靜脈給藥（intravenous, IV）每日一次（once daily, QD）及 albuterol/ipratropium 霧化治療。入院 24 小時後，病人意識漸趨混亂，伴隨嚴重噁心、嘔吐、雙手粗大震顫與大汗淋漓。生命徵象：血壓 115/68 mm Hg、心率 122 次 / 分、呼吸 21 次 / 分、體溫 37.6°C。團隊高度懷疑急性酒精戒斷症候群（alcohol withdrawal syndrome, AWS）。\n\n針對該名疑似急性酒精戒斷且交感神經過度興奮的住院病人，下列哪一項處置方案最符合指引之初始首選治療？",
+      "question": "一名 48 歲男性因社區型肺炎收治普通病房。病史有高血壓、高血脂及 慢性阻塞性肺病（chronic obstructive pulmonary disease, COPD），自述偶爾飲酒但無酒精戒斷病史。入院後接受 levofloxacin 750 mg 靜脈給藥（intravenous, IV）每日一次（once daily, QD）及 albuterol/ipratropium 霧化治療。入院 24 小時後，病人意識漸趨混亂，伴隨嚴重噁心、嘔吐、雙手粗大震顫與大汗淋漓。生命徵象：血壓 115/68 mm Hg、心率 122 次 / 分、呼吸 21 次 / 分、體溫 37.6°C。團隊高度懷疑急性酒精戒斷症候群（alcohol withdrawal syndrome, AWS）。\n\n針對該名疑似急性酒精戒斷且交感神經過度興奮的住院病人，下列哪一項處置方案最符合指引之初始首選治療？",
       "options": [
         "A. 依據臨床酒精戒斷評估量表（CIWA-Ar）分數，依症狀觸發（symptom-triggered）給予 lorazepam 2 mg 靜脈注射。",
         "B. 依據 CIWA 分數給予 phenobarbital 65 mg 口服每 8 小時一次 PRN。",
@@ -6217,7 +6217,7 @@ const allChapters = {
     },
     {
       "id": 6,
-      "question": "【臨床案例】一名 57 歲男性住院病患因給藥疏失，誤服了鄰床病人的口服 methadone 40 mg。 2 小時後護理師查房發現病人呼之不應、神智不清。生命徵象：血壓 105/67 mm Hg、心率 61 次 / 分、呼吸僅 8 次 / 分、體溫 37.1°C，瞳孔呈現針尖樣縮小。護理師緊急啟動院內急救反應小組（rapid response team）。\n\n作為小組的臨床藥師，針對該名急性 methadone 誤服過量且處於嚴重中樞神經與呼吸抑制的病人，最適當的立即處置為何？",
+      "question": "一名 57 歲男性住院病患因給藥疏失，誤服了鄰床病人的口服 methadone 40 mg。 2 小時後護理師查房發現病人呼之不應、神智不清。生命徵象：血壓 105/67 mm Hg、心率 61 次 / 分、呼吸僅 8 次 / 分、體溫 37.1°C，瞳孔呈現針尖樣縮小。護理師緊急啟動院內急救反應小組（rapid response team）。\n\n作為小組的臨床藥師，針對該名急性 methadone 誤服過量且處於嚴重中樞神經與呼吸抑制的病人，最適當的立即處置為何？",
       "options": [
         "A. 立即由口給予 activated charcoal 50 g。",
         "B. 立即給予 naloxone 0.04 mg （逐步滴定小劑量，或 0.04–0.4 mg）靜脈注射。",
@@ -6236,7 +6236,7 @@ const allChapters = {
     },
     {
       "id": 7,
-      "question": "【臨床案例】一名 56 歲女性因蓄意服用 25 顆 amlodipine 10 mg 錠劑送至急診。在急診接受 activated charcoal 50 g、 2 L sodium chloride 溶液及 3 g calcium gluconate 後，生命徵象仍呈現低血壓：血壓 90/50 mm Hg、心率 107 次 / 分、呼吸 17 次 / 分。生化檢驗： Na 141 mEq/L、鉀離子（K） 2.5 mEq/L、 Cl 101 mEq/L、 HCO3 24 mEq/L、 血中尿素氮（blood urea nitrogen, BUN） 19 mg/dL、 血清肌酸酐（serum creatinine, SCr） 0.9 mg/dL、隨機血糖 215 mg/dL。急診醫師決定啟動高劑量 insulin 正常血糖療法（high-dose insulin euglycemia therapy, HIET）。\n\n在正式推注與輸注高劑量 insulin （high-dose insulin euglycemia therapy, HIET）前，臨床藥師最應提醒團隊優先執行的關鍵安全處置為何？",
+      "question": "一名 56 歲女性因蓄意服用 25 顆 amlodipine 10 mg 錠劑送至急診。在急診接受 activated charcoal 50 g、 2 L sodium chloride 溶液及 3 g calcium gluconate 後，生命徵象仍呈現低血壓：血壓 90/50 mm Hg、心率 107 次 / 分、呼吸 17 次 / 分。生化檢驗： Na 141 mEq/L、鉀離子（K） 2.5 mEq/L、 Cl 101 mEq/L、 HCO3 24 mEq/L、 血中尿素氮（blood urea nitrogen, BUN） 19 mg/dL、 血清肌酸酐（serum creatinine, SCr） 0.9 mg/dL、隨機血糖 215 mg/dL。急診醫師決定啟動高劑量 insulin 正常血糖療法（high-dose insulin euglycemia therapy, HIET）。\n\n在正式推注與輸注高劑量 insulin （high-dose insulin euglycemia therapy, HIET）前，臨床藥師最應提醒團隊優先執行的關鍵安全處置為何？",
       "options": [
         "A. 立即給予 regular insulin 1 unit/kg 靜脈推注。",
         "B. 立即給予 50% dextrose 注射液（D50W） 50 mL 靜脈推注。",
@@ -6255,7 +6255,7 @@ const allChapters = {
     },
     {
       "id": 8,
-      "question": "【臨床案例】承接上述 amlodipine 中毒女性病患，在啟動 高劑量 insulin 正常血糖療法（high-dose insulin euglycemia therapy, HIET）後反應仍不理想。當前 insulin 輸注速率已達 1 unit/kg/h，但病人血壓持續低下為 70/40 mm Hg，且心率減慢至 58 次 / 分。複測血糖為 186 mg/dL。\n\n針對該名對初階 高劑量 insulin 正常血糖療法（high-dose insulin euglycemia therapy, HIET）劑量反應不足且頑固性休克惡化的二氫吡啶類 鈣離子通道阻斷劑（calcium channel blocker, CCB）中毒病人，下一步處置何者最為適當？",
+      "question": "承接上述 amlodipine 中毒女性病患，在啟動 高劑量 insulin 正常血糖療法（high-dose insulin euglycemia therapy, HIET）後反應仍不理想。當前 insulin 輸注速率已達 1 unit/kg/h，但病人血壓持續低下為 70/40 mm Hg，且心率減慢至 58 次 / 分。複測血糖為 186 mg/dL。\n\n針對該名對初階 高劑量 insulin 正常血糖療法（high-dose insulin euglycemia therapy, HIET）劑量反應不足且頑固性休克惡化的二氫吡啶類 鈣離子通道阻斷劑（calcium channel blocker, CCB）中毒病人，下一步處置何者最為適當？",
       "options": [
         "A. 立即停止 高劑量 insulin 正常血糖療法（high-dose insulin euglycemia therapy, HIET），改為單獨啟動 norepinephrine。",
         "B. 繼續維持 高劑量 insulin 正常血糖療法（high-dose insulin euglycemia therapy, HIET）並向上調高 insulin 輸注速率（滴定至 2–10 unit/kg/h），並同時併用 norepinephrine 靜脈輸注。",
@@ -6274,7 +6274,7 @@ const allChapters = {
     },
     {
       "id": 9,
-      "question": "【臨床案例】一名 53 歲男性（身高 74 吋，體重 97 kg）因意識混亂與定向力喪失送至急診。病人完全無法提供任何病史或自身狀況。就醫生命徵象：血壓 85/50 mm Hg、心率 120 次 / 分、呼吸 28 次 / 分、體溫 37.3°C。理學檢查在其口袋內發現一個無標籤的藥瓶，內剩 2 顆不明藥錠，強烈懷疑藥物過量中毒。\n\n針對該名生命徵象不穩定且神智不清的急性疑似中毒病患，醫療團隊此時最應優先執行的第一步處置為何？",
+      "question": "一名 53 歲男性（身高 74 吋，體重 97 kg）因意識混亂與定向力喪失送至急診。病人完全無法提供任何病史或自身狀況。就醫生命徵象：血壓 85/50 mm Hg、心率 120 次 / 分、呼吸 28 次 / 分、體溫 37.3°C。理學檢查在其口袋內發現一個無標籤的藥瓶，內剩 2 顆不明藥錠，強烈懷疑藥物過量中毒。\n\n針對該名生命徵象不穩定且神智不清的急性疑似中毒病患，醫療團隊此時最應優先執行的第一步處置為何？",
       "options": [
         "A. 立即送驗定量尿液藥物篩檢（quantitative urine drug screen）。",
         "B. 首要穩定病患之呼吸道、呼吸與循環（Airway, Breathing, and Circulation, ABC）。",
@@ -6293,7 +6293,7 @@ const allChapters = {
     },
     {
       "id": 10,
-      "question": "【臨床案例】一名 42 歲女性（身高 66 吋，體重 79.2 kg）因類流感症狀送至急診。症狀包含頭痛、鼻塞、嚴重噁心、頻繁嘔吐、瀰漫性腹痛及輕微意識模糊。病人自述因流感症狀在家按需服用 acetaminophen 500 mg 膠囊，但昨日剛買的一整瓶（約數十顆）在今日已全數吃完。就醫時意識清醒，血壓 135/90 mm Hg、心率 83 次 / 分、呼吸 18 次 / 分、體溫 38.8°C。入院時血清 acetaminophen 濃度為 100 mcg/mL， AST 560 IU/L， ALT 310 IU/L。\n\n急診醫師欲針對該名 acetaminophen 中毒病人制定一般處置，下列哪一項一般處置策略最具臨床指徵且適當？",
+      "question": "一名 42 歲女性（身高 66 吋，體重 79.2 kg）因類流感症狀送至急診。症狀包含頭痛、鼻塞、嚴重噁心、頻繁嘔吐、瀰漫性腹痛及輕微意識模糊。病人自述因流感症狀在家按需服用 acetaminophen 500 mg 膠囊，但昨日剛買的一整瓶（約數十顆）在今日已全數吃完。就醫時意識清醒，血壓 135/90 mm Hg、心率 83 次 / 分、呼吸 18 次 / 分、體溫 38.8°C。入院時血清 acetaminophen 濃度為 100 mcg/mL， AST 560 IU/L， ALT 310 IU/L。\n\n急診醫師欲針對該名 acetaminophen 中毒病人制定一般處置，下列哪一項一般處置策略最具臨床指徵且適當？",
       "options": [
         "A. 經胃管給予 10% 檸檬酸鎂（magnesium citrate） 240 mL 單次瀉下。",
         "B. 持續穩定病患生命徵象並提供優質的支持性照護（Supportive care）。",
@@ -6312,7 +6312,7 @@ const allChapters = {
     },
     {
       "id": 11,
-      "question": "【臨床案例】承接上述 42 歲女性病人（體重 79.2 kg，約 80 kg）， acetaminophen 濃度高達 100 mcg/mL 且 AST 560 IU/L、 ALT 310 IU/L，伴隨劇烈噁心嘔吐，具有極高肝毒性壞死與急性肝衰竭風險。\n\n針對該病人之 acetaminophen 中毒，下列哪一項 acetylcysteine 給藥方案在劑量計算與給藥途徑上最為精確適當？",
+      "question": "承接上述 42 歲女性病人（體重 79.2 kg，約 80 kg）， acetaminophen 濃度高達 100 mcg/mL 且 AST 560 IU/L、 ALT 310 IU/L，伴隨劇烈噁心嘔吐，具有極高肝毒性壞死與急性肝衰竭風險。\n\n針對該病人之 acetaminophen 中毒，下列哪一項 acetylcysteine 給藥方案在劑量計算與給藥途徑上最為精確適當？",
       "options": [
         "A. 給予口服 acetylcysteine 負荷劑量 11,200 mg，隨後每 4 小時口服 5600 mg 共 17 劑。",
         "B. 給予靜脈注射 acetylcysteine 負荷劑量 11,200 mg，隨後每 4 小時靜脈注射 5600 mg 共 12 劑。",
@@ -6331,7 +6331,7 @@ const allChapters = {
     },
     {
       "id": 12,
-      "question": "【臨床案例】一名 62 歲男性因噁心、呼吸急促及類流感症狀至急診就醫。病人意識清楚且能溝通，表示症狀在過去 2 天逐漸加重，期間自行服用複方綜合感冒藥。慢性病史有中風（長期服用 aspirin 325 mg PO QD）及高血壓（服用 amlodipine 5 mg PO QD）。生命徵象：血壓 135/82 mm Hg、心率 78 次 / 分、呼吸 29 次 / 分、體溫 37.9°C。 動脈血液氣體分析（arterial blood gas, ABG）報告： pH 7.52、 Pco2 25 mm Hg、 HCO3 20 mEq/L （呈現典型呼吸性鹼中毒）。抽血檢驗血清水楊酸（salicylate）濃度為 25 mg/dL。\n\n考量該病患已呈現早期水楊酸中毒之典型生理病理變化，下列哪一項治療介入策略最為適當？",
+      "question": "一名 62 歲男性因噁心、呼吸急促及類流感症狀至急診就醫。病人意識清楚且能溝通，表示症狀在過去 2 天逐漸加重，期間自行服用複方綜合感冒藥。慢性病史有中風（長期服用 aspirin 325 mg PO QD）及高血壓（服用 amlodipine 5 mg PO QD）。生命徵象：血壓 135/82 mm Hg、心率 78 次 / 分、呼吸 29 次 / 分、體溫 37.9°C。 動脈血液氣體分析（arterial blood gas, ABG）報告： pH 7.52、 Pco2 25 mm Hg、 HCO3 20 mEq/L （呈現典型呼吸性鹼中毒）。抽血檢驗血清水楊酸（salicylate）濃度為 25 mg/dL。\n\n考量該病患已呈現早期水楊酸中毒之典型生理病理變化，下列哪一項治療介入策略最為適當？",
       "options": [
         "A. 大量 0.9% sodium chloride 溶液靜脈輸注。",
         "B. 緊急氣管內插管與機械通氣。",
@@ -6350,7 +6350,7 @@ const allChapters = {
     },
     {
       "id": 13,
-      "question": "【臨床案例】一名 35 歲男性因外觀嚴重醉酒狀態被送至急診。病人神智清醒但僅能定向於人名。生命徵象：血壓 122/80 mm Hg、心率 82 次 / 分、呼吸 25 次 / 分。實驗室檢驗：血清乙醇（ethanol）濃度為 20 mg/dL，乙二醇（ethylene glycol）濃度高達 100 mg/dL （嚴重超標，致死性毒性風險）。\n\n針對該名重度乙二醇中毒病患，下列何者為當前最適當之首選特異性解毒劑？",
+      "question": "一名 35 歲男性因外觀嚴重醉酒狀態被送至急診。病人神智清醒但僅能定向於人名。生命徵象：血壓 122/80 mm Hg、心率 82 次 / 分、呼吸 25 次 / 分。實驗室檢驗：血清乙醇（ethanol）濃度為 20 mg/dL，乙二醇（ethylene glycol）濃度高達 100 mg/dL （嚴重超標，致死性毒性風險）。\n\n針對該名重度乙二醇中毒病患，下列何者為當前最適當之首選特異性解毒劑？",
       "options": [
         "A. 甲吡唑（fomepizole）靜脈注射。",
         "B. 乙醇（Ethanol）靜脈持續輸注。",
@@ -6369,7 +6369,7 @@ const allChapters = {
     },
     {
       "id": 14,
-      "question": "【臨床案例】承接上述有毒酒精中毒病患，一名甲醇（methanol）中毒病患在接受 fomepizole 初始負荷劑量 15 mg/kg 靜脈注射後，因高滲透壓隙與嚴重酸中毒隨即啟動常規血液透析（hemodialysis）治療。\n\n考量血液透析對藥物清除率之顯著影響，在病患持續進行血液透析期間， fomepizole 之維持劑量與給藥頻率應如何調整？",
+      "question": "承接上述有毒酒精中毒病患，一名甲醇（methanol）中毒病患在接受 fomepizole 初始負荷劑量 15 mg/kg 靜脈注射後，因高滲透壓隙與嚴重酸中毒隨即啟動常規血液透析（hemodialysis）治療。\n\n考量血液透析對藥物清除率之顯著影響，在病患持續進行血液透析期間， fomepizole 之維持劑量與給藥頻率應如何調整？",
       "options": [
         "A. 維持 10 mg/kg 每 12 小時一次。",
         "B. 調增至 20 mg/kg 每 12 小時一次。",
@@ -6388,7 +6388,7 @@ const allChapters = {
     },
     {
       "id": 15,
-      "question": "【臨床案例】一名 52 歲男性因頭暈、嚴重頭痛送至急診。就診生命徵象：體溫 37.2°C、血壓 87/50 mm Hg、心率 58 次 / 分。家屬表示病人具高血壓與早期阿茲海默症病史；家屬帶來了 2 天前剛領取的 1 個月份處方藥瓶： diltiazem CD 120 mg/day （瓶內原本 30 顆僅剩 7 顆，短少 23 顆錠劑），以及 donepezil 5 mg 每日一次（once daily, QD） （剩 28 顆）。證實蓄意過量吞服大量長效緩釋型 diltiazem CD。\n\n針對該名過量服用大量長效緩釋劑型（extended-release）鈣離子阻斷劑的病患，下列哪一項腸胃道去污染（gastrointestinal decontamination）策略能提供最大的清除效益？",
+      "question": "一名 52 歲男性因頭暈、嚴重頭痛送至急診。就診生命徵象：體溫 37.2°C、血壓 87/50 mm Hg、心率 58 次 / 分。家屬表示病人具高血壓與早期阿茲海默症病史；家屬帶來了 2 天前剛領取的 1 個月份處方藥瓶： diltiazem CD 120 mg/day （瓶內原本 30 顆僅剩 7 顆，短少 23 顆錠劑），以及 donepezil 5 mg 每日一次（once daily, QD） （剩 28 顆）。證實蓄意過量吞服大量長效緩釋型 diltiazem CD。\n\n針對該名過量服用大量長效緩釋劑型（extended-release）鈣離子阻斷劑的病患，下列哪一項腸胃道去污染（gastrointestinal decontamination）策略能提供最大的清除效益？",
       "options": [
         "A. 每小時給予 activated charcoal 25 g 直至血壓改善。",
         "B. 給予吐根糖漿（Ipecac） 30 mL，隨後給予 240 mL 溫水催吐。",
@@ -6407,7 +6407,7 @@ const allChapters = {
     },
     {
       "id": 16,
-      "question": "【臨床案例】承接上述過量吞服長效緩釋 diltiazem CD 併發心搏過緩（HR 58 次 / 分）與低血壓休克（BP 87/50 mm Hg）的 52 歲男性病人。\n\n在穩定氣道並建立靜脈通路後，醫療團隊欲給予解毒劑以提升心肌收縮力與血壓，下列哪一種解毒藥物最應優先第一線給藥？",
+      "question": "承接上述過量吞服長效緩釋 diltiazem CD 併發心搏過緩（HR 58 次 / 分）與低血壓休克（BP 87/50 mm Hg）的 52 歲男性病人。\n\n在穩定氣道並建立靜脈通路後，醫療團隊欲給予解毒劑以提升心肌收縮力與血壓，下列哪一種解毒藥物最應優先第一線給藥？",
       "options": [
         "A. 10% calcium chloride 1 g 靜脈注射（經中心靜脈於 1–2 分鐘內推注）或 calcium gluconate 3 g 靜脈推注。",
         "B. 升糖素（glucagon） 5 mg 靜脈注射。",
@@ -6426,7 +6426,7 @@ const allChapters = {
     },
     {
       "id": 17,
-      "question": "【臨床案例】一名 21 歲男性因情緒問題，約在 2 小時前一次吞服了 30 顆 citalopram 20-mg 錠劑（總量 600 mg，屬於嚴重過量暴露），隨後由家屬送入急診。目前生命徵象穩定：血壓 125/85 mm Hg、心率 77 次 / 分、呼吸 15 次 / 分、體溫 37.1°C，神智清醒且無任何主訴不適。\n\n針對該名過量服用大劑量選擇性血清素再回收抑制劑（SSRI, citalopram）但當前無明顯症狀的病人，下列何者為最關鍵且必須立即執行的醫療處置？",
+      "question": "一名 21 歲男性因情緒問題，約在 2 小時前一次吞服了 30 顆 citalopram 20-mg 錠劑（總量 600 mg，屬於嚴重過量暴露），隨後由家屬送入急診。目前生命徵象穩定：血壓 125/85 mm Hg、心率 77 次 / 分、呼吸 15 次 / 分、體溫 37.1°C，神智清醒且無任何主訴不適。\n\n針對該名過量服用大劑量選擇性血清素再回收抑制劑（SSRI, citalopram）但當前無明顯症狀的病人，下列何者為最關鍵且必須立即執行的醫療處置？",
       "options": [
         "A. 預防性給予 lorazepam 2 mg 靜脈注射以防止癲癇發作。",
         "B. 預防性給予 Cyproheptadine 8 mg 口服以預防肌僵直。",
@@ -6445,7 +6445,7 @@ const allChapters = {
     },
     {
       "id": 18,
-      "question": "【臨床案例】一名 24 歲女性由室友陪同送至急診。室友表示病患平時健康，但今日『整個人反應極度遲鈍恍惚』。室友發現病患今日剛回診拿取的一整瓶 olanzapine 5 mg 錠劑處方，目前藥瓶已完全空瓶。理學檢查：病人對人、時、地定向力尚完整，但對話中反覆打瞌睡。生命徵象均穩定， 12 導程心電圖呈現輕度竇性心搏過速（sinus tachycardia）。\n\n針對該名服用非典型抗精神病藥物 olanzapine 過量但僅呈現輕微鎮靜症狀的病患，下列哪一項處置最為恰當？",
+      "question": "一名 24 歲女性由室友陪同送至急診。室友表示病患平時健康，但今日『整個人反應極度遲鈍恍惚』。室友發現病患今日剛回診拿取的一整瓶 olanzapine 5 mg 錠劑處方，目前藥瓶已完全空瓶。理學檢查：病人對人、時、地定向力尚完整，但對話中反覆打瞌睡。生命徵象均穩定， 12 導程心電圖呈現輕度竇性心搏過速（sinus tachycardia）。\n\n針對該名服用非典型抗精神病藥物 olanzapine 過量但僅呈現輕微鎮靜症狀的病患，下列哪一項處置最為恰當？",
       "options": [
         "A. 給予乳酸林格氏液 500 mL 靜脈輸注。",
         "B. 給予 8.4% sodium bicarbonate 50 mL 靜脈推注。",
@@ -6464,7 +6464,7 @@ const allChapters = {
     },
     {
       "id": 19,
-      "question": "【臨床案例】作為加護病房衛星藥局的臨床藥師，您接到心臟加護亞急性病房護理師的緊急求助電話。護理師發現一名男性病人突然陷入意識昏迷，經查核給藥紀錄發現該病人在 1 小時前因護理給藥疏失，誤服了鄰床病人的 glyburide 20 mg 錠劑。病人目前生命徵象穩定但呼之不應，即時床邊指尖血糖值僅為 37 mg/dL。\n\n針對該名已有既成靜脈通路且因磺醯尿素類降糖藥致突發重度低血糖昏迷的病人，此時最適當且迅速的緊急處置為何？",
+      "question": "作為加護病房衛星藥局的臨床藥師，您接到心臟加護亞急性病房護理師的緊急求助電話。護理師發現一名男性病人突然陷入意識昏迷，經查核給藥紀錄發現該病人在 1 小時前因護理給藥疏失，誤服了鄰床病人的 glyburide 20 mg 錠劑。病人目前生命徵象穩定但呼之不應，即時床邊指尖血糖值僅為 37 mg/dL。\n\n針對該名已有既成靜脈通路且因磺醯尿素類降糖藥致突發重度低血糖昏迷的病人，此時最適當且迅速的緊急處置為何？",
       "options": [
         "A. 立即由口灌服 8 盎司（約 240 mL）高純度全脂牛奶。",
         "B. 立即給予 50% dextrose 注射液（D50W） 50 mL （含 25 g 葡萄糖）靜脈注射。",
