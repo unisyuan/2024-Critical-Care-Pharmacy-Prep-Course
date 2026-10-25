@@ -55,8 +55,43 @@ const btnReview = document.getElementById('btn-review');
 const btnExitReview = document.getElementById('btn-exit-review');
 const reviewList = document.getElementById('review-list');
 
+function escapeQuizText(value) {
+  return String(value).replace(/[&<>"']/g, char => ({
+    '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'
+  }[char])).replace(/\n/g, '<br>');
+}
+
 // LocalStorage Wrong Questions Storage
-const WRONG_STORAGE_KEY = 'quiz_bank_wrong_questions';
+const WRONG_STORAGE_KEY = 'quiz_bank_wrong_questions_pdf_20261025';
+
+// Preserve saved mistakes when the PDF removes duplicate toxicology questions.
+// The legacy key is retained as a backup; migration runs only once.
+function migratePdfWrongQuestions() {
+  try {
+    if (localStorage.getItem(WRONG_STORAGE_KEY) !== null) return;
+    const legacy = JSON.parse(localStorage.getItem('quiz_bank_wrong_questions') || '[]');
+    if (!Array.isArray(legacy)) return;
+    const toxicologyIds = {1:1, 2:2, 3:3, 4:4, 5:5, 6:6, 7:7, 8:8,
+      9:17, 10:18, 11:19, 12:9, 13:10, 14:11, 15:12, 16:13, 17:14,
+      18:15, 19:16, 20:17, 21:18, 22:19};
+    const seen = new Set();
+    const migrated = [];
+    legacy.forEach(item => {
+      if (!item || typeof item !== 'object') return;
+      const chapter = String(item.chapter);
+      const id = chapter === '20' ? toxicologyIds[item.id] : Number(item.id);
+      if (!(allChapters[chapter] || []).some(q => q.id === id)) return;
+      const key = `${chapter}:${id}`;
+      if (!seen.has(key)) {
+        seen.add(key);
+        migrated.push({...item, chapter, id});
+      }
+    });
+    localStorage.setItem(WRONG_STORAGE_KEY, JSON.stringify(migrated));
+  } catch (e) {
+    console.warn('Unable to migrate saved questions:', e);
+  }
+}
 
 function getWrongQuestions() {
   try {
@@ -112,6 +147,7 @@ function updateWrongBadgeCount() {
 function init() {
   setupEventListeners();
   loadTheme();
+  migratePdfWrongQuestions();
   updateWrongBadgeCount();
   
   // Set initial dropdown value
@@ -580,7 +616,7 @@ function showExamReview() {
         <span class="review-status-badge ${badgeClass}">${badgeText}</span>
       </div>
       
-      <p class="review-question-text">${q.question}</p>
+      <p class="review-question-text">${escapeQuizText(q.question)}</p>
       
       <div class="review-choices">
         ${q.options.map(opt => {
@@ -593,13 +629,13 @@ function showExamReview() {
             extraClass = 'user-selected-incorrect';
           }
           
-          return `<div class="review-choice ${extraClass}">${opt}</div>`;
+          return `<div class="review-choice ${extraClass}">${escapeQuizText(opt)}</div>`;
         }).join('')}
       </div>
       
       <div class="review-explanation">
         <strong>答案解析：</strong><br>
-        ${q.explanation}
+        ${escapeQuizText(q.explanation)}
       </div>
     `;
     
@@ -645,17 +681,17 @@ function renderWrongScreen() {
           ✕ 移出錯題本
         </button>
       </div>
-      <p class="review-question-text">${q.question}</p>
+      <p class="review-question-text">${escapeQuizText(q.question)}</p>
       <div class="review-choices">
         ${q.options.map(opt => {
           const choiceLetter = opt.charAt(0);
           const isCorrectChoice = choiceLetter === q.answer;
-          return `<div class="review-choice ${isCorrectChoice ? 'correct-answer' : ''}">${opt}</div>`;
+          return `<div class="review-choice ${isCorrectChoice ? 'correct-answer' : ''}">${escapeQuizText(opt)}</div>`;
         }).join('')}
       </div>
       <div class="review-explanation">
         <strong>答案解析（正確答案為 ${q.answer}）：</strong><br>
-        ${q.explanation}
+        ${escapeQuizText(q.explanation)}
       </div>
     `;
     

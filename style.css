@@ -1092,3 +1092,9 @@ body {
   background: var(--incorrect-bg);
 }
 
+
+/* Preserve the patient vignette and source-note paragraphs in the PDF-aligned bank. */
+.question-text, .explanation-text-content {
+  white-space: pre-line;
+  overflow-wrap: anywhere;
+}
