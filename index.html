@@ -55,6 +55,9 @@
             <button id="btn-wrong" class="mode-tab" data-mode="wrong">
               <span class="icon">❌</span><span class="tab-text">錯題本</span><span id="wrong-badge-count" class="badge-count hidden">0</span>
             </button>
+            <button id="btn-favorites" class="mode-tab" data-mode="favorites">
+              <span class="icon" aria-hidden="true">★</span><span class="tab-text">收藏題目</span><span id="favorite-badge-count" class="badge-count hidden">0</span>
+            </button>
             <button id="btn-highlights" class="mode-tab" data-mode="highlights">
               <span class="icon">📝</span><span class="tab-text">重點整理</span>
             </button>
@@ -87,7 +90,8 @@
           <!-- Card Header (Question Metadata) -->
           <div class="card-header">
             <span class="question-badge" id="question-badge">Q1</span>
-            <span class="category-badge">Evolution & Validation</span>
+            <span class="category-badge" id="question-category">第 1 章</span>
+            <button id="btn-toggle-favorite" class="favorite-toggle" type="button" aria-pressed="false" aria-label="收藏這一題">☆ 收藏</button>
           </div>
 
           <!-- Question Content -->
@@ -213,6 +217,25 @@
           <!-- Wrong question cards rendered here -->
         </div>
       </div>
+
+      <!-- Favorite Questions Screen -->
+      <div id="favorites-screen" class="screen">
+        <div class="wrong-header-card">
+          <div class="wrong-header-info">
+            <h2>我的收藏題目</h2>
+            <p class="wrong-subtitle">收錄所有章節中你標記的題目，方便隨時回看與練習。</p>
+            <p class="favorite-storage-note">收藏儲存於目前使用的瀏覽器，不會跨裝置同步。</p>
+          </div>
+          <button id="btn-start-favorites-quiz" class="nav-btn btn-primary" type="button">練習收藏題目</button>
+        </div>
+        <div id="favorites-empty-state" class="wrong-empty-state hidden">
+          <div class="empty-icon" aria-hidden="true">☆</div>
+          <h3>還沒有收藏題目</h3>
+          <p>在題目右上方點選「☆ 收藏」，就能把想複習的題目加入這裡。</p>
+        </div>
+        <div id="favorites-list" class="wrong-list"></div>
+      </div>
+      <p id="favorite-status" class="favorite-status" role="status" aria-live="polite"></p>
 
       <!-- Highlights Screen -->
       <div id="highlights-screen" class="screen"></div>

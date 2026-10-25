@@ -2,6 +2,7 @@
 let currentMode = 'practice'; // 'practice' or 'exam'
 let currentChapter = '1';
 let currentIndex = 0;
+let practiceSource = null; // A mixed-chapter practice set, when active.
 let userAnswers = Array(questions.length).fill(null); // Stores answers in Exam Mode
 let practiceAnswers = Array(questions.length).fill(null); // Stores answers in Practice Mode
 let examStartTime = null;
@@ -16,6 +17,15 @@ const btnWrong = document.getElementById('btn-wrong');
 const wrongBadgeCount = document.getElementById('wrong-badge-count');
 const themeToggle = document.getElementById('theme-toggle');
 const htmlEl = document.documentElement;
+const btnFavorites = document.getElementById('btn-favorites');
+const favoriteBadgeCount = document.getElementById('favorite-badge-count');
+const btnToggleFavorite = document.getElementById('btn-toggle-favorite');
+const favoritesScreen = document.getElementById('favorites-screen');
+const favoritesList = document.getElementById('favorites-list');
+const favoritesEmptyState = document.getElementById('favorites-empty-state');
+const btnStartFavoritesQuiz = document.getElementById('btn-start-favorites-quiz');
+const favoriteStatus = document.getElementById('favorite-status');
+const questionCategory = document.getElementById('question-category');
 
 const progressText = document.getElementById('progress-text');
 const progressPercentage = document.getElementById('progress-percentage');
@@ -143,12 +153,142 @@ function updateWrongBadgeCount() {
   }
 }
 
+// Favorites are independent of answers and use chapter + question ID as identity.
+const FAVORITES_STORAGE_KEY = 'quiz_bank_favorites_v1';
+let favoriteItems = readStoredFavorites();
+
+function normalizeFavorites(items) {
+  if (!Array.isArray(items)) return [];
+  const seen = new Set();
+  return items.filter(item => {
+    if (!item || typeof item !== 'object') return false;
+    const key = `${String(item.chapter)}:${Number(item.id)}`;
+    if (seen.has(key) || !(allChapters[String(item.chapter)] || []).some(q => q.id === Number(item.id))) return false;
+    seen.add(key);
+    return true;
+  }).map(item => ({chapter: String(item.chapter), id: Number(item.id)}));
+}
+
+function readStoredFavorites() {
+  try {
+    return normalizeFavorites(JSON.parse(localStorage.getItem(FAVORITES_STORAGE_KEY) || '[]'));
+  } catch (e) {
+    return [];
+  }
+}
+
+function isFavorite(chapter, id) {
+  return favoriteItems.some(item => item.chapter === String(chapter) && item.id === Number(id));
+}
+
+function updateFavoriteButton(button, chapter, id) {
+  const saved = isFavorite(chapter, id);
+  button.textContent = saved ? '★ 已收藏' : '☆ 收藏';
+  button.setAttribute('aria-pressed', String(saved));
+  button.setAttribute('aria-label', `${saved ? '取消收藏' : '收藏'}第 ${chapter} 章第 ${id} 題`);
+  button.classList.toggle('is-favorite', saved);
+}
+
+function refreshFavoriteControls() {
+  favoriteBadgeCount.textContent = String(favoriteItems.length);
+  favoriteBadgeCount.classList.toggle('hidden', favoriteItems.length === 0);
+  btnStartFavoritesQuiz.disabled = favoriteItems.length === 0;
+  const q = questions[currentIndex];
+  btnToggleFavorite.disabled = !q;
+  if (q) updateFavoriteButton(btnToggleFavorite, q.chapter || currentChapter, q.id);
+  document.querySelectorAll('[data-favorite-chapter]').forEach(button => {
+    updateFavoriteButton(button, button.getAttribute('data-favorite-chapter'), button.getAttribute('data-favorite-id'));
+  });
+}
+
+function toggleFavorite(chapter, id) {
+  chapter = String(chapter);
+  id = Number(id);
+  if (!(allChapters[chapter] || []).some(q => q.id === id)) return;
+  const saved = isFavorite(chapter, id);
+  favoriteItems = saved
+    ? favoriteItems.filter(item => !(item.chapter === chapter && item.id === id))
+    : [...favoriteItems, {chapter, id}];
+  let message = saved ? '已取消收藏。' : '已加入收藏。';
+  try {
+    localStorage.setItem(FAVORITES_STORAGE_KEY, JSON.stringify(favoriteItems));
+  } catch (e) {
+    message += ' 瀏覽器目前無法儲存，這次變更僅保留於本次使用期間。';
+  }
+  favoriteStatus.textContent = message;
+  refreshFavoriteControls();
+  if (currentMode === 'favorites') {
+    renderFavoritesScreen();
+    // Removing a focused card moves focus to the next available control.
+    const nextButton = favoritesList.querySelector('.favorite-toggle');
+    (nextButton || btnFavorites).focus();
+  }
+}
+
+function createFavoriteButton(chapter, id) {
+  const button = document.createElement('button');
+  button.type = 'button';
+  button.className = 'favorite-toggle';
+  button.setAttribute('data-favorite-chapter', chapter);
+  button.setAttribute('data-favorite-id', id);
+  updateFavoriteButton(button, chapter, id);
+  button.addEventListener('click', () => toggleFavorite(chapter, id));
+  return button;
+}
+
+function renderFavoritesScreen() {
+  favoritesList.innerHTML = '';
+  favoritesEmptyState.classList.toggle('hidden', favoriteItems.length !== 0);
+  btnStartFavoritesQuiz.disabled = favoriteItems.length === 0;
+  favoriteItems.forEach(item => {
+    const q = allChapters[item.chapter].find(q => q.id === item.id);
+    const card = document.createElement('div');
+    card.className = 'review-card';
+    card.innerHTML = `
+      <div class="review-meta"><span class="chapter-tag">第 ${item.chapter} 章</span><span class="question-badge">Q${q.id}</span></div>
+      <p class="review-question-text">${escapeQuizText(q.question)}</p>
+      <details class="favorite-details">
+        <summary>查看選項與解析</summary>
+        <div class="review-choices">${q.options.map(opt => `<div class="review-choice">${escapeQuizText(opt)}</div>`).join('')}</div>
+        <div class="review-explanation"><strong>正確答案：${q.answer}</strong><br>${escapeQuizText(q.explanation)}</div>
+      </details>`;
+    card.querySelector('.review-meta').appendChild(createFavoriteButton(item.chapter, item.id));
+    favoritesList.appendChild(card);
+  });
+}
+
+function showOnlyScreen(screen) {
+  [quizScreen, scoreScreen, reviewScreen, highlightsScreen, wrongScreen, favoritesScreen].forEach(item => {
+    item.classList.toggle('active', item === screen);
+  });
+}
+
+function startSavedQuestionsPractice(items, source) {
+  const selected = items.flatMap(item => {
+    const q = (allChapters[item.chapter] || []).find(q => String(q.id) === String(item.id));
+    return q ? [{...q, chapter: String(item.chapter)}] : [];
+  });
+  if (!selected.length) return;
+  stopExamTimer();
+  currentMode = 'practice';
+  practiceSource = source;
+  questions = selected;
+  currentIndex = 0;
+  practiceAnswers = Array(questions.length).fill(null);
+  userAnswers = Array(questions.length).fill(null);
+  [btnPractice, btnExam, btnWrong, btnFavorites, btnHighlights].forEach(button => button.classList.toggle('active', button === btnPractice));
+  document.querySelector('.progress-container').classList.remove('hidden');
+  showOnlyScreen(quizScreen);
+  renderCurrentState();
+}
+
 // Initialize App
 function init() {
   setupEventListeners();
   loadTheme();
   migratePdfWrongQuestions();
   updateWrongBadgeCount();
+  refreshFavoriteControls();
   
   // Set initial dropdown value
   document.getElementById('chapter-select').value = currentChapter;
@@ -162,6 +302,18 @@ function setupEventListeners() {
   btnExam.addEventListener('click', () => switchMode('exam'));
   btnHighlights.addEventListener('click', () => switchMode('highlights'));
   btnWrong.addEventListener('click', () => switchMode('wrong'));
+  btnFavorites.addEventListener('click', () => switchMode('favorites'));
+  btnToggleFavorite.addEventListener('click', () => {
+    const q = questions[currentIndex];
+    if (q) toggleFavorite(q.chapter || currentChapter, q.id);
+  });
+  btnStartFavoritesQuiz.addEventListener('click', () => startSavedQuestionsPractice(favoriteItems, 'favorites'));
+  window.addEventListener('storage', event => {
+    if (event.key !== FAVORITES_STORAGE_KEY && event.key !== null) return;
+    favoriteItems = readStoredFavorites();
+    refreshFavoriteControls();
+    if (currentMode === 'favorites') renderFavoritesScreen();
+  });
   themeToggle.addEventListener('click', toggleTheme);
   
   const chapterSelect = document.getElementById('chapter-select');
@@ -203,78 +355,47 @@ function toggleTheme() {
 
 // Mode Switching Logic
 function switchMode(mode) {
-  if (currentMode === mode) return;
-
-  // Remove active class from all tabs
-  btnPractice.classList.remove('active');
-  btnExam.classList.remove('active');
-  btnHighlights.classList.remove('active');
-  btnWrong.classList.remove('active');
-
-  // Progress bar container selector
+  if (currentMode === mode && !(mode === 'practice' && practiceSource)) return;
+  if (mode === 'exam' && !confirm('將開始測驗模式！這將清除之前的作答，並開始計時。是否開始？')) return;
+  stopExamTimer();
+  [btnPractice, btnExam, btnWrong, btnFavorites, btnHighlights].forEach(button => button.classList.remove('active'));
   const progressContainer = document.querySelector('.progress-container');
-
-  if (mode === 'exam') {
-    const confirmStart = confirm('將開始測驗模式！這將清除之前的作答，並開始計時。是否開始？');
-    if (!confirmStart) return;
-    
-    btnExam.classList.add('active');
-    progressContainer.classList.remove('hidden');
-    currentMode = 'exam';
-    startExam();
-  } else if (mode === 'practice') {
-    stopExamTimer();
-    btnPractice.classList.add('active');
-    progressContainer.classList.remove('hidden');
-    
-    currentMode = 'practice';
+  progressContainer.classList.toggle('hidden', !['practice', 'exam'].includes(mode));
+  currentMode = mode;
+  favoriteStatus.textContent = '';
+  if (mode === 'practice' || mode === 'exam') {
+    practiceSource = null;
     questions = allChapters[currentChapter] || [];
     currentIndex = 0;
-    
-    // Switch active screen back to quiz screen
-    quizScreen.classList.add('active');
-    scoreScreen.classList.remove('active');
-    reviewScreen.classList.remove('active');
-    highlightsScreen.classList.remove('active');
-    wrongScreen.classList.remove('active');
-    
-    renderCurrentState();
+    practiceAnswers = Array(questions.length).fill(null);
+    userAnswers = Array(questions.length).fill(null);
+    showOnlyScreen(quizScreen);
+    if (mode === 'exam') {
+      btnExam.classList.add('active');
+      startExam();
+    } else {
+      btnPractice.classList.add('active');
+      renderCurrentState();
+    }
   } else if (mode === 'highlights') {
-    stopExamTimer();
     btnHighlights.classList.add('active');
-    progressContainer.classList.add('hidden');
-    
-    currentMode = 'highlights';
-    
-    // Render highlights dynamically
     highlightsScreen.innerHTML = allHighlights[currentChapter] || '<div class="highlights-card"><h2 class="highlights-title">此章節暫無重點整理</h2></div>';
-    
-    // Show highlights screen, hide others
-    quizScreen.classList.remove('active');
-    scoreScreen.classList.remove('active');
-    reviewScreen.classList.remove('active');
-    wrongScreen.classList.remove('active');
-    highlightsScreen.classList.add('active');
+    showOnlyScreen(highlightsScreen);
   } else if (mode === 'wrong') {
-    stopExamTimer();
     btnWrong.classList.add('active');
-    progressContainer.classList.add('hidden');
-    
-    currentMode = 'wrong';
-    
-    quizScreen.classList.remove('active');
-    scoreScreen.classList.remove('active');
-    reviewScreen.classList.remove('active');
-    highlightsScreen.classList.remove('active');
-    wrongScreen.classList.add('active');
-    
+    showOnlyScreen(wrongScreen);
     renderWrongScreen();
+  } else if (mode === 'favorites') {
+    btnFavorites.classList.add('active');
+    showOnlyScreen(favoritesScreen);
+    renderFavoritesScreen();
   }
 }
 
 // Handle Chapter Dropdown Change
 function handleChapterChange() {
   currentChapter = this.value;
+  practiceSource = null;
   questions = allChapters[currentChapter] || [];
   
   // Reset state variables
@@ -304,6 +425,7 @@ function startExam() {
   examStartTime = Date.now();
   
   // Reset screen states
+  showOnlyScreen(quizScreen);
   quizScreen.classList.add('active');
   scoreScreen.classList.remove('active');
   reviewScreen.classList.remove('active');
@@ -345,6 +467,7 @@ function renderCurrentState() {
 }
 
 function renderQuestion() {
+  refreshFavoriteControls();
   if (questions.length === 0) {
     questionBadge.textContent = "N/A";
     questionText.textContent = "此章節尚未加入測驗題目。請切換至其他章節，或點選右上方「重點整理」閱讀本章內容。";
@@ -357,6 +480,7 @@ function renderQuestion() {
   
   // Render badge & text
   questionBadge.textContent = `Q${q.id}`;
+  questionCategory.textContent = `第 ${q.chapter || currentChapter} 章`;
   questionText.textContent = q.question;
   
   // Clear previous options
@@ -639,6 +763,7 @@ function showExamReview() {
       </div>
     `;
     
+    card.querySelector('.review-meta').appendChild(createFavoriteButton(q.chapter || currentChapter, q.id));
     reviewList.appendChild(card);
   });
   
@@ -703,47 +828,18 @@ function renderWrongScreen() {
       renderWrongScreen();
     });
     
+    card.querySelector('.wrong-item-header').appendChild(createFavoriteButton(item.chapter, q.id));
     wrongList.appendChild(card);
   });
 }
 
 function startWrongQuiz() {
-  const list = getWrongQuestions();
-  if (list.length === 0) {
+  const items = getWrongQuestions();
+  if (!items.length) {
     alert('目前錯題本中沒有題目喔！');
     return;
   }
-  
-  const wrongQuestions = [];
-  list.forEach(item => {
-    const chapterQuestions = allChapters[item.chapter] || [];
-    const q = chapterQuestions.find(q => String(q.id) === String(item.id));
-    if (q) {
-      wrongQuestions.push({ ...q, chapter: item.chapter });
-    }
-  });
-  
-  if (wrongQuestions.length === 0) {
-    alert('找不到錯題對應的題目資料。');
-    return;
-  }
-  
-  btnWrong.classList.remove('active');
-  btnPractice.classList.add('active');
-  document.querySelector('.progress-container').classList.remove('hidden');
-  
-  currentMode = 'practice';
-  questions = wrongQuestions;
-  currentIndex = 0;
-  practiceAnswers = Array(questions.length).fill(null);
-  
-  wrongScreen.classList.remove('active');
-  quizScreen.classList.add('active');
-  scoreScreen.classList.remove('active');
-  reviewScreen.classList.remove('active');
-  highlightsScreen.classList.remove('active');
-  
-  renderCurrentState();
+  startSavedQuestionsPractice(items, 'wrong');
 }
 
 function handleClearWrong() {
