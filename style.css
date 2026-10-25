@@ -1209,3 +1209,26 @@ body {
   /* Keep every mode label and a three-digit saved count visible at 320px. */
   .mode-tab .icon { display: none; }
 }
+
+/* Keep the mobile header crisp, opaque and free of glass/glow effects. */
+@media (max-width: 700px) {
+  [data-theme="light"] .app-header { --mobile-header-bg: #ffffff; }
+  [data-theme="dark"] .app-header { --mobile-header-bg: #0f172a; }
+  .app-header, .app-header * {
+    -webkit-backdrop-filter: none;
+    backdrop-filter: none;
+    filter: none;
+    text-shadow: none;
+    box-shadow: none;
+  }
+  .app-header .chapter-select,
+  .app-header .mode-selector,
+  .app-header .theme-toggle-btn {
+    background-color: var(--mobile-header-bg);
+  }
+  .app-header .mode-tab:not(.active) { color: var(--text-main); }
+  .app-header button:focus-visible, .app-header select:focus-visible {
+    outline: 2px solid hsl(var(--accent));
+    outline-offset: 2px;
+  }
+}
