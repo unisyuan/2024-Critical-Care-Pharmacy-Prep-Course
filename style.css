@@ -1084,7 +1084,8 @@ body {
 
 
 /* Allow content columns to shrink instead of clipping long labels or drug names. */
-.app-container, .app-header, .header-main, .header-controls, .app-main,
+.app-container { min-width: 0; }
+.app-header, .header-main, .header-controls, .app-main,
 .screen, .question-card, .options-container, .explanation-content,
 .review-card, .review-choices, .highlights-card, .highlights-section,
 .wrong-header-info, .wrong-list, .review-list {
